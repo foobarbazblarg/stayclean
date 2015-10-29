@@ -1,3 +1,4 @@
 **/.idea
 **/update-google-chart.py
 **/*.pyc
+push-to-github.sh
