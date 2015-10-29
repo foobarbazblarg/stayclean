@@ -1,0 +1,2 @@
+./signup.py "$@"
+./checkin.py "$@"
