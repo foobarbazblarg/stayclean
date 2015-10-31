@@ -6,7 +6,7 @@ Here's a rundown of these files, and how I use each one to manage the StayClean 
 
 - Miscellaneous files
 
--- **participants.txt** This is the list of people who have signed up for the challenge.  It's just a space-delimited file, one record per line, with the following fields for each record:  1) The username of the user,  2) A boolean indicating whether the user has checked in at least once,  3) A boolean indicating whether the user has been disqualified for the month (i.e. has reported a relapse some time during the month)  4) (optional) the date that the user reported a relapse.  Most of the Python scripts either read from or write to this file.  This file must be present to allow the scripts to run - when you create a new month, create an empty participants.txt file by executing "touch participants.txt".
+ - **participants.txt** This is the list of people who have signed up for the challenge.  It's just a space-delimited file, one record per line, with the following fields for each record:  1) The username of the user,  2) A boolean indicating whether the user has checked in at least once,  3) A boolean indicating whether the user has been disqualified for the month (i.e. has reported a relapse some time during the month)  4) (optional) the date that the user reported a relapse.  Most of the Python scripts either read from or write to this file.  This file must be present to allow the scripts to run - when you create a new month, create an empty participants.txt file by executing "touch participants.txt".
 
 -- **participant.py, participantCollection.py** - classes used by various scripts.
 
