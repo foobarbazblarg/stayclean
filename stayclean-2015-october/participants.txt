@@ -106,7 +106,7 @@ HEBV5 False True
 HeroicWimp False False
 HoboisJoe False False
 horned1x False False 2015.10.05
-hosselaar False True
+hosselaar True True
 hudkmr False False
 iamapfreeman False False 2015.10.03
 icandoscarythings True False 2015.10.26
@@ -136,7 +136,7 @@ Ky-lay True False 2015.10.06
 laere False False
 Lafatchu True True
 LeftOverLava False True
-Leopr1 True True
+Leopr1 True False 2015.10.31
 leotrope False False
 LeviK_KC False False
 Littlesthermit True False 2015.10.06
@@ -154,7 +154,7 @@ Michelin123 False False
 MileNorth False False 2015.10.18
 mintchoc-icecream True False 2015.10.10
 mogerroor True False 2015.10.22
-monsoonkhaki False True
+monsoonkhaki False False 2015.10.31
 montas89 False True
 Mr_Greeen True True
 Mr_Weee False False
