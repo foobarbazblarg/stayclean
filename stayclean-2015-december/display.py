@@ -1,5 +1,5 @@
 #!/usr/bin/python
-import participantCollection
+from participantCollection import ParticipantCollection
 import re
 import datetime
 import pyperclip
@@ -9,59 +9,62 @@ currentMonthTotalDays = 31
 
 currentMonthIndex = datetime.date.today().month
 currentMonthPenultimateDayIndex = currentMonthTotalDays - 1
-currentMonthName = {1:'January', 2:'February', 3:'March', 4:'April', 5:'May', 6:'June', 7:'July', 8:'August', 9:'September', 10:'October', 11:'November', 12:'December'}[currentMonthIndex]
+currentMonthName = {1: 'January', 2: 'February', 3: 'March', 4: 'April', 5: 'May', 6: 'June', 7: 'July', 8: 'August', 9: 'September', 10: 'October', 11: 'November', 12: 'December'}[currentMonthIndex]
 nextMonthIndex = currentMonthIndex % 12 + 1
-nextMonthName = {1:'January', 2:'February', 3:'March', 4:'April', 5:'May', 6:'June', 7:'July', 8:'August', 9:'September', 10:'October', 11:'November', 12:'December'}[nextMonthIndex]
+nextMonthName = {1: 'January', 2: 'February', 3: 'March', 4: 'April', 5: 'May', 6: 'June', 7: 'July', 8: 'August', 9: 'September', 10: 'October', 11: 'November', 12: 'December'}[nextMonthIndex]
 currentDayOfMonthIndex = datetime.date.today().day
 # TODO: testing...
-currentDayOfMonthIndex = 31
-currentDayOfMonthName = {1:'first', 2:'second', 3:'third', 4:'fourth', 5:'fifth', 6:'sixth', 7:'seventh', 8:'eighth', 9:'ninth', 10:'tenth', 11:'eleventh', 12:'twelfth', 13:'thirteenth', 14:'fourteenth', 15:'fifteenth', 16:'sixteenth', 17:'seventeenth', 18:'eighteenth', 19:'nineteenth', 20:'twentieth', 21:'twenty-first', 22:'twenty-second', 23:'twenty-third', 24:'twenty-fourth', 25:'twenty-fifth', 26:'twenty-sixth', 27:'twenty-seventh', 28:'twenty-eighth', 29:'twenty-ninth', 30:'thirtieth', 31:'thirty-first'}[currentDayOfMonthIndex]
-currentDayOfWeekName = {0:'Monday', 1:'Tuesday', 2:'Wednesday', 3:'Thursday', 4:'Friday', 5:'Saturday', 6:'Sunday'}[datetime.date.today().weekday()]
+# currentDayOfMonthIndex = 31
+currentDayOfMonthName = {1: 'first', 2: 'second', 3: 'third', 4: 'fourth', 5: 'fifth', 6: 'sixth', 7: 'seventh', 8: 'eighth', 9: 'ninth', 10: 'tenth', 11: 'eleventh', 12: 'twelfth', 13: 'thirteenth', 14: 'fourteenth', 15: 'fifteenth', 16: 'sixteenth', 17: 'seventeenth', 18: 'eighteenth', 19: 'nineteenth', 20: 'twentieth', 21: 'twenty-first', 22: 'twenty-second', 23: 'twenty-third', 24: 'twenty-fourth', 25: 'twenty-fifth', 26: 'twenty-sixth', 27: 'twenty-seventh', 28: 'twenty-eighth', 29: 'twenty-ninth', 30: 'thirtieth', 31: 'thirty-first'}[currentDayOfMonthIndex]
+currentDayOfWeekName = {0: 'Monday', 1: 'Tuesday', 2: 'Wednesday', 3: 'Thursday', 4: 'Friday', 5: 'Saturday', 6: 'Sunday'}[datetime.date.today().weekday()]
 
 
-participantCollection = participantCollection.ParticipantCollection()
-numberStillIn = participantCollection.sizeOfParticipantsWhoAreStillIn()
-initialNumber = participantCollection.size()
-percentStillIn = int(round(100*numberStillIn/initialNumber,0))
+participants = ParticipantCollection()
+numberStillIn = participants.sizeOfParticipantsWhoAreStillIn()
+initialNumber = participants.size()
+percentStillIn = int(round(100 * numberStillIn / initialNumber, 0))
 
 
 # print "There are currently **" + str(numberStillIn) + " out of " + str(initialNumber) +"** original participants.  That's **" + str(int(round(100*numberStillIn/initialNumber,0))) + "%**  Here is the list of participants still with the challenge:\n"
 
 def stringToPrintLegacy():
     answer = "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  Here is the list of participants still with the challenge:\n\n"
-    answer = re.sub( 'NUMBER_STILL_IN', str(numberStillIn), answer )
-    answer = re.sub( 'INITIAL_NUMBER', str(initialNumber), answer )
-    answer = re.sub( 'PERCENT_STILL_IN', str(percentStillIn), answer )
-    for participant in participantCollection.participantsWhoAreStillIn():
+    answer = re.sub('NUMBER_STILL_IN', str(numberStillIn), answer)
+    answer = re.sub('INITIAL_NUMBER', str(initialNumber), answer)
+    answer = re.sub('PERCENT_STILL_IN', str(percentStillIn), answer)
+    for participant in participants.participantsWhoAreStillIn():
         answer += "/u/" + participant.name
         if not participant.hasCheckedIn:
             answer += " ~"
         answer += "\n\n"
     return answer
 
+
 def templateForParticipants():
     answer = ""
-    for participant in participantCollection.participantsWhoAreStillIn():
+    for participant in participants.participantsWhoAreStillIn():
         answer += "/u/" + participant.name
         if not participant.hasCheckedIn:
             answer += " ~"
         answer += "\n\n"
     return answer
+
 
 def templateForParticipantsOnFinalDay():
     answer = ""
 
     answer += "These participants have checked in at least once in the last 15 days:\n"
     answer += "\n"
-    for participant in participantCollection.participantsWhoAreStillInAndHaveCheckedIn():
+    for participant in participants.participantsWhoAreStillInAndHaveCheckedIn():
         answer += "/u/" + participant.name + "\n"
         answer += "\n"
     answer += "These participants have not reported a relapse, so they are still in the running, but **if they do not check in by the end of today, they will be removed from the list, and will not be considered victorious**:\n"
     answer += "\n"
-    for participant in participantCollection.participantsWhoAreStillInAndHaveNotCheckedIn():
+    for participant in participants.participantsWhoAreStillInAndHaveNotCheckedIn():
         answer += "/u/" + participant.name + " ~\n"
         answer += "\n"
     return answer
+
 
 def templateFor1():
     print '1\n\n'
@@ -85,6 +88,7 @@ def templateFor1():
     answer += templateForParticipants()
     print "============================================================="
     return answer
+
 
 def templateFor2to9():
     print '2 to 9\n\n'
@@ -113,7 +117,7 @@ def templateFor10to14():
     answer = ""
     answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean: CURRENT_MONTH_NAME challenge.  Keep fighting the good fight!\n"
     answer += "\n"
-    answer += "**THE COUNTDOWN: Attention everyone!** You have " + str(15-currentDayOfMonthIndex) + " days to make an update comment (if you haven't already) to be counted as an active participant! **Otherwise your name will be REMOVED from the list** on CURRENT_MONTH_INDEX/15!!\n"
+    answer += "**THE COUNTDOWN: Attention everyone!** You have " + str(15 - currentDayOfMonthIndex) + " days to make an update comment (if you haven't already) to be counted as an active participant! **Otherwise your name will be REMOVED from the list** on CURRENT_MONTH_INDEX/15!!\n"
     answer += "\n"
     answer += "Guidelines:\n"
     answer += "\n"
@@ -130,6 +134,7 @@ def templateFor10to14():
     answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  Here is the list of participants still with the challenge:\n\n"
     answer += templateForParticipants()
     return answer
+
 
 def templateFor15():
     print '15\n\n'
@@ -154,6 +159,7 @@ def templateFor15():
     answer += templateForParticipants()
     return answer
 
+
 def templateFor16toPenultimate():
     print '16 to penultimate\n\n'
     answer = ""
@@ -177,6 +183,7 @@ def templateFor16toPenultimate():
     answer += templateForParticipants()
     return answer
 
+
 def templateForUltimate():
     print 'Ultimate\n\n'
     answer = ""
@@ -184,44 +191,47 @@ def templateForUltimate():
     answer += "\n"
     answer += "For a chart of relapse data, check out [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1fnRMkDqFAJpsWHaZt8duMkZIPBCtUy0IfGFmlIfvOII/edit#gid=0).\n"
     answer += "\n"
-    #TODO:  need to do the part where it lists the checked in and non-checked in participants separately.
+    # TODO:  need to do the part where it lists the checked in and non-checked in participants separately.
     answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.\n\n"
     answer += templateForParticipantsOnFinalDay()
     return answer
+
 
 def templateToUse():
     # return stringToPrintLegacy()
     if currentDayOfMonthIndex == 1:
         return templateFor1()
-    #elif ( currentDayOfMonthIndex >= 2 ) and ( currentDayOfMonthIndex <= 9 ):
-    elif ( 2 <= currentDayOfMonthIndex <= 9 ):
+    # elif (currentDayOfMonthIndex >= 2) and (currentDayOfMonthIndex <= 9):
+    elif 2 <= currentDayOfMonthIndex <= 9:
         return templateFor2to9()
-    #elif ( currentDayOfMonthIndex >= 10 ) and ( currentDayOfMonthIndex <= 14 ):
-    elif ( 10 <= currentDayOfMonthIndex <= 14 ):
+    # elif (currentDayOfMonthIndex >= 10) and (currentDayOfMonthIndex <= 14):
+    elif 10 <= currentDayOfMonthIndex <= 14:
         return templateFor10to14()
     if currentDayOfMonthIndex == 15:
         return templateFor15()
-    #elif ( currentDayOfMonthIndex >= 16 ) and ( currentDayOfMonthIndex <= 14 ):
-    elif ( currentDayOfMonthIndex >= 16 ) and ( currentDayOfMonthIndex <= currentMonthPenultimateDayIndex ):
+    # elif (currentDayOfMonthIndex >= 16) and (currentDayOfMonthIndex <= 14):
+    elif (currentDayOfMonthIndex >= 16) and (currentDayOfMonthIndex <= currentMonthPenultimateDayIndex):
         return templateFor16toPenultimate()
     else:
         return templateForUltimate()
 
+
 def stringToPrint():
     answer = templateToUse()
-    answer = re.sub( 'NUMBER_STILL_IN', str(numberStillIn), answer )
-    answer = re.sub( 'INITIAL_NUMBER', str(initialNumber), answer )
-    answer = re.sub( 'PERCENT_STILL_IN', str(percentStillIn), answer )
-    answer = re.sub( 'CURRENT_MONTH_INDEX', str(currentMonthIndex), answer )
-    answer = re.sub( 'CURRENT_MONTH_TOTAL_DAYS', str(currentMonthTotalDays), answer )
-    answer = re.sub( 'CURRENT_MONTH_PENULTIMATE_DAY_INDEX', str(currentMonthPenultimateDayIndex), answer )
-    answer = re.sub( 'CURRENT_MONTH_NAME', currentMonthName, answer )
-    answer = re.sub( 'NEXT_MONTH_INDEX', str(nextMonthIndex), answer )
-    answer = re.sub( 'NEXT_MONTH_NAME', nextMonthName, answer )
-    answer = re.sub( 'CURRENT_DAY_OF_MONTH_INDEX', str(currentDayOfMonthIndex), answer )
-    answer = re.sub( 'CURRENT_DAY_OF_MONTH_NAME', currentDayOfMonthName, answer )
-    answer = re.sub( 'CURRENT_DAY_OF_WEEK_NAME', currentDayOfWeekName, answer )
+    answer = re.sub('NUMBER_STILL_IN', str(numberStillIn), answer)
+    answer = re.sub('INITIAL_NUMBER', str(initialNumber), answer)
+    answer = re.sub('PERCENT_STILL_IN', str(percentStillIn), answer)
+    answer = re.sub('CURRENT_MONTH_INDEX', str(currentMonthIndex), answer)
+    answer = re.sub('CURRENT_MONTH_TOTAL_DAYS', str(currentMonthTotalDays), answer)
+    answer = re.sub('CURRENT_MONTH_PENULTIMATE_DAY_INDEX', str(currentMonthPenultimateDayIndex), answer)
+    answer = re.sub('CURRENT_MONTH_NAME', currentMonthName, answer)
+    answer = re.sub('NEXT_MONTH_INDEX', str(nextMonthIndex), answer)
+    answer = re.sub('NEXT_MONTH_NAME', nextMonthName, answer)
+    answer = re.sub('CURRENT_DAY_OF_MONTH_INDEX', str(currentDayOfMonthIndex), answer)
+    answer = re.sub('CURRENT_DAY_OF_MONTH_NAME', currentDayOfMonthName, answer)
+    answer = re.sub('CURRENT_DAY_OF_WEEK_NAME', currentDayOfWeekName, answer)
     return answer
+
 
 outputString = stringToPrint()
 print "============================================================="
@@ -229,11 +239,4 @@ print outputString
 print "============================================================="
 pyperclip.copy(outputString)
 
-# print re.sub('FOO', 'there', 'hello FOO yall')
-# for participant in participantCollection.participantsWhoAreStillIn():
-#     if participant.hasCheckedIn:
-#         print "/u/" + participant.name
-#     else:
-#         print "/u/" + participant.name + " ~"
-#     print ""
 
