@@ -70,7 +70,7 @@ def templateFor1():
     print '1\n\n'
     answer = ""
     print "============================================================="
-    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean: CURRENT_MONTH_NAME challenge.  We will no longer be accepting new signups.  Best of luck to everyone here!\n"
+    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean: CURRENT_MONTH_NAME challenge.  ~~We will no longer be accepting new signups.~~  Good news! We will be be accepting late signups for the next 3 days. If you forgot to sign up for the CURRENT_MONTH_NAME challenge, just leave a \"sign me up\" comment below, and I'll add you.  Best of luck to everyone here!\n"
     answer += "\n"
     answer += "Here's how this thing works:\n"
     answer += "\n"
@@ -78,7 +78,7 @@ def templateFor1():
     answer += "- Please check in with the group in the comments as often as you want! Feel free to share thoughts, feelings, experiences, progress, wisdom, encouragement and whatever else!\n"
     answer += "- **IMPORTANT: if you relapse, please post a comment to that effect here** and I will remove your name from the list.  We will not judge you or shame you, we have all been there.\n"
     answer += '- If you have a "~" after your name, you have yet to check in on any update threads. If it is still there by CURRENT_MONTH_NAME 15th, you will be removed from the list, in order to keep the numbers as realistic as possible.\n'
-    answer += "- We will not be accepting any new participants, but even if you're not on the list, please feel free to check in in the update threads anyway!  Also, stay tuned to catch the NEXT_MONTH_NAME thread!\n"
+    answer += "- ~~We will not be accepting any new participants~~, but even if you're not on the list, please feel free to check in in the update threads anyway!  Also, stay tuned to catch the NEXT_MONTH_NAME thread!\n"
     answer += "\n"
     answer += "Good luck!\n"
     answer += "\n"
@@ -90,8 +90,74 @@ def templateFor1():
     return answer
 
 
-def templateFor2to9():
-    print '2 to 9\n\n'
+def templateFor2():
+    print '2\n\n'
+    answer = ""
+    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean: CURRENT_MONTH_NAME challenge.  This is the second day of our 3 day late-signup grace period.  If you forgot to sign up for the CURRENT_MONTH_NAME challenge, just leave a \"sign me up\" comment below, and I'll add you.\n"
+    answer += "\n"
+    answer += "Guidelines:\n"
+    answer += "\n"
+    answer += "- At the end of this post is a list of people who have signed up for the challenge, and who are still in the running.  That means that they have not needed to reset because of a relapse or slip.\n"
+    answer += "- Please check in with the group in the comments as often as you want! Feel free to share thoughts, feelings, experiences, progress, wisdom, encouragement and whatever else!\n"
+    answer += "- **IMPORTANT: if you relapse, please post a comment to that effect here** and I will remove your name from the list.  We will not judge you or shame you, we have all been there.\n"
+    answer += '- If you have a "~" after your name, you have yet to check in on any update threads. If it is still there by CURRENT_MONTH_NAME 15th, you will be removed from the list, in order to keep the numbers as realistic as possible.\n'
+    answer += "- ~~We will not be accepting any new participants~~, but even if you're not on the list, please feel free to check in in the update threads anyway!  Also, stay tuned to catch the NEXT_MONTH_NAME thread!\n"
+    answer += "\n"
+    answer += "Good luck!\n"
+    answer += "\n"
+    answer += "For a chart of relapse data, check out [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1fnRMkDqFAJpsWHaZt8duMkZIPBCtUy0IfGFmlIfvOII/edit#gid=0).\n"
+    answer += "\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  Here is the list of participants still with the challenge:\n\n"
+    answer += templateForParticipants()
+    return answer
+
+
+def templateFor3():
+    print '3\n\n'
+    answer = ""
+    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean: CURRENT_MONTH_NAME challenge.  This is the last day of our 3 day late-signup grace period.  If you forgot to sign up for the CURRENT_MONTH_NAME challenge, just leave a \"sign me up\" comment below, and I'll add you.  After today, further signup requests will be silently ignored.\n"
+    answer += "\n"
+    answer += "Guidelines:\n"
+    answer += "\n"
+    answer += "- At the end of this post is a list of people who have signed up for the challenge, and who are still in the running.  That means that they have not needed to reset because of a relapse or slip.\n"
+    answer += "- Please check in with the group in the comments as often as you want! Feel free to share thoughts, feelings, experiences, progress, wisdom, encouragement and whatever else!\n"
+    answer += "- **IMPORTANT: if you relapse, please post a comment to that effect here** and I will remove your name from the list.  We will not judge you or shame you, we have all been there.\n"
+    answer += '- If you have a "~" after your name, you have yet to check in on any update threads. If it is still there by CURRENT_MONTH_NAME 15th, you will be removed from the list, in order to keep the numbers as realistic as possible.\n'
+    answer += "- ~~We will not be accepting any new participants~~, but even if you're not on the list, please feel free to check in in the update threads anyway!  Also, stay tuned to catch the NEXT_MONTH_NAME thread!\n"
+    answer += "\n"
+    answer += "Good luck!\n"
+    answer += "\n"
+    answer += "For a chart of relapse data, check out [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1fnRMkDqFAJpsWHaZt8duMkZIPBCtUy0IfGFmlIfvOII/edit#gid=0).\n"
+    answer += "\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  Here is the list of participants still with the challenge:\n\n"
+    answer += templateForParticipants()
+    return answer
+
+
+def templateFor4():
+    print '4\n\n'
+    answer = ""
+    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean: CURRENT_MONTH_NAME challenge.  Our 3 day late-signup grace period is now over.  If you forgot to sign up, it's too late for CURRENT_MONTH_NAME, but feel free to leave comments here anyway, and we'll see you in NEXT_MONTH_NAME.\n"
+    answer += "\n"
+    answer += "Guidelines:\n"
+    answer += "\n"
+    answer += "- At the end of this post is a list of people who have signed up for the challenge, and who are still in the running.  That means that they have not needed to reset because of a relapse or slip.\n"
+    answer += "- Please check in with the group in the comments as often as you want! Feel free to share thoughts, feelings, experiences, progress, wisdom, encouragement and whatever else!\n"
+    answer += "- **IMPORTANT: if you relapse, please post a comment to that effect here** and I will remove your name from the list.  We will not judge you or shame you, we have all been there.\n"
+    answer += '- If you have a "~" after your name, you have yet to check in on any update threads. If it is still there by CURRENT_MONTH_NAME 15th, you will be removed from the list, in order to keep the numbers as realistic as possible.\n'
+    answer += "- We will not be accepting any new participants, but even if you're not on the list, please feel free to check in in the update threads anyway!  Also, stay tuned to catch the NEXT_MONTH_NAME thread!\n"
+    answer += "\n"
+    answer += "Good luck!\n"
+    answer += "\n"
+    answer += "For a chart of relapse data, check out [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1fnRMkDqFAJpsWHaZt8duMkZIPBCtUy0IfGFmlIfvOII/edit#gid=0).\n"
+    answer += "\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  Here is the list of participants still with the challenge:\n\n"
+    answer += templateForParticipants()
+    return answer
+
+
+def templateFor5to9():
+    print '5 to 9\n\n'
     answer = ""
     answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean: CURRENT_MONTH_NAME challenge.  Keep fighting the good fight!\n"
     answer += "\n"
@@ -198,18 +264,20 @@ def templateForUltimate():
 
 
 def templateToUse():
-    # return stringToPrintLegacy()
     if currentDayOfMonthIndex == 1:
         return templateFor1()
-    # elif (currentDayOfMonthIndex >= 2) and (currentDayOfMonthIndex <= 9):
-    elif 2 <= currentDayOfMonthIndex <= 9:
-        return templateFor2to9()
-    # elif (currentDayOfMonthIndex >= 10) and (currentDayOfMonthIndex <= 14):
+    elif currentDayOfMonthIndex == 2:
+        return templateFor2()
+    elif currentDayOfMonthIndex == 3:
+        return templateFor3()
+    elif currentDayOfMonthIndex == 4:
+        return templateFor4()
+    elif 5 <= currentDayOfMonthIndex <= 9:
+        return templateFor5to9()
     elif 10 <= currentDayOfMonthIndex <= 14:
         return templateFor10to14()
     if currentDayOfMonthIndex == 15:
         return templateFor15()
-    # elif (currentDayOfMonthIndex >= 16) and (currentDayOfMonthIndex <= 14):
     elif (currentDayOfMonthIndex >= 16) and (currentDayOfMonthIndex <= currentMonthPenultimateDayIndex):
         return templateFor16toPenultimate()
     else:
