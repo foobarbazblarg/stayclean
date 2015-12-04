@@ -24,7 +24,7 @@ ArchangelFuhkEsarhes False False
 Artemonski False False
 Arzackk True True
 Aseconverse False False
-ashkashbagash False False
+ashkashbagash False True
 ATH_in_83 False False
 atlas_arcturus False False
 atlrockr False False
