@@ -8,7 +8,7 @@ A-Type True True
 abolishpmo True True
 acdcisnice True True
 achoohaiku True True
-across_universe01 True True
+across_universe01 True False 2015.12.07
 adannytoremember True False 2015.12.02
 adash5000 True True
 agntred True True
@@ -18,7 +18,7 @@ aksaha True True
 Albahacus True True
 Alchemistt False True
 alexianchen False True
-andstufflikethat False True
+andstufflikethat True True
 Arzackk False True
 athom93 True True
 atka True True
@@ -40,7 +40,7 @@ bodyheartmind False True
 bodymeetssoul False True
 boriallpaper False True
 Bronzesky False True
-BulbaBoss False True
+BulbaBoss False False 2015.12.05
 But_its_not_this_day False True
 caltonsix False True
 captaingouyou True True
@@ -52,7 +52,7 @@ chitown_biryani False True
 chooc444 False True
 cloud7570 True True
 cocokh True True
-commendatore False True
+commendatore True True
 contemplatessuicide False True
 dandausa True True
 Darth_Picard True True
@@ -67,15 +67,15 @@ djvhw False True
 dmoney820 False True
 Dotanime True True
 DracoDimitrios55 False False 2015.12.03
-DrivenToFreedom False True
+DrivenToFreedom True True
 DudefromNantucket False True
 DukeStamina False True
 Edgar1972 True True
 EhhAhhOhhUgh True True
 elbastardo1 True True
-eristicmystic False True
+eristicmystic True True
 EyotaWolf True True
-ezzeldeenom False True
+ezzeldeenom True True
 F1MiguelFerrari False True
 Fire-Eyed-Boy False True
 Flammendehaar False True
@@ -88,14 +88,14 @@ free_lefthand False True
 FreedomManOfGlory False True
 fullpower True True
 Galactic_Fapstronaut True True
-gamasco False True
+gamasco True True
 GBvitaobscura True True
 getinthecagewithnicc True False 2015.12.03
 gimme3steps101 False True
 giveupPMO False True
 glassCannon21 True False 2015.12.02
 Gobbledigookie False True
-GoingNowhere False True
+GoingNowhere True True
 GoingToMakeIt14 False True
 growmighty False True
 gunleader True True
@@ -103,9 +103,9 @@ hamsquad411 True True
 HarryTheConMan True True
 HeroicWimp False True
 highdreigone False True
-hk9 True True
+hk9 True False 2015.12.09
 HoratioIsAHomie False True
-horned1x False True
+horned1x False False 2015.12.09
 I_love_my_SO True False 2015.12.03
 i_see_a_light True True
 icandoscarythings False True
@@ -114,18 +114,18 @@ Ihavetochange False True
 incognito_15 True True
 itdontmatter False True
 itzGaia False True
-iur5 True True
-Iwillgetoutofthis False True
+iur5 True False 2015.12.08
+Iwillgetoutofthis True True
 iwilllurkreddit False True
 iWolf_ False True
 Iwouldlikealongeruse True True
-JAK747 False True
+JAK747 False False 2015.12.04
 jakiewan True True
 jasonmoose False True
 jaxplayer1 False True
 Jdmc1710 False True
 jj119883 False True
-john1456 False True
+john1456 True True
 joshsoowong False True
 justdoitmag8 False True
 jw2324 False True
@@ -139,13 +139,13 @@ LDSkull True True
 letsgiveitatry89 False True
 LightFener False True
 linttis False True
-Littlesthermit False True
+Littlesthermit True True
 living_and_dying True True
 LjudLjus False True
 lonewolfsteez True True
 Lopenicek False True
 macked-out True True
-MaiKarooba False True
+MaiKarooba True True
 makers_recovery False True
 Makethefake True True
 MattThePimp False True
@@ -170,10 +170,10 @@ Nie200 False True
 nikprgzzz False True
 NoFapAgain False True
 nomorenomore1 True False 2015.12.03
-nth_root True True
+nth_root True False 2015.12.05
 OliverSpecter False True
 onestep_forward True True
-onfleek100 False True
+onfleek100 True True
 ParaziTik True True
 patron_stMax True True
 peach_kumquat True True
@@ -184,12 +184,12 @@ PM_ME_CHEESY_JOKES True True
 pornisforbetapeople True True
 pornojunky True True
 post-fapper True True
-Preambulanz False True
+Preambulanz True True
 quicktoforget True True
 Raratus False True
 Raw_Chicken False True
-Razzaband False True
-reboot74 False True
+Razzaband True True
+reboot74 True True
 redditaylor False True
 Reyaweks True True
 ReZenge False True
@@ -201,9 +201,9 @@ RobertFreddi True True
 rochaf False True
 Rocket_Knight True False 2015.12.03
 roytherocket False True
-rsug1 True True
+rsug1 True False 2015.12.05
 runikon True True
-saskaciwanihk False True
+saskaciwanihk True True
 scootsmgoots True True
 scumstoner False True
 ScyyneDose False True
@@ -213,21 +213,21 @@ ShaggyGoose17 True True
 shirtshirt False True
 sinfulregret True True
 siriusisness False True
-Sirjim11 False True
+Sirjim11 True True
 sizzurpinmyride False True
 Slyrix True True
 smokenfire7676 True False 2015.12.03
 SnipermanVsBatman False True
 Some-Danish-Dude False True
-Somtijds False True
-starcraftskyrim True True
+Somtijds False False 2015.12.06
+starcraftskyrim True False 2015.12.06
 stopnu False True
 sunshine_rec0rder False False 2015.12.03
-supershiva True True
+supershiva True False 2015.12.06
 SutluCikolata False True
 sXe4Life True True
 thatfatdood False True
-Thatguy32101 False True
+Thatguy32101 False False 2015.12.06
 ThatYWAMlife True True
 the_perfect_me False True
 TheCaptinLove False True
@@ -238,37 +238,37 @@ TheFirstStepofMany True True
 TheMightyPepper False True
 TheNamelessRedditor False True
 TheSpruceTip False True
-TheTuggmeister False True
+TheTuggmeister True True
 thro_awaytheshackles True True
 Throwaway01067 True True
 thrownawayforgoood True True
 Tienseye True True
 tim_dma False True
-timeforthechallenge False True
+timeforthechallenge True True
 timehasnowcome False True
 tinnyw False True
 TMurray189 False True
 tojil42 False True
-tossedoffer False True
-toughchanges False True
+tossedoffer True True
+toughchanges True True
 Trappedinacorpse True True
-Treetrunk27 False True
+Treetrunk27 False False 2015.12.05
 Triggerlily False True
 trybeinguseful True True
 twtealio False True
 urmonkey True True
 Vitorvlv False True
-vnnwlkr8 False True
+vnnwlkr8 True True
 vonvilla True True
 walkingagh True True
 WarriorShit True True
 wheresmydopamine False True
 Wish6 True True
 woahacow True True
-WonderBoy92 False True
+WonderBoy92 False False 2015.12.06
 woodninja True True
-wrcahns False True
-x-ray_David False True
+wrcahns True True
+x-ray_David True False 2015.12.06
 YellowTango False True
 yesheflwrs True True
 you_ni_dan False True
