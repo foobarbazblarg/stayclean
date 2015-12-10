@@ -19,7 +19,7 @@ Albahacus True True
 Alchemistt False True
 alexianchen False True
 andstufflikethat True True
-Arzackk False True
+Arzackk True True
 athom93 True True
 atka True True
 atlas_arcturus False True
@@ -74,14 +74,14 @@ Edgar1972 True True
 EhhAhhOhhUgh True False 2015.12.09
 elbastardo1 True True
 eristicmystic True True
-EyotaWolf True True
+EyotaWolf True False 2015.12.10
 ezzeldeenom True True
 F1MiguelFerrari False True
 Fire-Eyed-Boy False True
 Flammendehaar False True
 fluidgin True True
 foobarbazblarg True True
-ForesterNL False True
+ForesterNL True True
 FourOneNiner True True
 free45de True True
 free_lefthand False True
@@ -127,7 +127,7 @@ Jdmc1710 False True
 jj119883 False True
 john1456 True True
 joshsoowong False True
-justdoitmag8 False True
+justdoitmag8 False False 2015.12.09
 jw2324 False True
 kagayaki False True
 kalabandor_neat False True
