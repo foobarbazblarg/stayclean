@@ -1,4 +1,7 @@
+reddit-oauth-credentials.cfg
+reddit-password-credentials.cfg
 **/.idea
 **/update-google-chart.py
 **/*.pyc
+praw/*
 push-to-github.sh

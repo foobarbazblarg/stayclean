@@ -6,7 +6,7 @@ _Babak True True
 _Virtus_ False True
 A-Type True True
 abolishpmo True True
-acdcisnice True True
+acdcisnice True False 2015.12.10
 achoohaiku True True
 across_universe01 True False 2015.12.07
 adannytoremember True False 2015.12.02
@@ -39,9 +39,9 @@ bluesguitarz True True
 bodyheartmind False True
 bodymeetssoul False True
 boriallpaper False True
-Bronzesky False True
+Bronzesky False False 2015.12.10
 BulbaBoss False False 2015.12.05
-But_its_not_this_day False True
+But_its_not_this_day True True
 caltonsix False True
 captaingouyou True True
 catinsky False True
@@ -63,7 +63,7 @@ deca1987 False True
 Degreed1982 True True
 Delta_FosB False True
 distressed_penguin False True
-djvhw False True
+djvhw True True
 dmoney820 False True
 Dotanime True True
 DracoDimitrios55 False False 2015.12.03
@@ -135,14 +135,14 @@ KingChocoTaco False True
 KOCIAGULI True True
 laere False True
 LAmilo90 False True
-LDSkull True True
+LDSkull True False 2015.12.11
 letsgiveitatry89 False True
 LightFener False True
 linttis False True
-Littlesthermit True True
+Littlesthermit True False 2015.12.12
 living_and_dying True True
 LjudLjus False True
-lonewolfsteez True True
+lonewolfsteez True False 2015.12.10
 Lopenicek False True
 macked-out True True
 MaiKarooba True True
@@ -163,7 +163,7 @@ MushishiMaster False True
 MvH9 True True
 naturligvis False True
 NCC1701G True True
-Nephistos True True
+Nephistos True False 2015.12.10
 Neverstop7 False False 2015.12.04
 newlife71 True True
 Nie200 False True
@@ -225,7 +225,7 @@ stopnu False True
 sunshine_rec0rder False False 2015.12.03
 supershiva True False 2015.12.06
 SutluCikolata False True
-sXe4Life True True
+sXe4Life True False 2015.12.11
 thatfatdood False True
 Thatguy32101 False False 2015.12.06
 ThatYWAMlife True True
@@ -263,11 +263,11 @@ vonvilla True True
 walkingagh True True
 WarriorShit True True
 wheresmydopamine False True
-Wish6 True True
+Wish6 True False 2015.12.11
 woahacow True True
 WonderBoy92 False False 2015.12.06
 woodninja True True
-wrcahns True True
+wrcahns True False 2015.12.11
 x-ray_David True False 2015.12.06
 YellowTango True True
 yesheflwrs True True
@@ -275,4 +275,4 @@ you_ni_dan False True
 Youkahn False True
 Zeniusboy False True
 ZeroFucksTonight False True
-zvezdicee False True
+zvezdicee True True
