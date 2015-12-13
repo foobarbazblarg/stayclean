@@ -16,11 +16,15 @@ import os
 
 
 # Edit me!
-challengePageSubmissionId = '3v059o'
-flaskport = 8888
+signupPageSubmissionIds = []
+# TODO: the submission ids in these next two commented lines are actually for the December challenge, for testing.
+# signupPageSubmissionIds = [ '3uumbg', '3upr7m', '3ulj0h', '3ugcxz', '3uc63s', '3u7q34', '3u1oyx' ]
+# signupPageSubmissionIds = [ '3uumbg' ]
+flaskport = 8890
 
 app = Flask(__name__)
 app.debug = True
+
 
 commentHashesAndComments = {}
 
@@ -42,13 +46,17 @@ def loginOAuthAndReturnRedditSession():
     o.refresh(force=True)
     return redditSession
 
-def getSubmissionForRedditSession(redditSession):
-    submission = redditSession.get_submission(submission_id=challengePageSubmissionId)
-    submission.replace_more_comments(limit=None, threshold=0)
-    return submission
+def getSubmissionsForRedditSession(redditSession):
+    submissions = [ redditSession.get_submission(submission_id=submissionId) for submissionId in signupPageSubmissionIds]
+    for submission in submissions:
+        submission.replace_more_comments(limit=None, threshold=0)
+    return submissions
 
-def getCommentsForSubmission(submission):
-    return praw.helpers.flatten_tree(submission.comments)
+def getCommentsForSubmissions(submissions):
+    comments = []
+    for submission in submissions:
+        comments += praw.helpers.flatten_tree(submission.comments)
+    return comments
 
 def retireCommentHash(commentHash):
     with open("retiredcommenthashes.txt", "a") as commentHashFile:
@@ -59,8 +67,8 @@ def retiredCommentHashes():
         # return commentHashFile.readlines()
         return commentHashFile.read().splitlines()
 
-@app.route('/moderatechallenge.html')
-def moderatechallenge():
+@app.route('/moderatesignups.html')
+def moderatesignups():
     global commentHashesAndComments
     commentHashesAndComments = {}
     stringio = StringIO()
@@ -68,18 +76,20 @@ def moderatechallenge():
 
     # redditSession = loginAndReturnRedditSession()
     redditSession = loginOAuthAndReturnRedditSession()
-    submission = getSubmissionForRedditSession(redditSession)
-    flat_comments = getCommentsForSubmission(submission)
+    submissions = getSubmissionsForRedditSession(redditSession)
+    flat_comments = getCommentsForSubmissions(submissions)
     retiredHashes = retiredCommentHashes()
     i = 1
     stringio.write('<iframe name="invisibleiframe" style="display:none;"></iframe>\n')
     stringio.write("<h3>")
     stringio.write(os.getcwd())
     stringio.write("<br>\n")
-    stringio.write(submission.title)
+    for submission in submissions:
+        stringio.write(submission.title)
+        stringio.write("<br>\n")
     stringio.write("</h3>\n\n")
-    stringio.write('<form action="copydisplaytoclipboard.html" method="post" target="invisibleiframe">')
-    stringio.write('<input type="submit" value="Copy display.py stdout to clipboard">')
+    stringio.write('<form action="copydisplayduringsignuptoclipboard.html" method="post" target="invisibleiframe">')
+    stringio.write('<input type="submit" value="Copy display-during-signup.py stdout to clipboard">')
     stringio.write('</form>')
     for comment in flat_comments:
         # print comment.is_root
@@ -97,10 +107,10 @@ def moderatechallenge():
             stringio.write('</b></font>')
 
             stringio.write('<form action="takeaction.html" method="post" target="invisibleiframe">')
-            stringio.write('<input type="submit" name="actiontotake" value="Checkin">')
-            stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin">')
-            stringio.write('<input type="submit" name="actiontotake" value="Relapse">')
-            stringio.write('<input type="submit" name="actiontotake" value="Reinstate">')
+            stringio.write('<input type="submit" name="actiontotake" value="Signup">')
+            # stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin">')
+            # stringio.write('<input type="submit" name="actiontotake" value="Relapse">')
+            # stringio.write('<input type="submit" name="actiontotake" value="Reinstate">')
             stringio.write('<input type="submit" name="actiontotake" value="Skip comment">')
             stringio.write('<input type="submit" name="actiontotake" value="Skip comment and don\'t upvote">')
             stringio.write('<input type="hidden" name="username" value="' + b64encode(str(comment.author)) + '">')
@@ -125,26 +135,26 @@ def takeaction():
     # print commentHashesAndComments
     comment = commentHashesAndComments[commentHash]
     # print "comment:  " + str(comment)
-    if actionToTake == 'Checkin':
-        print "checkin - " + username
-        subprocess.call(['./checkin.py', username])
+    if actionToTake == 'Signup':
+        print "signup - " + username
+        subprocess.call(['./signup.py', username])
         comment.upvote()
         retireCommentHash(commentHash)
-    if actionToTake == 'Signup and checkin':
-        print "signup and checkin - " + username
-        subprocess.call(['./signup-and-checkin.sh', username])
-        comment.upvote()
-        retireCommentHash(commentHash)
-    elif actionToTake == 'Relapse':
-        print "relapse - " + username
-        subprocess.call(['./relapse.py', username])
-        comment.upvote()
-        retireCommentHash(commentHash)
-    elif actionToTake == 'Reinstate':
-        print "reinstate - " + username
-        subprocess.call(['./reinstate.py', username])
-        comment.upvote()
-        retireCommentHash(commentHash)
+    # if actionToTake == 'Signup and checkin':
+    #     print "signup and checkin - " + username
+    #     subprocess.call(['./signup-and-checkin.sh', username])
+    #     comment.upvote()
+    #     retireCommentHash(commentHash)
+    # elif actionToTake == 'Relapse':
+    #     print "relapse - " + username
+    #     subprocess.call(['./relapse.py', username])
+    #     comment.upvote()
+    #     retireCommentHash(commentHash)
+    # elif actionToTake == 'Reinstate':
+    #     print "reinstate - " + username
+    #     subprocess.call(['./reinstate.py', username])
+    #     comment.upvote()
+    #     retireCommentHash(commentHash)
     elif actionToTake == 'Skip comment':
         print "Skip comment - " + username
         comment.upvote()
@@ -156,10 +166,10 @@ def takeaction():
 
 
 
-@app.route('/copydisplaytoclipboard.html', methods=["POST"])
-def copydisplaytoclipboard():
+@app.route('/copydisplayduringsignuptoclipboard.html', methods=["POST"])
+def copydisplayduringsignuptoclipboard():
     print "TODO: Copy display to clipboard"
-    subprocess.call(['./display.py'])
+    subprocess.call(['./display-during-signup.py'])
     return Response("hello", mimetype='text/html')
 
 

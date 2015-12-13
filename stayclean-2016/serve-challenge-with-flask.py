@@ -16,11 +16,12 @@ import os
 
 
 # Edit me!
-challengePageSubmissionId = '3v059o'
-flaskport = 8888
+challengePageSubmissionId = '(insertpageidhere)'
+flaskport = 8891
 
 app = Flask(__name__)
 app.debug = True
+
 
 commentHashesAndComments = {}
 

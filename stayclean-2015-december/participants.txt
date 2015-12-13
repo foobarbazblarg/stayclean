@@ -30,14 +30,14 @@ Beastie321 False True
 befreedude True True
 bertrogdor False True
 Betterthanuatlife False True
-BigBearMonte False True
+BigBearMonte True True
 bigred0241 False True
 Blaze6181 True True
 blisteredeyelids True True
 BlizzardZHusky False True
 bluesguitarz True True
 bodyheartmind False True
-bodymeetssoul False True
+bodymeetssoul True True
 boriallpaper False True
 Bronzesky False False 2015.12.10
 BulbaBoss False False 2015.12.05
@@ -146,10 +146,10 @@ lonewolfsteez True False 2015.12.10
 Lopenicek False True
 macked-out True True
 MaiKarooba True True
-makers_recovery False True
+makers_recovery True True
 Makethefake True True
 MattThePimp False True
-mikawaldi False True
+mikawaldi True True
 MisterMagorium True True
 Mizkrang True True
 mizustyle False True
@@ -261,7 +261,7 @@ Vitorvlv False True
 vnnwlkr8 True True
 vonvilla True True
 walkingagh True True
-WarriorShit True True
+WarriorShit True False 2015.12.12
 wheresmydopamine False True
 Wish6 True False 2015.12.11
 woahacow True True
