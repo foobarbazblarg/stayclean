@@ -1,7 +1,7 @@
 -NAhL- False True
 0forallah900 True True
 42TowelPacked False True
-50-cal False True
+50-cal True True
 _Babak True True
 _Virtus_ False True
 A-Type True True
@@ -15,7 +15,7 @@ agntred True True
 aHeroWith44Pens False True
 ajsg1 False True
 aksaha True True
-Albahacus True True
+Albahacus True False 2015.12.14
 Alchemistt False True
 alexianchen False True
 andstufflikethat True True
@@ -30,11 +30,11 @@ Beastie321 False True
 befreedude True True
 bertrogdor False True
 Betterthanuatlife False True
-BigBearMonte True True
+BigBearMonte True False 2015.12.14
 bigred0241 False True
 Blaze6181 True True
 blisteredeyelids True True
-BlizzardZHusky False True
+BlizzardZHusky False False 2015.12.14
 bluesguitarz True True
 bodyheartmind False True
 bodymeetssoul True True
@@ -45,7 +45,7 @@ But_its_not_this_day True True
 caltonsix False True
 captaingouyou True True
 catinsky False True
-ced22 True True
+ced22 True False 2015.12.14
 changetoday198 False True
 Chief32 True True
 chitown_biryani False True
@@ -69,7 +69,7 @@ Dotanime True True
 DracoDimitrios55 False False 2015.12.03
 DrivenToFreedom True True
 DudefromNantucket False True
-DukeStamina False True
+DukeStamina False False 2015.12.14
 Edgar1972 True True
 EhhAhhOhhUgh True False 2015.12.09
 elbastardo1 True True
@@ -84,7 +84,7 @@ foobarbazblarg True True
 ForesterNL True True
 FourOneNiner True True
 free45de True True
-free_lefthand False True
+free_lefthand True True
 FreedomManOfGlory False True
 fullpower True True
 Galactic_Fapstronaut True True
@@ -144,8 +144,8 @@ living_and_dying True True
 LjudLjus False True
 lonewolfsteez True False 2015.12.10
 Lopenicek False True
-macked-out True True
-MaiKarooba True True
+macked-out True False 2015.12.13
+MaiKarooba True False 2015.12.14
 makers_recovery True True
 Makethefake True True
 MattThePimp False True
@@ -159,16 +159,16 @@ mountainssunkbelow False True
 Mr_Greeen True True
 mrnoone56 False False 2015.12.02
 MrTMNTR True True
-MushishiMaster False True
+MushishiMaster True True
 MvH9 True True
 naturligvis False True
-NCC1701G True True
+NCC1701G True False 2015.12.14
 Nephistos True False 2015.12.10
 Neverstop7 False False 2015.12.04
 newlife71 True True
 Nie200 False True
 nikprgzzz False True
-NoFapAgain False True
+NoFapAgain True True
 nomorenomore1 True False 2015.12.03
 nth_root True False 2015.12.05
 OliverSpecter False True
@@ -228,7 +228,7 @@ SutluCikolata False True
 sXe4Life True False 2015.12.11
 thatfatdood False True
 Thatguy32101 False False 2015.12.06
-ThatYWAMlife True True
+ThatYWAMlife True False 2015.12.14
 the_perfect_me False True
 TheCaptinLove False True
 ThedragonCarnage False True
@@ -255,7 +255,7 @@ Trappedinacorpse True True
 Treetrunk27 False False 2015.12.05
 Triggerlily False True
 trybeinguseful True True
-twtealio False True
+twtealio True True
 urmonkey True True
 Vitorvlv False True
 vnnwlkr8 True True
@@ -271,7 +271,7 @@ wrcahns True False 2015.12.11
 x-ray_David True False 2015.12.06
 YellowTango True True
 yesheflwrs True True
-you_ni_dan False True
+you_ni_dan True True
 Youkahn False True
 Zeniusboy False True
 ZeroFucksTonight False True
