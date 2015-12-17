@@ -1,5 +1,5 @@
 -NAhL- False False
-0forallah900 False True
+0forallah900 True True
 42TowelPacked False False
 50-cal False True
 _Babak False True
@@ -18,7 +18,7 @@ aksaha False True
 Albahacus True False 2015.12.14
 Alchemistt False False
 alexianchen False False
-andstufflikethat False True
+andstufflikethat True True
 Arzackk False True
 athom93 True False 2015.12.15
 atka False True
@@ -41,9 +41,9 @@ bodymeetssoul False True
 boriallpaper False False
 Bronzesky False False 2015.12.10
 BulbaBoss False False 2015.12.05
-But_its_not_this_day False True
+But_its_not_this_day True True
 caltonsix False False
-captaingouyou False True
+captaingouyou True True
 catinsky False False
 ced22 True False 2015.12.14
 changetoday198 False False
@@ -73,7 +73,7 @@ DukeStamina False False 2015.12.14
 Edgar1972 False True
 EhhAhhOhhUgh True False 2015.12.09
 elbastardo1 False True
-eristicmystic False True
+eristicmystic True True
 EyotaWolf True False 2015.12.10
 ezzeldeenom False True
 F1MiguelFerrari False False
@@ -151,7 +151,7 @@ Makethefake False True
 MattThePimp False False
 mikawaldi False True
 MisterMagorium False True
-Mizkrang False True
+Mizkrang True True
 mizustyle False False
 Monday_Again_24 False True
 Moose_brain False False
@@ -238,7 +238,7 @@ TheFirstStepofMany False True
 TheMightyPepper False False
 TheNamelessRedditor False False
 TheSpruceTip False False
-TheTuggmeister False True
+TheTuggmeister True True
 thro_awaytheshackles False True
 Throwaway01067 False True
 thrownawayforgoood False True
@@ -258,7 +258,7 @@ trybeinguseful False True
 twtealio False True
 urmonkey False True
 Vitorvlv False False
-vnnwlkr8 False True
+vnnwlkr8 True True
 vonvilla False True
 walkingagh False True
 WarriorShit True False 2015.12.12
