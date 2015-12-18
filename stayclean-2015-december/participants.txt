@@ -14,14 +14,14 @@ adash5000 False True
 agntred False True
 aHeroWith44Pens False False
 ajsg1 False False
-aksaha False True
+aksaha True True
 Albahacus True False 2015.12.14
 Alchemistt False False
 alexianchen False False
 andstufflikethat True True
 Arzackk False True
 athom93 True False 2015.12.15
-atka False True
+atka False False 2015.12.18
 atlas_arcturus False False
 attemptist False True
 baddecisions212 False False
@@ -52,7 +52,7 @@ chitown_biryani False False
 chooc444 False False
 cloud7570 False True
 cocokh False True
-commendatore False True
+commendatore True True
 contemplatessuicide False False
 dandausa False True
 Darth_Picard False True
@@ -81,8 +81,8 @@ Fire-Eyed-Boy False False
 Flammendehaar False False
 fluidgin False True
 foobarbazblarg False True
-ForesterNL False True
-FourOneNiner False True
+ForesterNL True True
+FourOneNiner True True
 free45de False True
 free_lefthand False True
 FreedomManOfGlory False False
@@ -97,7 +97,7 @@ glassCannon21 True False 2015.12.02
 Gobbledigookie False False
 GoingNowhere False True
 GoingToMakeIt14 False False
-growmighty False False
+growmighty True False
 gunleader False True
 hamsquad411 False True
 HarryTheConMan False True
@@ -120,7 +120,7 @@ iwilllurkreddit False True
 iWolf_ False False
 Iwouldlikealongeruse False True
 JAK747 False False 2015.12.04
-jakiewan False True
+jakiewan True True
 jasonmoose False False
 jaxplayer1 False False
 Jdmc1710 False False
@@ -159,7 +159,7 @@ mountainssunkbelow False False
 Mr_Greeen False True
 mrnoone56 False False 2015.12.02
 MrTMNTR True True
-MushishiMaster False True
+MushishiMaster False False 2015.12.17
 MvH9 False True
 naturligvis False False
 NCC1701G True False 2015.12.14
@@ -168,7 +168,7 @@ Neverstop7 False False 2015.12.04
 newlife71 False True
 Nie200 False False
 nikprgzzz False False
-NoFapAgain False True
+NoFapAgain False False 2015.12.17
 nomorenomore1 True False 2015.12.03
 nth_root True False 2015.12.05
 OliverSpecter False False
@@ -203,7 +203,7 @@ Rocket_Knight True False 2015.12.03
 roytherocket False False
 rsug1 True False 2015.12.05
 runikon False True
-saskaciwanihk False True
+saskaciwanihk True True
 scootsmgoots False True
 scumstoner False False
 ScyyneDose False False
@@ -211,11 +211,11 @@ Semuhtra False False
 SensOak False False
 ShaggyGoose17 False True
 shirtshirt False False
-sinfulregret False True
+sinfulregret True True
 siriusisness False False
 Sirjim11 False True
 sizzurpinmyride False False
-Slyrix False True
+Slyrix True True
 smokenfire7676 True False 2015.12.03
 SnipermanVsBatman False False
 Some-Danish-Dude False False
@@ -234,7 +234,7 @@ TheCaptinLove False False
 ThedragonCarnage False False
 Thee-Unforgiven False False 2015.12.01
 TheFirstDegree False False 2015.12.04
-TheFirstStepofMany False True
+TheFirstStepofMany True True
 TheMightyPepper False False
 TheNamelessRedditor False False
 TheSpruceTip False False
@@ -250,7 +250,7 @@ tinnyw False False
 TMurray189 False False 2015.12.16
 tojil42 False False
 tossedoffer False True
-toughchanges False True
+toughchanges False False 2015.12.18
 Trappedinacorpse False True
 Treetrunk27 False False 2015.12.05
 Triggerlily False False
