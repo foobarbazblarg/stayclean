@@ -60,7 +60,7 @@ dayton1234 False False 2015.12.02
 DDave1239 False True
 ddgb False False
 deca1987 False False
-Degreed1982 False True
+Degreed1982 True True
 Delta_FosB False False
 distressed_penguin False False
 djvhw False True
@@ -75,12 +75,12 @@ EhhAhhOhhUgh True False 2015.12.09
 elbastardo1 False True
 eristicmystic True True
 EyotaWolf True False 2015.12.10
-ezzeldeenom False True
+ezzeldeenom True True
 F1MiguelFerrari False False
 Fire-Eyed-Boy False False
 Flammendehaar False False
 fluidgin False True
-foobarbazblarg False True
+foobarbazblarg True True
 ForesterNL True True
 FourOneNiner True True
 free45de False True
@@ -146,7 +146,7 @@ lonewolfsteez True False 2015.12.10
 Lopenicek False False
 macked-out True False 2015.12.13
 MaiKarooba True False 2015.12.14
-makers_recovery False True
+makers_recovery True True
 Makethefake False True
 MattThePimp False False
 mikawaldi False True
@@ -173,8 +173,8 @@ nomorenomore1 True False 2015.12.03
 nth_root True False 2015.12.05
 OliverSpecter False False
 onestep_forward False True
-onfleek100 False True
-ParaziTik False True
+onfleek100 True True
+ParaziTik False False 2015.12.18
 patron_stMax False True
 peach_kumquat False True
 PeezyK False True
@@ -213,7 +213,7 @@ ShaggyGoose17 False True
 shirtshirt False False
 sinfulregret True True
 siriusisness False False
-Sirjim11 False True
+Sirjim11 True True
 sizzurpinmyride False False
 Slyrix True True
 smokenfire7676 True False 2015.12.03
@@ -241,7 +241,7 @@ TheSpruceTip False False
 TheTuggmeister True True
 thro_awaytheshackles False True
 Throwaway01067 False True
-thrownawayforgoood False True
+thrownawayforgoood True True
 Tienseye False True
 tim_dma False False
 timeforthechallenge False True
@@ -249,7 +249,7 @@ timehasnowcome False False
 tinnyw False False
 TMurray189 False False 2015.12.16
 tojil42 False False
-tossedoffer False True
+tossedoffer True True
 toughchanges False False 2015.12.18
 Trappedinacorpse False True
 Treetrunk27 False False 2015.12.05

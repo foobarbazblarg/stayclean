@@ -97,9 +97,11 @@ def moderatechallenge():
             stringio.write('</b></font>')
 
             stringio.write('<form action="takeaction.html" method="post" target="invisibleiframe">')
-            stringio.write('<input type="submit" name="actiontotake" value="Checkin">')
+            # stringio.write('<input type="submit" name="actiontotake" value="Checkin">')
+            stringio.write('<input type="submit" name="actiontotake" value="Checkin" style="color:white;background-color:green">')
             stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin">')
-            stringio.write('<input type="submit" name="actiontotake" value="Relapse">')
+            # stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin" style="color:white;background-color:green">')
+            stringio.write('<input type="submit" name="actiontotake" value="Relapse" style="color:white;background-color:red">')
             stringio.write('<input type="submit" name="actiontotake" value="Reinstate">')
             stringio.write('<input type="submit" name="actiontotake" value="Skip comment">')
             stringio.write('<input type="submit" name="actiontotake" value="Skip comment and don\'t upvote">')

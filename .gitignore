@@ -2,6 +2,9 @@ reddit-oauth-credentials.cfg
 reddit-password-credentials.cfg
 **/.idea
 **/update-google-chart.py
+**/update-google-chart.py.BACKUP
+**/google-spreadsheet-oauth-hello-world.py
+**/google-oauth-credentials.json
 **/*.pyc
 praw/*
 push-to-github.sh
