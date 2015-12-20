@@ -1,0 +1,92 @@
+#!/usr/bin/python
+import json
+import gspread
+from oauth2client.client import SignedJwtAssertionCredentials
+import datetime
+import re
+from participantCollection import ParticipantCollection
+
+# Edit Me!
+participantFileNames = ['../stayclean-2014-november/participants.txt',
+                        '../stayclean-2014-december/participants.txt',
+                        '../stayclean-2015-january/participants.txt',
+                        '../stayclean-2015-february/participants.txt',
+                        '../stayclean-2015-march/participants.txt',
+                        '../stayclean-2015-april/participants.txt',
+                        '../stayclean-2015-may/participants.txt',
+                        '../stayclean-2015-june/participants.txt',
+                        '../stayclean-2015-july/participants.txt',
+                        '../stayclean-2015-august/participants.txt',
+                        '../stayclean-2015-september/participants.txt',
+                        '../stayclean-2015-october/participants.txt',
+                        '../stayclean-2015-november/participants.txt',
+                        '../stayclean-2015-december/participants.txt',
+                        './participants.txt']
+
+sortedRelapseDates = []
+for participantFileName in participantFileNames:
+    participants = ParticipantCollection(fileNameString=participantFileName)
+    sortedRelapseDates = sortedRelapseDates + participants.allRelapseDates()
+sortedRelapseDates.sort()
+earliestReportDate = sortedRelapseDates[0]
+latestReportDate = sortedRelapseDates[-1]
+reportDates = []
+numberOfRelapsesPerDate = []
+reportDatesAndNumberOfRelapses = {}
+dayOfWeekIndexesAndNumberOfInstances = {0: 0, 1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0}
+
+reportDate = earliestReportDate
+while reportDate <= latestReportDate:
+    reportDatesAndNumberOfRelapses[reportDate] = 0
+    dayOfWeekIndexesAndNumberOfInstances[reportDate.weekday()] = dayOfWeekIndexesAndNumberOfInstances[reportDate.weekday()] + 1
+    reportDate += datetime.timedelta(days=1)
+for relapseDate in sortedRelapseDates:
+    # TODO:  google for augmented assignment.
+    reportDatesAndNumberOfRelapses[relapseDate] = reportDatesAndNumberOfRelapses[relapseDate] + 1
+dayOfWeekIndexesAndTotalNumberOfRelapses = {0: 0, 1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0}
+for participantFileName in participantFileNames:
+    participants = ParticipantCollection(fileNameString=participantFileName)
+    # print participants.relapseDayOfWeekIndexesAndParticipants()
+    for index, parts in participants.relapseDayOfWeekIndexesAndParticipants().iteritems():
+        dayOfWeekIndexesAndTotalNumberOfRelapses[index] = dayOfWeekIndexesAndTotalNumberOfRelapses[index] + len(parts)
+dayOfWeekIndexesAndAverageNumberOfRelapses = {0: 0, 1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0}
+for index, instances in dayOfWeekIndexesAndNumberOfInstances.iteritems():
+    # dayOfWeekIndexesAndAverageNumberOfRelapses[index] = int(round(float(dayOfWeekIndexesAndTotalNumberOfRelapses[index]) / float(instances)))
+    dayOfWeekIndexesAndAverageNumberOfRelapses[index] = float(dayOfWeekIndexesAndTotalNumberOfRelapses[index]) / float(instances)
+
+
+spreadsheetTitle = "StayClean monthly challenge relapse data"
+# spreadsheetTitle = "Test spreadsheet"
+json_key = json.load(open('../google-oauth-credentials.json'))
+scope = ['https://spreadsheets.google.com/feeds']
+credentials = SignedJwtAssertionCredentials(json_key['client_email'], json_key['private_key'].encode(), scope)
+gc = gspread.authorize(credentials)
+try:
+    spreadSheet = gc.open(spreadsheetTitle)
+except gspread.exceptions.SpreadsheetNotFound:
+    print "No spreadsheet with title " + spreadsheetTitle
+    exit(1)
+workSheet = spreadSheet.get_worksheet(0)
+columnACells = workSheet.range("A2:A" + str(len(reportDatesAndNumberOfRelapses) + 1))
+columnBCells = workSheet.range("B2:B" + str(len(reportDatesAndNumberOfRelapses) + 1))
+columnCCells = workSheet.range("C2:C8")
+columnDCells = workSheet.range("D2:D8")
+
+reportDate = earliestReportDate
+rowIndex = 0
+while reportDate <= latestReportDate:
+    columnACells[rowIndex].value = str(reportDate)
+    columnBCells[rowIndex].value = str(reportDatesAndNumberOfRelapses[reportDate])
+    rowIndex += 1
+    reportDate += datetime.timedelta(days=1)
+for weekdayIndex in range(0, 7):
+    weekdayName = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'][weekdayIndex]
+    # spreadsheetClient.UpdateCell(weekdayIndex + 2,3,weekdayName,spreadsheetId)
+    # spreadsheetClient.UpdateCell(weekdayIndex + 2,4,str(dayOfWeekIndexesAndAverageNumberOfRelapses[weekdayIndex]),spreadsheetId)
+    columnCCells[weekdayIndex].value = weekdayName
+    columnDCells[weekdayIndex].value = str(dayOfWeekIndexesAndAverageNumberOfRelapses[weekdayIndex])
+allCells = columnACells + columnBCells + columnCCells + columnDCells
+workSheet.update_cells(allCells)
+
+exit(0)
+

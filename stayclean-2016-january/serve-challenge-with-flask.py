@@ -16,12 +16,11 @@ import os
 
 
 # Edit me!
-challengePageSubmissionId = '(insertpageidhere)'
+challengePageSubmissionId = '(insertidhere)'
 flaskport = 8889
 
 app = Flask(__name__)
 app.debug = True
-
 
 commentHashesAndComments = {}
 
@@ -82,6 +81,9 @@ def moderatechallenge():
     stringio.write('<form action="copydisplaytoclipboard.html" method="post" target="invisibleiframe">')
     stringio.write('<input type="submit" value="Copy display.py stdout to clipboard">')
     stringio.write('</form>')
+    stringio.write('<form action="updategooglechart.html" method="post" target="invisibleiframe">')
+    stringio.write('<input type="submit" value="update-google-chart.py">')
+    stringio.write('</form>')
     for comment in flat_comments:
         # print comment.is_root
         # print comment.score
@@ -98,9 +100,11 @@ def moderatechallenge():
             stringio.write('</b></font>')
 
             stringio.write('<form action="takeaction.html" method="post" target="invisibleiframe">')
-            stringio.write('<input type="submit" name="actiontotake" value="Checkin">')
+            # stringio.write('<input type="submit" name="actiontotake" value="Checkin">')
+            stringio.write('<input type="submit" name="actiontotake" value="Checkin" style="color:white;background-color:green">')
             stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin">')
-            stringio.write('<input type="submit" name="actiontotake" value="Relapse">')
+            # stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin" style="color:white;background-color:green">')
+            stringio.write('<input type="submit" name="actiontotake" value="Relapse" style="color:white;background-color:red">')
             stringio.write('<input type="submit" name="actiontotake" value="Reinstate">')
             stringio.write('<input type="submit" name="actiontotake" value="Skip comment">')
             stringio.write('<input type="submit" name="actiontotake" value="Skip comment and don\'t upvote">')
@@ -161,6 +165,13 @@ def takeaction():
 def copydisplaytoclipboard():
     print "TODO: Copy display to clipboard"
     subprocess.call(['./display.py'])
+    return Response("hello", mimetype='text/html')
+
+
+@app.route('/updategooglechart.html', methods=["POST"])
+def updategooglechart():
+    print "TODO: Copy display to clipboard"
+    subprocess.call(['./update-google-chart.py'])
     return Response("hello", mimetype='text/html')
 
 

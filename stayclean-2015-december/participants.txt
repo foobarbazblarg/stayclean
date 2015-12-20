@@ -44,7 +44,7 @@ BulbaBoss False False 2015.12.05
 But_its_not_this_day True True
 caltonsix False False
 captaingouyou True True
-catinsky False False
+catinsky True True
 ced22 True False 2015.12.14
 changetoday198 False False
 Chief32 False True
