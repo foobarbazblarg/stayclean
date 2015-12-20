@@ -115,7 +115,7 @@ incognito_15 False True
 itdontmatter False False
 itzGaia False False
 iur5 True False 2015.12.08
-Iwillgetoutofthis False True
+Iwillgetoutofthis True True
 iwilllurkreddit False True
 iWolf_ False False
 Iwouldlikealongeruse False True
@@ -140,7 +140,7 @@ letsgiveitatry89 False False
 LightFener False False
 linttis False False
 Littlesthermit True False 2015.12.12
-living_and_dying False True
+living_and_dying True True
 LjudLjus False False
 lonewolfsteez True False 2015.12.10
 Lopenicek False False
@@ -188,7 +188,7 @@ Preambulanz False True
 quicktoforget False True
 Raratus False False
 Raw_Chicken False False
-Razzaband False True
+Razzaband True True
 reboot74 False True
 redditaylor False False
 Reyaweks False True
