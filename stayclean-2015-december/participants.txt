@@ -32,7 +32,7 @@ bertrogdor False False
 Betterthanuatlife False False
 BigBearMonte True False 2015.12.14
 bigred0241 False False
-Blaze6181 False True
+Blaze6181 True True
 blisteredeyelids False True
 BlizzardZHusky False False 2015.12.14
 bluesguitarz False True
@@ -255,7 +255,7 @@ Trappedinacorpse False True
 Treetrunk27 False False 2015.12.05
 Triggerlily False False
 trybeinguseful False True
-twtealio False True
+twtealio True True
 urmonkey False True
 Vitorvlv False False
 vnnwlkr8 True True
