@@ -18,6 +18,7 @@ import os
 # Edit me!
 challengePageSubmissionId = '3v059o'
 flaskport = 8888
+readAllCommentsWhichCanBeSlower = False
 
 app = Flask(__name__)
 app.debug = True
@@ -44,11 +45,12 @@ def loginOAuthAndReturnRedditSession():
 
 def getSubmissionForRedditSession(redditSession):
     submission = redditSession.get_submission(submission_id=challengePageSubmissionId)
-    submission.replace_more_comments(limit=None, threshold=0)
+    if readAllCommentsWhichCanBeSlower:
+        submission.replace_more_comments(limit=None, threshold=0)
     return submission
 
 def getCommentsForSubmission(submission):
-    return praw.helpers.flatten_tree(submission.comments)
+    return [comment for comment in praw.helpers.flatten_tree(submission.comments) if comment.__class__ == praw.objects.Comment]
 
 def retireCommentHash(commentHash):
     with open("retiredcommenthashes.txt", "a") as commentHashFile:

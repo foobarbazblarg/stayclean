@@ -7,7 +7,7 @@ _Virtus_ False False
 A-Type False True
 abolishpmo False True
 acdcisnice True False 2015.12.10
-achoohaiku False True
+achoohaiku True True
 across_universe01 True False 2015.12.07
 adannytoremember True False 2015.12.02
 adash5000 False True
@@ -54,7 +54,7 @@ cloud7570 False True
 cocokh False True
 commendatore True True
 contemplatessuicide False False
-dandausa False True
+dandausa True True
 Darth_Picard False True
 dayton1234 False False 2015.12.02
 DDave1239 False True
@@ -125,7 +125,7 @@ jasonmoose False False
 jaxplayer1 False False
 Jdmc1710 False False
 jj119883 False False
-john1456 False True
+john1456 False False 2015.12.21
 joshsoowong False False
 justdoitmag8 False False 2015.12.09
 jw2324 False False
@@ -140,7 +140,7 @@ letsgiveitatry89 False False
 LightFener False False
 linttis False False
 Littlesthermit True False 2015.12.12
-living_and_dying True True
+living_and_dying True False 2015.12.21
 LjudLjus False False
 lonewolfsteez True False 2015.12.10
 Lopenicek False False
@@ -175,21 +175,21 @@ OliverSpecter False False
 onestep_forward False True
 onfleek100 True True
 ParaziTik False False 2015.12.18
-patron_stMax False True
+patron_stMax True True
 peach_kumquat False True
 PeezyK False True
 PFNFaway22 False True
 Pfree1805 True True
 PM_ME_CHEESY_JOKES False True
-pornisforbetapeople False True
+pornisforbetapeople True True
 pornojunky True False 2015.12.15
 post-fapper False True
 Preambulanz False True
-quicktoforget False True
+quicktoforget True True
 Raratus False False
 Raw_Chicken False False
-Razzaband True True
-reboot74 False True
+Razzaband True False 2015.12.21
+reboot74 True True
 redditaylor False False
 Reyaweks False True
 ReZenge False False
