@@ -12,6 +12,8 @@ from base64 import b64decode
 from ConfigParser import ConfigParser
 import OAuth2Util
 import os
+import markdown
+import bleach
 
 
 
@@ -107,7 +109,7 @@ def moderatesignups():
             stringio.write('</b></font>')
 
             stringio.write('<form action="takeaction.html" method="post" target="invisibleiframe">')
-            stringio.write('<input type="submit" name="actiontotake" value="Signup">')
+            stringio.write('<input type="submit" name="actiontotake" value="Signup" style="color:white;background-color:green">')
             # stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin">')
             # stringio.write('<input type="submit" name="actiontotake" value="Relapse">')
             # stringio.write('<input type="submit" name="actiontotake" value="Reinstate">')
@@ -118,7 +120,7 @@ def moderatesignups():
             stringio.write('<input type="hidden" name="commentpermalink" value="' + comment.permalink + '">')
             stringio.write('</form>')
 
-            stringio.write(comment.body.encode('utf-8'))
+            stringio.write(bleach.clean(markdown.markdown(comment.body.encode('utf-8')), tags=['p']))
             stringio.write("\n<br><br>\n\n")
 
     stringio.write('</html>')

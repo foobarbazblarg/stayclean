@@ -12,6 +12,8 @@ from base64 import b64decode
 from ConfigParser import ConfigParser
 import OAuth2Util
 import os
+import markdown
+import bleach
 
 
 
@@ -115,7 +117,7 @@ def moderatechallenge():
             stringio.write('<input type="hidden" name="commentpermalink" value="' + comment.permalink + '">')
             stringio.write('</form>')
 
-            stringio.write(comment.body.encode('utf-8'))
+            stringio.write(bleach.clean(markdown.markdown(comment.body.encode('utf-8')), tags=['p']))
             stringio.write("\n<br><br>\n\n")
 
     stringio.write('</html>')

@@ -231,7 +231,7 @@ def templateFor16toPenultimate():
     answer = ""
     answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean: CURRENT_MONTH_NAME challenge.  Keep fighting the good fight!\n"
     answer += "\n"
-    answer += "If you think you should still be on this list but aren't, you probably got removed in the great purge of CURRENT_MONTH_NAME 15th because you never checked in. However, if you let me know you're still with it I might re-add you.\n"
+    answer += "If you think you should still be on this list but aren't, you probably got removed in the great purge of CURRENT_MONTH_NAME 15th because you never checked in. However, if you let me know you're still with it I will re-add you.\n"
     answer += "\n"
     answer += "Guidelines:\n"
     answer += "\n"

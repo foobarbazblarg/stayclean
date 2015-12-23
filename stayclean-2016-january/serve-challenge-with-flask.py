@@ -12,6 +12,8 @@ from base64 import b64decode
 from ConfigParser import ConfigParser
 import OAuth2Util
 import os
+import markdown
+import bleach
 
 
 
@@ -100,10 +102,10 @@ def moderatechallenge():
             stringio.write('</b></font>')
 
             stringio.write('<form action="takeaction.html" method="post" target="invisibleiframe">')
-            # stringio.write('<input type="submit" name="actiontotake" value="Checkin">')
-            stringio.write('<input type="submit" name="actiontotake" value="Checkin" style="color:white;background-color:green">')
-            stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin">')
-            # stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin" style="color:white;background-color:green">')
+            stringio.write('<input type="submit" name="actiontotake" value="Checkin">')
+            # stringio.write('<input type="submit" name="actiontotake" value="Checkin" style="color:white;background-color:green">')
+            # stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin">')
+            stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin" style="color:white;background-color:green">')
             stringio.write('<input type="submit" name="actiontotake" value="Relapse" style="color:white;background-color:red">')
             stringio.write('<input type="submit" name="actiontotake" value="Reinstate">')
             stringio.write('<input type="submit" name="actiontotake" value="Skip comment">')
@@ -113,7 +115,7 @@ def moderatechallenge():
             stringio.write('<input type="hidden" name="commentpermalink" value="' + comment.permalink + '">')
             stringio.write('</form>')
 
-            stringio.write(comment.body.encode('utf-8'))
+            stringio.write(bleach.clean(markdown.markdown(comment.body.encode('utf-8')), tags=['p']))
             stringio.write("\n<br><br>\n\n")
 
     stringio.write('</html>')

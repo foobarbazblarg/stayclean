@@ -4,7 +4,7 @@
 50-cal False True
 _Babak False True
 _Virtus_ False False
-A-Type False True
+A-Type True True
 abolishpmo False True
 acdcisnice True False 2015.12.10
 achoohaiku True True
