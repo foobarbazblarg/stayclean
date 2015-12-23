@@ -95,7 +95,7 @@ gimme3steps101 False False
 giveupPMO False False
 glassCannon21 True False 2015.12.02
 Gobbledigookie False False
-GoingNowhere False True
+GoingNowhere True True
 GoingToMakeIt14 False False
 growmighty True False
 gunleader False True
@@ -197,7 +197,7 @@ RHCPfan27 False True
 RingsofAkhaten False False
 Rintsen False False
 Roastedbarley False False
-RobertFreddi False True
+RobertFreddi False False 2015.12.23
 rochaf False False
 Rocket_Knight True False 2015.12.03
 roytherocket False False
@@ -255,14 +255,14 @@ Trappedinacorpse False True
 Treetrunk27 False False 2015.12.05
 Triggerlily False False
 trybeinguseful False True
-twtealio True True
+twtealio True False 2015.12.22
 urmonkey False True
 Vitorvlv False False
 vnnwlkr8 True True
 vonvilla False True
 walkingagh False True
 WarriorShit True False 2015.12.12
-wheresmydopamine False False
+wheresmydopamine True False 2015.12.23
 Wish6 True False 2015.12.11
 woahacow False True
 WonderBoy92 False False 2015.12.06
