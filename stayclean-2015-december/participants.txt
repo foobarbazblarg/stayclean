@@ -60,7 +60,7 @@ dayton1234 False False 2015.12.02
 DDave1239 False True
 ddgb False False
 deca1987 False False
-Degreed1982 True True
+Degreed1982 True False 2015.12.24
 Delta_FosB False False
 distressed_penguin False False
 djvhw False True
@@ -98,7 +98,7 @@ Gobbledigookie False False
 GoingNowhere True True
 GoingToMakeIt14 False False
 growmighty True False
-gunleader False True
+gunleader True True
 hamsquad411 False True
 HarryTheConMan False True
 HeroicWimp False False
@@ -111,7 +111,7 @@ i_see_a_light False True
 icandoscarythings False False
 Iczy22 False False
 Ihavetochange False False
-incognito_15 False True
+incognito_15 True True
 itdontmatter False False
 itzGaia False False
 iur5 True False 2015.12.08
@@ -149,7 +149,7 @@ MaiKarooba True False 2015.12.14
 makers_recovery True True
 Makethefake False True
 MattThePimp False False
-mikawaldi False True
+mikawaldi True True
 MisterMagorium False True
 Mizkrang True True
 mizustyle False False
@@ -242,7 +242,7 @@ TheTuggmeister True True
 thro_awaytheshackles False True
 Throwaway01067 False True
 thrownawayforgoood True True
-Tienseye False True
+Tienseye True True
 tim_dma False False
 timeforthechallenge False True
 timehasnowcome False False
@@ -275,4 +275,4 @@ you_ni_dan False True
 Youkahn False False
 Zeniusboy False False
 ZeroFucksTonight False False
-zvezdicee False True
+zvezdicee True True
