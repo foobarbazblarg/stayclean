@@ -14,8 +14,11 @@ import OAuth2Util
 import os
 import markdown
 import bleach
+# encoding=utf8
+import sys
 
-
+reload(sys)
+sys.setdefaultencoding('utf8')
 
 # Edit me!
 signupPageSubmissionIds = [ '3y5p0l' ]

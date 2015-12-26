@@ -48,6 +48,8 @@ def templateForFirstSignupDay():
     answer += "Our monthly Stay Clean challenges have gone over well; people seem to like them and benefit from them.  Of course we will continue those monthly challenges, but for _YEAR_, we're also going to try something new:  a FULL-YEAR challenge! The challenge will run for the entire year, and on December 31, _YEAR_, an elite group of victorious participants will have earned some serious bragging rights!\n"
     answer += "\n"
     answer += "If you're ready to step it up a notch, sign up for this new challenge by leaving a brief comment to this thread.  After midnight, NEXT_MONTH_NAME 1, the sign up window will close, and the challenge will begin.\n"
+    answer += "\n"
+    answer += "**Please note** that signing up here will NOT automatically sign you up for the Stay Clean January 2016 monthly challenge, and you'll want to sign up for that too.  [To sign up for that, go here](https://www.reddit.com/r/pornfree/comments/3y5ov2/stay_clean_january_sign_up_here_december_25/)\n"
     return answer
 
 
@@ -57,6 +59,8 @@ def templateForMiddleSignupDays():
     answer += "Hey everybody, so far **INITIAL_NUMBER participants** have signed up for our new Stay Clean _YEAR_ full-year challenge.  Think you're ready to go an entire year without porn?  I know that together, we can do it, so sign up today!\n"
     answer += "\n"
     answer += "If you would like to be included in this challenge, please post a brief comment to this thread (if you haven't already done so on an earlier signup thread), and I will include you.  After midnight, NEXT_MONTH_NAME 1, the sign up window will close, and the challenge will begin.\n"
+    answer += "\n"
+    answer += "**Please note** that signing up here will NOT automatically sign you up for the Stay Clean January 2016 monthly challenge, and you'll want to sign up for that too.  [To sign up for that, go here](https://www.reddit.com/r/pornfree/comments/3y5ov2/stay_clean_january_sign_up_here_december_25/)\n"
     answer += "\n"
     answer += templateForParticipants()
     return answer
@@ -68,6 +72,8 @@ def templateForLastSignupDay():
     answer += "The Stay Clean _YEAR_ full-year challenge **begins tomorrow**!  So far, we have **INITIAL_NUMBER participants** signed up.  To paraphrase John F. Kennedy:  \"We choose to quit porn, not because it is easy, but because it is hard\".  I know that together, we are up to this challenge, so sign up today!\n"
     answer += "\n"
     answer += "If you would like to be included in the challenge, please post a brief comment to this thread (if you haven't already done so on an earlier signup thread), and we will include you.  After midnight tonight, we will not be accepting any more participants.  I will create the official update post tomorrow.\n"
+    answer += "\n"
+    answer += "**Please note** that signing up here will NOT automatically sign you up for the Stay Clean January 2016 monthly challenge, and you'll want to sign up for that too.  [To sign up for that, go here](https://www.reddit.com/r/pornfree/comments/3y5ov2/stay_clean_january_sign_up_here_december_25/)\n"
     answer += "\n"
     answer += templateForParticipants()
     return answer
