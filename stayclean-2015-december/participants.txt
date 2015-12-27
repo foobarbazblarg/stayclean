@@ -19,7 +19,7 @@ Albahacus True False 2015.12.14
 Alchemistt False False
 alexianchen False False
 andstufflikethat True True
-Arzackk False True
+Arzackk True True
 athom93 True False 2015.12.15
 atka False False 2015.12.18
 atlas_arcturus False False
@@ -37,7 +37,7 @@ blisteredeyelids False True
 BlizzardZHusky False False 2015.12.14
 bluesguitarz False True
 bodyheartmind False False
-bodymeetssoul False True
+bodymeetssoul True True
 boriallpaper False False
 Bronzesky False False 2015.12.10
 BulbaBoss False False 2015.12.05
@@ -116,7 +116,7 @@ itdontmatter False False
 itzGaia False False
 iur5 True False 2015.12.08
 Iwillgetoutofthis True True
-iwilllurkreddit False True
+iwilllurkreddit True True
 iWolf_ False False
 Iwouldlikealongeruse False True
 JAK747 False False 2015.12.04
@@ -161,7 +161,7 @@ mrnoone56 False False 2015.12.02
 MrTMNTR True True
 MushishiMaster False False 2015.12.17
 MvH9 False True
-naturligvis False False
+naturligvis True False
 NCC1701G True False 2015.12.14
 Nephistos True False 2015.12.10
 Neverstop7 False False 2015.12.04
