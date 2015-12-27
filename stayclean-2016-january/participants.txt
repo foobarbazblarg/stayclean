@@ -1,5 +1,7 @@
 4thegood False True
+6thisisit False True
 abolishpmo False True
+acdcisnice False True
 across_universe01 False True
 adannytoremember False True
 Albahacus False True
@@ -18,6 +20,7 @@ dandausa False True
 ddgb False True
 Deathhoof812 False True
 DforDeadpool False True
+DigiKorean False True
 DizzieO False True
 dmitri_adkins False True
 drlusso False True
@@ -25,9 +28,12 @@ DukeStamina False True
 Eipa False True
 elbastardo1 False True
 eristicmystic False True
+Evil_Entity False True
 foobarbazblarg False True
 ForesterNL False True
 FourOneNiner False True
+frueherschueler False True
+FunkReborn False True
 getinthecagewithnicc False True
 glassCannon21 False True
 GoingToMakeIt14 False True
@@ -36,6 +42,8 @@ ImprovedMechECowboy False True
 ipartakeindrugs False True
 Iwillgetoutofthis False True
 JAK747 False True
+jakiewan False True
+jj119883 False True
 jspliff1 False True
 jumpmanspace False True
 Karatebro False True
@@ -45,6 +53,7 @@ KnopflerisGod False True
 Liviul False True
 m4rc0polo False True
 macked-out False True
+mafiosogiacomo False True
 Makethefake False True
 mcmtta False True
 MonkeyDSunny False True
@@ -56,10 +65,13 @@ NoFapAgain False True
 NovusCaesarion False True
 OK_01 False True
 OliverSpecter False True
+OregonBR False True
+peach_kumquat False True
 Pfree1805 False True
 pocolocomoco False True
 poopey_doopey False True
 pornisforbetapeople False True
+pornojunky False True
 praveenjuge False True
 rakt_fram False True
 Razzaband False True
@@ -71,6 +83,7 @@ sinfulregret False True
 Smaxfitness False True
 socoolhage False True
 stainslemountaintops False True
+Startnow2 False True
 Sundria False True
 Switchingitup90 False True
 sXe4Life False True
@@ -79,10 +92,12 @@ theabeman False True
 Thee-Unforgiven False True
 thegreatestjourney False True
 thrownawayforgoood False True
+thunderdeacon False True
 tim_dma False True
 tlantan False True
 TrollPooperScooper False True
 vnnwlkr8 False True
+WarriorShit False True
 wheresmydopamine False True
 Wish6 False True
 WonderBoy92 False True
