@@ -23,7 +23,7 @@ Arzackk True True
 athom93 True False 2015.12.15
 atka False False 2015.12.18
 atlas_arcturus False False
-attemptist False True
+attemptist True True
 baddecisions212 False False
 Bass_Tech False False
 Beastie321 False False
@@ -54,7 +54,7 @@ cloud7570 False True
 cocokh False True
 commendatore True True
 contemplatessuicide False False
-dandausa True True
+dandausa True False 2015.12.28
 Darth_Picard False True
 dayton1234 False False 2015.12.02
 DDave1239 False True
@@ -151,7 +151,7 @@ Makethefake False True
 MattThePimp False False
 mikawaldi True True
 MisterMagorium False True
-Mizkrang True True
+Mizkrang True False 2015.12.29
 mizustyle False False
 Monday_Again_24 False True
 Moose_brain False False
@@ -176,7 +176,7 @@ onestep_forward False True
 onfleek100 True True
 ParaziTik False False 2015.12.18
 patron_stMax True True
-peach_kumquat False True
+peach_kumquat False False 2015.12.27
 PeezyK False True
 PFNFaway22 False True
 Pfree1805 True True
@@ -215,7 +215,7 @@ sinfulregret True False 2015.12.27
 siriusisness False False
 Sirjim11 True True
 sizzurpinmyride False False
-Slyrix True True
+Slyrix True False 2015.12.27
 smokenfire7676 True False 2015.12.03
 SnipermanVsBatman False False
 Some-Danish-Dude False False
@@ -239,7 +239,7 @@ TheMightyPepper False False
 TheNamelessRedditor False False
 TheSpruceTip False False
 TheTuggmeister True True
-thro_awaytheshackles False True
+thro_awaytheshackles False False 2015.12.29
 Throwaway01067 False True
 thrownawayforgoood True True
 Tienseye True True
