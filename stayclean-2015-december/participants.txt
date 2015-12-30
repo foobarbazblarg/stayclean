@@ -86,7 +86,7 @@ FourOneNiner True True
 free45de False True
 free_lefthand False True
 FreedomManOfGlory False False
-fullpower False True
+fullpower True True
 Galactic_Fapstronaut False True
 gamasco False True
 GBvitaobscura False True
@@ -183,7 +183,7 @@ Pfree1805 True True
 PM_ME_CHEESY_JOKES False True
 pornisforbetapeople True True
 pornojunky True False 2015.12.15
-post-fapper False True
+post-fapper False False 2015.12.29
 Preambulanz False True
 quicktoforget True True
 Raratus False False

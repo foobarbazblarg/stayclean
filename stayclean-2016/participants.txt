@@ -1,4 +1,5 @@
 -trl False True
+1frenzy False True
 4thegood False True
 _Civil False True
 _ghiak False True
@@ -15,6 +16,7 @@ atlrockr False True
 Aussieguy8927 False True
 austronautfrompompei False True
 awakenedurbanmonk False True
+baconboyloiter False True
 Bass_Ventura88 False True
 bberlinn False True
 beatnutts False True
@@ -38,6 +40,7 @@ Darth_Picard False True
 dayzero0 False True
 dchicli False True
 Deathhoof812 False True
+deca1987 False True
 DevoutlyDevout False True
 DforDeadpool False True
 diediededbacon False True
@@ -48,6 +51,7 @@ drlusso False True
 dubbies_lament False True
 DukeStamina False True
 eightsixfourhundred False True
+elbastardo1 False True
 Element-A False True
 ender360v2 False True
 Engineering_Junkie False True
@@ -58,6 +62,7 @@ Evil_Entity False True
 fballbeast False True
 FearlessMadman False True
 Fenix12345 False True
+Finalstraw14 False True
 Flam3- False True
 foobarbazblarg False True
 ForesterNL False True
@@ -65,6 +70,7 @@ FourOneNiner False True
 free45de False True
 Frozation False True
 frueherschueler False True
+fullpower False True
 FunkReborn False True
 getinthecagewithnicc False True
 glassCannon21 False True
@@ -92,6 +98,7 @@ jumpmanspace False True
 Karatebro False True
 kelleyz14 False True
 kelowH False True
+KumquatRevenge False True
 kygx False True
 lackofabetter_name False True
 lekajones False True
@@ -112,6 +119,8 @@ mrnoone56 False True
 MrTMNTR False True
 Mudhoney7 False True
 MushishiMaster False True
+myCQI False True
+natborchers False True
 Neverstop7 False True
 NewBrian2016 False True
 nof12 False True
@@ -123,12 +132,15 @@ nth_root False True
 OccyX False True
 OdinTheKoala False True
 OK_01 False True
+OldToBeingNew False True
+patchbag False True
 patron_stMax False True
 pfree0409 False True
 Pfree1805 False True
 PolarisAirship False True
 pornisforbetapeople False True
 pornojunky False True
+post-fapper False True
 praveenjuge False True
 pspforever1 False True
 Purpluhr False True
@@ -137,6 +149,7 @@ Razzaband False True
 reboot74 False True
 Rfan False True
 RobertFreddi False True
+ronald_donaldson False True
 RyPA False True
 saadahmed888 False True
 sageknight False True
@@ -164,6 +177,7 @@ thespoudaios False True
 thisisaname3 False True
 thrownawayforgoood False True
 thunderdeacon False True
+Tigurknee False True
 tim_dma False True
 tlantan False True
 TMurray189 False True
@@ -173,6 +187,7 @@ Triphouse False True
 Turkeytom86 False True
 Valvyn False True
 victorcrp01 False True
+VizualDreamer13 False True
 vlasp01 False True
 vnnwlkr8 False True
 wakeuptoblues False True

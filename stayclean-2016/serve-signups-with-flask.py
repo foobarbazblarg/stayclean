@@ -21,7 +21,7 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 
 # Edit me!
-signupPageSubmissionIds = [ '3y5p0l', '3y9dr5', '3ydu91', '3yi84v', '3ymifg' ]
+signupPageSubmissionIds = [ '3y5p0l', '3y9dr5', '3ydu91', '3yi84v', '3ymifg', '3yrodd' ]
 # TODO: the submission ids in these next two commented lines are actually for the December challenge, for testing.
 # signupPageSubmissionIds = [ '3uumbg', '3upr7m', '3ulj0h', '3ugcxz', '3uc63s', '3u7q34', '3u1oyx' ]
 # signupPageSubmissionIds = [ '3uumbg' ]

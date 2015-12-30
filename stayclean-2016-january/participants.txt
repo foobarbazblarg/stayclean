@@ -5,10 +5,13 @@ abolishpmo False True
 acdcisnice False True
 across_universe01 False True
 adannytoremember False True
+aglalit False True
 Albahacus False True
 alexianchen False True
+anamename False True
 antifapper False True
 ashkashbagash False True
+atakor False True
 atlanteanking False True
 atlas_arcturus False True
 awakenedurbanmonk False True
@@ -30,6 +33,7 @@ dayton1234 False True
 dayzero0 False True
 ddgb False True
 Deathhoof812 False True
+deca1987 False True
 DforDeadpool False True
 DigiKorean False True
 DizzieO False True
@@ -39,6 +43,7 @@ drlusso False True
 DukeStamina False True
 Eipa False True
 elbastardo1 False True
+ender360v2 False True
 eristicmystic False True
 Evil_Entity False True
 fballbeast False True
@@ -51,6 +56,7 @@ Free-B False True
 FrivolousBIG False True
 Frozation False True
 frueherschueler False True
+fullpower False True
 FunkReborn False True
 getinthecagewithnicc False True
 glassCannon21 False True
@@ -73,6 +79,7 @@ kelowH False True
 KnopflerisGod False True
 Knowphap8 False True
 kristerpettersson False True
+KumquatRevenge False True
 laere False True
 lekajones False True
 living_and_dying False True
@@ -96,9 +103,11 @@ MrPoischiche False True
 MrTMNTR False True
 Mudhoney7 False True
 MushishiMaster False True
+myCQI False True
 n0_m0re_p0rn False True
 Na_2 False True
 natborchers False True
+NCC1701G False True
 Neverstop7 False True
 NewBrian2016 False True
 nof12 False True
@@ -109,6 +118,7 @@ NovusCaesarion False True
 nth_root False True
 OK_01 False True
 OliverSpecter False True
+patchbag False True
 patron_stMax False True
 peach_kumquat False True
 pfree0409 False True
@@ -117,6 +127,7 @@ pocolocomoco False True
 poopey_doopey False True
 pornisforbetapeople False True
 pornojunky False True
+post-fapper False True
 praveenjuge False True
 rakt_fram False True
 Rasmus16 False True
@@ -124,6 +135,7 @@ Razzaband False True
 RobertFreddi False True
 rodrigowb4ey False True
 RolloRocco False True
+Sailorj1 False True
 sardonyxdragoon False True
 saskaciwanihk False True
 scorpion2phoenix False True
@@ -141,6 +153,7 @@ socoolhage False True
 Somtijds False True
 stainslemountaintops False True
 Startnow2 False True
+SuddenDapper False True
 Sundria False True
 sunshine_rec0rder False True
 suntzu01 False True
