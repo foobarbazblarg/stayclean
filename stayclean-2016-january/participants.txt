@@ -30,6 +30,7 @@ CodyA042 False True
 commendatore False True
 Conrad409 False True
 cpatrick08 False True
+Cryovane False True
 CurvingDive False True
 Dajtfed False True
 dalethesnail False True
@@ -93,6 +94,7 @@ koolvanz False True
 kristerpettersson False True
 KumquatRevenge False True
 laere False True
+LBJC False True
 lekajones False True
 lightbeyond False True
 living_and_dying False True
@@ -148,10 +150,13 @@ pornojunky False True
 post-fapper False True
 praveenjuge False True
 Preambulanz False True
+quittingishard False True
+r3dletters False True
 rakt_fram False True
 Rasmus16 False True
 Razzaband False True
 rewoplliw False True
+rightthistime1 False True
 RobertFreddi False True
 Rocket_Knight False True
 rodrigowb4ey False True
@@ -161,6 +166,7 @@ Sailorj1 False True
 sardonyxdragoon False True
 saskaciwanihk False True
 scorpion2phoenix False True
+SgtCheesepuffs False True
 shadowsatdusk False True
 Sharkictus False True
 shortless False True
@@ -169,10 +175,12 @@ sinfulregret False True
 Sirjim11 False True
 sittingonathumb False True
 Slabdweller False True
+Slyrix False True
 Smaxfitness False True
 smokenfire7676 False True
 socoolhage False True
 Somtijds False True
+sreebakely False True
 stainslemountaintops False True
 Startnow2 False True
 SuddenDapper False True
@@ -192,6 +200,7 @@ tim_dma False True
 tlantan False True
 TMurray189 False True
 tossedoffer False True
+TouchOfClass8 False True
 Treetrunk27 False True
 TrollPooperScooper False True
 trouav False True

@@ -32,6 +32,7 @@ Boonofthegarou False True
 briarrhea False True
 Brucetrunks False True
 But_its_not_this_day False True
+Cabana76 False True
 Captain_French False True
 catinsky False True
 ced22 False True
@@ -76,6 +77,7 @@ findfour False True
 Flam3- False True
 foobarbazblarg False True
 ForesterNL False True
+forsience False True
 FourOneNiner False True
 free45de False True
 Frozation False True
@@ -111,6 +113,7 @@ Karatebro False True
 kbm15 False True
 kelleyz14 False True
 kelowH False True
+kiramis False True
 koolvanz False True
 KumquatRevenge False True
 kygx False True
@@ -127,6 +130,7 @@ mathdrug False True
 melitallmighty False True
 metaphysicalboundary False True
 mikawaldi False True
+Min93 False True
 mintchoc-icecream False True
 mistertopshelf False True
 MonkeyDSunny False True
@@ -185,9 +189,11 @@ shrubbry False True
 sinfulregret False True
 Sirjim11 False True
 sittingonathumb False True
+Slyrix False True
 Smaxfitness False True
 smokenfire7676 False True
 solongsomewhere False True
+sreebakely False True
 stainslemountaintops False True
 Sundria False True
 sunshine_rec0rder False True
@@ -197,6 +203,7 @@ Thatguy32101 False True
 theabeman False True
 Thee-Unforgiven False True
 thegreatestjourney False True
+TheMasterRedditor False True
 thenerj False True
 thespoudaios False True
 TheSteelSword False True
