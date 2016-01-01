@@ -8,7 +8,7 @@ import pyperclip
 # This script gets run on the first day of the following month, and that month's URL is
 # what goes here.  E.g. If this directory is the directory for November, this script gets
 # run on December 1, and this URL is the URL for the December challenge page.
-nextMonthURL = "https://www.reddit.com/r/pornfree/comments/3v059o/stay_clean_december_this_thread_updated_daily/"
+nextMonthURL = "https://www.reddit.com/r/pornfree/comments/3yzsva/stay_clean_january_this_thread_updated_daily/"
 
 # If this directory is the directory for November, this script gets run on December 1,
 # and currentMonthIndex gets the index of November, i.e. 11.

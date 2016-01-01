@@ -18,7 +18,7 @@ import bleach
 
 
 # Edit me!
-challengePageSubmissionId = '(insertidhere)'
+challengePageSubmissionId = '3yzsva'
 flaskport = 8889
 
 app = Flask(__name__)
