@@ -2,13 +2,15 @@
 100xPaul False True
 1738110493 False True
 1frenzy False True
+1vanhoe True True
 4thegood False True
+__murph__ True True
 _Civil True True
 _ghiak False True
 _lennart_ True True
 A-Type False True
 a_binary_choice True True
-abolishpmo False True
+abolishpmo False False 2016.01.03
 acdcisnice True True
 across_universe01 True True
 adannytoremember True True
@@ -16,7 +18,8 @@ adash5000 False True
 Aerosenz False True
 aHeroWith44Pens True True
 Al-Fayed False True
-Albahacus False True
+Albahacus True True
+alexianchen True True
 Ambition_HQ True True
 Aminhas1996 True True
 ArseBadgerer False True
@@ -50,6 +53,7 @@ captain_discipline True True
 Captain_French False True
 catinsky True True
 ced22 False True
+changingpete True True
 chessnutz True True
 chetangangappa True True
 ChuckSchuldinerRules False True
@@ -60,14 +64,15 @@ crowingz False True
 CurvingDive False True
 Dajtfed False True
 dalethesnail False True
+dalive True True
 Dan1209 True True
 dandausa False True
 Dar_Now True True
 Darth_Picard False True
 dayzero0 False True
-dchicli False True
+dchicli True True
 Deathhoof812 True True
-deca1987 False True
+deca1987 False False 2016.01.03
 Degreed1982 False True
 DemetriusXVII False True
 DerelictBob True True
@@ -79,6 +84,7 @@ DizzieO True True
 dmitri_adkins False True
 DracoDimitrios55 True True
 drlusso False True
+DrMarkyMark True True
 dubbies_lament False True
 DukeStamina True True
 Egkrateia True True
@@ -91,6 +97,7 @@ EnziBenzi False True
 eristicmystic False True
 Eviane False True
 Evil_Entity False True
+fanology True True
 fballbeast False True
 FearlessMadman False True
 Fenix12345 False True
@@ -102,7 +109,7 @@ ForesterNL True True
 forsience False True
 FourOneNiner False True
 free45de False True
-Frozation False True
+Frozation True True
 frueherschueler False True
 FUCK_KING True True
 fullpower False True
@@ -135,11 +142,12 @@ iwqpmo False True
 jabber011215 True True
 JAK747 False True
 jakefilmpro False True
-jakiewan True True
+jakiewan True False 2016.01.03
 jd158ug False True
 jeffrykoopman True True
 Jelte-jv True True
 jj119883 False True
+Jlw605 True True
 jsigmon91 False True
 jspliff1 True True
 jumpmanspace False True
@@ -223,6 +231,7 @@ pfree0409 False True
 Pfree1805 True True
 PolarisAirship False True
 poopey_doopey False True
+Porn_is_shit True True
 pornfree_acnt True True
 pornisforbetapeople True True
 pornojunky False True
@@ -231,6 +240,7 @@ praveenjuge False True
 pspforever1 False True
 Purpluhr False True
 quicktoforget False True
+r3dletters True True
 Rasmus16 True True
 Razzaband True True
 reboot74 False True
@@ -262,6 +272,7 @@ smokenfire7676 True True
 snowbow True True
 solongsomewhere False True
 somanysquirrels False True
+spycow77 True True
 sreebakely False True
 stainslemountaintops False True
 Sundria False True
@@ -290,8 +301,8 @@ tim_dma False True
 timeforthechallenge False True
 tlantan True True
 TMurray189 False True
-TortillaHero False True
-tossedoffer False True
+TortillaHero True True
+tossedoffer True True
 Trappedinacorpse True True
 Treetrunk27 False True
 Triphouse False True
@@ -305,7 +316,7 @@ victorcrp01 False True
 VizualDreamer13 True True
 vlasp01 False True
 vnnwlkr8 True True
-wakeuptoblues False True
+wakeuptoblues True True
 WarriorShit True True
 Wess129 True True
 wheresmydopamine False True
