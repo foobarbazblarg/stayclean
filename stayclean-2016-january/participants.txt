@@ -9,7 +9,7 @@ _lennart_ True True
 abolishpmo False False 2016.01.03
 acdcisnice True True
 across_universe01 True True
-adannytoremember True True
+adannytoremember True False 2016.01.04
 Aerosenz False True
 aglalit False True
 Al-Fayed False True
@@ -18,7 +18,7 @@ alexianchen False True
 anamename False True
 antifapper False True
 Arzackk True True
-ashkashbagash False True
+ashkashbagash False False 2016.01.04
 atakor False True
 atka True True
 atlanteanking False True
@@ -34,6 +34,7 @@ blah133 False True
 BlaseBB False True
 Blaze6181 False True
 bodymeetssoul True True
+Cage03 True True
 captain_discipline True True
 captaingouyou True True
 Carlblf False True
@@ -56,9 +57,9 @@ dandausa False True
 dayton1234 True True
 dayzero0 False True
 ddgb False True
-Deathhoof812 True True
+Deathhoof812 True False 2016.01.04
 deca1987 False False 2016.01.03
-Degreed1982 False True
+Degreed1982 True True
 DforDeadpool False True
 DigiKorean False True
 discipleofnofap False True
@@ -85,14 +86,14 @@ foobarbazblarg True True
 ForesterNL False True
 fortytude True True
 FourOneNiner True True
-Free-B False True
+Free-B True True
 FrivolousBIG False True
 Frozation True True
 frueherschueler False True
 fullpower False True
-FunkReborn False True
+FunkReborn False False 2016.01.04
 Gamerguy2345 True True
-gangstercomputer True True
+gangstercomputer True False 2016.01.04
 getinthecagewithnicc False True
 Gewoonjelmer True True
 glassCannon21 False True
@@ -122,6 +123,7 @@ jumpmanspace False True
 Karatebro False True
 keiran-cole False True
 kelowH True True
+kenjataimuFeels True True
 Kings_Son False True
 Kinsonlee False True
 KnopflerisGod False True
@@ -146,7 +148,7 @@ lukas2020 False True
 m4rc0polo False True
 macked-out True True
 mafiosogiacomo False True
-MaiKarooba True True
+MaiKarooba True False 2016.01.04
 makers_recovery True True
 Makethefake True True
 mantuafree False True
@@ -166,7 +168,7 @@ mintchoc-icecream False True
 MisterMagorium False True
 mizustyle True True
 MonkeyDSunny False True
-MooseMilk3 False True
+MooseMilk3 True True
 moped2000 False True
 MotorVanborn5000 False True
 mrlenoir False True
@@ -194,16 +196,18 @@ nopantsparty42 True True
 nosweetescape False True
 NovusCaesarion False True
 nth_root True True
+OdinTheKoala True True
 OK_01 True True
 OliverSpecter False True
 onfleek100 False True
+oobnate True True
 OscuroGG True True
 Otikron False True
 patchbag False True
 patron_stMax False True
 peach_kumquat True True
 PFNFaway22 False True
-pfree0409 False True
+pfree0409 True True
 Pfree1805 True True
 PhilRyTheRedditGuy True True
 picardhasyourback True True
@@ -212,9 +216,10 @@ poopey_doopey False True
 Porn_is_shit True True
 pornisforbetapeople True True
 pornojunky False True
-post-fapper False True
+post-fapper True True
 praveenjuge False True
 Preambulanz False True
+preclosureoperator True True
 PUA_Wanna_be True True
 quicktoforget True True
 quittingishard False True
@@ -244,13 +249,13 @@ shigolnam True True
 shortless True True
 shrubbry False True
 sinfulregret True True
-Sirjim11 False True
+Sirjim11 True True
 sittingonathumb False True
 Slabdweller True True
 slic_ric False True
 Slyrix False True
 Smaxfitness False True
-smokenfire7676 False True
+smokenfire7676 True True
 socoolhage False True
 Sodar False True
 Somtijds False True
@@ -272,11 +277,13 @@ the_good_fighter True True
 The_Turbinator True True
 theabeman False True
 Thee-Unforgiven True True
+theforc True True
 thegreatestjourney False True
 TheSteelSword False True
 thro_awaytheshackles True True
 thrownawayforgoood False True
 thunderdeacon False True
+Tienseye True True
 tim_dma False True
 tlantan True True
 TMurray189 False True
@@ -296,7 +303,7 @@ vlasp01 False True
 vnnwlkr8 False True
 WarriorShit False True
 Wess129 True True
-wheresmydopamine False True
+wheresmydopamine True True
 WhiteFrankBlack False True
 wipermr False True
 Wish6 True True
