@@ -2,12 +2,12 @@
 1vanhoe True True
 2funk False False 2016.01.02
 4thegood False True
-6thisisit False True
+6thisisit True True
 862674 False True
 _Civil False True
 _lennart_ True True
 abolishpmo False False 2016.01.03
-acdcisnice True True
+acdcisnice True False 2016.01.05
 across_universe01 True True
 adannytoremember True False 2016.01.04
 Aerosenz False True
@@ -53,7 +53,7 @@ CurvingDive False True
 Dajtfed False True
 dalethesnail False True
 Dan1209 True True
-dandausa False True
+dandausa True True
 dayton1234 True True
 dayzero0 False True
 ddgb False True
@@ -110,7 +110,7 @@ incognito_15 False True
 ipartakeindrugs True True
 itzGaia False True
 Iwillgetoutofthis False True
-iwqpmo False True
+iwqpmo False False 2016.01.04
 Jacque_DeCock False True
 JAK747 False True
 jakefilmpro False True
@@ -126,16 +126,16 @@ kelowH True True
 kenjataimuFeels True True
 Kings_Son False True
 Kinsonlee False True
-KnopflerisGod False True
+KnopflerisGod True True
 Knowphap8 False True
 koolvanz False True
 kristerpettersson False True
-KumquatRevenge False True
+KumquatRevenge True True
 laere False True
 LBJC False True
 lekajones False True
 Leopr1 True True
-LeoTheFighter False True
+LeoTheFighter False False 2016.01.05
 leotrope True True
 lightbeyond False True
 living_and_dying True True
@@ -146,14 +146,14 @@ Lorenzo_Brandy False True
 ludwigvan__ True True
 lukas2020 False True
 m4rc0polo False True
-macked-out True True
+macked-out True False 2016.01.05
 mafiosogiacomo False True
 MaiKarooba True False 2016.01.04
 makers_recovery True True
 Makethefake True True
 mantuafree False True
 marcro2571 True True
-Marvin91 True True
+Marvin91 True False 2016.01.06
 masterofthethings False True
 mathdrug False True
 mcmtta False True
@@ -167,7 +167,7 @@ Min93 False True
 mintchoc-icecream False True
 MisterMagorium False True
 mizustyle True True
-MonkeyDSunny False True
+MonkeyDSunny True True
 MooseMilk3 True True
 moped2000 False True
 MotorVanborn5000 False True
@@ -181,13 +181,13 @@ MushishiMaster False True
 myCQI False True
 n0_m0re_p0rn False True
 N_A_R_C_O_S False True
-Na_2 False True
+Na_2 True True
 natborchers False True
 NCC1701G False True
 Neverstop7 False True
-NewBrian2016 False True
+NewBrian2016 True True
 nick73197 False True
-nnnate True True
+nnnate True False 2016.01.06
 nof12 False True
 NoFapAgain False True
 nofapffm True True
@@ -204,7 +204,7 @@ oobnate True True
 OscuroGG True True
 Otikron False True
 patchbag False True
-patron_stMax False True
+patron_stMax True True
 peach_kumquat True True
 PFNFaway22 False True
 pfree0409 True True
@@ -218,7 +218,7 @@ pornisforbetapeople True True
 pornojunky False True
 post-fapper True True
 praveenjuge False True
-Preambulanz False True
+Preambulanz True True
 preclosureoperator True True
 PUA_Wanna_be True True
 quicktoforget True True
@@ -228,18 +228,18 @@ rakt_fram False True
 Rasmus16 True True
 Razzaband True True
 RevocoRestituo False True
-rewoplliw False True
-rightthistime1 False True
+rewoplliw True True
+rightthistime1 True False 2016.01.05
 Ritner15 True True
 RobertFreddi True True
-Rocket_Knight False True
+Rocket_Knight False False 2016.01.04
 rodrigowb4ey False True
 RolloRocco True True
 roy_scott False True
 RyPA False True
 Sailorj1 False True
 sardonyxdragoon False True
-saskaciwanihk False True
+saskaciwanihk True True
 scorpion2phoenix False True
 ScyllaHide True True
 SgtCheesepuffs False True
@@ -250,7 +250,7 @@ shortless True True
 shrubbry False True
 sinfulregret True True
 Sirjim11 True True
-sittingonathumb False True
+sittingonathumb True True
 Slabdweller True True
 slic_ric False True
 Slyrix False True
@@ -280,7 +280,7 @@ Thee-Unforgiven True True
 theforc True True
 thegreatestjourney False True
 TheSteelSword False True
-thro_awaytheshackles True True
+thro_awaytheshackles True False 2016.01.05
 thrownawayforgoood False True
 thunderdeacon False True
 Tienseye True True
@@ -304,7 +304,7 @@ vnnwlkr8 False True
 WarriorShit False True
 Wess129 True True
 wheresmydopamine True True
-WhiteFrankBlack False True
+WhiteFrankBlack True True
 wipermr False True
 Wish6 True True
 WonderBoy92 False True
