@@ -65,7 +65,7 @@ CleanSince2016 True True
 coleman_7 False True
 cptkirk87 True True
 crowingz False True
-CurvingDive False True
+CurvingDive True True
 Czechin True True
 Dajtfed False True
 dalethesnail False True
@@ -87,6 +87,7 @@ diediededbacon False True
 DigiKorean False True
 DizzieO True True
 dmitri_adkins False True
+DontReadMyCommentPls True True
 dopamine_hijacker True True
 DracoDimitrios55 True True
 dreamerofwaves True True
@@ -98,7 +99,7 @@ DukeStamina True True
 Egkrateia True True
 eightsixfourhundred False True
 elbastardo1 True True
-Element-A True True
+Element-A True False 2016.01.07
 ender360v2 False True
 Engineering_Junkie False True
 EnziBenzi False True
@@ -125,7 +126,7 @@ FunkReborn False False 2016.01.04
 furchenmolch True True
 furthermucker True True
 gangstercomputer True True
-getinthecagewithnicc False True
+getinthecagewithnicc True True
 glassCannon21 False True
 go_an False True
 GoingNowhere True True
@@ -154,7 +155,7 @@ Iwillgetoutofthis False True
 iwqpmo False False 2016.01.04
 jabber011215 True True
 JAK747 False True
-jakefilmpro False True
+jakefilmpro True True
 jakiewan True False 2016.01.03
 jd158ug True True
 jeffrykoopman True True
@@ -185,6 +186,7 @@ leotrope True True
 Leve_Vikingaanden False True
 lightbeyond False True
 littlelionlittle False True
+Liviul True True
 ljokr True True
 lonely_jujube False True
 Lopokato124 False True
@@ -230,6 +232,7 @@ NoFapude-cumstorm False True
 Nogo13 False True
 nononofapfapfap False True
 nopantsparty42 True True
+noper32 True True
 Not_the False True
 notanamateur False True
 nth_root True True
@@ -283,7 +286,7 @@ scumstoner False True
 ScyllaHide True True
 Semuhtra True True
 Sen0r_Cardgage True True
-shadowsatdusk False True
+shadowsatdusk True True
 shigolnam True True
 Shiva314 True True
 shortless True True
@@ -298,7 +301,7 @@ Smaxfitness True True
 smokenfire7676 True True
 snowbow True True
 Soiltaker True True
-solongsomewhere False True
+solongsomewhere True True
 somanysquirrels False True
 somebody3895 True True
 spycow77 True True
@@ -318,7 +321,7 @@ TheAgenda True True
 TheCGLion False True
 Thee-Unforgiven True True
 Theflavourmauve True True
-thegreatestjourney False True
+thegreatestjourney True True
 TheMasterRedditor False True
 thenerj True True
 thespoudaios False True
@@ -338,13 +341,14 @@ tossedoffer True True
 Trappedinacorpse True True
 Treetrunk27 False True
 Triphouse False True
-trouav False True
+trouav False False 2016.01.07
 Turkeytom86 False True
 TurnAround13 True True
 Uber118 True True
 umadethisforareason True True
 Valvyn True True
 victorcrp01 False True
+vityaz777 True True
 VizualDreamer13 True True
 vlasp01 False True
 vnnwlkr8 True True
@@ -362,6 +366,6 @@ workingrecovery True True
 wrcahns False True
 XcherokeeJ False True
 YellowTango True True
-yes_darling False True
+yes_darling True True
 youngremy False True
 zvezdicee False True
