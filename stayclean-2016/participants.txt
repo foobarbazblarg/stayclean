@@ -17,7 +17,7 @@ adannytoremember True False 2016.01.04
 adash5000 False True
 Aerosenz False True
 aHeroWith44Pens True True
-Al-Fayed False True
+Al-Fayed True False 2016.01.08
 Albahacus True True
 alexianchen True True
 Ambition_HQ True True
@@ -40,7 +40,7 @@ Benddor True True
 bergkampinthesheets False True
 BetterRedRobinThan False True
 Betterthanuatlife True True
-BinarySequence False True
+BinarySequence True True
 BlaseBB False True
 Blaze6181 False True
 BluePhonix96 True True
@@ -55,7 +55,7 @@ call_me_possibly False True
 captain_discipline True True
 Captain_French False True
 catinsky True True
-ced22 False True
+ced22 False False 2016.01.08
 changingpete True True
 chessnutz True True
 chetangangappa True True
@@ -72,6 +72,7 @@ dalethesnail False True
 dalive True True
 Dan1209 True True
 dandausa False True
+Dannydub True True
 Dar_Now True True
 Darth_Picard False True
 dayzero0 False True
@@ -86,8 +87,9 @@ DforDeadpool False True
 diediededbacon False True
 DigiKorean False True
 DizzieO True True
-dmitri_adkins False True
+dmitri_adkins True True
 DontReadMyCommentPls True True
+dontwankbro True True
 dopamine_hijacker True True
 DracoDimitrios55 True True
 dreamerofwaves True True
@@ -143,12 +145,13 @@ I_Fucking_Hate_Porn False True
 icecremecatsandwich False True
 iGhettoBatman False True
 iluuu True True
-ImGonnaWin16 True True
+ImGonnaWin16 True False 2016.01.09
 imr9ne True True
 In-God-We-Rely False True
 intomath False True
 iodizedpepper False True
 ipartakeindrugs True True
+irgendwalrus True True
 itzGaia False True
 iur5 True True
 Iwillgetoutofthis False True
@@ -160,6 +163,7 @@ jakiewan True False 2016.01.03
 jd158ug True True
 jeffrykoopman True True
 Jelte-jv True True
+jimbob1231 True True
 jj119883 False True
 Jlw605 True True
 jsigmon91 False True
@@ -171,6 +175,7 @@ kelleyz14 False True
 kelowH True True
 kenjataimuFeels True True
 kiramis False True
+KnopflerisGod True True
 koolvanz False True
 KumquatRevenge True True
 kygx False True
@@ -188,11 +193,12 @@ lightbeyond False True
 littlelionlittle False True
 Liviul True True
 ljokr True True
-lonely_jujube False True
+lonely_jujube True True
 Lopokato124 False True
 LordofRice True True
 lukas2020 True True
 macked-out True False 2016.01.05
+MagneticAscetic True True
 makers_recovery True True
 Makethefake True True
 marcro2571 True True
@@ -204,7 +210,7 @@ melitallmighty False True
 metaphysicalboundary False True
 mikawaldi False True
 Min93 False True
-mintchoc-icecream False True
+mintchoc-icecream True True
 MisterMagorium False True
 mistertopshelf False True
 mizustyle True True
@@ -212,16 +218,16 @@ Monday14 True True
 MonkeyDSunny True True
 MooseMilk3 False True
 mrLittleboy False False 2016.01.04
-mrnoone56 False True
+mrnoone56 False False 2016.01.08
 MrTMNTR False True
 Mudhoney7 True True
-MushishiMaster False True
+MushishiMaster True True
 myCQI False True
 myshit_together_101 True True
 n0_m0re_p0rn False True
-N_A_R_C_O_S False True
+N_A_R_C_O_S True True
 natborchers False True
-NCC1701G False True
+NCC1701G True True
 NeedHelpNick False True
 Neverstop7 False True
 NewBrian2016 True True
@@ -230,6 +236,7 @@ nof12 False False 2016.01.01
 nofapffm True True
 NoFapude-cumstorm False True
 Nogo13 False True
+non_newtonian_jelly True True
 nononofapfapfap False True
 nopantsparty42 True True
 noper32 True True
@@ -237,7 +244,7 @@ Not_the False True
 notanamateur False True
 nth_root True True
 OccyX True True
-OdinTheKoala False True
+OdinTheKoala True True
 odstane True True
 OK_01 True True
 OldToBeingNew False True
@@ -266,7 +273,7 @@ pspforever1 False True
 Purpluhr False True
 quicktoforget False True
 r3dletters True True
-Rasmus16 True True
+Rasmus16 True False 2016.01.08
 Razzaband True True
 reboot74 False True
 rewoplliw True True
@@ -293,10 +300,10 @@ shortless True True
 shrubbry False True
 sinfulregret True True
 Sirjim11 True True
-sittingonathumb False True
+sittingonathumb True True
 slic_ric False True
 SloshingtonDC True True
-Slyrix False True
+Slyrix True True
 Smaxfitness True True
 smokenfire7676 True True
 snowbow True True
@@ -319,11 +326,13 @@ Thatguy32101 False False 2016.01.05
 theabeman False True
 TheAgenda True True
 TheCGLion False True
+thedum True True
 Thee-Unforgiven True True
 Theflavourmauve True True
 thegreatestjourney True True
 TheMasterRedditor False True
 thenerj True True
+thenumber53was_me True True
 thespoudaios False True
 TheSteelSword False True
 thisisaname3 False True
@@ -341,6 +350,7 @@ tossedoffer True True
 Trappedinacorpse True True
 Treetrunk27 False True
 Triphouse False True
+Tripleaidid True True
 trouav False False 2016.01.07
 Turkeytom86 False True
 TurnAround13 True True
@@ -354,6 +364,7 @@ vlasp01 False True
 vnnwlkr8 True True
 wakeuptoblues True True
 walkingagh True True
+warriorbil True True
 WarriorShit True True
 WazzupBR True True
 Wess129 True True
@@ -362,7 +373,7 @@ WinByHydro False True
 Wish6 True True
 woahacow True True
 WonderBoy92 False True
-workingrecovery True True
+workingrecovery True False 2016.01.08
 wrcahns False True
 XcherokeeJ False True
 YellowTango True True

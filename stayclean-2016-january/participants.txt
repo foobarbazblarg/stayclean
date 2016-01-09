@@ -12,7 +12,7 @@ across_universe01 True True
 adannytoremember True False 2016.01.04
 Aerosenz False True
 aglalit False True
-Al-Fayed False True
+Al-Fayed True False 2016.01.08
 Albahacus False True
 alexianchen False True
 anamename False True
@@ -28,7 +28,7 @@ bberlinn True True
 beardman94 True True
 Bergendey False True
 BillyShears1958 False True
-BinarySequence False True
+BinarySequence True True
 bjjmonkey True True
 blah133 False True
 BlaseBB False True
@@ -39,7 +39,7 @@ captain_discipline True True
 captaingouyou True True
 Carlblf False True
 catinsky True True
-ced22 False True
+ced22 False False 2016.01.08
 changeard False True
 changingpete True True
 chetangangappa True True
@@ -64,11 +64,11 @@ DforDeadpool False True
 DigiKorean False True
 discipleofnofap False True
 DizzieO False True
-dmitri_adkins False True
+dmitri_adkins True True
 doggybalfour True True
 DoNotEatTheTail False True
 DracoDimitrios55 True True
-drlusso False True
+drlusso True True
 DukeStamina True True
 ehho True True
 Eipa True True
@@ -83,7 +83,7 @@ FearlessMadman False True
 Fenix12345 False True
 fixitnow90210 True True
 foobarbazblarg True True
-ForesterNL False True
+ForesterNL True True
 fortytude True True
 FourOneNiner True True
 Free-B True True
@@ -145,7 +145,7 @@ LordofRice True True
 Lorenzo_Brandy False True
 ludwigvan__ True True
 lukas2020 True True
-m4rc0polo False True
+m4rc0polo True True
 macked-out True False 2016.01.05
 mafiosogiacomo False True
 MaiKarooba True False 2016.01.04
@@ -157,14 +157,14 @@ Marvin91 True False 2016.01.06
 masterofthethings False True
 mathdrug False True
 mcmtta False True
-mcquinn7 True True
+mcquinn7 True False 2016.01.09
 Meche24 True True
 meezus89 False True
 MeTurningPro False True
 Midnight-Clad False True
 milkywaymasta False True
 Min93 False True
-mintchoc-icecream False True
+mintchoc-icecream True True
 MisterMagorium False True
 mizustyle True True
 MonkeyDSunny True True
@@ -172,18 +172,18 @@ MooseMilk3 True True
 moped2000 False True
 MotorVanborn5000 False True
 mrlenoir False True
-mrnoone56 False True
+mrnoone56 False False 2016.01.08
 MrPoischiche False True
 MrTMNTR False True
 msp24 True True
 Mudhoney7 True True
-MushishiMaster False True
+MushishiMaster True True
 myCQI False True
 n0_m0re_p0rn False True
-N_A_R_C_O_S False True
+N_A_R_C_O_S True True
 Na_2 True True
 natborchers False True
-NCC1701G False True
+NCC1701G True True
 Neverstop7 False True
 NewBrian2016 True True
 nick73197 False True
@@ -225,14 +225,14 @@ quicktoforget True True
 quittingishard False True
 r3dletters False True
 rakt_fram False True
-Rasmus16 True True
+Rasmus16 True False 2016.01.08
 Razzaband True True
 RevocoRestituo False True
 rewoplliw True True
 rightthistime1 True False 2016.01.05
 Ritner15 True True
 RobertFreddi True True
-Rocket_Knight False False 2016.01.04
+Rocket_Knight True False 2016.01.04
 rodrigowb4ey False True
 RolloRocco True True
 roy_scott False True
@@ -251,9 +251,9 @@ shrubbry False True
 sinfulregret True True
 Sirjim11 True True
 sittingonathumb True True
-Slabdweller True True
+Slabdweller True False 2016.01.07
 slic_ric False True
-Slyrix False True
+Slyrix True True
 Smaxfitness False True
 smokenfire7676 True True
 socoolhage False True
@@ -308,7 +308,7 @@ WhiteFrankBlack True True
 wipermr False True
 Wish6 True True
 WonderBoy92 False True
-workingrecovery True True
+workingrecovery True False 2016.01.08
 wrcahns False True
 wulfrice False True
 XcherokeeJ False True
