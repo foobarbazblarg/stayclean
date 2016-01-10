@@ -178,6 +178,7 @@ kenjataimuFeels True True
 kiramis False True
 KnopflerisGod True True
 koolvanz False True
+Korleonis True True
 KumquatRevenge True True
 kygx False True
 lackofabetter_name False True
