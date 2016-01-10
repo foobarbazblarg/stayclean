@@ -24,7 +24,12 @@ sys.setdefaultencoding('utf8')
 # Edit me!
 challengePageSubmissionId = '3yzsva'
 flaskport = 8889
+thisMonthName = "January"
+nextMonthName = "February"
 readAllCommentsWhichCanBeSlower = False
+
+sorryTooLateToSignUpReplyText = "Sorry, but the late signup grace period for " + thisMonthName + " is over, so you can't officially join this challenge.  But feel free to follow along anyway, and comment all you want.  And be sure to join us for the " + nextMonthName + " challenge.  Signups posts for " + nextMonthName + " will begin during the last week of " + thisMonthName + "."
+reinstatedReplyText = "OK, I've reinstated you.  You should start showing up on the list again starting tomorrow."
 
 app = Flask(__name__)
 app.debug = True
@@ -120,7 +125,8 @@ def moderatechallenge():
             stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin">')
             # stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin" style="color:white;background-color:green">')
             stringio.write('<input type="submit" name="actiontotake" value="Relapse" style="color:white;background-color:red">')
-            stringio.write('<input type="submit" name="actiontotake" value="Reinstate">')
+            stringio.write('<input type="submit" name="actiontotake" value="Reinstate with automatic comment">')
+            stringio.write('<input type="submit" name="actiontotake" value="Reply with sorry-too-late comment">')
             stringio.write('<input type="submit" name="actiontotake" value="Skip comment">')
             stringio.write('<input type="submit" name="actiontotake" value="Skip comment and don\'t upvote">')
             stringio.write('<input type="hidden" name="username" value="' + b64encode(str(comment.author)) + '">')
@@ -161,9 +167,15 @@ def takeaction():
         subprocess.call(['./relapse.py', username])
         comment.upvote()
         retireCommentHash(commentHash)
-    elif actionToTake == 'Reinstate':
+    elif actionToTake == 'Reinstate with automatic comment':
         print "reinstate - " + username
         subprocess.call(['./reinstate.py', username])
+        comment.reply(reinstatedReplyText)
+        comment.upvote()
+        retireCommentHash(commentHash)
+    elif actionToTake == 'Reply with sorry-too-late comment':
+        print "reply with sorry-too-late comment - " + username
+        comment.reply(sorryTooLateToSignUpReplyText)
         comment.upvote()
         retireCommentHash(commentHash)
     elif actionToTake == 'Skip comment':

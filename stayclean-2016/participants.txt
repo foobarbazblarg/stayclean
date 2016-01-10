@@ -44,7 +44,7 @@ BinarySequence True True
 BlaseBB False True
 Blaze6181 False True
 BluePhonix96 True True
-Boonofthegarou False True
+Boonofthegarou True True
 briarrhea False True
 Brophylactic37 False True
 Brucetrunks False True
@@ -140,8 +140,8 @@ HellenaFox False True
 HeruPrime True True
 heyoh1 False True
 hotegg True True
-humble777 False True
-HypeSloth True True
+humble777 True True
+HypeSloth True False 2016.01.10
 I_Fucking_Hate_Porn False True
 icecremecatsandwich False True
 iGhettoBatman False True
@@ -266,7 +266,7 @@ Porn_is_shit True True
 pornfree_acnt True True
 pornisforbetapeople True True
 pornojunky False True
-post-fapper False True
+post-fapper True True
 PotentLife True True
 praveenjuge False True
 preclosureoperator True True
@@ -299,7 +299,7 @@ shigolnam True True
 Shiva314 True True
 shortless True True
 shrubbry False True
-sinfulregret True True
+sinfulregret True False 2016.01.09
 Sirjim11 True True
 sittingonathumb True True
 slic_ric False True

@@ -14,7 +14,7 @@ Aerosenz False True
 aglalit False True
 Al-Fayed True False 2016.01.08
 Albahacus False True
-alexianchen False True
+alexianchen True True
 anamename False True
 antifapper False True
 Arzackk True True
@@ -33,7 +33,7 @@ bjjmonkey True True
 blah133 False True
 BlaseBB False True
 Blaze6181 False True
-bodymeetssoul True True
+bodymeetssoul True False 2016.01.10
 Cage03 True True
 captain_discipline True True
 captaingouyou True True
@@ -75,7 +75,7 @@ Eipa True True
 elbastardo1 True True
 ender360v2 False True
 engine4death False True
-eristicmystic False True
+eristicmystic True True
 Evil_Entity False True
 eXj0k3r False True
 fballbeast False True
@@ -101,8 +101,8 @@ GoingToMakeIt14 False True
 gunleader True True
 Highbmi True True
 HippieSoulPunx True True
-humble777 False True
-HypeSloth True True
+humble777 True True
+HypeSloth True False 2016.01.10
 I_Fucking_Hate_Porn False True
 ImprovedMechECowboy False True
 imr9ne True True
@@ -248,7 +248,7 @@ Sharkictus False True
 shigolnam True True
 shortless True True
 shrubbry False True
-sinfulregret True True
+sinfulregret True False 2016.01.09
 Sirjim11 True True
 sittingonathumb True True
 Slabdweller True False 2016.01.07
@@ -258,7 +258,7 @@ Smaxfitness False True
 smokenfire7676 True True
 socoolhage False True
 Sodar False True
-Somtijds False True
+Somtijds False False 2016.01.10
 SpiritualEntity False True
 sreebakely False True
 Stagafuliza False True
@@ -301,7 +301,7 @@ umadethisforareason True True
 vityaz777 True True
 vlasp01 False True
 vnnwlkr8 True True
-WarriorShit False True
+WarriorShit True True
 Wess129 True True
 wheresmydopamine True True
 WhiteFrankBlack True True
