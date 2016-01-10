@@ -3,7 +3,6 @@ import json
 import gspread
 from oauth2client.client import SignedJwtAssertionCredentials
 import datetime
-import re
 from participantCollection import ParticipantCollection
 
 # Edit Me!
@@ -38,17 +37,19 @@ dayOfWeekIndexesAndNumberOfInstances = {0: 0, 1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0
 reportDate = earliestReportDate
 while reportDate <= latestReportDate:
     reportDatesAndNumberOfRelapses[reportDate] = 0
-    dayOfWeekIndexesAndNumberOfInstances[reportDate.weekday()] = dayOfWeekIndexesAndNumberOfInstances[reportDate.weekday()] + 1
+    # dayOfWeekIndexesAndNumberOfInstances[reportDate.weekday()] = dayOfWeekIndexesAndNumberOfInstances[reportDate.weekday()] + 1
+    dayOfWeekIndexesAndNumberOfInstances[reportDate.weekday()] += 1
     reportDate += datetime.timedelta(days=1)
 for relapseDate in sortedRelapseDates:
-    # TODO:  google for augmented assignment.
-    reportDatesAndNumberOfRelapses[relapseDate] = reportDatesAndNumberOfRelapses[relapseDate] + 1
+    # reportDatesAndNumberOfRelapses[relapseDate] = reportDatesAndNumberOfRelapses[relapseDate] + 1
+    reportDatesAndNumberOfRelapses[relapseDate] += 1
 dayOfWeekIndexesAndTotalNumberOfRelapses = {0: 0, 1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0}
 for participantFileName in participantFileNames:
     participants = ParticipantCollection(fileNameString=participantFileName)
     # print participants.relapseDayOfWeekIndexesAndParticipants()
     for index, parts in participants.relapseDayOfWeekIndexesAndParticipants().iteritems():
-        dayOfWeekIndexesAndTotalNumberOfRelapses[index] = dayOfWeekIndexesAndTotalNumberOfRelapses[index] + len(parts)
+        # dayOfWeekIndexesAndTotalNumberOfRelapses[index] = dayOfWeekIndexesAndTotalNumberOfRelapses[index] + len(parts)
+        dayOfWeekIndexesAndTotalNumberOfRelapses[index] += len(parts)
 dayOfWeekIndexesAndAverageNumberOfRelapses = {0: 0, 1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0}
 for index, instances in dayOfWeekIndexesAndNumberOfInstances.iteritems():
     # dayOfWeekIndexesAndAverageNumberOfRelapses[index] = int(round(float(dayOfWeekIndexesAndTotalNumberOfRelapses[index]) / float(instances)))
@@ -61,6 +62,7 @@ json_key = json.load(open('../google-oauth-credentials.json'))
 scope = ['https://spreadsheets.google.com/feeds']
 credentials = SignedJwtAssertionCredentials(json_key['client_email'], json_key['private_key'].encode(), scope)
 gc = gspread.authorize(credentials)
+spreadSheet = None
 try:
     spreadSheet = gc.open(spreadsheetTitle)
 except gspread.exceptions.SpreadsheetNotFound:

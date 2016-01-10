@@ -1,7 +1,6 @@
 #!/usr/bin/python
 from participantCollection import ParticipantCollection
 import re
-import datetime
 import pyperclip
 
 # Edit me!
@@ -41,7 +40,7 @@ def stringToPrint():
     answer = re.sub('PERCENT_STILL_IN', str(percentStillIn), answer)
     answer = re.sub('NEXT_YEAR_URL', nextYearURL, answer)
     answer = re.sub('_YEAR_', str(year), answer)
-    answer = re.sub('NEXT_YEAR', str(year+1), answer)
+    answer = re.sub('NEXT_YEAR', str(year + 1), answer)
     return answer
 
 outputString = stringToPrint()

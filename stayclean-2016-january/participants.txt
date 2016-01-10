@@ -168,7 +168,7 @@ mintchoc-icecream True True
 MisterMagorium False True
 mizustyle True True
 MonkeyDSunny True True
-MooseMilk3 True True
+MooseMilk3 True False 2016.01.09
 moped2000 False True
 MotorVanborn5000 False True
 mrlenoir False True

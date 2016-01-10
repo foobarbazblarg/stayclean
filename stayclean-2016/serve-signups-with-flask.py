@@ -21,17 +21,13 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 
 # Edit me!
-signupPageSubmissionIds = [ '3y5p0l', '3y9dr5', '3ydu91', '3yi84v', '3ymifg', '3yrodd', '3yww4l' ]
-# TODO: the submission ids in these next two commented lines are actually for the December challenge, for testing.
-# signupPageSubmissionIds = [ '3uumbg', '3upr7m', '3ulj0h', '3ugcxz', '3uc63s', '3u7q34', '3u1oyx' ]
-# signupPageSubmissionIds = [ '3uumbg' ]
+signupPageSubmissionIds = ['3y5p0l', '3y9dr5', '3ydu91', '3yi84v', '3ymifg', '3yrodd', '3yww4l']
 flaskport = 8892
 
 app = Flask(__name__)
 app.debug = True
-
-
 commentHashesAndComments = {}
+
 
 def loginAndReturnRedditSession():
     config = ConfigParser()
@@ -45,17 +41,20 @@ def loginAndReturnRedditSession():
     # print [str(x) for x in submissions]
     return redditSession
 
+
 def loginOAuthAndReturnRedditSession():
     redditSession = praw.Reddit(user_agent='Test Script by /u/foobarbazblarg')
-    o = OAuth2Util.OAuth2Util(redditSession, print_log = True, configfile="../reddit-oauth-credentials.cfg")
+    o = OAuth2Util.OAuth2Util(redditSession, print_log=True, configfile="../reddit-oauth-credentials.cfg")
     o.refresh(force=True)
     return redditSession
 
+
 def getSubmissionsForRedditSession(redditSession):
-    submissions = [ redditSession.get_submission(submission_id=submissionId) for submissionId in signupPageSubmissionIds]
+    submissions = [redditSession.get_submission(submission_id=submissionId) for submissionId in signupPageSubmissionIds]
     for submission in submissions:
         submission.replace_more_comments(limit=None, threshold=0)
     return submissions
+
 
 def getCommentsForSubmissions(submissions):
     comments = []
@@ -63,14 +62,17 @@ def getCommentsForSubmissions(submissions):
         comments += praw.helpers.flatten_tree(submission.comments)
     return comments
 
+
 def retireCommentHash(commentHash):
     with open("retiredcommenthashes.txt", "a") as commentHashFile:
         commentHashFile.write(commentHash + '\n')
+
 
 def retiredCommentHashes():
     with open("retiredcommenthashes.txt", "r") as commentHashFile:
         # return commentHashFile.readlines()
         return commentHashFile.read().splitlines()
+
 
 @app.route('/moderatesignups.html')
 def moderatesignups():
@@ -122,7 +124,6 @@ def moderatesignups():
             stringio.write('<input type="hidden" name="commenthash" value="' + commentHash + '">')
             stringio.write('<input type="hidden" name="commentpermalink" value="' + comment.permalink + '">')
             stringio.write('</form>')
-
             stringio.write(bleach.clean(markdown.markdown(comment.body.encode('utf-8')), tags=['p']))
             stringio.write("\n<br><br>\n\n")
 
@@ -131,11 +132,12 @@ def moderatesignups():
     stringio.close()
     return Response(pageString, mimetype='text/html')
 
+
 @app.route('/takeaction.html', methods=["POST"])
 def takeaction():
     username = b64decode(request.form["username"])
     commentHash = str(request.form["commenthash"])
-    commentPermalink = request.form["commentpermalink"]
+    # commentPermalink = request.form["commentpermalink"]
     actionToTake = request.form["actiontotake"]
     # print commentHashesAndComments
     comment = commentHashesAndComments[commentHash]
@@ -168,7 +170,6 @@ def takeaction():
         print "Skip comment and don't upvote - " + username
         retireCommentHash(commentHash)
     return Response("hello", mimetype='text/html')
-
 
 
 @app.route('/copydisplayduringsignuptoclipboard.html', methods=["POST"])

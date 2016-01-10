@@ -28,8 +28,8 @@ readAllCommentsWhichCanBeSlower = False
 
 app = Flask(__name__)
 app.debug = True
-
 commentHashesAndComments = {}
+
 
 def loginAndReturnRedditSession():
     config = ConfigParser()
@@ -43,11 +43,14 @@ def loginAndReturnRedditSession():
     # print [str(x) for x in submissions]
     return redditSession
 
+
 def loginOAuthAndReturnRedditSession():
     redditSession = praw.Reddit(user_agent='Test Script by /u/foobarbazblarg')
-    o = OAuth2Util.OAuth2Util(redditSession, print_log = True, configfile="../reddit-oauth-credentials.cfg")
-    o.refresh(force=True)
+    o = OAuth2Util.OAuth2Util(redditSession, print_log=True, configfile="../reddit-oauth-credentials.cfg")
+    # TODO:  Testing comment of refresh.  We authenticate fresh every time, so presumably no need to do o.refresh().
+    # o.refresh(force=True)
     return redditSession
+
 
 def getSubmissionForRedditSession(redditSession):
     submission = redditSession.get_submission(submission_id=challengePageSubmissionId)
@@ -55,17 +58,21 @@ def getSubmissionForRedditSession(redditSession):
         submission.replace_more_comments(limit=None, threshold=0)
     return submission
 
+
 def getCommentsForSubmission(submission):
     return [comment for comment in praw.helpers.flatten_tree(submission.comments) if comment.__class__ == praw.objects.Comment]
+
 
 def retireCommentHash(commentHash):
     with open("retiredcommenthashes.txt", "a") as commentHashFile:
         commentHashFile.write(commentHash + '\n')
 
+
 def retiredCommentHashes():
     with open("retiredcommenthashes.txt", "r") as commentHashFile:
         # return commentHashFile.readlines()
         return commentHashFile.read().splitlines()
+
 
 @app.route('/moderatechallenge.html')
 def moderatechallenge():
@@ -75,8 +82,11 @@ def moderatechallenge():
     stringio.write('<html>\n<head>\n</head>\n\n')
 
     # redditSession = loginAndReturnRedditSession()
+    print "1"
     redditSession = loginOAuthAndReturnRedditSession()
+    print "2"
     submission = getSubmissionForRedditSession(redditSession)
+    print "3"
     flat_comments = getCommentsForSubmission(submission)
     retiredHashes = retiredCommentHashes()
     i = 1
@@ -117,20 +127,19 @@ def moderatechallenge():
             stringio.write('<input type="hidden" name="commenthash" value="' + commentHash + '">')
             stringio.write('<input type="hidden" name="commentpermalink" value="' + comment.permalink + '">')
             stringio.write('</form>')
-
             stringio.write(bleach.clean(markdown.markdown(comment.body.encode('utf-8')), tags=['p']))
             stringio.write("\n<br><br>\n\n")
-
     stringio.write('</html>')
     pageString = stringio.getvalue()
     stringio.close()
     return Response(pageString, mimetype='text/html')
 
+
 @app.route('/takeaction.html', methods=["POST"])
 def takeaction():
     username = b64decode(request.form["username"])
     commentHash = str(request.form["commenthash"])
-    commentPermalink = request.form["commentpermalink"]
+    # commentPermalink = request.form["commentpermalink"]
     actionToTake = request.form["actiontotake"]
     # print commentHashesAndComments
     comment = commentHashesAndComments[commentHash]
@@ -163,7 +172,6 @@ def takeaction():
         print "Skip comment and don't upvote - " + username
         retireCommentHash(commentHash)
     return Response("hello", mimetype='text/html')
-
 
 
 @app.route('/copydisplaytoclipboard.html', methods=["POST"])
