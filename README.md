@@ -58,23 +58,43 @@ Once you start the two flask scripts in a month's directory, as described above,
 
 ### My workflow for managing the StayClean monthly challenges
 Let's go through an example.  For our example, we will manage the monthly challenge for January 2016.
-- **On January 1** - The first day of the month is by far the most complex day.  Every other day is simple, honest.  We have already been using (during the last week of December) the signup.py script and/or the http://127.0.0.1:8890/moderatesignups.html flask webapp to sign people up.  I.e. there are already many lines in ~/stayclean/stayclean-2016-january/participants.txt.
+- **On the morning of January 1** - The first day of the month is by far the most complex day.  Every other day is simple, honest.  We have already been using (during the last week of December) the signup.py script and/or the http://127.0.0.1:8890/moderatesignups.html flask webapp to sign people up.  I.e. there are already many lines in ~/stayclean/stayclean-2016-january/participants.txt.
     - cd to the ~/stayclean/stayclean-2016-january directory.
-    - execute the **display.py** script, which generates the first day's challenge page text, and copies it to the clipboard.
+    - In a terminal, execute the **display.py** script, which generates the first day's challenge page text, and copies it to the clipboard.
     - Bring up a browser on the subreddit, and click "Submit a new text post" to create the challenge post.  Give the new post a title of "STAY CLEAN: JANUARY! This thread updated daily - Check in here!"  Paste the page text into the form and hit Submit.
     - Sticky the new post.
     - Copy the 6-digit submission id code (e.g. "3v059o") from the post's URL, and paste it into the challengePageSubmissionId portion at the top of the **serve-challenge-with-flask.py** script.
     - In a long-running browser tab, open the http://127.0.0.1:8888/moderatechallenge.html flask webapp.  From now on, much of the heavy lifting of managing the monthly challenge can be done from this browser tab.
     - cd to the previous month's directory, e.g. ~/stayclean/stayclean-2015-december
-    - execute the **disqualify-all-not-checked-in.py** script.
+    - In a terminal, execute the **disqualify-all-not-checked-in.py** script.
     - Edit the **display-final-after-month-is-over.py** script, and edit the nextMonthURL value at the top of the script, pasting in the URL for the new January thread.
-    - execute the **display-final-after-month-is-over.py** script, which generates and automatically copies to the clipboard the final text for the (now over) previous month's challenge page, e.g. December's challenge page.
+    - In a terminal, execute the **display-final-after-month-is-over.py** script, which generates and automatically copies to the clipboard the final text for the (now over) previous month's challenge page, e.g. December's challenge page.
     - Edit December's challenge page, and paste in the text.
     - Un-sticky December's challenge page.
-    - execute the **display-congratulations-after-month-is-over.py** script, which generates and automatically copies to the clipboard, text for the previous month's "congratulations to the victors..." post.
+    - In a terminal, execute the **display-congratulations-after-month-is-over.py** script, which generates and automatically copies to the clipboard, text for the previous month's "congratulations to the victors..." post.
     - On the subreddit's page, click "Submit a new text post" to create the congratulations post.  Paste in the text and title of the post, and hit submit.
     - For each of the signup pages that we created during the last week of December, edit the pages, with text that indicates that signup is over.  Use those double-tildes to "cross out" much of the original text.
-- _Workflow for the other days of the month, to be documented soon._
+- **On the mornings of January 2-3** - These are the second and third days of our late-signup grace period.
+    - Refresh the browser tab that is open to http://127.0.0.1:8888/moderatechallenge.html , and use the submit buttons to checkin, signup and checkin, and relapse the users who have posted comments throughout the day.
+    - You can do this as many times as you wish throughout the day.
+    - Because we are within our 3-day late-signup grace period, feel free to simply use the signup and checkin button, instead of the checkin button.
+    - Click the "Copy display.py stdout to clipboard" button.
+    - Log into the challenge page on Reddit, edit the post, and paste in the clipboard text.
+    - If you wish to customize the "Daily News" paragraph, do it now.
+    - Click Save
+- **On the mornings of January 4-15** - This is the first half of the month, not within the three day late-signup grace period.
+    - Follow the directions of the "January 2-3" section, but do not use the signup and checkin button, only use the checkin button and relapse buttons.
+- **On the morning of January 16** - This is the first day of the second half of the month, and those who have not checked in will be disqualified.
+    - Make sure you have caught up completely on checking in and relapsing commenting users.
+    - In a terminal, execute the **on-the-sixteenth.sh** script, which disqualifies everyone not yet checked in, then marks everyone else as not checked in (restoring the tilde next to their name), and copies the day's post to the clipboard.
+    - Log into the challenge page on Reddit, edit the post, paste in the clipboard text, and click Save.
+- **On the mornings of January 17-January 24** - These are normal days, prior to posting the signup threads for February.  If the month had 30 days instead of 31, we would follow these directions through January 23, not 24.
+    - Just follow the "January 4-15" directions.
+- **On any day before January 25** - We need to prepare the stayclean subdirectory for February.
+    - _more here_
+- **On the mornings of January 25-January 31** - In addition to managing the January challenge as usual, we post daily February challenge signup posts.
+    - Follow the "January 4-15" directions as usual, to manage the January challenge.
+    - _more here_
 
 ### Questions?
 For more information, contact foobarbazblarg at gmail.  Keep fighting the good fight!

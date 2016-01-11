@@ -174,7 +174,7 @@ MotorVanborn5000 False True
 mrlenoir False True
 mrnoone56 False False 2016.01.08
 MrPoischiche False True
-MrTMNTR False True
+MrTMNTR True True
 msp24 True True
 Mudhoney7 True True
 MushishiMaster True True
@@ -199,7 +199,7 @@ nth_root True True
 OdinTheKoala True True
 OK_01 True True
 OliverSpecter False True
-onfleek100 False True
+onfleek100 True True
 oobnate True True
 OscuroGG True True
 Otikron False True
