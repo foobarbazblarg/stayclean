@@ -32,7 +32,7 @@ BinarySequence True True
 bjjmonkey True True
 blah133 False True
 BlaseBB False True
-Blaze6181 False True
+Blaze6181 True True
 bodymeetssoul True False 2016.01.10
 Cage03 True True
 captain_discipline True True
@@ -100,7 +100,7 @@ glassCannon21 False True
 GoingToMakeIt14 False True
 gunleader True True
 Highbmi True True
-HippieSoulPunx True True
+HippieSoulPunx True False 2016.01.12
 humble777 True True
 HypeSloth True False 2016.01.10
 I_Fucking_Hate_Porn False True
@@ -120,7 +120,7 @@ jj119883 False True
 joshsoowong False True
 jspliff1 True True
 jumpmanspace False True
-Karatebro False True
+Karatebro True True
 keiran-cole False True
 kelowH True True
 kenjataimuFeels True True
@@ -213,9 +213,9 @@ PhilRyTheRedditGuy True True
 picardhasyourback True True
 pocolocomoco False True
 poopey_doopey False True
-Porn_is_shit True True
+Porn_is_shit True False 2016.01.12
 pornisforbetapeople True True
-pornojunky False True
+pornojunky False False 2016.01.11
 post-fapper True True
 praveenjuge False True
 Preambulanz True True
@@ -269,7 +269,7 @@ Sundria False True
 SunniestWarrior True True
 sunshine_rec0rder True True
 suntzu01 False True
-swageduplikcailou True True
+swageduplikcailou True False 2016.01.11
 Switchingitup90 False True
 sXe4Life True True
 Tacolishus False True
@@ -281,6 +281,7 @@ theforc True True
 thegreatestjourney True True
 TheSteelSword False True
 thro_awaytheshackles True False 2016.01.05
+Throwaway01067 True True
 thrownawayforgoood False True
 thunderdeacon False True
 Tienseye True True
@@ -302,7 +303,7 @@ vityaz777 True True
 vlasp01 False True
 vnnwlkr8 True True
 WarriorShit True True
-Wess129 True True
+Wess129 True False 2016.01.11
 wheresmydopamine True True
 WhiteFrankBlack True True
 wipermr False True
