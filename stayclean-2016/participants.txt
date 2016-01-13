@@ -62,6 +62,7 @@ ChaleBoy True True
 changingpete True True
 chessnutz True True
 chetangangappa True True
+ChinoCap True True
 ChuckSchuldinerRules False True
 cikatomo True False 2016.01.02
 CleanSince2016 True True
@@ -244,6 +245,7 @@ non_newtonian_jelly True True
 nononofapfapfap False True
 nopantsparty42 True True
 noper32 True True
+nosweetescape True True
 Not_the False True
 notanamateur False True
 nth_root True True
