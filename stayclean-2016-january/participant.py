@@ -8,6 +8,10 @@ class Participant:
         self.hasCheckedIn = False
         self.relapseDate = None
 
+    @property
+    def hasRelapsed(self):
+        return self.relapseDate is not None
+
     def setFromLine(self, lineString):
         # format of participants.txt line:
         # name hasCheckedIn isStillIn

@@ -16,6 +16,7 @@ import markdown
 import bleach
 # encoding=utf8
 import sys
+from participantCollection import ParticipantCollection
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -28,7 +29,7 @@ thisMonthName = "January"
 nextMonthName = "February"
 readAllCommentsWhichCanBeSlower = False
 
-sorryTooLateToSignUpReplyText = "Sorry, but the late signup grace period for " + thisMonthName + " is over, so you can't officially join this challenge.  But feel free to follow along anyway, and comment all you want.  And be sure to join us for the " + nextMonthName + " challenge.  Signups posts for " + nextMonthName + " will begin during the last week of " + thisMonthName + "."
+sorryTooLateToSignUpReplyText = "Sorry, but the late signup grace period for " + thisMonthName + " is over, so you can't officially join this challenge.  But feel free to follow along anyway, and comment all you want.  And be sure to join us for the " + nextMonthName + " challenge.  Signup posts for " + nextMonthName + " will begin during the last week of " + thisMonthName + "."
 reinstatedReplyText = "OK, I've reinstated you.  You should start showing up on the list again starting tomorrow."
 
 app = Flask(__name__)
@@ -114,11 +115,23 @@ def moderatechallenge():
         commentHash = commentHash.hexdigest()
         if commentHash not in retiredHashes:
             commentHashesAndComments[commentHash] = comment
+            authorName = str(comment.author)  # can be None if author was deleted.  So check for that and skip if it's None.
             stringio.write("<hr>\n")
             stringio.write('<font color="blue"><b>')
-            stringio.write(str(comment.author))  # can be None if author was deleted.  So check for that and skip if it's None.
-            stringio.write('</b></font>')
-
+            stringio.write(authorName)
+            stringio.write('</b></font><br>')
+            if ParticipantCollection().hasParticipantNamed(authorName):
+                stringio.write(' <small><font color="green">(member)</font></small>')
+                if ParticipantCollection().participantNamed(authorName).isStillIn:
+                    stringio.write(' <small><font color="green">(still in)</font></small>')
+                else:
+                    stringio.write(' <small><font color="red">(out)</font></small>')
+                if ParticipantCollection().participantNamed(authorName).hasRelapsed:
+                    stringio.write(' <small><font color="red">(relapsed)</font></small>')
+                else:
+                    stringio.write(' <small><font color="green">(not relapsed)</font></small>')
+            else:
+                stringio.write(' <small><font color="red">(not a member)</font></small>')
             stringio.write('<form action="takeaction.html" method="post" target="invisibleiframe">')
             # stringio.write('<input type="submit" name="actiontotake" value="Checkin">')
             stringio.write('<input type="submit" name="actiontotake" value="Checkin" style="color:white;background-color:green">')
@@ -129,7 +142,7 @@ def moderatechallenge():
             stringio.write('<input type="submit" name="actiontotake" value="Reply with sorry-too-late comment">')
             stringio.write('<input type="submit" name="actiontotake" value="Skip comment">')
             stringio.write('<input type="submit" name="actiontotake" value="Skip comment and don\'t upvote">')
-            stringio.write('<input type="hidden" name="username" value="' + b64encode(str(comment.author)) + '">')
+            stringio.write('<input type="hidden" name="username" value="' + b64encode(authorName) + '">')
             stringio.write('<input type="hidden" name="commenthash" value="' + commentHash + '">')
             stringio.write('<input type="hidden" name="commentpermalink" value="' + comment.permalink + '">')
             stringio.write('</form>')
