@@ -29,13 +29,13 @@ def templateForParticipants():
 
 def templateToUse():
     answer = ""
-    answer += "CONGRATULATIONS TO THE VICTORS OF THE STAY CLEAN: UPPERCASE_MONTH CHALLENGE!\n"
-    answer += "Hey everybody, take a second to post a congratulatory comment to the victors of the Stay Clean: CURRENT_MONTH_NAME challenge, listed below. **NUMBER_STILL_IN** out of INITIAL_NUMBER original participants made it. that's **PERCENT_STILL_IN%**. Victors, feel free to post a comment with your thoughts about the month. Was there anything specific that worked to keep you clean? What advice do you have for the rest of us? Here are our **NUMBER_STILL_IN victors**:\n\n"
+    answer += "CONGRATULATIONS TO THE VICTORS OF THE STAY CLEAN UPPERCASE_MONTH CHALLENGE!\n"
+    answer += "Hey everybody, take a second to post a congratulatory comment to the victors of the Stay Clean CURRENT_MONTH_NAME challenge, listed below. **NUMBER_STILL_IN** out of INITIAL_NUMBER original participants made it. that's **PERCENT_STILL_IN%**. Victors, feel free to post a comment with your thoughts about the month. Was there anything specific that worked to keep you clean? What advice do you have for the rest of us? Here are our **NUMBER_STILL_IN victors**:\n\n"
     answer += templateForParticipants()
     return answer
 
 '''
-Hey everybody, take a second to post a congratulatory comment to the victors of the Stay Clean: November challenge, listed below. **38** out of 287 original participants made it. that's **13%**. Victors, feel free to post a comment with your thoughts about the month. Was there anything specific that worked to keep you clean? What advice do you have for the rest of us? Here are our **38 victors**:
+Hey everybody, take a second to post a congratulatory comment to the victors of the Stay Clean November challenge, listed below. **38** out of 287 original participants made it. that's **13%**. Victors, feel free to post a comment with your thoughts about the month. Was there anything specific that worked to keep you clean? What advice do you have for the rest of us? Here are our **38 victors**:
 
 '''
 

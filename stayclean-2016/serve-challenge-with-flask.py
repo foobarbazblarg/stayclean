@@ -2,6 +2,7 @@
 
 import subprocess
 import praw
+import pyperclip
 from hashlib import sha1
 from flask import Flask
 from flask import Response
@@ -25,7 +26,7 @@ sys.setdefaultencoding('utf8')
 # Edit me!
 challengePageSubmissionId = '3yzugs'
 flaskport = 8891
-readAllCommentsWhichCanBeSlower = False
+readAllCommentsWhichCanBeSlower = True
 
 sorryTooLateToSignUpReplyText = "Sorry, but the late signup grace period is over, so you can't officially join this challenge.  But feel free to follow along anyway, and comment all you want."
 reinstatedReplyText = "OK, I've reinstated you.  You should start showing up on the list again starting tomorrow."
@@ -33,6 +34,7 @@ reinstatedReplyText = "OK, I've reinstated you.  You should start showing up on 
 app = Flask(__name__)
 app.debug = True
 commentHashesAndComments = {}
+submission = None
 
 
 def loginAndReturnRedditSession():
@@ -81,16 +83,14 @@ def retiredCommentHashes():
 @app.route('/moderatechallenge.html')
 def moderatechallenge():
     global commentHashesAndComments
+    global submission
     commentHashesAndComments = {}
     stringio = StringIO()
     stringio.write('<html>\n<head>\n</head>\n\n')
 
     # redditSession = loginAndReturnRedditSession()
-    print "1"
     redditSession = loginOAuthAndReturnRedditSession()
-    print "2"
     submission = getSubmissionForRedditSession(redditSession)
-    print "3"
     flat_comments = getCommentsForSubmission(submission)
     retiredHashes = retiredCommentHashes()
     i = 1
@@ -101,7 +101,8 @@ def moderatechallenge():
     stringio.write(submission.title)
     stringio.write("</h3>\n\n")
     stringio.write('<form action="copydisplaytoclipboard.html" method="post" target="invisibleiframe">')
-    stringio.write('<input type="submit" value="Copy display.py stdout to clipboard">')
+    stringio.write('<input type="submit" name="actiontotake" value="Copy display.py stdout to clipboard">')
+    stringio.write('<input type="submit" name="actiontotake" value="Automatically post display.py stdout">')
     stringio.write('</form>')
     for comment in flat_comments:
         # print comment.is_root
@@ -114,17 +115,22 @@ def moderatechallenge():
         if commentHash not in retiredHashes:
             commentHashesAndComments[commentHash] = comment
             authorName = str(comment.author)  # can be None if author was deleted.  So check for that and skip if it's None.
+            participant = ParticipantCollection().participantNamed(authorName)
             stringio.write("<hr>\n")
             stringio.write('<font color="blue"><b>')
-            stringio.write(authorName)  # can be None if author was deleted.  So check for that and skip if it's None.
+            stringio.write(authorName)
             stringio.write('</b></font><br>')
             if ParticipantCollection().hasParticipantNamed(authorName):
                 stringio.write(' <small><font color="green">(member)</font></small>')
-                if ParticipantCollection().participantNamed(authorName).isStillIn:
+                if participant.isStillIn:
                     stringio.write(' <small><font color="green">(still in)</font></small>')
                 else:
                     stringio.write(' <small><font color="red">(out)</font></small>')
-                if ParticipantCollection().participantNamed(authorName).hasRelapsed:
+                if participant.hasCheckedIn:
+                    stringio.write(' <small><font color="green">(checked in)</font></small>')
+                else:
+                    stringio.write(' <small><font color="orange">(not checked in)</font></small>')
+                if participant.hasRelapsed:
                     stringio.write(' <small><font color="red">(relapsed)</font></small>')
                 else:
                     stringio.write(' <small><font color="green">(not relapsed)</font></small>')
@@ -199,8 +205,13 @@ def takeaction():
 
 @app.route('/copydisplaytoclipboard.html', methods=["POST"])
 def copydisplaytoclipboard():
-    print "TODO: Copy display to clipboard"
-    subprocess.call(['./display.py'])
+    actionToTake = request.form["actiontotake"]
+    if actionToTake == 'Copy display.py stdout to clipboard':
+        subprocess.call(['./display.py'])
+    if actionToTake == 'Automatically post display.py stdout':
+        subprocess.call(['./display.py'])
+        submissionText = pyperclip.paste()
+        submission.edit(submissionText)
     return Response("hello", mimetype='text/html')
 
 

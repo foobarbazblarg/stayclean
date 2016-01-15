@@ -70,7 +70,7 @@ def templateFor1():
     print '1\n\n'
     answer = ""
     print "============================================================="
-    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean: CURRENT_MONTH_NAME challenge.  ~~We will no longer be accepting new signups.~~  Good news! We will be be accepting late signups for the next 3 days. If you forgot to sign up for the CURRENT_MONTH_NAME challenge, just leave a \"sign me up\" comment below, and I'll add you.  Best of luck to everyone here!\n"
+    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean CURRENT_MONTH_NAME challenge.  ~~We will no longer be accepting new signups.~~  Good news! We will be be accepting late signups for the next 3 days. If you forgot to sign up for the CURRENT_MONTH_NAME challenge, just leave a \"sign me up\" comment below, and I'll add you.  Best of luck to everyone here!\n"
     answer += "\n"
     answer += "Here's how this thing works:\n"
     answer += "\n"
@@ -93,7 +93,7 @@ def templateFor1():
 def templateFor2():
     print '2\n\n'
     answer = ""
-    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean: CURRENT_MONTH_NAME challenge.  This is the second day of our 3 day late-signup grace period.  If you forgot to sign up for the CURRENT_MONTH_NAME challenge, just leave a \"sign me up\" comment below, and I'll add you.\n"
+    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean CURRENT_MONTH_NAME challenge.  This is the second day of our 3 day late-signup grace period.  If you forgot to sign up for the CURRENT_MONTH_NAME challenge, just leave a \"sign me up\" comment below, and I'll add you.\n"
     answer += "\n"
     answer += "Guidelines:\n"
     answer += "\n"
@@ -115,7 +115,7 @@ def templateFor2():
 def templateFor3():
     print '3\n\n'
     answer = ""
-    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean: CURRENT_MONTH_NAME challenge.  This is the last day of our 3 day late-signup grace period.  If you forgot to sign up for the CURRENT_MONTH_NAME challenge, just leave a \"sign me up\" comment below, and I'll add you.  After today, further signup requests will be silently ignored.\n"
+    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean CURRENT_MONTH_NAME challenge.  This is the last day of our 3 day late-signup grace period.  If you forgot to sign up for the CURRENT_MONTH_NAME challenge, just leave a \"sign me up\" comment below, and I'll add you.  After today, further signup requests will be silently ignored.\n"
     answer += "\n"
     answer += "Guidelines:\n"
     answer += "\n"
@@ -137,7 +137,7 @@ def templateFor3():
 def templateFor4():
     print '4\n\n'
     answer = ""
-    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean: CURRENT_MONTH_NAME challenge.  Our 3 day late-signup grace period is now over.  If you forgot to sign up, it's too late for CURRENT_MONTH_NAME, but feel free to leave comments here anyway, and we'll see you in NEXT_MONTH_NAME.\n"
+    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean CURRENT_MONTH_NAME challenge.  Our 3 day late-signup grace period is now over.  If you forgot to sign up, it's too late for CURRENT_MONTH_NAME, but feel free to leave comments here anyway, and we'll see you in NEXT_MONTH_NAME.\n"
     answer += "\n"
     answer += "Guidelines:\n"
     answer += "\n"
@@ -159,7 +159,7 @@ def templateFor4():
 def templateFor5to9():
     print '5 to 9\n\n'
     answer = ""
-    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean: CURRENT_MONTH_NAME challenge.  Keep fighting the good fight!\n"
+    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean CURRENT_MONTH_NAME challenge.  Keep fighting the good fight!\n"
     answer += "\n"
     answer += "Guidelines:\n"
     answer += "\n"
@@ -181,7 +181,7 @@ def templateFor5to9():
 def templateFor10to14():
     print '10 to 14\n\n'
     answer = ""
-    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean: CURRENT_MONTH_NAME challenge.  Keep fighting the good fight!\n"
+    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean CURRENT_MONTH_NAME challenge.  Keep fighting the good fight!\n"
     answer += "\n"
     answer += "**THE COUNTDOWN: Attention everyone!** You have " + str(15 - currentDayOfMonthIndex) + " days to make an update comment (if you haven't already) to be counted as an active participant! **Otherwise your name will be REMOVED from the list** on CURRENT_MONTH_INDEX/15!!\n"
     answer += "\n"
@@ -205,7 +205,7 @@ def templateFor10to14():
 def templateFor15():
     print '15\n\n'
     answer = ""
-    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean: CURRENT_MONTH_NAME challenge.  Keep fighting the good fight!\n"
+    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean CURRENT_MONTH_NAME challenge.  Keep fighting the good fight!\n"
     answer += "\n"
     answer += "**THIS IS YOUR LAST DAY TO CHECK IN** (if you haven't already) **BEFORE YOUR NAME IS REMOVED FROM THE LIST!**  Check in by posting a brief comment.\n"
     answer += "\n"
@@ -229,7 +229,7 @@ def templateFor15():
 def templateFor16toPenultimate():
     print '16 to penultimate\n\n'
     answer = ""
-    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean: CURRENT_MONTH_NAME challenge.  Keep fighting the good fight!\n"
+    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the CURRENT_DAY_OF_MONTH_NAME day of the Stay Clean CURRENT_MONTH_NAME challenge.  Keep fighting the good fight!\n"
     answer += "\n"
     answer += "If you think you should still be on this list but aren't, you probably got removed in the great purge of CURRENT_MONTH_NAME 15th because you never checked in. However, if you let me know you're still with it I will re-add you.\n"
     answer += "\n"
@@ -253,7 +253,7 @@ def templateFor16toPenultimate():
 def templateForUltimate():
     print 'Ultimate\n\n'
     answer = ""
-    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the last day of the Stay Clean: CURRENT_MONTH_NAME challenge.  This is it, folks, the day we've been waiting for... the final day of the challenge.  I'll be making a congratulatory post tomorrow to honor the victors.  I'm really proud of everyone who signed up for this challenge.  Quitting porn is difficult, especially in an era where porn is always as close as a few keystrokes, and triggers are absolutely everywhere.  Everybody who gave it their best shot deserves to take a minute right now to feel good about themselves.\n"
+    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the last day of the Stay Clean CURRENT_MONTH_NAME challenge.  This is it, folks, the day we've been waiting for... the final day of the challenge.  I'll be making a congratulatory post tomorrow to honor the victors.  I'm really proud of everyone who signed up for this challenge.  Quitting porn is difficult, especially in an era where porn is always as close as a few keystrokes, and triggers are absolutely everywhere.  Everybody who gave it their best shot deserves to take a minute right now to feel good about themselves.\n"
     answer += "\n"
     answer += "For a chart of relapse data, check out [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/1fnRMkDqFAJpsWHaZt8duMkZIPBCtUy0IfGFmlIfvOII/edit#gid=0).\n"
     answer += "\n"

@@ -44,8 +44,8 @@ def templateForTooEarly():
 
 def templateForFirstSignupDay():
     answer = ""
-    answer += "STAY CLEAN: UPPERCASE_MONTH!  Sign up here!  (CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX)\n"
-    answer += "Hey everybody, we had a great turnout for [Stay Clean: CURRENT_MONTH_NAME](CURRENT_MONTH_URL) - let's see if we can knock it out of the park for NEXT_MONTH_NAME.  Have you been clean for the month of CURRENT_MONTH_NAME?  Great!  Join us here, and let's keep our streak going.  Did you slip in CURRENT_MONTH_NAME?  Then NEXT_MONTH_NAME is your month to shine, and we will gladly fight the good fight along with you.  Did you miss out on the CURRENT_MONTH_NAME challenge?  Well then here is your opportunity to join us.\n"
+    answer += "STAY CLEAN UPPERCASE_MONTH!  Sign up here!  (CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX)\n"
+    answer += "Hey everybody, we had a great turnout for [Stay Clean CURRENT_MONTH_NAME](CURRENT_MONTH_URL) - let's see if we can knock it out of the park for NEXT_MONTH_NAME.  Have you been clean for the month of CURRENT_MONTH_NAME?  Great!  Join us here, and let's keep our streak going.  Did you slip in CURRENT_MONTH_NAME?  Then NEXT_MONTH_NAME is your month to shine, and we will gladly fight the good fight along with you.  Did you miss out on the CURRENT_MONTH_NAME challenge?  Well then here is your opportunity to join us.\n"
     answer += "\n"
     answer += "If you would like to be included in this challenge, please post a brief comment to this thread, and I will include you.  After midnight, NEXT_MONTH_NAME 1, the sign up window will close, and the challenge will begin."
     return answer
@@ -53,7 +53,7 @@ def templateForFirstSignupDay():
 
 def templateForMiddleSignupDays():
     answer = ""
-    answer += "STAY CLEAN: UPPERCASE_MONTH!  Sign up here!  (CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX)\n"
+    answer += "STAY CLEAN UPPERCASE_MONTH!  Sign up here!  (CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX)\n"
     answer += "Hey everybody, so far **INITIAL_NUMBER participants** have signed up.  Have you been clean for **[the month of CURRENT_MONTH_NAME](CURRENT_MONTH_URL)**?  Great!  Join us here, and let's keep our streak going.  Did you slip in CURRENT_MONTH_NAME?  Then NEXT_MONTH_NAME is your month to shine, and we will gladly fight the good fight along with you.  Did you miss out on the CURRENT_MONTH_NAME challenge?  Well then here is your opportunity to join us.\n"
     answer += "\n"
     answer += "If you would like to be included in this challenge, please post a brief comment to this thread (if you haven't already done so on an earlier signup thread), and I will include you.  After midnight, NEXT_MONTH_NAME 1, the sign up window will close, and the challenge will begin.\n"
@@ -64,8 +64,8 @@ def templateForMiddleSignupDays():
 
 def templateForLastSignupDay():
     answer = ""
-    answer += "LAST CHANCE TO SIGN UP FOR STAY CLEAN: UPPERCASE_MONTH!  Sign up here!\n"
-    answer += "The Stay Clean: NEXT_MONTH_NAME challenge **begins tomorrow**!  So far, we have **INITIAL_NUMBER participants** signed up.  If you would like to be included in the challenge, please post a brief comment to this thread (if you haven't already done so on an earlier signup thread), and we will include you.  After midnight tonight, we will not be accepting any more participants.  I will create the official update post tomorrow.\n"
+    answer += "LAST CHANCE TO SIGN UP FOR STAY CLEAN UPPERCASE_MONTH!  Sign up here!\n"
+    answer += "The Stay Clean NEXT_MONTH_NAME challenge **begins tomorrow**!  So far, we have **INITIAL_NUMBER participants** signed up.  If you would like to be included in the challenge, please post a brief comment to this thread (if you haven't already done so on an earlier signup thread), and we will include you.  After midnight tonight, we will not be accepting any more participants.  I will create the official update post tomorrow.\n"
     answer += "\n"
     answer += templateForParticipants()
     return answer

@@ -295,7 +295,7 @@ def templateForUltimateMinus5toPenultimateDayOfYear():
 def templateForUltimateDayOfYear():
     print "using templateForUltimateDayOfYear"
     answer = ""
-    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the very last day of the Stay Clean: YEAR challenge.  This is it, folks, the day we've been waiting for... the final day of the challenge.  I'll be making a congratulatory post tomorrow to honor the victors.\n"
+    answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the very last day of the Stay Clean YEAR challenge.  This is it, folks, the day we've been waiting for... the final day of the challenge.  I'll be making a congratulatory post tomorrow to honor the victors.\n"
     answer += "\n"
     answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.\n\n"
     answer += templateForParticipantsOnLastDayOfMonth()

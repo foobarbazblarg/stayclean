@@ -36,7 +36,7 @@ def templateForParticipants():
 
 def templateToUse():
     answer = ""
-    answer += "The Stay Clean: CURRENT_MONTH_NAME challenge is now over.  Join us for **[the NEXT_MONTH_NAME challenge](NEXT_MONTH_URL)**.\n"
+    answer += "The Stay Clean CURRENT_MONTH_NAME challenge is now over.  Join us for **[the NEXT_MONTH_NAME challenge](NEXT_MONTH_URL)**.\n"
     answer += "\n"
     answer += "**NUMBER_STILL_IN** out of INITIAL_NUMBER participants made it all the way through the challenge. That's **PERCENT_STILL_IN%**.\n"
     answer += "\n"

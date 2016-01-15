@@ -15,12 +15,13 @@ abolishpmo False False 2016.01.03
 acdcisnice True False 2016.01.05
 across_universe01 True True
 adannytoremember True False 2016.01.04
-adash5000 False True
+adash5000 False False 2016.01.14
 Aerosenz False True
 aHeroWith44Pens True True
 Al-Fayed True False 2016.01.08
 Albahacus True True
 alexianchen True True
+amadeo19 True True
 Ambition_HQ True True
 Aminhas1996 True True
 andstufflikethat True True
@@ -63,6 +64,7 @@ changingpete True True
 chessnutz True True
 chetangangappa True True
 ChinoCap True True
+chiqui314 True True
 ChuckSchuldinerRules False True
 cikatomo True False 2016.01.02
 CleanSince2016 True True
@@ -116,7 +118,7 @@ fanology True False 2016.01.05
 fballbeast False True
 FearlessMadman False True
 Fenix12345 False True
-Finalstraw14 False True
+Finalstraw14 True True
 findfour False True
 Flam3- False True
 foobarbazblarg True True
@@ -130,12 +132,13 @@ FUCK_KING True True
 fullpower False True
 FunkReborn False False 2016.01.04
 furchenmolch True True
-furthermucker True True
+furthermucker True False 2016.01.13
 gangstercomputer True True
 getinthecagewithnicc True True
 glassCannon21 False True
 go_an False True
-GoingNowhere True True
+GoingNowhere True False 2016.01.14
+goldentortuga True True
 grassman007 True True
 gunleader True True
 HanginAroundDowntown True True
@@ -170,6 +173,7 @@ Jelte-jv True True
 jimbob1231 True True
 jj119883 False True
 Jlw605 True True
+JoeyBurson True True
 jsigmon91 False True
 jspliff1 True True
 jumpmanspace False True
@@ -199,7 +203,7 @@ littlelionlittle False True
 Liviul True True
 ljokr True True
 lonely_jujube True True
-Lopokato124 False True
+Lopokato124 False False 2016.01.14
 LordofRice True True
 lukas2020 True True
 macked-out True False 2016.01.05
@@ -227,6 +231,7 @@ mrnoone56 False False 2016.01.08
 MrTMNTR False True
 Mudhoney7 True True
 MushishiMaster True True
+mxman True True
 myCQI False True
 myshit_together_101 True True
 n0_m0re_p0rn True True
@@ -267,7 +272,7 @@ pfree0409 True True
 Pfree1805 True True
 PolarisAirship False True
 poopey_doopey False True
-Porn_is_shit True True
+Porn_is_shit True False 2016.01.14
 pornfree_acnt True True
 pornisforbetapeople True True
 pornojunky False False 2016.01.11
@@ -307,11 +312,12 @@ shrubbry False True
 sinfulregret True False 2016.01.09
 Sirjim11 True True
 sittingonathumb True True
+slammajammadd True True
 slic_ric False True
 SloshingtonDC True True
 Slyrix True True
 Smaxfitness True True
-smokenfire7676 True True
+smokenfire7676 True False 2016.01.13
 snowbow True True
 Soiltaker True True
 solongsomewhere True True
@@ -339,6 +345,7 @@ thegreatestjourney True True
 TheMasterRedditor False True
 thenerj True True
 thenumber53was_me True True
+Thepres_10 True True
 thespoudaios False True
 TheSteelSword False True
 thisisaname3 False True
@@ -364,7 +371,7 @@ Uber118 True True
 umadethisforareason True True
 Valvyn True True
 victorcrp01 False True
-vityaz777 True True
+vityaz777 True False 2016.01.14
 VizualDreamer13 True True
 vlasp01 False True
 vnnwlkr8 True True
@@ -375,13 +382,14 @@ WarriorShit True True
 WazzupBR True True
 WenisInVietnam True True
 Wess129 True False 2016.01.11
-wheresmydopamine False True
+wheresmydopamine False False 2016.01.14
 WinByHydro False True
+wipermr True True
 Wish6 True True
 woahacow True True
 WonderBoy92 False True
 workingrecovery True False 2016.01.08
-wrcahns False True
+wrcahns True True
 XcherokeeJ False True
 YellowTango True True
 yes_darling True True

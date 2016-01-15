@@ -140,7 +140,7 @@ leotrope True True
 lightbeyond False True
 living_and_dying True True
 Liviul True True
-lonely_jujube False True
+lonely_jujube True True
 LordofRice True True
 Lorenzo_Brandy False True
 ludwigvan__ True True
@@ -299,7 +299,7 @@ trouav False False 2016.01.07
 Turkeytom86 False True
 Ufgood False True
 umadethisforareason True True
-vityaz777 True True
+vityaz777 True False 2016.01.14
 vlasp01 False True
 vnnwlkr8 True True
 WarriorShit True True
@@ -310,7 +310,7 @@ wipermr False True
 Wish6 True True
 WonderBoy92 False True
 workingrecovery True False 2016.01.08
-wrcahns False True
+wrcahns True True
 wulfrice False True
 XcherokeeJ False True
 yes_darling True True
