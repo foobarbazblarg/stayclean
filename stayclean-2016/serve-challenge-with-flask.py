@@ -26,7 +26,7 @@ sys.setdefaultencoding('utf8')
 # Edit me!
 challengePageSubmissionId = '3yzugs'
 flaskport = 8891
-readAllCommentsWhichCanBeSlower = True
+readAllCommentsWhichCanBeSlower = False
 
 sorryTooLateToSignUpReplyText = "Sorry, but the late signup grace period is over, so you can't officially join this challenge.  But feel free to follow along anyway, and comment all you want."
 reinstatedReplyText = "OK, I've reinstated you.  You should start showing up on the list again starting tomorrow."
@@ -137,10 +137,10 @@ def moderatechallenge():
             else:
                 stringio.write(' <small><font color="red">(not a member)</font></small>')
             stringio.write('<form action="takeaction.html" method="post" target="invisibleiframe">')
-            stringio.write('<input type="submit" name="actiontotake" value="Checkin">')
-            # stringio.write('<input type="submit" name="actiontotake" value="Checkin" style="color:white;background-color:green">')
-            # stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin">')
-            stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin" style="color:white;background-color:green">')
+            # stringio.write('<input type="submit" name="actiontotake" value="Checkin">')
+            stringio.write('<input type="submit" name="actiontotake" value="Checkin" style="color:white;background-color:green">')
+            stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin">')
+            # stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin" style="color:white;background-color:green">')
             stringio.write('<input type="submit" name="actiontotake" value="Relapse" style="color:white;background-color:red">')
             stringio.write('<input type="submit" name="actiontotake" value="Reinstate with automatic comment">')
             stringio.write('<input type="submit" name="actiontotake" value="Reply with sorry-too-late comment">')

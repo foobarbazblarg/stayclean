@@ -48,12 +48,12 @@ CodyA042 False True
 commendatore True True
 Conrad409 True True
 cpatrick08 False True
-Cryovane True True
+Cryovane True False 2016.01.15
 CurvingDive False True
 Dajtfed False True
 dalethesnail False True
 Dan1209 True True
-dandausa True True
+dandausa True False 2016.01.15
 dayton1234 True True
 dayzero0 False True
 ddgb False True
@@ -89,7 +89,7 @@ FourOneNiner True True
 Free-B True True
 FrivolousBIG False True
 Frozation True True
-frueherschueler False True
+frueherschueler True True
 fullpower False True
 FunkReborn False False 2016.01.04
 Gamerguy2345 True True
@@ -109,7 +109,7 @@ imr9ne True True
 incognito_15 False True
 ipartakeindrugs True True
 itzGaia False True
-Iwillgetoutofthis False True
+Iwillgetoutofthis True True
 iwqpmo False False 2016.01.04
 Jacque_DeCock False True
 JAK747 False True
@@ -178,7 +178,7 @@ MrTMNTR True True
 msp24 True True
 Mudhoney7 True True
 MushishiMaster True True
-myCQI False True
+myCQI True True
 n0_m0re_p0rn True True
 N_A_R_C_O_S True True
 Na_2 True True
@@ -313,5 +313,5 @@ workingrecovery True False 2016.01.08
 wrcahns True True
 wulfrice False True
 XcherokeeJ False True
-yes_darling True True
+yes_darling True False 2016.01.15
 zvezdicee True True

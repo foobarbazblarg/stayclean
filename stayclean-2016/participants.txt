@@ -77,7 +77,7 @@ Dajtfed False True
 dalethesnail False True
 dalive True True
 Dan1209 True True
-dandausa False True
+dandausa False False 2016.01.15
 Dannydub True True
 Dar_Now True True
 Darth_Picard False True
@@ -105,7 +105,7 @@ DrRocktopusMD True True
 dubbies_lament False True
 DukeStamina True True
 Egkrateia True True
-eightsixfourhundred False True
+eightsixfourhundred True True
 elbastardo1 True True
 Element-A True False 2016.01.07
 ender360v2 False True
@@ -127,7 +127,7 @@ forsience False True
 FourOneNiner True True
 free45de False True
 Frozation True True
-frueherschueler False True
+frueherschueler True True
 FUCK_KING True True
 fullpower False True
 FunkReborn False False 2016.01.04
@@ -161,7 +161,7 @@ ipartakeindrugs True True
 irgendwalrus True True
 itzGaia False True
 iur5 True True
-Iwillgetoutofthis False True
+Iwillgetoutofthis True True
 iwqpmo False False 2016.01.04
 jabber011215 True True
 JAK747 False True
@@ -232,7 +232,7 @@ MrTMNTR False True
 Mudhoney7 True True
 MushishiMaster True True
 mxman True True
-myCQI False True
+myCQI True True
 myshit_together_101 True True
 n0_m0re_p0rn True True
 N_A_R_C_O_S True True
@@ -292,7 +292,7 @@ Rfan False True
 RobertFreddi True True
 ronald_donaldson False True
 ronnymcfelch True True
-runningloop True True
+runningloop True False 2016.01.15
 RyanTJ True True
 RyPA False True
 saadahmed888 False True
@@ -392,6 +392,6 @@ workingrecovery True False 2016.01.08
 wrcahns True True
 XcherokeeJ False True
 YellowTango True True
-yes_darling True True
+yes_darling True False 2016.01.15
 youngremy False True
 zvezdicee False True
