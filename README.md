@@ -91,7 +91,13 @@ Let's go through an example.  For our example, we will manage the monthly challe
 - **On the mornings of January 17-January 24** - These are normal days, prior to posting the signup threads for February.  If the month had 30 days instead of 31, we would follow these directions through January 23, not 24.
     - Just follow the "January 4-15" directions.
 - **On any day before January 25** - We need to prepare the stayclean subdirectory for February.
-    - _more here_
+    - In a terminal, cd to the stayclean directory, and then use "cp -a stayclean-2016-january stayclean-2016-february" to recursively copy january's directory to a new directory for february.
+    - cd stayclean-2016-february
+    - Make a new participants.txt file by rm'ing the existing one and then executing "touch participants.txt"
+    - Immediately sign yourself in by executing "./signup.py foobarbazblarg"
+    - Several of the python scripts have variables that need to be edited for the new month.  Do a text search for "Edit Me", and edit the variables, which should hopefully be self-explanatory or commented.
+        - Please note that for the challengePageSubmissionId variable in serve-challenge-with-flask.py, you will not yet know the submission ID for the February challenge page.  Just leave it as the empty string or something for now - we will fill it in on Febrary 1.
+    - In preparation for the one-week signup window, start up in a terminal tab, the script that serves with Flask the signup webapp:  "cd ~/stayclean/stayclean-2016-february ; ./serve-signups-with-flask.py"
 - **On the mornings of January 25-January 31** - In addition to managing the January challenge as usual, we post daily February challenge signup posts.
     - Follow the "January 4-15" directions as usual, to manage the January challenge.
     - _more here_
