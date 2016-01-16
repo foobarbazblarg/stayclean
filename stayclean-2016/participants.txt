@@ -54,7 +54,7 @@ Brucetrunks False True
 But_its_not_this_day False True
 Cabana76 False True
 Cage03 True True
-call_me_possibly False True
+call_me_possibly False False 2016.01.15
 captain_discipline True True
 Captain_French True True
 catinsky True True
@@ -196,7 +196,7 @@ LaxBear True True
 lekajones False True
 Leon1892 True True
 Leopr1 True True
-leotrope True True
+leotrope True False 2016.01.15
 Leve_Vikingaanden False True
 lightbeyond False True
 littlelionlittle False True
@@ -291,7 +291,7 @@ rewoplliw True True
 Rfan False True
 RobertFreddi True True
 ronald_donaldson False True
-ronnymcfelch True True
+ronnymcfelch True False 2016.01.15
 runningloop True False 2016.01.15
 RyanTJ True True
 RyPA False True
