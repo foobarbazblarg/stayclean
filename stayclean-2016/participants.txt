@@ -69,7 +69,7 @@ ChuckSchuldinerRules False True
 cikatomo True False 2016.01.02
 CleanSince2016 True True
 coleman_7 False True
-cptkirk87 True True
+cptkirk87 True False 2016.01.17
 crowingz False True
 CurvingDive True True
 Czechin True True
@@ -236,7 +236,7 @@ myCQI True True
 myshit_together_101 True True
 n0_m0re_p0rn True True
 N_A_R_C_O_S True True
-natborchers False True
+natborchers False False 2016.01.17
 NCC1701G True True
 NeedHelpNick False True
 Neverstop7 False True
@@ -268,7 +268,7 @@ Pastel_Pirate True True
 patchbag False True
 patron_stMax True True
 PFNFaway22 False True
-pfree0409 True True
+pfree0409 True False 2016.01.17
 Pfree1805 True True
 PolarisAirship False True
 poopey_doopey False True

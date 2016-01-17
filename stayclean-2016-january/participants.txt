@@ -149,7 +149,7 @@ m4rc0polo False True
 macked-out True False 2016.01.05
 mafiosogiacomo False False
 MaiKarooba True False 2016.01.04
-makers_recovery False True
+makers_recovery True True
 Makethefake True False 2016.01.06
 mantuafree False False
 marcro2571 False True
@@ -207,8 +207,8 @@ patchbag False False
 patron_stMax False True
 peach_kumquat True False 2016.01.15
 PFNFaway22 False False
-pfree0409 False True
-Pfree1805 False True
+pfree0409 False False 2016.01.17
+Pfree1805 True True
 PhilRyTheRedditGuy False True
 picardhasyourback False True
 pocolocomoco False False
@@ -219,7 +219,7 @@ pornojunky False False 2016.01.11
 post-fapper False True
 praveenjuge False False
 Preambulanz False True
-preclosureoperator False True
+preclosureoperator True True
 PUA_Wanna_be False True
 quicktoforget False True
 quittingishard False False
@@ -253,7 +253,7 @@ Sirjim11 True True
 sittingonathumb False True
 Slabdweller True False 2016.01.07
 slic_ric False False
-Slyrix False True
+Slyrix True True
 Smaxfitness False False
 smokenfire7676 False True
 socoolhage False False
@@ -307,7 +307,7 @@ Wess129 True False 2016.01.11
 wheresmydopamine False True
 WhiteFrankBlack False True
 wipermr False False
-Wish6 False True
+Wish6 True True
 WonderBoy92 False False
 workingrecovery True False 2016.01.08
 wrcahns False True
