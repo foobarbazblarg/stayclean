@@ -41,7 +41,7 @@ Flask is great, and saves me a ton of manual copying / pasting!  Flask is a Pyth
 
 ### Flask URLs
 Once you start the two flask scripts in a month's directory, as described above, you will have two very handy URLs that you can open in browser tabs to help manage that month's signups and checkin / relapse comments:
-- http://127.0.0.1:8888/moderatechallenge.html - When this URL is reloaded in the browser, the serve-challenge-with-flask.py script uses the reddit API to retrieve all comments from the challenge reddit page.  For every new comment (i.e. every comment that has not yet been acted on by me), it displays the username of the commenter, the body of the comment, and a form with four submit buttons:
+- **http://127.0.0.1:8888/moderatechallenge.html** - When this URL is reloaded in the browser, the serve-challenge-with-flask.py script uses the reddit API to retrieve all comments from the challenge reddit page.  For every new comment (i.e. every comment that has not yet been acted on by me), it displays the username of the commenter, the body of the comment, and a form with four submit buttons:
 
     - **Checkin** - Checkin the commenter (invoke the checkin.py script with the commenter's username), and then use the reddit API to upvote the comment, for easy identification of the comment as already being taken care of.
     - **Signup and Checkin** - Signup and checkin the commeter (invoke the signup-and-checkin.py script with the commenter's username), and then use the reddit API to upvote the comment, for easy identification of the comment as already being taken care of.  This script is very useful during the 3-day late-signup grace period.
@@ -75,7 +75,7 @@ Let's go through an example.  For our example, we will manage the monthly challe
     - On the subreddit's page, click _Submit a new text post_ to create the congratulations post.  Paste in the text and title of the post, and hit submit.
     - For each of the signup pages that we created during the last week of December, edit the pages, with text that indicates that signup is over.  Use those double-tildes to "cross out" much of the original text.
 - **On the mornings of January 2-3** - These are the second and third days of our late-signup grace period.
-    - Refresh the browser tab that is open to http://127.0.0.1:8888/moderatechallenge.html , and use the submit buttons to checkin, signup and checkin, and relapse the users who have posted comments throughout the day.
+    - Refresh the browser tab that is open to http://127.0.0.1:8888/moderatechallenge.html , and use the submit buttons to _Checkin_, _Signup and Checkin_, and _Relapse_ the users who have posted comments throughout the day.
     - You can do this as many times as you wish throughout the day.
     - Because we are within our 3-day late-signup grace period, feel free to simply use the signup and checkin button, instead of the checkin button.
     - Click the _Copy display.py stdout to clipboard_ button.
