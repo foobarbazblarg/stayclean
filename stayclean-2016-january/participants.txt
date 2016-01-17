@@ -46,7 +46,7 @@ chetangangappa False True
 cikatomo True False 2016.01.02
 CodyA042 False False
 commendatore False True
-Conrad409 False True
+Conrad409 True True
 cpatrick08 False False
 Cryovane True False 2016.01.15
 CurvingDive False False
@@ -85,7 +85,7 @@ fixitnow90210 False True
 foobarbazblarg False True
 ForesterNL False True
 fortytude False True
-FourOneNiner False True
+FourOneNiner True True
 Free-B False True
 FrivolousBIG False False
 Frozation False True
@@ -174,7 +174,7 @@ MotorVanborn5000 False False
 mrlenoir False False
 mrnoone56 False False 2016.01.08
 MrPoischiche False False
-MrTMNTR False True
+MrTMNTR True True
 msp24 False True
 Mudhoney7 False True
 MushishiMaster False True
@@ -183,7 +183,7 @@ n0_m0re_p0rn False True
 N_A_R_C_O_S False True
 Na_2 False True
 natborchers False False
-NCC1701G False True
+NCC1701G True True
 Neverstop7 False False
 NewBrian2016 False True
 nick73197 False False
@@ -249,7 +249,7 @@ shigolnam False True
 shortless False True
 shrubbry False False
 sinfulregret True False 2016.01.09
-Sirjim11 False True
+Sirjim11 True True
 sittingonathumb False True
 Slabdweller True False 2016.01.07
 slic_ric False False
@@ -271,7 +271,7 @@ sunshine_rec0rder False True
 suntzu01 False False
 swageduplikcailou True False 2016.01.11
 Switchingitup90 False False
-sXe4Life False True
+sXe4Life True True
 Tacolishus False False
 the_good_fighter False True
 The_Turbinator False True

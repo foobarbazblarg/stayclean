@@ -96,7 +96,7 @@ DizzieO True True
 dmitri_adkins True True
 DontReadMyCommentPls True True
 dontwankbro True True
-dopamine_hijacker True True
+dopamine_hijacker True False 2016.01.16
 DracoDimitrios55 True True
 dreamerofwaves True True
 drlusso True True
@@ -228,7 +228,7 @@ MonkeyDSunny True True
 MooseMilk3 False False 2016.01.09
 mrLittleboy False False 2016.01.04
 mrnoone56 False False 2016.01.08
-MrTMNTR False True
+MrTMNTR True True
 Mudhoney7 True True
 MushishiMaster True True
 mxman True True
@@ -375,7 +375,7 @@ vityaz777 True False 2016.01.14
 VizualDreamer13 True True
 vlasp01 False True
 vnnwlkr8 True True
-wakeuptoblues True True
+wakeuptoblues True False 2016.01.16
 walkingagh True True
 warriorbil True True
 WarriorShit True True
