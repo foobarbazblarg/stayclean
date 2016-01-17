@@ -1,6 +1,7 @@
 reddit-oauth-credentials.cfg
 reddit-password-credentials.cfg
 **/.idea
+**/.vscode
 # **/update-google-chart.py
 **/update-google-chart.py.BACKUP
 **/google-spreadsheet-oauth-hello-world.py
