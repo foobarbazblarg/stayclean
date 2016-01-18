@@ -2,10 +2,10 @@
 1vanhoe False True
 2funk False False 2016.01.02
 4thegood False False
-6thisisit False True
+6thisisit True True
 862674 False False
 _Civil False False
-_lennart_ False True
+_lennart_ True True
 abolishpmo False False 2016.01.03
 acdcisnice True False 2016.01.05
 across_universe01 True False 2016.01.16
@@ -42,10 +42,10 @@ catinsky True True
 ced22 False False 2016.01.08
 changeard False False
 changingpete False True
-chetangangappa False True
+chetangangappa False False 2016.01.18
 cikatomo True False 2016.01.02
 CodyA042 False False
-commendatore False True
+commendatore True True
 Conrad409 True True
 cpatrick08 False False
 Cryovane True False 2016.01.15
@@ -65,24 +65,24 @@ DigiKorean False False
 discipleofnofap False False
 DizzieO False False
 dmitri_adkins False True
-doggybalfour False True
+doggybalfour True True
 DoNotEatTheTail False False
 DracoDimitrios55 False True
 drlusso False True
-DukeStamina False True
+DukeStamina True True
 ehho False True
 Eipa False True
 elbastardo1 False True
 ender360v2 False False
 engine4death False False
-eristicmystic False True
+eristicmystic True True
 Evil_Entity False False
 eXj0k3r False False
 fballbeast False False
 FearlessMadman False False
 Fenix12345 False False
 fixitnow90210 False True
-foobarbazblarg False True
+foobarbazblarg True True
 ForesterNL False True
 fortytude False True
 FourOneNiner True True
@@ -122,7 +122,7 @@ jspliff1 False True
 jumpmanspace False False
 Karatebro False True
 keiran-cole False False
-kelowH False True
+kelowH True True
 kenjataimuFeels False True
 Kings_Son False False
 Kinsonlee False False
@@ -139,7 +139,7 @@ LeoTheFighter False False 2016.01.05
 leotrope True False 2016.01.15
 lightbeyond False False
 living_and_dying False True
-Liviul False True
+Liviul True True
 lonely_jujube False True
 LordofRice False True
 Lorenzo_Brandy False False
@@ -177,11 +177,11 @@ MrPoischiche False False
 MrTMNTR True True
 msp24 False True
 Mudhoney7 False True
-MushishiMaster False True
+MushishiMaster True True
 myCQI False True
 n0_m0re_p0rn False True
 N_A_R_C_O_S False True
-Na_2 False True
+Na_2 True True
 natborchers False False
 NCC1701G True True
 Neverstop7 False False
@@ -200,7 +200,7 @@ OdinTheKoala False True
 OK_01 False True
 OliverSpecter False False
 onfleek100 False True
-oobnate False True
+oobnate False False 2016.01.18
 OscuroGG False True
 Otikron False False
 patchbag False False
@@ -246,7 +246,7 @@ SgtCheesepuffs False False
 shadowsatdusk True True
 Sharkictus False False
 shigolnam False True
-shortless False True
+shortless False False 2016.01.17
 shrubbry False False
 sinfulregret True False 2016.01.09
 Sirjim11 True True
@@ -284,13 +284,13 @@ thro_awaytheshackles True False 2016.01.05
 Throwaway01067 False True
 thrownawayforgoood False False
 thunderdeacon False False
-Tienseye False True
+Tienseye True True
 tim_dma False False
 tlantan False True
 TMurray189 False False
 tonylok False False
 torrentin False True
-tossedoffer False True
+tossedoffer True True
 TouchOfClass8 False False
 Trappedinacorpse False True
 Treetrunk27 False False
@@ -302,7 +302,7 @@ umadethisforareason False True
 vityaz777 True False 2016.01.14
 vlasp01 False False
 vnnwlkr8 False True
-WarriorShit False True
+WarriorShit False False 2016.01.17
 Wess129 True False 2016.01.11
 wheresmydopamine False True
 WhiteFrankBlack False True
