@@ -28,7 +28,7 @@ bberlinn False True
 beardman94 False True
 Bergendey False False
 BillyShears1958 False False
-BinarySequence False True
+BinarySequence True True
 bjjmonkey False True
 blah133 False False
 BlaseBB False False
@@ -115,7 +115,7 @@ Jacque_DeCock False False
 JAK747 False False
 jakefilmpro False True
 jakiewan True False 2016.01.03
-jd158ug False True
+jd158ug True True
 jj119883 False False
 joshsoowong False False
 jspliff1 False True
@@ -151,7 +151,7 @@ mafiosogiacomo False False
 MaiKarooba True False 2016.01.04
 makers_recovery True True
 Makethefake True False 2016.01.06
-mantuafree False False
+mantuafree False True
 marcro2571 False True
 Marvin91 True False 2016.01.06
 masterofthethings False False
@@ -199,7 +199,7 @@ nth_root False True
 OdinTheKoala False True
 OK_01 False True
 OliverSpecter False False
-onfleek100 False True
+onfleek100 True True
 oobnate False False 2016.01.18
 OscuroGG False True
 Otikron False False
@@ -267,7 +267,7 @@ Startnow2 False False
 SuddenDapper False False
 Sundria False False
 SunniestWarrior False True
-sunshine_rec0rder False True
+sunshine_rec0rder True True
 suntzu01 False False
 swageduplikcailou True False 2016.01.11
 Switchingitup90 False False
@@ -314,4 +314,4 @@ wrcahns False True
 wulfrice False False
 XcherokeeJ False False
 yes_darling True False 2016.01.15
-zvezdicee False True
+zvezdicee True True

@@ -182,7 +182,7 @@ kbm15 False True
 kelleyz14 False True
 kelowH True True
 kenjataimuFeels True True
-kiramis False True
+kiramis True True
 KnopflerisGod True True
 koolvanz False True
 Korleonis True True
@@ -217,7 +217,7 @@ mathdrug False True
 Meche24 True True
 melitallmighty False True
 metaphysicalboundary False True
-mikawaldi False True
+mikawaldi True True
 Min93 False True
 mintchoc-icecream True True
 MisterMagorium False True
@@ -394,4 +394,4 @@ XcherokeeJ False True
 YellowTango True True
 yes_darling True False 2016.01.15
 youngremy False True
-zvezdicee False True
+zvezdicee True True
