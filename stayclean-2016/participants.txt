@@ -44,7 +44,7 @@ bergkampinthesheets False True
 BetterRedRobinThan False True
 Betterthanuatlife True True
 BinarySequence True True
-BlaseBB False True
+BlaseBB True True
 Blaze6181 True True
 BluePhonix96 True True
 Boonofthegarou True True
@@ -102,7 +102,7 @@ dreamerofwaves True True
 drlusso True True
 DrMarkyMark True True
 DrRocktopusMD True True
-dubbies_lament False True
+dubbies_lament False False 2016.01.20
 DukeStamina True True
 Egkrateia True True
 eightsixfourhundred True True
@@ -385,7 +385,7 @@ Wess129 True False 2016.01.11
 wheresmydopamine False False 2016.01.14
 WinByHydro False True
 wipermr True True
-Wish6 True True
+Wish6 True False 2016.01.20
 woahacow True True
 WonderBoy92 False True
 workingrecovery True False 2016.01.08

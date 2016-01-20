@@ -31,7 +31,7 @@ BillyShears1958 False False
 BinarySequence True True
 bjjmonkey False True
 blah133 False False
-BlaseBB False False
+BlaseBB False True
 Blaze6181 False True
 bodymeetssoul True False 2016.01.10
 Cage03 False True
@@ -59,7 +59,7 @@ dayzero0 False False
 ddgb False False
 Deathhoof812 True False 2016.01.04
 deca1987 False False 2016.01.03
-Degreed1982 False True
+Degreed1982 True True
 DforDeadpool False False
 DigiKorean False False
 discipleofnofap False False
@@ -120,7 +120,7 @@ jj119883 False False
 joshsoowong False False
 jspliff1 False True
 jumpmanspace False False
-Karatebro False True
+Karatebro True True
 keiran-cole False False
 kelowH True True
 kenjataimuFeels False True
@@ -201,7 +201,7 @@ OK_01 False True
 OliverSpecter False False
 onfleek100 True True
 oobnate False False 2016.01.18
-OscuroGG False True
+OscuroGG True True
 Otikron False False
 patchbag False False
 patron_stMax False True
@@ -239,7 +239,7 @@ roy_scott False False
 RyPA False False
 Sailorj1 False False
 sardonyxdragoon False False
-saskaciwanihk False True
+saskaciwanihk True True
 scorpion2phoenix False False
 ScyllaHide False True
 SgtCheesepuffs False False
@@ -286,10 +286,10 @@ thrownawayforgoood False False
 thunderdeacon False False
 Tienseye True True
 tim_dma False False
-tlantan False True
+tlantan True True
 TMurray189 False False
 tonylok False False
-torrentin False True
+torrentin True True
 tossedoffer True True
 TouchOfClass8 False False
 Trappedinacorpse False True
@@ -307,7 +307,7 @@ Wess129 True False 2016.01.11
 wheresmydopamine False True
 WhiteFrankBlack False True
 wipermr False False
-Wish6 True True
+Wish6 True False 2016.01.20
 WonderBoy92 False False
 workingrecovery True False 2016.01.08
 wrcahns False True
