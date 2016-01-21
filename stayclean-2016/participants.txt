@@ -71,7 +71,7 @@ CleanSince2016 True True
 coleman_7 False True
 cptkirk87 True False 2016.01.17
 crowingz False True
-CurvingDive True True
+CurvingDive True False 2016.01.21
 Czechin True True
 Dajtfed False True
 dalethesnail False True
