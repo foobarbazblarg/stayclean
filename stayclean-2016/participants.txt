@@ -190,7 +190,7 @@ KumquatRevenge True True
 kygx False True
 lackofabetter_name False True
 LadiesManPodrick True True
-LAmilo90 True True
+LAmilo90 True False 2016.01.20
 Lancecrackers True True
 LaxBear True True
 lekajones False True

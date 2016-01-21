@@ -31,7 +31,7 @@ BillyShears1958 False False
 BinarySequence True True
 bjjmonkey False True
 blah133 False False
-BlaseBB False True
+BlaseBB True True
 Blaze6181 False True
 bodymeetssoul True False 2016.01.10
 Cage03 False True
@@ -83,7 +83,7 @@ FearlessMadman False False
 Fenix12345 False False
 fixitnow90210 False True
 foobarbazblarg True True
-ForesterNL False True
+ForesterNL True True
 fortytude False True
 FourOneNiner True True
 Free-B False True
@@ -144,14 +144,14 @@ lonely_jujube False True
 LordofRice False True
 Lorenzo_Brandy False False
 ludwigvan__ False True
-lukas2020 False True
+lukas2020 True True
 m4rc0polo False True
 macked-out True False 2016.01.05
 mafiosogiacomo False False
 MaiKarooba True False 2016.01.04
 makers_recovery True True
 Makethefake True False 2016.01.06
-mantuafree False True
+mantuafree True True
 marcro2571 False True
 Marvin91 True False 2016.01.06
 masterofthethings False False
