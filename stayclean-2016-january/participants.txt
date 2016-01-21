@@ -71,7 +71,7 @@ DracoDimitrios55 False True
 drlusso False True
 DukeStamina True True
 ehho False True
-Eipa False True
+Eipa True True
 elbastardo1 False True
 ender360v2 False False
 engine4death False False
