@@ -134,7 +134,7 @@ FunkReborn False False 2016.01.04
 furchenmolch True True
 furthermucker True False 2016.01.13
 gangstercomputer True True
-getinthecagewithnicc True True
+getinthecagewithnicc True False 2016.01.22
 glassCannon21 False True
 go_an False True
 GoingNowhere True False 2016.01.14
@@ -144,7 +144,7 @@ gunleader True True
 HanginAroundDowntown True True
 HellenaFox False True
 HeruPrime True True
-heyoh1 False True
+heyoh1 True True
 hotegg True True
 humble777 True True
 HypeSloth True False 2016.01.10
@@ -246,7 +246,7 @@ nof12 False False 2016.01.01
 nofapffm True True
 NoFapude-cumstorm False True
 Nogo13 False True
-non_newtonian_jelly True True
+non_newtonian_jelly True False 2016.01.23
 nononofapfapfap False True
 nopantsparty42 True True
 noper32 True True
@@ -285,7 +285,7 @@ Purpluhr False True
 quicktoforget False True
 r3dletters True True
 Rasmus16 True False 2016.01.08
-Razzaband True True
+Razzaband True False 2016.01.23
 reboot74 False True
 rewoplliw True True
 Rfan False True
@@ -354,7 +354,7 @@ Throwaway01067 True True
 thrownawayforgoood False True
 thunderdeacon False True
 Tigurknee False True
-tim_dma False True
+tim_dma True True
 timeforthechallenge False True
 tlantan True True
 TMurray189 False True

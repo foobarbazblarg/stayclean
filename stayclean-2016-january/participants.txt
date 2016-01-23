@@ -54,7 +54,7 @@ Dajtfed False False
 dalethesnail False False
 Dan1209 False True
 dandausa True False 2016.01.15
-dayton1234 False True
+dayton1234 False False 2016.01.21
 dayzero0 False False
 ddgb False False
 Deathhoof812 True False 2016.01.04
@@ -134,7 +134,7 @@ KumquatRevenge False True
 laere False False
 LBJC False False
 lekajones False False
-Leopr1 False True
+Leopr1 True True
 LeoTheFighter False False 2016.01.05
 leotrope True False 2016.01.15
 lightbeyond False False
@@ -179,7 +179,7 @@ msp24 False True
 Mudhoney7 False True
 MushishiMaster True True
 myCQI False True
-n0_m0re_p0rn False True
+n0_m0re_p0rn True True
 N_A_R_C_O_S False True
 Na_2 True True
 natborchers False False
@@ -197,7 +197,7 @@ nosweetescape False True
 NovusCaesarion False False
 nth_root False True
 OdinTheKoala False True
-OK_01 False True
+OK_01 False False 2016.01.21
 OliverSpecter False False
 onfleek100 True True
 oobnate False False 2016.01.18
@@ -216,7 +216,7 @@ poopey_doopey False False
 Porn_is_shit True False 2016.01.12
 pornisforbetapeople False True
 pornojunky False False 2016.01.11
-post-fapper False True
+post-fapper True True
 praveenjuge False False
 Preambulanz False True
 preclosureoperator True True
@@ -226,7 +226,7 @@ quittingishard False False
 r3dletters False False
 rakt_fram False False
 Rasmus16 True False 2016.01.08
-Razzaband False True
+Razzaband False False 2016.01.23
 RevocoRestituo False False
 rewoplliw False True
 rightthistime1 True False 2016.01.05
