@@ -25,7 +25,7 @@ amadeo19 True True
 Ambition_HQ True True
 Aminhas1996 True True
 andstufflikethat True True
-ArseBadgerer True True
+ArseBadgerer True False 2016.01.25
 Arzackk True True
 ashkashbagash False True
 asianmutant True True
@@ -160,7 +160,7 @@ iodizedpepper False True
 ipartakeindrugs True True
 irgendwalrus True True
 itzGaia False True
-iur5 True True
+iur5 True False 2016.01.25
 Iwillgetoutofthis True True
 iwqpmo False False 2016.01.04
 jabber011215 True True
@@ -234,7 +234,7 @@ MushishiMaster True True
 mxman True True
 myCQI True True
 myshit_together_101 True True
-n0_m0re_p0rn True True
+n0_m0re_p0rn True False 2016.01.24
 N_A_R_C_O_S True True
 natborchers False False 2016.01.17
 NCC1701G True True
@@ -250,7 +250,7 @@ non_newtonian_jelly True False 2016.01.23
 nononofapfapfap False True
 nopantsparty42 True True
 noper32 True True
-nosweetescape True True
+nosweetescape True False 2016.01.25
 Not_the False True
 notanamateur False True
 nth_root True True
@@ -290,7 +290,7 @@ reboot74 False True
 rewoplliw True True
 Rfan False True
 RobertFreddi True True
-ronald_donaldson False True
+ronald_donaldson True True
 ronnymcfelch True False 2016.01.15
 runningloop True False 2016.01.15
 RyanTJ True True
@@ -312,7 +312,7 @@ shrubbry False True
 sinfulregret True False 2016.01.09
 Sirjim11 True True
 sittingonathumb True True
-slammajammadd True True
+slammajammadd True False 2016.01.24
 slic_ric False False 2016.01.24
 SloshingtonDC True True
 Slyrix True True
