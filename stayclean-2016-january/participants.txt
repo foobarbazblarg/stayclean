@@ -17,7 +17,7 @@ Albahacus False False
 alexianchen True True
 anamename False False
 antifapper False False
-Arzackk False True
+Arzackk True True
 ashkashbagash False False 2016.01.04
 atakor False False
 atka False True
@@ -167,7 +167,7 @@ Min93 False False
 mintchoc-icecream False True
 MisterMagorium False False
 mizustyle False True
-MonkeyDSunny False True
+MonkeyDSunny False False 2016.01.24
 MooseMilk3 True False 2016.01.09
 moped2000 False False
 MotorVanborn5000 False False
@@ -245,7 +245,7 @@ ScyllaHide False True
 SgtCheesepuffs False False
 shadowsatdusk True True
 Sharkictus False False
-shigolnam False True
+shigolnam True True
 shortless False False 2016.01.17
 shrubbry False False
 sinfulregret True False 2016.01.09

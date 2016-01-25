@@ -313,10 +313,10 @@ sinfulregret True False 2016.01.09
 Sirjim11 True True
 sittingonathumb True True
 slammajammadd True True
-slic_ric False True
+slic_ric False False 2016.01.24
 SloshingtonDC True True
 Slyrix True True
-Smaxfitness True True
+Smaxfitness True False 2016.01.24
 smokenfire7676 True False 2016.01.13
 snowbow True True
 Soiltaker True True
