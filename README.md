@@ -94,6 +94,7 @@ Let's go through an example.  For our example, we will manage the monthly challe
     - In a terminal, cd to the stayclean directory, and then use _cp -a stayclean-2016-january stayclean-2016-february_ to recursively copy january's directory to a new directory for february.
     - _cd stayclean-2016-february_
     - Make a new participants.txt file by rm'ing the existing one and then executing _touch participants.txt_
+    - Make a new retiredcommenthashes.txt file by rm'ing the existing one and then executing _touch retiredcommenthashes.txt_
     - Immediately sign yourself in by executing _./signup.py foobarbazblarg_
     - Several of the python scripts have variables that need to be edited for the new month.  Do a text search for _"Edit Me"_, and edit the variables, which should hopefully be self-explanatory or commented.
         - Please note that for the _challengePageSubmissionId_ variable in **serve-challenge-with-flask.py**, you will not yet know the submission ID for the February challenge page.  Just leave it as the empty string or something for now - we will fill it in on Febrary 1.
