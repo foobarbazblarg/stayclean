@@ -232,7 +232,7 @@ MrTMNTR True True
 Mudhoney7 True True
 MushishiMaster True True
 mxman True True
-myCQI True True
+myCQI True False 2016.01.27
 myshit_together_101 True True
 n0_m0re_p0rn True False 2016.01.24
 N_A_R_C_O_S True True

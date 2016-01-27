@@ -13,7 +13,7 @@ adannytoremember True False 2016.01.04
 Aerosenz False False
 aglalit False False
 Al-Fayed True False 2016.01.08
-Albahacus False False
+Albahacus False True
 alexianchen True True
 anamename False False
 antifapper False False
@@ -109,7 +109,7 @@ imr9ne False True
 incognito_15 False False
 ipartakeindrugs False True
 itzGaia False False
-Iwillgetoutofthis False True
+Iwillgetoutofthis True True
 iwqpmo False False 2016.01.04
 Jacque_DeCock False False
 JAK747 False False
@@ -178,7 +178,7 @@ MrTMNTR True True
 msp24 False True
 Mudhoney7 False True
 MushishiMaster True True
-myCQI False True
+myCQI False False 2016.01.27
 n0_m0re_p0rn True False 2016.01.24
 N_A_R_C_O_S False True
 Na_2 True True
