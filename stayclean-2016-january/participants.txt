@@ -145,7 +145,7 @@ LordofRice False True
 Lorenzo_Brandy False False
 ludwigvan__ True True
 lukas2020 True True
-m4rc0polo False True
+m4rc0polo True True
 macked-out True False 2016.01.05
 mafiosogiacomo False False
 MaiKarooba True False 2016.01.04
@@ -190,7 +190,7 @@ nick73197 False False
 nnnate True False 2016.01.06
 nof12 False False 2016.01.10
 NoFapAgain False False
-nofapffm False True
+nofapffm True True
 nogamestreams False False
 nopantsparty42 True False 2016.01.07
 nosweetescape True False 2016.01.25
