@@ -103,7 +103,7 @@ drlusso True True
 DrMarkyMark True True
 DrRocktopusMD True True
 dubbies_lament False False 2016.01.20
-DukeStamina True True
+DukeStamina True False 2016.01.27
 Egkrateia True True
 eightsixfourhundred True True
 elbastardo1 True True
@@ -224,7 +224,7 @@ MisterMagorium False True
 mistertopshelf False True
 mizustyle True True
 Monday14 True True
-MonkeyDSunny True True
+MonkeyDSunny True False 2016.01.28
 MooseMilk3 False False 2016.01.09
 mrLittleboy False False 2016.01.04
 mrnoone56 False False 2016.01.08
