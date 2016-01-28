@@ -16,6 +16,7 @@ Albahacus False True
 alexianchen False True
 aragonsr False True
 Arcticor False True
+ashkashbagash False True
 asianmutant False True
 atlas_arcturus False True
 bigred0241 False True
@@ -41,13 +42,16 @@ dopamine_hijacker False True
 DreamsBiggerEarly False True
 dubbies_lament False True
 DukeStamina False True
+dunedain441 False True
 FenixSword False True
 foobarbazblarg False True
 football_sucks False True
 ForesterNL False True
+framednblamed False True
 fullpower False True
 FunkReborn False True
 gretschpro08 False True
+hard2sleep False True
 humble777 False True
 I_respect_women False True
 Ingloriousb4sterd False True
@@ -56,6 +60,7 @@ Irishginger13 False True
 Iwillgetoutofthis False True
 Jennilover False True
 Jokerswild00 False True
+Jonnymac89 False True
 jspliff1 False True
 judgeofmydomain False True
 just_me_ee False True
@@ -77,6 +82,8 @@ mountainssunkbelow False True
 mrnoone56 False True
 MrTMNTR False True
 MushishiMaster False True
+myCQI False True
+MYSPICEYSANDWICH False True
 n0_m0re_p0rn False True
 naaron136 False True
 naiveidealism False True
@@ -87,6 +94,7 @@ odstane False True
 OK_01 False True
 onfleek100 False True
 orifimsupposedtobe False True
+outhkeeper False True
 peach_kumquat False True
 Pfree1805 False True
 pilothousen False True
@@ -100,6 +108,7 @@ PUA_Wanna_be False True
 Rasmus16 False True
 Raw_Chicken False True
 Rocket_Knight False True
+Runnermikey1 False True
 ryuke11 False True
 saskaciwanihk False True
 scorpion2phoenix False True
@@ -120,14 +129,17 @@ TheCaptinLove False True
 TheRoadOfLife False True
 TheSpruceTip False True
 Thunder_Powny False True
+ThursdayFe7er False True
 tlantan False True
 TMurray189 False True
 TomHobble False True
+TouchOfClass8 False True
 trinicunt False True
 Tripleaidid False True
 Tway86 False True
 vic_gin False True
 VoidedBanana False True
 wakeuptoblues False True
+Wish6 False True
 wontbeontv False True
 yoshi314 False True
