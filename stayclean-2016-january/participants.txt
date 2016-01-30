@@ -231,7 +231,7 @@ RevocoRestituo False False
 rewoplliw False True
 rightthistime1 True False 2016.01.05
 Ritner15 False True
-RobertFreddi False True
+RobertFreddi False False 2016.01.29
 Rocket_Knight True False 2016.01.04
 rodrigowb4ey False False
 RolloRocco True True
@@ -278,7 +278,7 @@ The_Turbinator False True
 theabeman False False
 Thee-Unforgiven False True
 theforc False True
-thegreatestjourney False True
+thegreatestjourney True True
 TheSteelSword False False
 thro_awaytheshackles True False 2016.01.05
 Throwaway01067 False True

@@ -24,7 +24,7 @@ sys.setdefaultencoding('utf8')
 
 # Edit Me!
 # Each day after you post a signup post, copy its 6-character ID to this array.
-signupPageSubmissionIds = [ '42ln3l', '42roh0', '42xpe0', '432zkr', '438toi' ]
+signupPageSubmissionIds = [ '42ln3l', '42roh0', '42xpe0', '432zkr', '438toi', '43dy7u' ]
 flaskport = 8890
 
 app = Flask(__name__)
