@@ -257,7 +257,7 @@ nth_root True True
 OccyX True True
 OdinTheKoala True True
 odstane True True
-OK_01 True True
+OK_01 True False 2016.01.31
 OldToBeingNew False True
 OliverSpecter False True
 onfleek100 True True

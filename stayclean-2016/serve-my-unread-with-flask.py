@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 import subprocess
+import time
 import praw
 from hashlib import sha1
 from flask import Flask
@@ -28,7 +29,7 @@ flaskport = 8800
 
 app = Flask(__name__)
 app.debug = True
-commentHashesAndComments = {}
+# commentHashesAndComments = {}
 
 
 def loginOAuthAndReturnRedditSession():
@@ -56,9 +57,9 @@ def retiredCommentHashes():
 
 @app.route('/unread')
 def unread():
-    global commentHashesAndComments
+    # global commentHashesAndComments
     global submission
-    commentHashesAndComments = {}
+    # commentHashesAndComments = {}
     stringio = StringIO()
     stringio.write('<html>\n<head>\n</head>\n\n')
 
@@ -74,15 +75,19 @@ def unread():
         i += 1
         commentHash = sha1()
         if unreadMessage.__class__ == praw.objects.Comment:
+            # This next line takes 2 seconds.  It must need to do an HTTPS transaction to get the permalink.
+            # Not much we can do about that, I guess.
+            # print int(round(time.time() * 1000))
             commentHash.update(unreadMessage.permalink)
+            # print int(round(time.time() * 1000))
         else:
             commentHash.update(str(unreadMessage.author))
         commentHash.update(unreadMessage.body.encode('utf-8'))
         commentHash = commentHash.hexdigest()
         if commentHash not in retiredHashes:
-            commentHashesAndComments[commentHash] = unreadMessage
+            # commentHashesAndComments[commentHash] = unreadMessage
             authorName = str(unreadMessage.author)  # can be None if author was deleted.  So check for that and skip if it's None.
-            participant = ParticipantCollection().participantNamed(authorName)
+            # participant = ParticipantCollection().participantNamed(authorName)
             stringio.write("<hr>\n")
             stringio.write('<font color="blue"><b>')
             stringio.write(authorName)
