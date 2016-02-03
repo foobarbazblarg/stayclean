@@ -13,7 +13,7 @@ _Virtus_ False True
 abolishpmo False True
 accountForAThing False True
 acdcisnice False True
-across_universe01 False True
+across_universe01 True True
 ActiveAardvark True True
 adannytoremember True True
 adash5000 False True
@@ -52,7 +52,8 @@ changingpete True True
 cHatsBaby False True
 chetangangappa False True
 ChinoCap False True
-cikatomo True True
+chrovavay True True
+cikatomo True False 2016.02.03
 clean_good_life False True
 cmjatom False True
 cobrarosa False True
@@ -65,7 +66,7 @@ Cosmicbound True True
 CosmicDart False True
 Crawling_Drunk False True
 Cryovane False True
-CurvingDive False True
+CurvingDive True True
 cuteguy1 False True
 Dan1209 False True
 Danielpiva True True
@@ -91,6 +92,7 @@ DukeStamina True True
 dunedain441 False True
 EhhAhhOhhUgh True True
 Eipa False True
+fapfapfapnot True True
 fastrancer False True
 FenixSword False True
 Fire-Eyed-Boy False True
@@ -132,7 +134,7 @@ January28th2016 False True
 January30th2016 False True
 January31st2016 False True
 jd158ug True True
-Jennilover False True
+Jennilover True True
 Jokerswild00 False True
 Jonnymac89 False True
 jspliff1 False True
@@ -179,6 +181,7 @@ mrnoone56 False True
 MrTMNTR False True
 MushishiMaster True True
 myCQI True True
+MyLittleProggy True True
 MYSPICEYSANDWICH False True
 n0_m0re_p0rn False True
 naaron136 False True
@@ -186,6 +189,7 @@ naiveidealism False True
 nampu True True
 NCC1701G True True
 neveragain1996 False True
+Neverdoinit True True
 NewBrian2016 False True
 Newman658 True True
 ninosquare True True
@@ -199,7 +203,7 @@ odstane False True
 OK_01 False True
 OminousToucan False True
 onfleek100 False True
-orifimsupposedtobe False True
+orifimsupposedtobe True True
 OscuroGG True True
 outhkeeper False True
 peach_kumquat True True
@@ -218,7 +222,7 @@ Properko False True
 psychfailure True True
 PUA_Wanna_be False True
 qrhoo False True
-raider901234 False True
+raider901234 True True
 Rasmus16 True True
 Raw_Chicken False True
 Razzaband True True
@@ -226,6 +230,7 @@ RecoveryJournal False True
 redditorsfedora False True
 RobertFreddi True True
 Rocket_Knight False True
+Rodders153 True True
 RolloRocco True True
 ronnymcfelch False True
 Runnermikey1 False True
@@ -254,6 +259,7 @@ Somtijds False True
 sooflhett96 True True
 Southpoleist False True
 Spadl False True
+SpectreMedge True True
 stizar False True
 StoneyMcCough False True
 StopItOrIWillLoseIt True True
@@ -303,6 +309,7 @@ vic_gin False True
 VoidedBanana False True
 wakeuptoblues False True
 WarriorShit True True
+WenisInVietnam True True
 Wess129 False True
 wheelieWeedMan600 True True
 wheresmydopamine True True

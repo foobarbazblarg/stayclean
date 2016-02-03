@@ -124,7 +124,7 @@ Flam3- False False
 foobarbazblarg False True
 ForesterNL False True
 forsience False False
-FourOneNiner False True
+FourOneNiner True True
 free45de False False
 Frozation False True
 frueherschueler False True
@@ -269,7 +269,7 @@ patchbag False False
 patron_stMax False True
 PFNFaway22 False False
 pfree0409 True False 2016.01.17
-Pfree1805 False True
+Pfree1805 True True
 PolarisAirship False False
 poopey_doopey False False
 Porn_is_shit True False 2016.01.14
@@ -323,7 +323,7 @@ Soiltaker False True
 solongsomewhere False True
 somanysquirrels False False
 somebody3895 False True
-spycow77 False True
+spycow77 True True
 sreebakely False False
 stainslemountaintops False False
 stalematewins False True
