@@ -24,7 +24,7 @@ alexianchen True True
 amadeo19 False True
 Ambition_HQ False True
 Aminhas1996 False True
-andstufflikethat False True
+andstufflikethat True True
 ArseBadgerer True False 2016.01.25
 Arzackk False True
 ashkashbagash False False
@@ -56,7 +56,7 @@ Cabana76 False False
 Cage03 False True
 call_me_possibly False False 2016.01.15
 captain_discipline False True
-Captain_French False True
+Captain_French True True
 catinsky False True
 ced22 False False 2016.01.08
 ChaleBoy True True
@@ -104,7 +104,7 @@ DrMarkyMark False True
 DrRocktopusMD False True
 dubbies_lament False False 2016.01.20
 DukeStamina True False 2016.01.27
-Egkrateia False True
+Egkrateia True True
 eightsixfourhundred False True
 elbastardo1 False True
 Element-A True False 2016.01.07
@@ -228,7 +228,7 @@ MonkeyDSunny True False 2016.01.28
 MooseMilk3 False False 2016.01.09
 mrLittleboy False False 2016.01.04
 mrnoone56 False False 2016.01.08
-MrTMNTR False True
+MrTMNTR True True
 Mudhoney7 False True
 MushishiMaster True True
 mxman False True
@@ -264,7 +264,7 @@ onfleek100 False True
 oobnate True False 2016.01.18
 Otikron False False
 PadTyrone False False
-Pastel_Pirate False True
+Pastel_Pirate True True
 patchbag False False
 patron_stMax False True
 PFNFaway22 False False

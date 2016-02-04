@@ -12,7 +12,7 @@ _lennart_ True True
 _Virtus_ False True
 abolishpmo False True
 accountForAThing False True
-acdcisnice False True
+acdcisnice True True
 across_universe01 True True
 ActiveAardvark True True
 adannytoremember True True
@@ -24,7 +24,7 @@ Al-Fayed False True
 Albahacus False True
 alexianchen False True
 alphahash False True
-aragonsr False True
+aragonsr True True
 Arcticor False True
 ardavaughn True True
 Arzackk True True
@@ -68,11 +68,12 @@ Crawling_Drunk False True
 Cryovane False True
 CurvingDive True True
 cuteguy1 False True
+Czechin True True
 Dan1209 False True
 Danielpiva True True
 DanMusicMan False True
 darcj False True
-dayton1234 False True
+dayton1234 False False 2016.02.03
 dbh9123 True True
 Ddale7 True True
 Deathhoof812 True True
@@ -111,7 +112,7 @@ gretschpro08 False True
 hard2sleep False True
 HighVoltage871 True True
 HippieSoulPunx True True
-hpooper2142 False True
+hpooper2142 True True
 hudspud False True
 humble777 False True
 I_respect_women False True
@@ -152,7 +153,7 @@ Ky-lay False True
 Leopr1 True True
 les13 False True
 letswinthiswar True True
-Littlesthermit False True
+Littlesthermit False False 2016.02.03
 Liviul True True
 lock_that_door True True
 loleuwc False True
@@ -178,7 +179,7 @@ MiTacoSuTaco True True
 MonkeyDSunny False True
 mountainssunkbelow False True
 mrnoone56 False True
-MrTMNTR False True
+MrTMNTR True True
 MushishiMaster True True
 myCQI True True
 MyLittleProggy True True
@@ -192,6 +193,7 @@ neveragain1996 False True
 Neverdoinit True True
 NewBrian2016 False True
 Newman658 True True
+Nikorino True True
 ninosquare True True
 no_semicolons_foryou False True
 NoFapAgain False True
@@ -206,6 +208,7 @@ onfleek100 False True
 orifimsupposedtobe True True
 OscuroGG True True
 outhkeeper False True
+Pantim True True
 peach_kumquat True True
 personalchallenge False True
 Pfree1805 True True
@@ -283,7 +286,7 @@ thegreatestjourney False True
 TheRoadOfLife False True
 TheSpruceTip False True
 TheTriscuit False True
-Thisisitnow123 False True
+Thisisitnow123 True True
 throwawayracecar False True
 Thunder_Powny False True
 thunderdeacon True True
