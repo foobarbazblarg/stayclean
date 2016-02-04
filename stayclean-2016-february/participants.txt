@@ -78,7 +78,7 @@ dbh9123 True True
 Ddale7 True True
 Deathhoof812 True True
 deca1987 False True
-Degreed1982 False True
+Degreed1982 False False 2016.02.04
 DforDeadpool False True
 dlfnn False True
 dnmbr16 False True
@@ -93,6 +93,7 @@ DukeStamina True True
 dunedain441 False True
 EhhAhhOhhUgh True True
 Eipa False True
+esunabuenavida True True
 fapfapfapnot True True
 fastrancer False True
 FenixSword False True
@@ -107,7 +108,7 @@ FreeInFebruary True True
 fullpower False True
 FunkReborn False True
 gangstercomputer False True
-GoingNowhere False True
+GoingNowhere False False 2016.02.04
 gretschpro08 False True
 hard2sleep False True
 HighVoltage871 True True
@@ -119,7 +120,7 @@ I_respect_women False True
 iamanonymous1234 False True
 IAmFinallyPornFree False True
 ideniedyou28 True True
-ImGonnaWin16 True True
+ImGonnaWin16 True False 2016.02.04
 imr9ne False True
 Incubus_Prime False True
 Ingloriousb4sterd False True
@@ -140,7 +141,7 @@ Jokerswild00 False True
 Jonnymac89 False True
 jspliff1 False True
 judgeofmydomain False True
-Juliohobbyhut False True
+Juliohobbyhut True True
 just_me_ee False True
 Juststopalready1 False True
 Karatebro False True
@@ -200,7 +201,7 @@ NoFapAgain False True
 NonokQ True True
 nth_root False True
 NudaeVetatur True True
-Odin_Allvis False True
+Odin_Allvis True True
 odstane False True
 OK_01 False True
 OminousToucan False True

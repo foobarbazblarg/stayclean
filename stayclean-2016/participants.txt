@@ -85,7 +85,7 @@ dayzero0 False False
 dchicli False True
 Deathhoof812 True False 2016.01.04
 deca1987 False False 2016.01.03
-Degreed1982 False True
+Degreed1982 False False 2016.02.04
 DemetriusXVII False False
 DerelictBob False True
 DevoutlyDevout False False
