@@ -22,7 +22,7 @@ ajsg1 False True
 aksaha False True
 Al-Fayed False True
 Albahacus False True
-alexianchen False True
+alexianchen True True
 alphahash False True
 aragonsr True True
 Arcticor False True
@@ -61,7 +61,7 @@ ColePatrol False True
 Coltaine29 False True
 commendatore True True
 Conrad409 False True
-coolseaBREEZE False True
+coolseaBREEZE True True
 Cosmicbound True True
 CosmicDart False True
 Crawling_Drunk False True
@@ -76,7 +76,7 @@ darcj False True
 dayton1234 False False 2016.02.03
 dbh9123 True True
 Ddale7 True True
-Deathhoof812 True True
+Deathhoof812 True False 2016.02.05
 deca1987 False True
 Degreed1982 False False 2016.02.04
 DforDeadpool False True
@@ -97,11 +97,11 @@ esunabuenavida True True
 fapfapfapnot True True
 fastrancer False True
 FenixSword False True
-Fire-Eyed-Boy False True
+Fire-Eyed-Boy True True
 firestepper True True
-foobarbazblarg False True
+foobarbazblarg True True
 football_sucks False True
-ForesterNL False True
+ForesterNL True True
 framednblamed False True
 Free-B True True
 FreeInFebruary True True
@@ -223,7 +223,7 @@ pornojunky False True
 post-fapper False True
 preclosureoperator False True
 Properko False True
-psychfailure True True
+psychfailure True False 2016.02.05
 PUA_Wanna_be False True
 qrhoo False True
 raider901234 True True
@@ -233,7 +233,7 @@ Razzaband True True
 RecoveryJournal False True
 redditorsfedora False True
 RobertFreddi True True
-Rocket_Knight False True
+Rocket_Knight False False 2016.02.05
 Rodders153 True True
 RolloRocco True True
 ronnymcfelch False True
@@ -246,7 +246,7 @@ sedarex True False 2016.02.02
 Ser_Capelli True True
 sesameseedfun False True
 shadowsatdusk True True
-shigolnam False True
+shigolnam True True
 shitsonfire False True
 ShivvyT True True
 shortless True True
@@ -255,14 +255,14 @@ sinfulregret True True
 Slabdweller False True
 slammajammadd False True
 slic_ric False True
-Slyrix False True
+Slyrix False False 2016.02.04
 smileperegrine4 True True
 snooju False True
 solsiegel True True
-Somtijds False True
+Somtijds False False 2016.02.05
 sooflhett96 True True
 Southpoleist False True
-Spadl False True
+Spadl True True
 SpectreMedge True True
 stizar False True
 StoneyMcCough False True

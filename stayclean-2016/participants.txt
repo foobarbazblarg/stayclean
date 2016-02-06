@@ -21,7 +21,7 @@ aHeroWith44Pens False True
 Al-Fayed True False 2016.01.08
 Albahacus True True
 alexianchen True True
-amadeo19 False True
+amadeo19 True True
 Ambition_HQ False True
 Aminhas1996 False True
 andstufflikethat True True
@@ -111,7 +111,7 @@ Element-A True False 2016.01.07
 ender360v2 False False
 Engineering_Junkie False False
 EnziBenzi False False
-eristicmystic False True
+eristicmystic True True
 Eviane False False
 Evil_Entity False False
 fanology True False 2016.01.05
@@ -121,8 +121,8 @@ Fenix12345 False False
 Finalstraw14 False True
 findfour False False
 Flam3- False False
-foobarbazblarg False True
-ForesterNL False True
+foobarbazblarg True True
+ForesterNL True True
 forsience False False
 FourOneNiner True True
 free45de False False
@@ -205,7 +205,7 @@ ljokr True True
 lonely_jujube False True
 Lopokato124 False False 2016.01.14
 LordofRice False True
-lukas2020 False True
+lukas2020 True True
 macked-out True False 2016.01.05
 MagneticAscetic True True
 makers_recovery True True
@@ -217,7 +217,7 @@ mathdrug False False
 Meche24 False True
 melitallmighty False False
 metaphysicalboundary False False
-mikawaldi False True
+mikawaldi True True
 Min93 False False
 mintchoc-icecream False True
 MisterMagorium False False
@@ -290,7 +290,7 @@ reboot74 False False
 rewoplliw False True
 Rfan False False
 RobertFreddi False True
-ronald_donaldson False True
+ronald_donaldson True True
 ronnymcfelch True False 2016.01.15
 runningloop True False 2016.01.15
 RyanTJ False True
@@ -315,7 +315,7 @@ sittingonathumb False True
 slammajammadd True False 2016.01.24
 slic_ric False False 2016.01.24
 SloshingtonDC False True
-Slyrix False True
+Slyrix False False 2016.02.04
 Smaxfitness True False 2016.01.24
 smokenfire7676 True False 2016.01.13
 snowbow False True
@@ -380,7 +380,7 @@ walkingagh False True
 warriorbil False True
 WarriorShit True False 2016.01.17
 WazzupBR False True
-WenisInVietnam False True
+WenisInVietnam True True
 Wess129 True False 2016.01.11
 wheresmydopamine False False 2016.01.14
 WinByHydro False False
