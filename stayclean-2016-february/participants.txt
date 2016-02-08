@@ -67,7 +67,7 @@ CosmicDart False True
 Crawling_Drunk False True
 Cryovane False True
 CurvingDive True True
-cuteguy1 False True
+cuteguy1 True True
 Czechin True True
 Dan1209 False True
 Danielpiva True True
@@ -95,7 +95,7 @@ EhhAhhOhhUgh True False 2016.02.07
 Eipa True True
 esunabuenavida True True
 fapfapfapnot True True
-fastrancer False True
+fastrancer True True
 FenixSword False True
 Fire-Eyed-Boy True True
 firestepper True True
@@ -179,7 +179,7 @@ MisterMagorium False True
 MiTacoSuTaco True True
 MonkeyDSunny True True
 mountainssunkbelow False True
-mrnoone56 False True
+mrnoone56 False False 2016.02.08
 MrTMNTR True True
 MushishiMaster True True
 myCQI True True
@@ -251,7 +251,7 @@ shitsonfire False True
 ShivvyT True True
 shortless True True
 shouldnotfap25 False True
-sinfulregret True True
+sinfulregret True False 2016.02.08
 Slabdweller False True
 slammajammadd False True
 slic_ric False True
