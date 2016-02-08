@@ -10,7 +10,7 @@ __murph__ False True
 _Civil False True
 _lennart_ True True
 _Virtus_ False True
-abolishpmo False True
+abolishpmo False False 2016.02.06
 accountForAThing False True
 acdcisnice True True
 across_universe01 True True
@@ -21,11 +21,11 @@ aero253 True True
 ajsg1 False True
 aksaha False True
 Al-Fayed False True
-Albahacus False True
+Albahacus True True
 alexianchen True True
 alphahash False True
 aragonsr True True
-Arcticor False True
+Arcticor True True
 ardavaughn True True
 Arzackk True True
 ashkashbagash False True
@@ -39,7 +39,7 @@ bigred0241 False True
 BlaseBB False True
 BluePhonix96 True True
 bluesguitarz False True
-breakingpornjamin False True
+breakingpornjamin False False 2016.02.06
 bred84 False True
 briarrhea False True
 Brizcoe False True
@@ -74,7 +74,7 @@ Danielpiva True True
 DanMusicMan False True
 darcj False True
 dayton1234 False False 2016.02.03
-dbh9123 True True
+dbh9123 True False 2016.02.06
 Ddale7 True True
 Deathhoof812 True False 2016.02.05
 deca1987 False True
@@ -91,8 +91,8 @@ DreamsBiggerEarly False True
 dubbies_lament False True
 DukeStamina True True
 dunedain441 False True
-EhhAhhOhhUgh True True
-Eipa False True
+EhhAhhOhhUgh True False 2016.02.07
+Eipa True True
 esunabuenavida True True
 fapfapfapnot True True
 fastrancer False True
@@ -100,14 +100,14 @@ FenixSword False True
 Fire-Eyed-Boy True True
 firestepper True True
 foobarbazblarg True True
-football_sucks False True
+football_sucks True True
 ForesterNL True True
 framednblamed False True
 Free-B True True
 FreeInFebruary True True
 fullpower False True
 FunkReborn False True
-gangstercomputer False True
+gangstercomputer False False 2016.02.06
 GoingNowhere False False 2016.02.04
 gretschpro08 False True
 hard2sleep False True
@@ -117,7 +117,7 @@ hpooper2142 True True
 hudspud False True
 humble777 False True
 I_respect_women False True
-iamanonymous1234 False True
+iamanonymous1234 True True
 IAmFinallyPornFree False True
 ideniedyou28 True True
 ImGonnaWin16 True False 2016.02.04
@@ -141,16 +141,16 @@ Jokerswild00 False True
 Jonnymac89 False True
 jspliff1 False True
 judgeofmydomain False True
-Juliohobbyhut True True
+Juliohobbyhut True False 2016.02.06
 just_me_ee False True
-Juststopalready1 False True
+Juststopalready1 False False 2016.02.06
 Karatebro False True
 kelowH False True
 Kings_Son False True
 Korleonis False True
 kozzy333 False True
 kp8708 True True
-Ky-lay False True
+Ky-lay False False 2016.02.07
 Leopr1 True True
 les13 False True
 letswinthiswar True True
@@ -167,7 +167,7 @@ ludwigvan__ True True
 lukas2020 True True
 LydianAlchemist True True
 m4AC False True
-macked-out True True
+macked-out True False 2016.02.05
 makers_recovery True True
 Makethefake True True
 mama_duck False True
@@ -177,7 +177,7 @@ Miiind False True
 minimaloutsight False True
 MisterMagorium False True
 MiTacoSuTaco True True
-MonkeyDSunny False True
+MonkeyDSunny True True
 mountainssunkbelow False True
 mrnoone56 False True
 MrTMNTR True True
@@ -189,7 +189,7 @@ n0_m0re_p0rn False True
 naaron136 False True
 naiveidealism False True
 nampu True True
-NCC1701G True True
+NCC1701G True False 2016.02.06
 neveragain1996 False True
 Neverdoinit True True
 NewBrian2016 False True
@@ -219,9 +219,9 @@ plus4comrade_ True True
 PM_me_your_cans False True
 Polygonzalez False True
 pornfreedrj87 False True
-pornojunky False True
+pornojunky False False 2016.02.06
 post-fapper False True
-preclosureoperator False True
+preclosureoperator True True
 Properko False True
 psychfailure True False 2016.02.05
 PUA_Wanna_be False True
@@ -269,7 +269,7 @@ StoneyMcCough False True
 StopItOrIWillLoseIt True True
 sunshine_rec0rder True True
 suntzu01 False True
-swagoz True True
+swagoz True False 2016.02.07
 SwansonSamsonite True True
 sXe4Life True True
 temp_file_returns True True
@@ -278,11 +278,11 @@ Tezcatlipoca343 True True
 ThatM3kid False True
 The_BromanEmpire False True
 the_good_fighter False True
-theba90 False True
+theba90 True True
 TheCaptinLove False True
 TheFirstDegree True True
 Theflavourmauve False True
-TheForceOfMortality True True
+TheForceOfMortality True False 2016.02.06
 thegreatestjourney False True
 TheRoadOfLife False True
 TheSpruceTip False True
@@ -295,9 +295,9 @@ ThursdayFe7er False True
 Ticonix False True
 tinnyw False True
 tlantan True True
-TMurray189 False True
+TMurray189 True True
 TomHobble False True
-tossedoffer False True
+tossedoffer True True
 TouchOfClass8 False True
 toughchanges True True
 Treeology False True
@@ -307,11 +307,11 @@ trouav True True
 Trustworthy92 False True
 turtlebest True True
 Tway86 False True
-user_000 False True
+user_000 True True
 vault_21 False True
 vic_gin False True
 VoidedBanana False True
-wakeuptoblues False True
+wakeuptoblues True True
 WarriorShit True True
 WenisInVietnam True True
 Wess129 False True
@@ -321,7 +321,7 @@ Wish6 True True
 wontbeontv False True
 woodninja False True
 WoodRobot False True
-workingrecovery True True
+workingrecovery True False 2016.02.06
 Yellow_Baron True True
 yoshi314 False True
 zvezdicee False True

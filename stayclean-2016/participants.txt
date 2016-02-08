@@ -94,7 +94,7 @@ diediededbacon False False
 DigiKorean False False
 DizzieO False True
 dmitri_adkins False True
-DontReadMyCommentPls False True
+DontReadMyCommentPls True True
 dontwankbro False True
 dopamine_hijacker True False 2016.01.16
 DracoDimitrios55 False True
@@ -158,7 +158,7 @@ In-God-We-Rely False False
 intomath False False
 iodizedpepper False False
 ipartakeindrugs False True
-irgendwalrus False True
+irgendwalrus True True
 itzGaia False False
 iur5 True False 2016.01.25
 Iwillgetoutofthis False True
@@ -167,7 +167,7 @@ jabber011215 False True
 JAK747 False False
 jakefilmpro False True
 jakiewan True False 2016.01.03
-jd158ug False True
+jd158ug True True
 jeffrykoopman False True
 Jelte-jv False True
 jimbob1231 False True
@@ -200,7 +200,7 @@ leotrope True False 2016.01.15
 Leve_Vikingaanden False False
 lightbeyond False False
 littlelionlittle False False
-Liviul False True
+Liviul True True
 ljokr True True
 lonely_jujube False True
 Lopokato124 False False 2016.01.14
@@ -237,7 +237,7 @@ myshit_together_101 False True
 n0_m0re_p0rn True False 2016.01.24
 N_A_R_C_O_S False True
 natborchers False False 2016.01.17
-NCC1701G True True
+NCC1701G True False 2016.02.06
 NeedHelpNick False False
 Neverstop7 False False
 NewBrian2016 True True
@@ -273,7 +273,7 @@ Pfree1805 True True
 PolarisAirship False False
 poopey_doopey False False
 Porn_is_shit True False 2016.01.14
-pornfree_acnt False True
+pornfree_acnt True True
 pornisforbetapeople False True
 pornojunky False False 2016.01.11
 post-fapper False True
@@ -343,7 +343,7 @@ Thee-Unforgiven False True
 Theflavourmauve False True
 thegreatestjourney False True
 TheMasterRedditor False False
-thenerj False True
+thenerj True True
 thenumber53was_me False True
 Thepres_10 False True
 thespoudaios False False
@@ -359,7 +359,7 @@ timeforthechallenge False False
 tlantan True True
 TMurray189 False False
 TortillaHero False True
-tossedoffer False True
+tossedoffer True True
 Trappedinacorpse False True
 Treetrunk27 False False
 Triphouse False False
@@ -369,7 +369,7 @@ Turkeytom86 False False
 TurnAround13 False True
 Uber118 False True
 umadethisforareason False True
-Valvyn False True
+Valvyn True True
 victorcrp01 False False
 vityaz777 True False 2016.01.14
 VizualDreamer13 False True
