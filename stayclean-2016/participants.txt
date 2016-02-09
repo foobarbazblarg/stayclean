@@ -126,7 +126,7 @@ ForesterNL True True
 forsience False False
 FourOneNiner True True
 free45de False False
-Frozation False True
+Frozation True True
 frueherschueler False True
 FUCK_KING False True
 fullpower False False
@@ -161,7 +161,7 @@ ipartakeindrugs False True
 irgendwalrus True True
 itzGaia False False
 iur5 True False 2016.01.25
-Iwillgetoutofthis False True
+Iwillgetoutofthis False False 2016.02.09
 iwqpmo False False 2016.01.04
 jabber011215 False True
 JAK747 False False
@@ -279,7 +279,7 @@ pornojunky False False 2016.01.11
 post-fapper False True
 PotentLife False True
 praveenjuge False False
-preclosureoperator False True
+preclosureoperator True True
 pspforever1 False False
 Purpluhr False False
 quicktoforget False False
@@ -293,7 +293,7 @@ RobertFreddi False True
 ronald_donaldson True True
 ronnymcfelch True False 2016.01.15
 runningloop True False 2016.01.15
-RyanTJ False True
+RyanTJ True True
 RyPA False False
 saadahmed888 False False
 sageknight False False
@@ -320,7 +320,7 @@ Smaxfitness True False 2016.01.24
 smokenfire7676 True False 2016.01.13
 snowbow False True
 Soiltaker False True
-solongsomewhere False True
+solongsomewhere True True
 somanysquirrels False False
 somebody3895 False True
 spycow77 True True
@@ -330,7 +330,7 @@ stalematewins False True
 stefangusi False True
 Sundria False False
 SunniestWarrior False False
-sunshine_rec0rder False True
+sunshine_rec0rder True True
 swageduplikcailou False True
 sXe4Life True True
 Tazbio False False
@@ -341,7 +341,7 @@ TheCGLion False False
 thedum False True
 Thee-Unforgiven False True
 Theflavourmauve False True
-thegreatestjourney False True
+thegreatestjourney True True
 TheMasterRedditor False False
 thenerj True True
 thenumber53was_me False True
@@ -394,4 +394,4 @@ XcherokeeJ False False
 YellowTango False True
 yes_darling True False 2016.01.15
 youngremy False False
-zvezdicee False True
+zvezdicee True True

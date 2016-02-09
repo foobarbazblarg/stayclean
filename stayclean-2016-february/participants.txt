@@ -13,7 +13,7 @@ _Virtus_ False True
 abolishpmo False False 2016.02.06
 accountForAThing False True
 acdcisnice True True
-across_universe01 True True
+across_universe01 True False 2016.02.09
 ActiveAardvark True True
 adannytoremember True True
 adash5000 False True
@@ -44,7 +44,7 @@ bred84 False True
 briarrhea False True
 Brizcoe False True
 cant_stop_tugging True True
-captaingouyou False True
+captaingouyou True True
 cashball False True
 cataraxia False True
 catinsky False True
@@ -83,7 +83,7 @@ DforDeadpool False True
 dlfnn False True
 dnmbr16 False True
 doggybalfour True True
-dopamine_hijacker True True
+dopamine_hijacker True False 2016.02.08
 Dotanime False True
 Dr_down_low True True
 DracoDimitrios55 True True
@@ -102,7 +102,7 @@ firestepper True True
 foobarbazblarg True True
 football_sucks True True
 ForesterNL True True
-framednblamed False True
+framednblamed True True
 Free-B True True
 FreeInFebruary True True
 fullpower False True
@@ -235,7 +235,7 @@ redditorsfedora False True
 RobertFreddi True True
 Rocket_Knight False False 2016.02.05
 Rodders153 True True
-RolloRocco True True
+RolloRocco True False 2016.02.08
 ronnymcfelch False True
 Runnermikey1 False True
 ryuke11 True True
@@ -248,7 +248,7 @@ sesameseedfun False True
 shadowsatdusk True True
 shigolnam True True
 shitsonfire False True
-ShivvyT True True
+ShivvyT True False 2016.02.08
 shortless True True
 shouldnotfap25 False True
 sinfulregret True False 2016.02.08
@@ -277,13 +277,13 @@ tempusers False True
 Tezcatlipoca343 True True
 ThatM3kid False True
 The_BromanEmpire False True
-the_good_fighter False True
+the_good_fighter True True
 theba90 True True
 TheCaptinLove False True
 TheFirstDegree True True
 Theflavourmauve False True
 TheForceOfMortality True False 2016.02.06
-thegreatestjourney False True
+thegreatestjourney True True
 TheRoadOfLife False True
 TheSpruceTip False True
 TheTriscuit False True
@@ -324,4 +324,4 @@ WoodRobot False True
 workingrecovery True False 2016.02.06
 Yellow_Baron True True
 yoshi314 False True
-zvezdicee False True
+zvezdicee True True
