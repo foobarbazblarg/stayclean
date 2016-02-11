@@ -26,7 +26,7 @@ Ambition_HQ False True
 Aminhas1996 False True
 andstufflikethat True True
 ArseBadgerer True False 2016.01.25
-Arzackk False True
+Arzackk True True
 ashkashbagash False False
 asianmutant True True
 atka False True
@@ -175,7 +175,7 @@ jj119883 False False
 Jlw605 False True
 JoeyBurson False True
 jsigmon91 False False
-jspliff1 False True
+jspliff1 False False 2016.02.11
 jumpmanspace False False
 Karatebro False True
 kbm15 False False
@@ -269,7 +269,7 @@ patchbag False False
 patron_stMax False True
 PFNFaway22 False False
 pfree0409 True False 2016.01.17
-Pfree1805 True True
+Pfree1805 True False 2016.02.11
 PolarisAirship False False
 poopey_doopey False False
 Porn_is_shit True False 2016.01.14

@@ -51,7 +51,7 @@ catinsky True True
 changingpete True True
 cHatsBaby False True
 chetangangappa False True
-ChinoCap False True
+ChinoCap True True
 chrovavay True True
 cikatomo True False 2016.02.03
 clean_good_life False True
@@ -65,7 +65,7 @@ coolseaBREEZE True True
 Cosmicbound True True
 CosmicDart False True
 Crawling_Drunk False True
-Cryovane False True
+Cryovane True True
 CurvingDive True True
 cuteguy1 True True
 Czechin True True
@@ -103,7 +103,7 @@ foobarbazblarg True True
 football_sucks True True
 ForesterNL True True
 framednblamed True True
-Free-B True True
+Free-B True False 2016.02.11
 FreeInFebruary True True
 fullpower False True
 FunkReborn False True
@@ -139,7 +139,7 @@ jd158ug True True
 Jennilover True True
 Jokerswild00 False True
 Jonnymac89 False True
-jspliff1 False True
+jspliff1 True True
 judgeofmydomain False True
 Juliohobbyhut True False 2016.02.06
 just_me_ee False True
@@ -183,7 +183,7 @@ mrnoone56 False False 2016.02.08
 MrTMNTR True True
 MushishiMaster True True
 myCQI True True
-MyLittleProggy True True
+MyLittleProggy True False 2016.02.10
 MYSPICEYSANDWICH False True
 n0_m0re_p0rn False True
 naaron136 False True
@@ -212,7 +212,7 @@ outhkeeper False True
 Pantim True True
 peach_kumquat True True
 personalchallenge False True
-Pfree1805 True True
+Pfree1805 True False 2016.02.11
 pilothousen False True
 playdohspagett False True
 plus4comrade_ True True
@@ -303,7 +303,7 @@ toughchanges True True
 Treeology False True
 trinicunt False True
 Tripleaidid True True
-trouav True True
+trouav True False 2016.02.10
 Trustworthy92 False True
 turtlebest True True
 Tway86 False True
@@ -314,7 +314,7 @@ VoidedBanana False True
 wakeuptoblues True True
 WarriorShit True True
 WenisInVietnam True True
-Wess129 False True
+Wess129 False False 2016.02.11
 wheelieWeedMan600 True True
 wheresmydopamine True True
 Wish6 True True
