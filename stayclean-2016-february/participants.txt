@@ -45,7 +45,7 @@ briarrhea False True
 Brizcoe False True
 cant_stop_tugging True True
 captaingouyou True True
-cashball False True
+cashball True True
 cataraxia False True
 catinsky True True
 changingpete True True
@@ -197,7 +197,7 @@ Newman658 True True
 Nikorino True True
 ninosquare True True
 no_semicolons_foryou False True
-NoFapAgain False True
+NoFapAgain True True
 NonokQ True True
 nth_root False True
 NudaeVetatur True True
@@ -224,7 +224,7 @@ post-fapper False True
 preclosureoperator True True
 Properko False True
 psychfailure True False 2016.02.05
-PUA_Wanna_be False True
+PUA_Wanna_be True True
 qrhoo False True
 raider901234 True True
 Rasmus16 True True
@@ -240,7 +240,7 @@ ronnymcfelch False True
 Runnermikey1 False True
 ryuke11 True True
 saskaciwanihk False False 2016.02.02
-scorpion2phoenix False True
+scorpion2phoenix False False 2016.02.12
 sdrahmath False True
 sedarex True False 2016.02.02
 Ser_Capelli True True
