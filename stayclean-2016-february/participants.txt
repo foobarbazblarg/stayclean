@@ -50,7 +50,7 @@ cataraxia False True
 catinsky True True
 changingpete True True
 cHatsBaby False True
-chetangangappa False True
+chetangangappa False False 2016.02.14
 ChinoCap True True
 chrovavay True True
 cikatomo True False 2016.02.03
@@ -61,11 +61,11 @@ ColePatrol False True
 Coltaine29 False True
 commendatore True True
 Conrad409 False True
-coolseaBREEZE True True
+coolseaBREEZE True False 2016.02.13
 Cosmicbound True True
 CosmicDart False True
 Crawling_Drunk False True
-Cryovane True True
+Cryovane True False 2016.02.14
 CurvingDive True True
 cuteguy1 True True
 Czechin True True
@@ -93,7 +93,7 @@ DukeStamina True True
 dunedain441 False True
 EhhAhhOhhUgh True False 2016.02.07
 Eipa True True
-esunabuenavida True True
+esunabuenavida True False 2016.02.14
 fapfapfapnot True True
 fastrancer True False 2016.02.10
 FenixSword False True
@@ -147,7 +147,7 @@ Juststopalready1 False False 2016.02.06
 Karatebro False True
 kelowH False True
 Kings_Son False True
-Korleonis False True
+Korleonis True True
 kozzy333 False True
 kp8708 True True
 Ky-lay False False 2016.02.07
@@ -163,7 +163,7 @@ lonestarscotsman False True
 LookAtAllTheUnicorns True True
 Lopokato124 False True
 LordSithVader True True
-ludwigvan__ True True
+ludwigvan__ True False 2016.02.14
 lukas2020 True True
 LydianAlchemist True True
 m4AC False True
@@ -178,7 +178,7 @@ minimaloutsight False True
 MisterMagorium False True
 MiTacoSuTaco True True
 MonkeyDSunny True True
-mountainssunkbelow False True
+mountainssunkbelow False False 2016.02.14
 mrnoone56 False False 2016.02.08
 MrTMNTR True True
 MushishiMaster True True
@@ -215,7 +215,7 @@ personalchallenge False True
 Pfree1805 True False 2016.02.11
 pilothousen False True
 playdohspagett False True
-plus4comrade_ True True
+plus4comrade_ True False 2016.02.12
 PM_me_your_cans False True
 Polygonzalez False True
 pornfreedrj87 False True

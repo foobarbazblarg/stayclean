@@ -169,7 +169,7 @@ jakefilmpro False True
 jakiewan True False 2016.01.03
 jd158ug True True
 jeffrykoopman False True
-Jelte-jv False True
+Jelte-jv True True
 jimbob1231 False True
 jj119883 False False
 Jlw605 False True
@@ -209,7 +209,7 @@ lukas2020 True True
 macked-out True False 2016.01.05
 MagneticAscetic True True
 makers_recovery True True
-Makethefake False True
+Makethefake True True
 marcro2571 False True
 Marvin91 False True
 masterofthethings False False
@@ -391,7 +391,7 @@ WonderBoy92 False False
 workingrecovery True False 2016.01.08
 wrcahns False True
 XcherokeeJ False False
-YellowTango False True
+YellowTango True True
 yes_darling True False 2016.01.15
 youngremy False False
 zvezdicee True True
