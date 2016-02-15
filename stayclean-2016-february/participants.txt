@@ -28,7 +28,7 @@ aragonsr True True
 Arcticor True True
 ardavaughn True True
 Arzackk True True
-ashkashbagash False True
+ashkashbagash True True
 asianmutant True True
 atlas_arcturus False True
 aznsk8s87 False True
@@ -207,7 +207,7 @@ OK_01 False True
 OminousToucan False True
 onfleek100 False True
 orifimsupposedtobe True True
-OscuroGG True True
+OscuroGG True False 2016.02.15
 outhkeeper False True
 Pantim True True
 peach_kumquat True True
