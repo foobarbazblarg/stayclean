@@ -312,7 +312,7 @@ vault_21 False True
 vic_gin False True
 VoidedBanana False True
 wakeuptoblues True True
-WarriorShit True True
+WarriorShit True False 2016.02.15
 WenisInVietnam True True
 Wess129 False False 2016.02.11
 wheelieWeedMan600 True True
