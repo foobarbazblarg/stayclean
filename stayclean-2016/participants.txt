@@ -20,7 +20,7 @@ Aerosenz False False
 aHeroWith44Pens False True
 Al-Fayed True False 2016.01.08
 Albahacus True True
-alexianchen True True
+alexianchen True False 2016.02.19
 amadeo19 True True
 Ambition_HQ False True
 Aminhas1996 False True
@@ -318,7 +318,7 @@ SloshingtonDC False True
 Slyrix False False 2016.02.04
 Smaxfitness True False 2016.01.24
 smokenfire7676 True False 2016.01.13
-snowbow False True
+snowbow False False 2016.02.19
 Soiltaker False True
 solongsomewhere True True
 somanysquirrels False False

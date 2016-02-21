@@ -22,7 +22,7 @@ ajsg1 False False
 aksaha False False
 Al-Fayed False False
 Albahacus False True
-alexianchen False True
+alexianchen False False 2016.02.19
 alphahash False False
 aragonsr False True
 Arcticor False True
@@ -92,7 +92,7 @@ dubbies_lament False False
 DukeStamina False True
 dunedain441 False False
 EhhAhhOhhUgh True False 2016.02.07
-Eipa False True
+Eipa True True
 esunabuenavida True False 2016.02.14
 fapfapfapnot False True
 fastrancer True False 2016.02.10
@@ -101,7 +101,7 @@ Fire-Eyed-Boy False True
 firestepper False True
 foobarbazblarg True True
 football_sucks False False 2016.02.17
-ForesterNL False True
+ForesterNL True True
 framednblamed False True
 Free-B True False 2016.02.11
 FreeInFebruary False True
@@ -113,7 +113,7 @@ gretschpro08 False False
 hard2sleep False False
 HighVoltage871 False True
 HippieSoulPunx True False 2016.02.10
-hpooper2142 False True
+hpooper2142 False False 2016.02.19
 hudspud False False
 humble777 False True
 I_respect_women False False
@@ -182,7 +182,7 @@ mountainssunkbelow False False 2016.02.14
 mrnoone56 False False 2016.02.08
 MrTMNTR True True
 MushishiMaster False True
-myCQI False True
+myCQI True True
 MyLittleProggy True False 2016.02.10
 MYSPICEYSANDWICH False False
 n0_m0re_p0rn False False
@@ -200,7 +200,7 @@ no_semicolons_foryou False False
 NoFapAgain False True
 NonokQ False True
 nth_root False False
-NudaeVetatur False True
+NudaeVetatur True True
 Odin_Allvis True False 2016.02.16
 odstane False False
 OK_01 False False
