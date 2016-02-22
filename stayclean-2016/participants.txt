@@ -46,7 +46,7 @@ Betterthanuatlife False True
 BinarySequence True True
 BlaseBB False False 2016.02.01
 Blaze6181 False True
-BluePhonix96 False True
+BluePhonix96 True True
 Boonofthegarou False True
 briarrhea False False
 Brophylactic37 False False
@@ -158,7 +158,7 @@ In-God-We-Rely False False
 intomath False False
 iodizedpepper False False
 ipartakeindrugs False True
-irgendwalrus True True
+irgendwalrus True False 2016.02.22
 itzGaia False False
 iur5 True False 2016.01.25
 Iwillgetoutofthis False False 2016.02.09

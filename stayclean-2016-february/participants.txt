@@ -66,7 +66,7 @@ Cosmicbound True True
 CosmicDart False False
 Crawling_Drunk False False
 Cryovane True False 2016.02.14
-CurvingDive False True
+CurvingDive True True
 cuteguy1 True False 2016.02.16
 Czechin False True
 Dan1209 False False
@@ -85,7 +85,7 @@ dnmbr16 False False
 doggybalfour True True
 dopamine_hijacker True False 2016.02.08
 Dotanime False False
-Dr_down_low False True
+Dr_down_low True True
 DracoDimitrios55 False True
 DreamsBiggerEarly False False
 dubbies_lament False False
@@ -97,7 +97,7 @@ esunabuenavida True False 2016.02.14
 fapfapfapnot False True
 fastrancer True False 2016.02.10
 FenixSword False False
-Fire-Eyed-Boy False True
+Fire-Eyed-Boy True True
 firestepper False True
 foobarbazblarg True True
 football_sucks False False 2016.02.17
@@ -124,7 +124,7 @@ ImGonnaWin16 True False 2016.02.04
 imr9ne False False
 Incubus_Prime False False
 Ingloriousb4sterd False False 2016.02.10
-irgendwalrus True True
+irgendwalrus True False 2016.02.22
 Irishginger13 False False
 Isitme893 False False
 itzGaia False True
@@ -147,15 +147,15 @@ Juststopalready1 False False 2016.02.06
 Karatebro True True
 kelowH False False
 Kings_Son False False
-Korleonis False True
+Korleonis True True
 kozzy333 False False
-kp8708 False True
+kp8708 True True
 Ky-lay False False 2016.02.07
 Leopr1 False True
 les13 False False
 letswinthiswar False True
 Littlesthermit False False 2016.02.03
-Liviul False True
+Liviul True True
 lock_that_door False False 2016.02.16
 loleuwc False False
 lonely_jujube False False
@@ -266,8 +266,8 @@ Spadl False True
 SpectreMedge False True
 stizar False False
 StoneyMcCough False False
-StopItOrIWillLoseIt False True
-sunshine_rec0rder False True
+StopItOrIWillLoseIt False False 2016.02.21
+sunshine_rec0rder True True
 suntzu01 False False
 swagoz True False 2016.02.07
 SwansonSamsonite False True
@@ -283,11 +283,11 @@ TheCaptinLove False False
 TheFirstDegree False True
 Theflavourmauve False False
 TheForceOfMortality True False 2016.02.06
-thegreatestjourney False True
+thegreatestjourney True True
 TheRoadOfLife False False
 TheSpruceTip False False
 TheTriscuit False False
-Thisisitnow123 False True
+Thisisitnow123 True False 2016.02.22
 throwawayracecar False False
 Thunder_Powny False False
 thunderdeacon False True
@@ -295,7 +295,7 @@ ThursdayFe7er False False
 Ticonix False False
 tinnyw False False
 tlantan True True
-TMurray189 False True
+TMurray189 False False 2016.02.22
 TomHobble False False
 tossedoffer False True
 TouchOfClass8 False False
@@ -316,7 +316,7 @@ WarriorShit True False 2016.02.15
 WenisInVietnam False True
 Wess129 False False 2016.02.11
 wheelieWeedMan600 False True
-wheresmydopamine True True
+wheresmydopamine True False 2016.02.21
 Wish6 False True
 wontbeontv False False
 woodninja False False
