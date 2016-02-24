@@ -26,7 +26,7 @@ alexianchen False False 2016.02.19
 alphahash False False
 aragonsr False True
 Arcticor False True
-ardavaughn False True
+ardavaughn True True
 Arzackk False True
 ashkashbagash False True
 asianmutant False True
@@ -111,7 +111,7 @@ gangstercomputer False False 2016.02.06
 GoingNowhere False False 2016.02.04
 gretschpro08 False False
 hard2sleep False False
-HighVoltage871 False True
+HighVoltage871 True True
 HippieSoulPunx True False 2016.02.10
 hpooper2142 False False 2016.02.19
 hudspud False False
@@ -258,11 +258,11 @@ slic_ric False False
 Slyrix False False 2016.02.04
 smileperegrine4 False True
 snooju False False
-solsiegel False True
+solsiegel True True
 Somtijds False False 2016.02.05
 sooflhett96 False True
 Southpoleist False False
-Spadl False True
+Spadl True True
 SpectreMedge False True
 stizar False False
 StoneyMcCough False False
@@ -274,7 +274,7 @@ SwansonSamsonite False True
 sXe4Life True True
 temp_file_returns True True
 tempusers False False
-Tezcatlipoca343 False True
+Tezcatlipoca343 True True
 ThatM3kid False False
 The_BromanEmpire False False
 the_good_fighter False True
@@ -297,7 +297,7 @@ tinnyw False False
 tlantan True True
 TMurray189 False False 2016.02.22
 TomHobble False False
-tossedoffer False True
+tossedoffer True True
 TouchOfClass8 False False
 toughchanges False True
 Treeology False False
@@ -324,4 +324,4 @@ WoodRobot False False
 workingrecovery True False 2016.02.06
 Yellow_Baron False True
 yoshi314 False False
-zvezdicee False True
+zvezdicee True True

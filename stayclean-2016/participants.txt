@@ -60,7 +60,7 @@ Captain_French True True
 catinsky True True
 ced22 False False 2016.01.08
 ChaleBoy True True
-changingpete False True
+changingpete True True
 chessnutz False True
 chetangangappa True False 2016.01.18
 ChinoCap False True
@@ -243,7 +243,7 @@ Neverstop7 False False
 NewBrian2016 True True
 nodochinko False False
 nof12 False False 2016.01.01
-nofapffm False True
+nofapffm True True
 NoFapude-cumstorm False False
 Nogo13 False False
 non_newtonian_jelly True False 2016.01.23

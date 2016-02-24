@@ -24,7 +24,7 @@ sys.setdefaultencoding('utf8')
 
 
 # Edit me!
-activeCommentHashFiles = [ 'retiredcommenthashes.txt', '../stayclean-2016-january/retiredcommenthashes.txt', '../stayclean-2016-february/retiredcommenthashes.txt' ]
+activeCommentHashFiles = [ 'retiredcommenthashes.txt', '../stayclean-2016-march/retiredcommenthashes.txt', '../stayclean-2016-february/retiredcommenthashes.txt' ]
 flaskport = 8800
 
 app = Flask(__name__)
