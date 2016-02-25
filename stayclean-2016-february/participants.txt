@@ -5,7 +5,7 @@
 4of4 False True
 5p00nman False False
 6thisisit False True
-862674 False False
+862674 False True
 __murph__ False False
 _Civil False False
 _lennart_ True True
@@ -27,7 +27,7 @@ alphahash False False
 aragonsr False True
 Arcticor False True
 ardavaughn True True
-Arzackk False True
+Arzackk True True
 ashkashbagash False True
 asianmutant False True
 atlas_arcturus False False
@@ -43,11 +43,11 @@ breakingpornjamin False False 2016.02.06
 bred84 False False
 briarrhea False False
 Brizcoe False False
-cant_stop_tugging False True
+cant_stop_tugging True True
 captaingouyou False True
 cashball False True
 cataraxia False False
-catinsky False True
+catinsky True True
 changingpete False True
 cHatsBaby False False
 chetangangappa False False 2016.02.14
@@ -305,7 +305,7 @@ trinicunt False False
 Tripleaidid False True
 trouav True False 2016.02.10
 Trustworthy92 False False
-turtlebest False True
+turtlebest False False 2016.02.24
 Tway86 False False
 user_000 True True
 vault_21 False False

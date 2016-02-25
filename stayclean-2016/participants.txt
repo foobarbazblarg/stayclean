@@ -240,7 +240,7 @@ natborchers False False 2016.01.17
 NCC1701G True False 2016.02.06
 NeedHelpNick False False
 Neverstop7 False False
-NewBrian2016 True True
+NewBrian2016 True False 2016.02.23
 nodochinko False False
 nof12 False False 2016.01.01
 nofapffm True True
