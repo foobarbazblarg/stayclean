@@ -4,7 +4,7 @@
 1in6 False False
 4of4 False True
 5p00nman False False
-6thisisit False True
+6thisisit True True
 862674 False True
 __murph__ False False
 _Civil False False
@@ -21,7 +21,7 @@ aero253 True True
 ajsg1 False False
 aksaha False False
 Al-Fayed False False
-Albahacus False True
+Albahacus True True
 alexianchen False False 2016.02.19
 alphahash False False
 aragonsr False True
@@ -82,7 +82,7 @@ Degreed1982 False False 2016.02.04
 DforDeadpool False False
 dlfnn False False
 dnmbr16 False False
-doggybalfour True True
+doggybalfour True False 2016.02.24
 dopamine_hijacker True False 2016.02.08
 Dotanime False False
 Dr_down_low True True
@@ -136,7 +136,7 @@ January28th2016 False False
 January30th2016 False False
 January31st2016 False False
 jd158ug True True
-Jennilover False True
+Jennilover True True
 Jokerswild00 False False
 Jonnymac89 False False
 jspliff1 False True
@@ -210,7 +210,7 @@ orifimsupposedtobe False True
 OscuroGG True False 2016.02.15
 outhkeeper False False
 Pantim True True
-peach_kumquat False True
+peach_kumquat False False 2016.02.25
 personalchallenge False False
 Pfree1805 True False 2016.02.11
 pilothousen False False
@@ -246,7 +246,7 @@ sedarex True False 2016.02.02
 Ser_Capelli True True
 sesameseedfun False False 2016.02.09
 shadowsatdusk False True
-shigolnam False True
+shigolnam True True
 shitsonfire False False
 ShivvyT True False 2016.02.08
 shortless True False 2016.02.18
@@ -315,7 +315,7 @@ wakeuptoblues False False 2016.02.17
 WarriorShit True False 2016.02.15
 WenisInVietnam False True
 Wess129 False False 2016.02.11
-wheelieWeedMan600 False True
+wheelieWeedMan600 True True
 wheresmydopamine True False 2016.02.21
 Wish6 False True
 wontbeontv False False

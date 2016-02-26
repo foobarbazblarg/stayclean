@@ -177,7 +177,7 @@ JoeyBurson False True
 jsigmon91 False False
 jspliff1 False False 2016.02.11
 jumpmanspace False False
-Karatebro False True
+Karatebro True True
 kbm15 False False
 kelleyz14 False False
 kelowH True False 2016.01.28
