@@ -5,7 +5,7 @@
 1frenzy False False
 1vanhoe False True
 4thegood False False
-__murph__ True True
+__murph__ True False 2016.02.27
 _Civil False True
 _ghiak False False
 _lennart_ True True
@@ -79,7 +79,7 @@ dalive False True
 Dan1209 False True
 dandausa False False 2016.01.15
 Dannydub False True
-Dar_Now True True
+Dar_Now True False 2016.02.27
 Darth_Picard False False
 dayzero0 False False
 dchicli False True

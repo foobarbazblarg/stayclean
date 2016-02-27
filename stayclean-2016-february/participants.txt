@@ -29,7 +29,7 @@ Arcticor False True
 ardavaughn True True
 Arzackk True True
 ashkashbagash False True
-asianmutant False True
+asianmutant True True
 atlas_arcturus False False
 aznsk8s87 False False
 Barknmongoose False False 2016.02.02
@@ -177,11 +177,11 @@ Miiind False False
 minimaloutsight False False
 MisterMagorium False False
 MiTacoSuTaco False True
-MonkeyDSunny True True
+MonkeyDSunny True False 2016.02.27
 mountainssunkbelow False False 2016.02.14
 mrnoone56 False False 2016.02.08
 MrTMNTR True True
-MushishiMaster False True
+MushishiMaster True True
 myCQI True True
 MyLittleProggy True False 2016.02.10
 MYSPICEYSANDWICH False False
@@ -270,7 +270,7 @@ StopItOrIWillLoseIt False False 2016.02.21
 sunshine_rec0rder True True
 suntzu01 False False
 swagoz True False 2016.02.07
-SwansonSamsonite False True
+SwansonSamsonite False False 2016.02.27
 sXe4Life True True
 temp_file_returns True True
 tempusers False False
