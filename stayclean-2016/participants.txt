@@ -279,7 +279,7 @@ pornojunky False False 2016.01.11
 post-fapper False True
 PotentLife False True
 praveenjuge False False
-preclosureoperator True True
+preclosureoperator True False 2016.02.28
 pspforever1 False False
 Purpluhr False False
 quicktoforget False False

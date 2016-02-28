@@ -2,7 +2,7 @@
 0forallah900 False False
 1210673 False True
 1in6 False False
-4of4 False True
+4of4 True True
 5p00nman False False
 6thisisit True True
 862674 False True
@@ -17,7 +17,7 @@ across_universe01 True False 2016.02.09
 ActiveAardvark False True
 adannytoremember False True
 adash5000 False False
-aero253 True True
+aero253 True False 2016.02.28
 ajsg1 False False
 aksaha False False
 Al-Fayed False False
@@ -34,7 +34,7 @@ atlas_arcturus False False
 aznsk8s87 False False
 Barknmongoose False False 2016.02.02
 bberlinn False True
-befreedude False True
+befreedude True True
 bigred0241 False False
 BlaseBB False False
 BluePhonix96 False True
@@ -43,7 +43,7 @@ breakingpornjamin False False 2016.02.06
 bred84 False False
 briarrhea False False
 Brizcoe False False
-cant_stop_tugging True True
+cant_stop_tugging True False 2016.02.28
 captaingouyou False True
 cashball False True
 cataraxia False False
@@ -97,7 +97,7 @@ esunabuenavida True False 2016.02.14
 fapfapfapnot False True
 fastrancer True False 2016.02.10
 FenixSword False False
-Fire-Eyed-Boy True True
+Fire-Eyed-Boy True False 2016.02.28
 firestepper False True
 foobarbazblarg True True
 football_sucks False False 2016.02.17
@@ -221,13 +221,13 @@ Polygonzalez False False
 pornfreedrj87 False False
 pornojunky False False 2016.02.06
 post-fapper False False
-preclosureoperator True True
+preclosureoperator True False 2016.02.28
 Properko False False
 psychfailure True False 2016.02.05
 PUA_Wanna_be False True
 qrhoo False False
 raider901234 True True
-Rasmus16 True True
+Rasmus16 True False 2016.02.28
 Raw_Chicken False False
 Razzaband False True
 RecoveryJournal False False
@@ -245,7 +245,7 @@ sdrahmath False False
 sedarex True False 2016.02.02
 Ser_Capelli True True
 sesameseedfun False False 2016.02.09
-shadowsatdusk False True
+shadowsatdusk True True
 shigolnam True True
 shitsonfire False False
 ShivvyT True False 2016.02.08
