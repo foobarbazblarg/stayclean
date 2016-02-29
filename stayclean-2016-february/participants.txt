@@ -28,7 +28,7 @@ aragonsr False True
 Arcticor False True
 ardavaughn True True
 Arzackk True True
-ashkashbagash False True
+ashkashbagash True True
 asianmutant True True
 atlas_arcturus False False
 aznsk8s87 False False
@@ -51,7 +51,7 @@ catinsky True True
 changingpete False True
 cHatsBaby False False
 chetangangappa False False 2016.02.14
-ChinoCap False True
+ChinoCap True True
 chrovavay False True
 cikatomo True False 2016.02.03
 clean_good_life False False
@@ -70,7 +70,7 @@ CurvingDive True True
 cuteguy1 True False 2016.02.16
 Czechin False True
 Dan1209 False False
-Danielpiva False True
+Danielpiva True True
 DanMusicMan False False
 darcj False False
 dayton1234 False False 2016.02.03
@@ -115,7 +115,7 @@ HighVoltage871 True True
 HippieSoulPunx True False 2016.02.10
 hpooper2142 False False 2016.02.19
 hudspud False False
-humble777 False True
+humble777 True True
 I_respect_women False False
 iamanonymous1234 False True
 IAmFinallyPornFree False False 2016.02.15
@@ -139,7 +139,7 @@ jd158ug True True
 Jennilover True True
 Jokerswild00 False False
 Jonnymac89 False False
-jspliff1 False True
+jspliff1 True True
 judgeofmydomain False False
 Juliohobbyhut True False 2016.02.06
 just_me_ee False False
@@ -267,7 +267,7 @@ SpectreMedge False True
 stizar False False
 StoneyMcCough False False
 StopItOrIWillLoseIt False False 2016.02.21
-sunshine_rec0rder True True
+sunshine_rec0rder True False 2016.02.29
 suntzu01 False False
 swagoz True False 2016.02.07
 SwansonSamsonite False False 2016.02.27
