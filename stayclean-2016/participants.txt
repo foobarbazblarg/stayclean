@@ -8,7 +8,7 @@
 __murph__ True False 2016.02.27
 _Civil False False
 _ghiak False False
-_lennart_ False True
+_lennart_ True True
 A-Type False False 2016.01.05
 a_binary_choice False False
 abolishpmo False False 2016.01.03
@@ -24,11 +24,11 @@ alexianchen True False 2016.02.19
 amadeo19 False True
 Ambition_HQ False False
 Aminhas1996 False False
-andstufflikethat False True
+andstufflikethat True True
 ArseBadgerer True False 2016.01.25
 Arzackk False True
 ashkashbagash False False
-asianmutant False True
+asianmutant True True
 atka False False
 atlrockr False False
 Aussieguy8927 False False
@@ -43,7 +43,7 @@ Benddor False False
 bergkampinthesheets False False
 BetterRedRobinThan False False
 Betterthanuatlife False False
-BinarySequence False True
+BinarySequence True True
 BlaseBB False False 2016.02.01
 Blaze6181 False False
 BluePhonix96 False True
@@ -59,8 +59,8 @@ captain_discipline False False
 Captain_French False True
 catinsky False True
 ced22 False False 2016.01.08
-ChaleBoy False True
-changingpete False True
+ChaleBoy True True
+changingpete True True
 chessnutz False False
 chetangangappa True False 2016.01.18
 ChinoCap False True
@@ -121,10 +121,10 @@ Fenix12345 False False
 Finalstraw14 False False
 findfour False False
 Flam3- False False
-foobarbazblarg False True
+foobarbazblarg True True
 ForesterNL False True
 forsience False False
-FourOneNiner False True
+FourOneNiner True True
 free45de False False
 Frozation False True
 frueherschueler False False
@@ -228,9 +228,9 @@ MonkeyDSunny True False 2016.01.28
 MooseMilk3 False False 2016.01.09
 mrLittleboy False False 2016.01.04
 mrnoone56 False False 2016.01.08
-MrTMNTR False True
+MrTMNTR True True
 Mudhoney7 False False
-MushishiMaster False True
+MushishiMaster True True
 mxman False False
 myCQI True False 2016.01.27
 myshit_together_101 False False
@@ -243,7 +243,7 @@ Neverstop7 True True
 NewBrian2016 True False 2016.02.23
 nodochinko False False
 nof12 False False 2016.01.01
-nofapffm False True
+nofapffm True True
 NoFapude-cumstorm False False
 Nogo13 False False
 non_newtonian_jelly True False 2016.01.23
@@ -320,7 +320,7 @@ Smaxfitness True False 2016.01.24
 smokenfire7676 True False 2016.01.13
 snowbow False False 2016.02.19
 Soiltaker False False
-solongsomewhere False True
+solongsomewhere True True
 somanysquirrels False False
 somebody3895 False False
 spycow77 False True
@@ -332,7 +332,7 @@ Sundria False False
 SunniestWarrior False False
 sunshine_rec0rder True False 2016.02.29
 swageduplikcailou False False
-sXe4Life False True
+sXe4Life True True
 Tazbio False False
 Thatguy32101 False False 2016.01.05
 theabeman False False
@@ -359,7 +359,7 @@ timeforthechallenge False False
 tlantan True True
 TMurray189 False False
 TortillaHero False False
-tossedoffer False True
+tossedoffer True True
 Trappedinacorpse False False
 Treetrunk27 False False
 Triphouse False False
@@ -380,7 +380,7 @@ walkingagh False False
 warriorbil False False
 WarriorShit True False 2016.01.17
 WazzupBR False False
-WenisInVietnam False True
+WenisInVietnam True True
 Wess129 True False 2016.01.11
 wheresmydopamine False False 2016.01.14
 WinByHydro False False
