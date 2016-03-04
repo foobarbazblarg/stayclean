@@ -21,7 +21,7 @@ aHeroWith44Pens False False
 Al-Fayed True False 2016.01.08
 Albahacus False True
 alexianchen True False 2016.02.19
-amadeo19 False True
+amadeo19 True True
 Ambition_HQ False False
 Aminhas1996 False False
 andstufflikethat True True
@@ -67,7 +67,7 @@ ChinoCap False True
 chiqui314 False False
 ChuckSchuldinerRules False False
 cikatomo True False 2016.01.02
-CleanSince2016 False True
+CleanSince2016 True True
 coleman_7 False False
 cptkirk87 True False 2016.01.17
 crowingz False False
@@ -122,7 +122,7 @@ Finalstraw14 False False
 findfour False False
 Flam3- False False
 foobarbazblarg True True
-ForesterNL False True
+ForesterNL True True
 forsience False False
 FourOneNiner True True
 free45de False False
@@ -146,7 +146,7 @@ HellenaFox False False
 HeruPrime False False
 heyoh1 False True
 hotegg False False
-humble777 False True
+humble777 True True
 HypeSloth True False 2016.01.10
 I_Fucking_Hate_Porn False False
 icecremecatsandwich False False
@@ -167,7 +167,7 @@ jabber011215 False True
 JAK747 False False
 jakefilmpro False False
 jakiewan True False 2016.01.03
-jd158ug False True
+jd158ug True True
 jeffrykoopman False False
 Jelte-jv False True
 jimbob1231 False False
@@ -343,7 +343,7 @@ Thee-Unforgiven False False
 Theflavourmauve False False
 thegreatestjourney False True
 TheMasterRedditor False False
-thenerj False True
+thenerj True True
 thenumber53was_me False False
 Thepres_10 False False
 thespoudaios False False
@@ -377,7 +377,7 @@ vlasp01 False False
 vnnwlkr8 False False
 wakeuptoblues True False 2016.01.16
 walkingagh False False
-warriorbil False False
+warriorbil True True
 WarriorShit True False 2016.01.17
 WazzupBR False False
 WenisInVietnam True True
