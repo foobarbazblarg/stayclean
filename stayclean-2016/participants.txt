@@ -219,7 +219,7 @@ melitallmighty False False
 metaphysicalboundary False False
 mikawaldi False True
 Min93 False False
-mintchoc-icecream False False
+mintchoc-icecream True True
 MisterMagorium False False
 mistertopshelf False False
 mizustyle False False
