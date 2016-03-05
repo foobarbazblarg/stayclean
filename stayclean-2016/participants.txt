@@ -163,7 +163,7 @@ itzGaia False False
 iur5 True False 2016.01.25
 Iwillgetoutofthis False False 2016.02.09
 iwqpmo False False 2016.01.04
-jabber011215 False True
+jabber011215 False False 2016.03.05
 JAK747 False False
 jakefilmpro False False
 jakiewan True False 2016.01.03
@@ -323,7 +323,7 @@ Soiltaker False False
 solongsomewhere True True
 somanysquirrels False False
 somebody3895 False False
-spycow77 False True
+spycow77 True True
 sreebakely False False
 stainslemountaintops False False
 stalematewins False False
