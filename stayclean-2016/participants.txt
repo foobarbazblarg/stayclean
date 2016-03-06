@@ -56,7 +56,7 @@ Cabana76 False False
 Cage03 False False
 call_me_possibly False False 2016.01.15
 captain_discipline False False
-Captain_French False True
+Captain_French True True
 catinsky False True
 ced22 False False 2016.01.08
 ChaleBoy True True
@@ -273,7 +273,7 @@ Pfree1805 True False 2016.02.11
 PolarisAirship False False
 poopey_doopey False False
 Porn_is_shit True False 2016.01.14
-pornfree_acnt False True
+pornfree_acnt True True
 pornisforbetapeople False False
 pornojunky False False 2016.01.11
 post-fapper False False
