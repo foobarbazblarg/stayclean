@@ -97,7 +97,9 @@ def templateForJan2to13():
     answer += "\n"
     answer += "Good luck!\n"
     answer += "\n"
-    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  Here is the list of participants still with the challenge:\n\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN** years.\n"
+    answer += "\n"
+    answer += "Here is the list of participants still with the challenge:\n\n"
     answer += templateForParticipants()
     print "============================================================="
     return answer
@@ -120,7 +122,9 @@ def templateForJan14():
     answer += "\n"
     answer += "Good luck!\n"
     answer += "\n"
-    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  Here is the list of participants still with the challenge:\n\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN** years.\n"
+    answer += "\n"
+    answer += "Here is the list of participants still with the challenge:\n\n"
     answer += templateForParticipants()
     print "============================================================="
     return answer
@@ -143,7 +147,9 @@ def templateForJan15():
     answer += "\n"
     answer += "Good luck!\n"
     answer += "\n"
-    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  Here is the list of participants still with the challenge:\n\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN** years.\n"
+    answer += "\n"
+    answer += "Here is the list of participants still with the challenge:\n\n"
     answer += templateForParticipants()
     print "============================================================="
     return answer
@@ -166,7 +172,9 @@ def templateForJan16to25():
     answer += "\n"
     answer += "Good luck!\n"
     answer += "\n"
-    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  Here is the list of participants still with the challenge:\n\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN** years.\n"
+    answer += "\n"
+    answer += "Here is the list of participants still with the challenge:\n\n"
     answer += templateForParticipants()
     print "============================================================="
     return answer
@@ -190,7 +198,9 @@ def templateForJan26to30():
     answer += "\n"
     answer += "Good luck!\n"
     answer += "\n"
-    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  Here is the list of participants still with the challenge:\n\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN** years.\n"
+    answer += "\n"
+    answer += "Here is the list of participants still with the challenge:\n\n"
     answer += templateForParticipants()
     print "============================================================="
     return answer
@@ -238,7 +248,9 @@ def templateForUltimateMinus5toPenultimateDayOfMonth():
     answer += "\n"
     answer += "Good luck!\n"
     answer += "\n"
-    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  Here is the list of participants still with the challenge:\n\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN** years.\n"
+    answer += "\n"
+    answer += "Here is the list of participants still with the challenge:\n\n"
     answer += templateForParticipants()
     print "============================================================="
     return answer
@@ -262,7 +274,9 @@ def templateForUltimateDayOfMonth():
     answer += "\n"
     answer += "Good luck!\n"
     answer += "\n"
-    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.\n\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN** years.\n"
+    answer += "\n"
+    answer += "Here is the list of participants still with the challenge:\n\n"
     answer += templateForParticipantsOnLastDayOfMonth()
     print "============================================================="
     return answer
@@ -286,7 +300,9 @@ def templateForUltimateMinus5toPenultimateDayOfYear():
     answer += "\n"
     answer += "Good luck!\n"
     answer += "\n"
-    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  Here is the list of participants still with the challenge:\n\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN** years.\n"
+    answer += "\n"
+    answer += "Here is the list of participants still with the challenge:\n\n"
     answer += templateForParticipants()
     print "============================================================="
     return answer
@@ -297,7 +313,8 @@ def templateForUltimateDayOfYear():
     answer = ""
     answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the very last day of the Stay Clean YEAR challenge.  This is it, folks, the day we've been waiting for... the final day of the challenge.  I'll be making a congratulatory post tomorrow to honor the victors.\n"
     answer += "\n"
-    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.\n\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN** years.\n"
+    answer += "\n"
     answer += templateForParticipantsOnLastDayOfMonth()
     return answer
 
@@ -320,7 +337,9 @@ def templateForNormalDay():
     answer += "\n"
     answer += "Good luck!\n"
     answer += "\n"
-    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  Here is the list of participants still with the challenge:\n\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN** years.\n"
+    answer += "\n"
+    answer += "Here is the list of participants still with the challenge:\n\n"
     answer += templateForParticipants()
     print "============================================================="
     return answer
@@ -388,6 +407,8 @@ def stringToPrint():
     answer = re.sub('CURRENT_DAY_OF_YEAR_INDEX', str(currentDayOfYearIndex), answer)
     answer = re.sub('CURRENT_DAY_OF_MONTH_NAME', currentDayOfMonthName, answer)
     answer = re.sub('CURRENT_DAY_OF_WEEK_NAME', currentDayOfWeekName, answer)
+    answer = re.sub('CUMULATIVE_DAYS_BY_THOSE_STILL_IN', str(currentDayOfYearIndex * numberStillIn), answer)
+    answer = re.sub('CUMULATIVE_YEARS_BY_THOSE_STILL_IN', str(currentDayOfYearIndex * numberStillIn / 365), answer)
     answer = re.sub('YEAR', str(year), answer)
     return answer
 

@@ -126,7 +126,7 @@ ForesterNL True True
 forsience False False
 FourOneNiner True True
 free45de False False
-Frozation False True
+Frozation True True
 frueherschueler False False
 FUCK_KING False False
 fullpower False False
