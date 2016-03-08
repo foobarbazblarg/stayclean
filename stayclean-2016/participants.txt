@@ -140,7 +140,7 @@ go_an False False
 GoingNowhere True False 2016.01.14
 goldentortuga False False
 grassman007 False False
-gunleader False True
+gunleader True True
 HanginAroundDowntown False False
 HellenaFox False False
 HeruPrime False False
@@ -290,7 +290,7 @@ reboot74 False False
 rewoplliw False False
 Rfan False False
 RobertFreddi False False
-ronald_donaldson False True
+ronald_donaldson True True
 ronnymcfelch True False 2016.01.15
 runningloop True False 2016.01.15
 RyanTJ False True
@@ -391,7 +391,7 @@ WonderBoy92 False False
 workingrecovery True False 2016.01.08
 wrcahns False False
 XcherokeeJ False False
-YellowTango False True
+YellowTango True True
 yes_darling True False 2016.01.15
 youngremy False False
 zvezdicee False True
