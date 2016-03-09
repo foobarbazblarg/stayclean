@@ -264,7 +264,7 @@ onfleek100 False False
 oobnate True False 2016.01.18
 Otikron False False
 PadTyrone False False
-Pastel_Pirate False True
+Pastel_Pirate True True
 patchbag False False
 patron_stMax False False
 PFNFaway22 False False
