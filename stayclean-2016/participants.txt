@@ -63,7 +63,7 @@ ChaleBoy True True
 changingpete True True
 chessnutz False False
 chetangangappa True False 2016.01.18
-ChinoCap False True
+ChinoCap True True
 chiqui314 False False
 ChuckSchuldinerRules False False
 cikatomo True False 2016.01.02
