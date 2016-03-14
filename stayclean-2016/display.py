@@ -97,7 +97,7 @@ def templateForJan2to13():
     answer += "\n"
     answer += "Good luck!\n"
     answer += "\n"
-    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN** years.\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN years**.\n"
     answer += "\n"
     answer += "Here is the list of participants still with the challenge:\n\n"
     answer += templateForParticipants()
@@ -122,7 +122,7 @@ def templateForJan14():
     answer += "\n"
     answer += "Good luck!\n"
     answer += "\n"
-    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN** years.\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN years**.\n"
     answer += "\n"
     answer += "Here is the list of participants still with the challenge:\n\n"
     answer += templateForParticipants()
@@ -147,7 +147,7 @@ def templateForJan15():
     answer += "\n"
     answer += "Good luck!\n"
     answer += "\n"
-    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN** years.\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN years**.\n"
     answer += "\n"
     answer += "Here is the list of participants still with the challenge:\n\n"
     answer += templateForParticipants()
@@ -172,7 +172,7 @@ def templateForJan16to25():
     answer += "\n"
     answer += "Good luck!\n"
     answer += "\n"
-    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN** years.\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN years**.\n"
     answer += "\n"
     answer += "Here is the list of participants still with the challenge:\n\n"
     answer += templateForParticipants()
@@ -198,7 +198,7 @@ def templateForJan26to30():
     answer += "\n"
     answer += "Good luck!\n"
     answer += "\n"
-    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN** years.\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN years**.\n"
     answer += "\n"
     answer += "Here is the list of participants still with the challenge:\n\n"
     answer += templateForParticipants()
@@ -248,7 +248,7 @@ def templateForUltimateMinus5toPenultimateDayOfMonth():
     answer += "\n"
     answer += "Good luck!\n"
     answer += "\n"
-    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN** years.\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN years**.\n"
     answer += "\n"
     answer += "Here is the list of participants still with the challenge:\n\n"
     answer += templateForParticipants()
@@ -274,7 +274,7 @@ def templateForUltimateDayOfMonth():
     answer += "\n"
     answer += "Good luck!\n"
     answer += "\n"
-    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN** years.\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN years**.\n"
     answer += "\n"
     answer += "Here is the list of participants still with the challenge:\n\n"
     answer += templateForParticipantsOnLastDayOfMonth()
@@ -300,7 +300,7 @@ def templateForUltimateMinus5toPenultimateDayOfYear():
     answer += "\n"
     answer += "Good luck!\n"
     answer += "\n"
-    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN** years.\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN years**.\n"
     answer += "\n"
     answer += "Here is the list of participants still with the challenge:\n\n"
     answer += templateForParticipants()
@@ -313,7 +313,7 @@ def templateForUltimateDayOfYear():
     answer = ""
     answer += "**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, the very last day of the Stay Clean YEAR challenge.  This is it, folks, the day we've been waiting for... the final day of the challenge.  I'll be making a congratulatory post tomorrow to honor the victors.\n"
     answer += "\n"
-    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN** years.\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN years**.\n"
     answer += "\n"
     answer += templateForParticipantsOnLastDayOfMonth()
     return answer
@@ -337,7 +337,7 @@ def templateForNormalDay():
     answer += "\n"
     answer += "Good luck!\n"
     answer += "\n"
-    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN** years.\n"
+    answer += "There are currently **NUMBER_STILL_IN out of INITIAL_NUMBER** original participants.  That's **PERCENT_STILL_IN%**.  These NUMBER_STILL_IN participants represent **CUMULATIVE_DAYS_BY_THOSE_STILL_IN pornfree days** in YEAR!  That's more than **CUMULATIVE_YEARS_BY_THOSE_STILL_IN years**.\n"
     answer += "\n"
     answer += "Here is the list of participants still with the challenge:\n\n"
     answer += templateForParticipants()

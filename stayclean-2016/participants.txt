@@ -19,14 +19,14 @@ adash5000 False False 2016.01.14
 Aerosenz False False
 aHeroWith44Pens False False
 Al-Fayed True False 2016.01.08
-Albahacus False True
+Albahacus True True
 alexianchen True False 2016.02.19
 amadeo19 True True
 Ambition_HQ False False
 Aminhas1996 False False
 andstufflikethat True True
 ArseBadgerer True False 2016.01.25
-Arzackk False True
+Arzackk True True
 ashkashbagash False False
 asianmutant True True
 atka False False
@@ -144,7 +144,7 @@ gunleader True True
 HanginAroundDowntown False False
 HellenaFox False False
 HeruPrime False False
-heyoh1 False True
+heyoh1 True True
 hotegg False False
 humble777 True True
 HypeSloth True False 2016.01.10
@@ -194,8 +194,8 @@ LAmilo90 True False 2016.01.20
 Lancecrackers False False
 LaxBear False False
 lekajones False False
-Leon1892 False True
-Leopr1 False True
+Leon1892 True True
+Leopr1 True True
 leotrope True False 2016.01.15
 Leve_Vikingaanden False False
 lightbeyond False False
@@ -369,7 +369,7 @@ Turkeytom86 False False
 TurnAround13 False False
 Uber118 False False
 umadethisforareason False False
-Valvyn False True
+Valvyn True True
 victorcrp01 False False
 vityaz777 True False 2016.01.14
 VizualDreamer13 False False
