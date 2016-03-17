@@ -36,7 +36,7 @@ austronautfrompompei False False
 awakenedurbanmonk False False
 baconboyloiter False False
 Bass_Ventura88 False False
-bb058 False True
+bb058 True True
 bberlinn False False
 beatnutts False False
 Benddor False False
@@ -111,7 +111,7 @@ Element-A True False 2016.01.07
 ender360v2 False False
 Engineering_Junkie False False
 EnziBenzi False False
-eristicmystic False True
+eristicmystic True True
 Eviane False False
 Evil_Entity False False
 fanology True False 2016.01.05
