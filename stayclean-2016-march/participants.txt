@@ -28,7 +28,7 @@ ArchangelFuhkEsarhes False True
 arethereanynicksleft False False
 Army_of_Fuarkness False True
 Arzackk False True
-asha_nomore False True
+asha_nomore True True
 ashkashbagash True False 2016.03.04
 asianmutant True True
 AsianRainbow False True
@@ -83,7 +83,7 @@ DaveJo127 True False 2016.03.06
 Deathhoof812 True False 2016.03.07
 deca1987 True False 2016.03.08
 DecimoX False False
-Degreed1982 False True
+Degreed1982 True True
 dmkosi False False
 dnmbr16 False False
 doggybalfour True False 2016.03.06
@@ -128,7 +128,7 @@ Gorakaos False False
 Habtra True False 2016.03.15
 hasanr False False
 helpyouforyou False True
-hezekiah185 False True
+hezekiah185 True True
 hOpOnTheSpaceship False False
 hpooper2142 False False
 humble777 True True
@@ -177,7 +177,7 @@ macked-out True False 2016.03.13
 maiduan False False
 makers_recovery True True
 Makingchange12 False False 2016.03.03
-malora_premunt False True
+malora_premunt True True
 Manchacho False False
 Mazzini_18 True False 2016.03.09
 MGenCold False False
@@ -244,21 +244,21 @@ rightthistime1 False False
 RingsofAkhaten False False
 ripkirby True False 2016.03.08
 RolloRocco False True
-ronnymcfelch False True
+ronnymcfelch True True
 rosscopeakco1 False True
 Rubbish_I_Say False True
 Rudeabaga1 False True
 runningloop False True
 ryuke11 True False 2016.03.08
 Salimimy False True
-samon_500 True True
+samon_500 True False 2016.03.18
 sane-ish False False 2016.03.12
 saskaciwanihk False True
 ScyllaHide False False
 Searchings_for_work False False
 Ser_Capelli False True
-Settingstraight False True
-shigolnam False True
+Settingstraight True True
+shigolnam True True
 shitontheclock False False
 ShivvyT False False 2016.03.16
 shortless True False 2016.03.12
