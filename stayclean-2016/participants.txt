@@ -104,7 +104,7 @@ DrMarkyMark False False
 DrRocktopusMD False False
 dubbies_lament False False 2016.01.20
 DukeStamina True False 2016.01.27
-Egkrateia False True
+Egkrateia True True
 eightsixfourhundred False False
 elbastardo1 False False
 Element-A True False 2016.01.07
@@ -205,7 +205,7 @@ ljokr False True
 lonely_jujube False False
 Lopokato124 False False 2016.01.14
 LordofRice False False
-lukas2020 False True
+lukas2020 True True
 macked-out True False 2016.01.05
 MagneticAscetic False False 2016.03.01
 makers_recovery True True
@@ -293,7 +293,7 @@ RobertFreddi False False
 ronald_donaldson True True
 ronnymcfelch True False 2016.01.15
 runningloop True False 2016.01.15
-RyanTJ False True
+RyanTJ True True
 RyPA False False
 saadahmed888 False False
 sageknight False False

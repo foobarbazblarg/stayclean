@@ -22,7 +22,7 @@ alex0113 False False
 AlexGreat14 False True
 alexianchen False False
 Alphagameonfleek False True
-ApudDeum False True
+ApudDeum False False 2016.03.20
 aragonsr False True
 ArchangelFuhkEsarhes False True
 arethereanynicksleft False False
@@ -42,7 +42,7 @@ befreedude False False 2016.03.07
 beglorious False False
 bertrogdor False False
 BiffStu False True
-BigBearMonte False True
+BigBearMonte False False 2016.03.20
 billclee False False
 billhinrecovery False False
 BlueBlitzkrieg996 False False
@@ -90,7 +90,7 @@ doggybalfour True False 2016.03.06
 domoe True False 2016.03.03
 DongyKonk False False 2016.03.19
 dopamine_hijacker True False 2016.03.05
-Dotanime False True
+Dotanime False False 2016.03.20
 Dr_down_low False False
 DracoDimitrios55 False False 2016.03.07
 DubstepperGT20 False False
@@ -172,7 +172,7 @@ loganchev False True
 LordofRice False False
 lostbutSeekin False False
 ludwigvan__ False True
-lukas2020 False True
+lukas2020 True True
 macked-out True False 2016.03.13
 maiduan False False
 makers_recovery True True
@@ -274,7 +274,7 @@ Slyrix False False 2016.03.03
 smith_machine True False 2016.03.07
 solsiegel False True
 Somtijds False True
-SosukeAizen2 False True
+SosukeAizen2 False False 2016.03.21
 soundfx27 False True
 Spadl False True
 spaghetyo False False
@@ -292,7 +292,7 @@ temp_file_returns True True
 thardison95 False False
 thatguy76890 False False
 TheBlackKnight1989 False False
-TheBWF True True
+TheBWF True False 2016.03.20
 TheEdmontonMan True True
 TheMightyPepper True False 2016.03.15
 theokstandard False False
