@@ -1,12 +1,12 @@
 -MMXVII- False False
 12beers False False
 144thHeir False False
-2016_np True True
+2016_np True False 2016.03.19
 2016NeverNoMore False True
 22Improve False False
 4of4 False True
 50-cal False True
-6thisisit False True
+6thisisit True True
 862674 False False
 _lennart_ True True
 a_binary_choice False False
@@ -26,7 +26,7 @@ ApudDeum False True
 aragonsr False True
 ArchangelFuhkEsarhes False True
 arethereanynicksleft False False
-Army_of_Fuarkness False True
+Army_of_Fuarkness False False 2016.03.19
 Arzackk False True
 asha_nomore True True
 ashkashbagash True False 2016.03.04
@@ -50,13 +50,13 @@ bluesguitarz False False
 bodymeetssoul False False
 BonaRes False True
 BonneCouverture False False
-bred84 False True
+bred84 True True
 bruisedboy2 False True
 cant_stop_tugging False True
 CapitanPeluche False True
 CardinalGuitar False True
 Careful_Houndoom False False
-carlslim False True
+carlslim True True
 catinsky False False
 changes1self True True
 chetangangappa False False 2016.03.08
@@ -88,7 +88,7 @@ dmkosi False False
 dnmbr16 False False
 doggybalfour True False 2016.03.06
 domoe True False 2016.03.03
-DongyKonk False True
+DongyKonk False False 2016.03.19
 dopamine_hijacker True False 2016.03.05
 Dotanime False True
 Dr_down_low False False
@@ -99,7 +99,7 @@ DukeLeto_ False False 2016.03.06
 dundundone False True
 dupeice False True
 Eagle982 False True
-eire77 False False
+eire77 True True
 el__wray True False 2016.03.08
 ELscorcho20 False False
 emL- False True
@@ -117,7 +117,7 @@ foobarbazblarg True True
 ForesterNL False True
 fortytude False False
 foshizzlmynizzl False True
-Free-B False True
+Free-B True True
 FroodyPebbles False False
 gamasco False True
 gangstercomputer False False 2016.03.11
@@ -140,7 +140,7 @@ imdonebros False True
 ImGonnaWin16 False False 2016.03.09
 iminlesbianswithu False False
 irgendwalrus False True
-ISolitaryManI False True
+ISolitaryManI False False 2016.03.18
 iwant2fuck True False 2016.03.09
 Iwillgetoutofthis False True
 iwillnotquit False False
@@ -190,7 +190,7 @@ mix0mat0sis False True
 MonkeyDSunny False False
 MorningView23 True False 2016.03.03
 MrFlow21 True False 2016.03.10
-MrGaben False True
+MrGaben True True
 mrnoone56 True False 2016.03.03
 MushishiMaster False True
 NCC1701G True False 2016.03.15
@@ -213,7 +213,7 @@ OK_01 False False
 OmeletteDuLeFromage False False 2016.03.10
 omoest94 False False
 OscuroGG False True
-Pantim False True
+Pantim True True
 pbar50 False False
 peacefultiger True True
 PervyAccount False True
@@ -224,7 +224,7 @@ pilothousen False False
 piotr9134 False False
 PonDeAttack False False 2016.03.05
 Porn_is_shit True False 2016.03.02
-pornfreedrj87 False True
+pornfreedrj87 True True
 pornojunky False False 2016.03.08
 pphysicist True False 2016.03.13
 pprintz False True
@@ -256,7 +256,7 @@ sane-ish False False 2016.03.12
 saskaciwanihk False True
 ScyllaHide False False
 Searchings_for_work False False
-Ser_Capelli False True
+Ser_Capelli True True
 Settingstraight True True
 shigolnam True True
 shitontheclock False False
@@ -287,12 +287,12 @@ Success_Account True False 2016.03.07
 sunshine_rec0rder False True
 SwissWarrior93 False True
 sXe4Life True True
-szatanRR False True
+szatanRR True True
 temp_file_returns True True
 thardison95 False False
 thatguy76890 False False
 TheBlackKnight1989 False False
-TheBWF False True
+TheBWF True True
 TheEdmontonMan True True
 TheMightyPepper True False 2016.03.15
 theokstandard False False
@@ -301,7 +301,7 @@ TheReaver88 False False
 This_isdirtyme False False
 Thisisitnow123 True True
 Thisoneismyfavourite False True
-throwanyaway False True
+throwanyaway True True
 Timsytom234 False False 2016.03.12
 tinnyw False False
 TitanRecon300 True False 2016.03.08
