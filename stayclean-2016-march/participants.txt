@@ -48,7 +48,7 @@ billhinrecovery False False
 BlueBlitzkrieg996 False False
 bluesguitarz False False
 bodymeetssoul False False
-BonaRes False True
+BonaRes False False 2016.03.21
 BonneCouverture False False
 bred84 True True
 bruisedboy2 False True
@@ -142,7 +142,7 @@ iminlesbianswithu False False
 irgendwalrus False True
 ISolitaryManI False False 2016.03.18
 iwant2fuck True False 2016.03.09
-Iwillgetoutofthis False True
+Iwillgetoutofthis True True
 iwillnotquit False False
 iwqpmo False False
 jakiewan False True
@@ -234,7 +234,7 @@ PurpleBracelet False False
 Quidplura False False
 quittingforgood1996 False False
 rah_man False False
-raider901234 False True
+raider901234 True True
 Rasmus16 True False 2016.03.02
 Ratcliff01 True False 2016.03.05
 Raw_Chicken False False
@@ -272,7 +272,7 @@ sky_is_ False False
 slic_ric False True
 Slyrix False False 2016.03.03
 smith_machine True False 2016.03.07
-solsiegel False True
+solsiegel True True
 Somtijds False True
 SosukeAizen2 False False 2016.03.21
 soundfx27 False True
@@ -284,7 +284,7 @@ StepByStepOneGoesFar False False
 strider004 False False
 Stronger_Will False True
 Success_Account True False 2016.03.07
-sunshine_rec0rder False True
+sunshine_rec0rder True True
 SwissWarrior93 False True
 sXe4Life True True
 szatanRR True True
