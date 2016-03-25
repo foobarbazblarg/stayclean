@@ -41,6 +41,14 @@ class Participant:
         else:
             return None
 
+    def totalNonRelapsedDaysSinceDate(self, startDate):
+        if self.isStillIn:
+            endDate = datetime.date.today()
+        else:
+            endDate = self.relapseDate
+        return (endDate - startDate).days + 1
+
+
     def asLine(self):
         answer = self.name + " " + str(self.hasCheckedIn) + " " + str(self.isStillIn)
         if self.relapseDate:

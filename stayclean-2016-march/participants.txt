@@ -16,7 +16,7 @@ adannytoremember True False 2016.03.06
 adash5000 False False
 aero253 False False
 ajsg14 False False
-Albahacus False True
+Albahacus False False 2016.03.23
 alchemist_33 True False 2016.03.15
 alex0113 False False
 AlexGreat14 False True
@@ -54,7 +54,7 @@ bred84 True True
 bruisedboy2 False True
 cant_stop_tugging False True
 CapitanPeluche False True
-CardinalGuitar False True
+CardinalGuitar True True
 Careful_Houndoom False False
 carlslim True True
 catinsky False False
@@ -192,7 +192,7 @@ MorningView23 True False 2016.03.03
 MrFlow21 True False 2016.03.10
 MrGaben True True
 mrnoone56 True False 2016.03.03
-MushishiMaster False True
+MushishiMaster True True
 NCC1701G True False 2016.03.15
 needofchange True False 2016.03.14
 Nephistos False True
@@ -244,11 +244,11 @@ rightthistime1 False False
 RingsofAkhaten False False
 ripkirby True False 2016.03.08
 RolloRocco False True
-ronnymcfelch True True
+ronnymcfelch True False 2016.03.23
 rosscopeakco1 False True
 Rubbish_I_Say False True
 Rudeabaga1 False True
-runningloop False True
+runningloop False False 2016.03.24
 ryuke11 True False 2016.03.08
 Salimimy False True
 samon_500 True False 2016.03.18
@@ -299,7 +299,7 @@ theokstandard False False
 Thepotatohaslanded False True
 TheReaver88 False False
 This_isdirtyme False False
-Thisisitnow123 True True
+Thisisitnow123 True False 2016.03.22
 Thisoneismyfavourite False True
 throwanyaway True True
 Timsytom234 False False 2016.03.12
@@ -321,7 +321,7 @@ Urokan True False 2016.03.02
 wakeuptoblues False False 2016.03.06
 WarriorShit True False 2016.03.11
 WenisInVietnam False True
-wheresmydopamine False True
+wheresmydopamine True True
 Wish6 False True
 woahacow True True
 WonderBoy92 False False 2016.03.15
@@ -333,4 +333,4 @@ yoshi314 False False
 You-Betcha False True
 yuiyutr8 False False
 Zoulz False False
-zvezdicee False True
+zvezdicee True True
