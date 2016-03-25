@@ -35,7 +35,7 @@ AsianRainbow False True
 axxceri False False
 aziz10ali False True
 bacobacon False True
-bahehs False True
+bahehs True True
 bbbroothhaa False False
 bberlinn False False
 befreedude False False 2016.03.07
@@ -93,7 +93,7 @@ dopamine_hijacker True False 2016.03.05
 Dotanime False False 2016.03.20
 Dr_down_low False False
 DracoDimitrios55 False False 2016.03.07
-DubstepperGT20 False False
+DubstepperGT20 False True
 duckduster23 False False
 DukeLeto_ False False 2016.03.06
 dundundone False True
@@ -114,7 +114,7 @@ FenixSword False True
 FightForBetterFuture True True
 Fire-Eyed-Boy False False
 foobarbazblarg True True
-ForesterNL False True
+ForesterNL True True
 fortytude False False
 foshizzlmynizzl False True
 Free-B True True
@@ -149,7 +149,7 @@ jakiewan False True
 Janemaru False False 2016.03.06
 Jary2468 False True
 JeanJacketBandit False True
-JSubers False True
+JSubers True True
 judgeofmydomain False False 2016.03.06
 juliuswindmaker False True
 Karatebro False False
@@ -273,7 +273,7 @@ slic_ric False True
 Slyrix False False 2016.03.03
 smith_machine True False 2016.03.07
 solsiegel True True
-Somtijds False True
+Somtijds True True
 SosukeAizen2 False False 2016.03.21
 soundfx27 False True
 Spadl False True
@@ -328,7 +328,7 @@ WonderBoy92 False False 2016.03.15
 Woopage False False
 XcherokeeJ False False
 XTutankhamen False False 2016.03.16
-Yellow_Baron False True
+Yellow_Baron True True
 yoshi314 False False
 You-Betcha False True
 yuiyutr8 False False

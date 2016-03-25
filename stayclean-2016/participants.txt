@@ -58,7 +58,7 @@ Cage03 False False
 call_me_possibly False False 2016.01.15
 captain_discipline False False
 Captain_French True True
-catinsky False True
+catinsky True True
 ced22 False False 2016.01.08
 ChaleBoy True True
 changingpete True True
