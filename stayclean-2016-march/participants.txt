@@ -27,7 +27,7 @@ aragonsr False True
 ArchangelFuhkEsarhes False True
 arethereanynicksleft False False
 Army_of_Fuarkness False False 2016.03.19
-Arzackk False True
+Arzackk True True
 asha_nomore True True
 ashkashbagash True False 2016.03.04
 asianmutant True True
@@ -51,7 +51,7 @@ bodymeetssoul False False
 BonaRes False False 2016.03.21
 BonneCouverture False False
 bred84 True True
-bruisedboy2 False True
+bruisedboy2 True True
 cant_stop_tugging False True
 CapitanPeluche False True
 CardinalGuitar True True
@@ -96,7 +96,7 @@ DracoDimitrios55 False False 2016.03.07
 DubstepperGT20 False True
 duckduster23 False False
 DukeLeto_ False False 2016.03.06
-dundundone False True
+dundundone True True
 dupeice False True
 Eagle982 False True
 eire77 True True
@@ -145,7 +145,7 @@ iwant2fuck True False 2016.03.09
 Iwillgetoutofthis True True
 iwillnotquit False False
 iwqpmo False False
-jakiewan False True
+jakiewan True True
 Janemaru False False 2016.03.06
 Jary2468 False True
 JeanJacketBandit False True
@@ -266,7 +266,7 @@ shouldnotfap25 False False 2016.03.09
 simian09 True False 2016.03.06
 sinfulregret False False 2016.03.01
 Sirnosedevoid False True
-sirrus41 False True
+sirrus41 False False 2016.03.26
 Skeetels True True
 sky_is_ False False
 slic_ric False True
@@ -322,7 +322,7 @@ wakeuptoblues False False 2016.03.06
 WarriorShit True False 2016.03.11
 WenisInVietnam False True
 wheresmydopamine True True
-Wish6 False True
+Wish6 True False 2016.03.26
 woahacow True True
 WonderBoy92 False False 2016.03.15
 Woopage False False
