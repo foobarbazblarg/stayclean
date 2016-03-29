@@ -5,7 +5,7 @@
 2016NeverNoMore False True
 22Improve False False
 4of4 False True
-50-cal False True
+50-cal False False 2016.03.27
 6thisisit True True
 862674 False False
 _lennart_ True True
@@ -34,14 +34,14 @@ asianmutant True True
 AsianRainbow False True
 axxceri False False
 aziz10ali False True
-bacobacon False True
+bacobacon True True
 bahehs True True
 bbbroothhaa False False
 bberlinn False False
 befreedude False False 2016.03.07
 beglorious False False
 bertrogdor False False
-BiffStu False True
+BiffStu True True
 BigBearMonte False False 2016.03.20
 billclee False False
 billhinrecovery False False
@@ -83,7 +83,7 @@ DaveJo127 True False 2016.03.06
 Deathhoof812 True False 2016.03.07
 deca1987 True False 2016.03.08
 DecimoX False False
-Degreed1982 True True
+Degreed1982 True False 2016.03.27
 dmkosi False False
 dnmbr16 False False
 doggybalfour True False 2016.03.06
@@ -111,7 +111,7 @@ eristicmystic False True
 esunabuenavida True False 2016.03.06
 fastrancer False False 2016.03.02
 FenixSword False True
-FightForBetterFuture True True
+FightForBetterFuture True False 2016.03.27
 Fire-Eyed-Boy False False
 foobarbazblarg True True
 ForesterNL True True
