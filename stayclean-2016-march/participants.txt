@@ -4,7 +4,7 @@
 2016_np True False 2016.03.19
 2016NeverNoMore False True
 22Improve False False
-4of4 False True
+4of4 True True
 50-cal False False 2016.03.27
 6thisisit True True
 862674 False False
