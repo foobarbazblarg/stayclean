@@ -2,6 +2,7 @@
 
 import subprocess
 import praw
+import datetime
 import pyperclip
 from hashlib import sha1
 from flask import Flask
@@ -24,7 +25,7 @@ sys.setdefaultencoding('utf8')
 
 
 # Edit Me!
-challengePageSubmissionId = 'EDIT-ME'
+challengePageSubmissionId = '4cvoqd'
 flaskport = 8884
 thisMonthName = "April"
 nextMonthName = "May"
