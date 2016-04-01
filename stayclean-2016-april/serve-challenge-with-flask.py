@@ -29,13 +29,14 @@ flaskport = 8884
 thisMonthName = "April"
 nextMonthName = "May"
 readAllCommentsWhichCanBeSlower = False
-lateCheckinGracePeriodIsInEffect = True
 
 sorryTooLateToSignUpReplyText = "Sorry, but the late signup grace period for " + thisMonthName + " is over, so you can't officially join this challenge.  But feel free to follow along anyway, and comment all you want.  And be sure to join us for the " + nextMonthName + " challenge.  Signup posts for " + nextMonthName + " will begin during the last week of " + thisMonthName + "."
 reinstatedReplyText = "OK, I've reinstated you.  You should start showing up on the list again starting tomorrow."
 
 app = Flask(__name__)
 app.debug = True
+currentDayOfMonthIndex = datetime.date.today().day
+lateCheckinGracePeriodIsInEffect = currentDayOfMonthIndex <= 3
 commentHashesAndComments = {}
 submission = None
 

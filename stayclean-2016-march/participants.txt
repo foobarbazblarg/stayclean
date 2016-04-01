@@ -258,7 +258,7 @@ ScyllaHide False False
 Searchings_for_work False False
 Ser_Capelli True True
 Settingstraight True True
-shigolnam True True
+shigolnam True False 2016.03.31
 shitontheclock False False
 ShivvyT False False 2016.03.16
 shortless True False 2016.03.12
@@ -276,7 +276,7 @@ solsiegel True True
 Somtijds True True
 SosukeAizen2 False False 2016.03.21
 soundfx27 False True
-Spadl False True
+Spadl False False 2016.03.31
 spaghetyo False False
 spin116 False False 2016.03.16
 sse771 False False

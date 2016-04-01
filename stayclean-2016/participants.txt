@@ -306,7 +306,7 @@ ScyllaHide False False
 Semuhtra False False
 Sen0r_Cardgage False False
 shadowsatdusk False True
-shigolnam True True
+shigolnam True False 2016.03.31
 Shiva314 False False
 shortless True False 2016.01.17
 shrubbry False False
