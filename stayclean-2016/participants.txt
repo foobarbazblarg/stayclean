@@ -229,7 +229,7 @@ MonkeyDSunny True False 2016.01.28
 MooseMilk3 False False 2016.01.09
 mrLittleboy False False 2016.01.04
 mrnoone56 False False 2016.01.08
-MrTMNTR False True
+MrTMNTR True True
 Mudhoney7 False False
 MushishiMaster True True
 mxman False False
@@ -274,7 +274,7 @@ Pfree1805 True False 2016.02.11
 PolarisAirship False False
 poopey_doopey False False
 Porn_is_shit True False 2016.01.14
-pornfree_acnt False True
+pornfree_acnt True True
 pornisforbetapeople False False
 pornojunky False False 2016.01.11
 post-fapper False False
