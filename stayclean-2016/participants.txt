@@ -8,7 +8,7 @@
 __murph__ True False 2016.02.27
 _Civil False False
 _ghiak False False
-_lennart_ False True
+_lennart_ True True
 A-Type False False 2016.01.05
 a_binary_choice False False
 abolishpmo False False 2016.01.03
@@ -21,10 +21,10 @@ aHeroWith44Pens False False
 Al-Fayed True False 2016.01.08
 Albahacus True False 2016.03.23
 alexianchen True False 2016.02.19
-amadeo19 False True
+amadeo19 True True
 Ambition_HQ False False
 Aminhas1996 False False
-andstufflikethat False True
+andstufflikethat True True
 ArseBadgerer True False 2016.01.25
 Arzackk False True
 ashkashbagash False False
@@ -184,7 +184,7 @@ kelleyz14 False False
 kelowH True False 2016.01.28
 kenjataimuFeels False False
 kiramis False False
-KnopflerisGod False True
+KnopflerisGod True True
 koolvanz False False
 Korleonis False False
 KumquatRevenge False False
@@ -196,12 +196,12 @@ Lancecrackers False False
 LaxBear False False
 lekajones False False
 Leon1892 False True
-Leopr1 False True
+Leopr1 True True
 leotrope True False 2016.01.15
 Leve_Vikingaanden False False
 lightbeyond False False
 littlelionlittle False False
-Liviul False True
+Liviul False False 2016.04.02
 ljokr False False
 lonely_jujube False False
 Lopokato124 False False 2016.01.14
@@ -333,7 +333,7 @@ Sundria False False
 SunniestWarrior False False
 sunshine_rec0rder True False 2016.02.29
 swageduplikcailou False False
-sXe4Life False True
+sXe4Life True True
 Tazbio False False
 Thatguy32101 False False 2016.01.05
 theabeman False False
@@ -360,7 +360,7 @@ timeforthechallenge False False
 tlantan True True
 TMurray189 False False
 TortillaHero False False
-tossedoffer False True
+tossedoffer True True
 Trappedinacorpse False False
 Treetrunk27 False False
 Triphouse False False
