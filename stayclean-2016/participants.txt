@@ -168,7 +168,7 @@ jabber011215 False False 2016.03.05
 JAK747 False False
 jakefilmpro False False
 jakiewan True False 2016.01.03
-jd158ug False True
+jd158ug True True
 jeffrykoopman False False
 Jelte-jv False False
 jimbob1231 False False

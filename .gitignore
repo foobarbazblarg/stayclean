@@ -1,5 +1,7 @@
 reddit-oauth-credentials.cfg
 reddit-password-credentials.cfg
+problematic-users.cfg
+interesting-users.cfg
 **/.idea
 **/.vscode
 # **/update-google-chart.py
