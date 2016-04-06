@@ -36,8 +36,6 @@ reinstatedReplyText = "OK, I've reinstated you.  You should start showing up on 
 
 app = Flask(__name__)
 app.debug = True
-currentDayOfMonthIndex = datetime.date.today().day
-lateCheckinGracePeriodIsInEffect = currentDayOfMonthIndex <= 3
 commentHashesAndComments = {}
 submission = None
 
@@ -87,6 +85,8 @@ def retiredCommentHashes():
 
 @app.route('/moderatechallenge.html')
 def moderatechallenge():
+    currentDayOfMonthIndex = datetime.date.today().day
+    lateCheckinGracePeriodIsInEffect = currentDayOfMonthIndex <= 3
     global commentHashesAndComments
     global submission
     commentHashesAndComments = {}

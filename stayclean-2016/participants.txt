@@ -60,7 +60,7 @@ captain_discipline False False
 Captain_French False True
 catinsky False True
 ced22 False False 2016.01.08
-ChaleBoy False True
+ChaleBoy True True
 changingpete False True
 chessnutz False False
 chetangangappa True False 2016.01.18
@@ -125,7 +125,7 @@ Flam3- False False
 foobarbazblarg True True
 ForesterNL False True
 forsience False False
-FourOneNiner False True
+FourOneNiner True True
 free45de False False
 Frozation False True
 frueherschueler False False
@@ -231,7 +231,7 @@ mrLittleboy False False 2016.01.04
 mrnoone56 False False 2016.01.08
 MrTMNTR True True
 Mudhoney7 False False
-MushishiMaster True True
+MushishiMaster True False 2016.04.05
 mxman False False
 myCQI True False 2016.01.27
 myshit_together_101 False False
@@ -321,7 +321,7 @@ Smaxfitness True False 2016.01.24
 smokenfire7676 True False 2016.01.13
 snowbow False False 2016.02.19
 Soiltaker False False
-solongsomewhere False True
+solongsomewhere True True
 somanysquirrels False False
 somebody3895 False False
 spycow77 False True
@@ -381,7 +381,7 @@ walkingagh False False
 warriorbil False True
 WarriorShit True False 2016.01.17
 WazzupBR False False
-WenisInVietnam False True
+WenisInVietnam False False 2016.04.04
 Wess129 True False 2016.01.11
 wheresmydopamine False False 2016.01.14
 WinByHydro False False
@@ -392,7 +392,7 @@ WonderBoy92 False False
 workingrecovery True False 2016.01.08
 wrcahns False False
 XcherokeeJ False False
-YellowTango False True
+YellowTango True True
 yes_darling True False 2016.01.15
 youngremy False False
 zvezdicee False True
