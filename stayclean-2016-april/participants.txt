@@ -86,7 +86,7 @@ CounterReset14 False True
 CovertDiplomat False True
 crackleHead True True
 Crawling_Drunk False True
-CrazyBagPenguin True True
+CrazyBagPenguin True False 2016.04.06
 CrowleyEusford False True
 Cryovane False True
 CurvingDive False True
@@ -107,7 +107,7 @@ domse89 True True
 Dotanime True True
 drstclair True True
 DubstepperGT20 False True
-DukeLeto_ False True
+DukeLeto_ False False 2016.04.06
 dundundone False True
 E_Wander False True
 eastbound4 False True
@@ -168,7 +168,7 @@ hk9 False True
 holtech True True
 hpooper2142 False True
 hugotroll False True
-humble777 False True
+humble777 True True
 HumpdeeDump False True
 ibequ True True
 Idio_Teque True True
@@ -220,7 +220,7 @@ Littlewing83 True True
 Liviul True True
 lock_that_door True True
 Lodbrok__ True True
-Lopokato124 False True
+Lopokato124 True True
 LordofRice False True
 louSkraD False True
 LT39 False True
@@ -243,7 +243,7 @@ McDummy False True
 MedBull False True
 Megacito False True
 megenoito False True
-meinmyfreetime True True
+meinmyfreetime True False 2016.04.05
 MightyMorphnForskin False True
 MightyMrMeseeks False True
 MikeFromSI False True
@@ -256,8 +256,8 @@ MrGaben False True
 Mrigg-Van-Hans False True
 mrmingle True True
 mrnoone56 False True
-MrZero1990 True True
-mssiem True True
+MrZero1990 True False 2016.04.06
+mssiem True False 2016.04.06
 Mtrmxj True True
 mulqahdiiv False True
 Mursin False True
@@ -283,7 +283,7 @@ NoRespite False True
 NoTemptation True True
 NovusCaesarion False True
 nowayever True True
-NudaeVetatur False True
+NudaeVetatur True True
 Odin_Allvis True True
 omp_oN True True
 OniBasic True True
@@ -366,7 +366,7 @@ SosukeAizen2 True True
 soundfx27 True True
 spaghetyo False True
 spin116 False True
-spook_y False True
+spook_y True True
 sqfqs False True
 Squirrels_eat_bacon True True
 StageDeath True True

@@ -64,7 +64,7 @@ ChaleBoy True True
 changingpete False True
 chessnutz False False
 chetangangappa True False 2016.01.18
-ChinoCap False True
+ChinoCap True True
 chiqui314 False False
 ChuckSchuldinerRules False False
 cikatomo True False 2016.01.02
@@ -147,7 +147,7 @@ HellenaFox False False
 HeruPrime False False
 heyoh1 False True
 hotegg False False
-humble777 False True
+humble777 True True
 HypeSloth True False 2016.01.10
 I_Fucking_Hate_Porn False False
 icecremecatsandwich False False
