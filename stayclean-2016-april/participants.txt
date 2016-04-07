@@ -37,7 +37,7 @@ Artemonski False True
 asha_nomore True True
 ashkashbagash False True
 asianmutant True True
-Audax_viator False True
+Audax_viator True True
 b123ob False True
 bacobacon True True
 bahehs True True
@@ -54,7 +54,7 @@ blufarb19 False True
 Bogamns False True
 Bphppd False True
 briarrhea True True
-bruisedboy2 False True
+bruisedboy2 True True
 buddhabelly18 False True
 buddylee4 False True
 BulbaBoss False True
@@ -109,7 +109,7 @@ drstclair True True
 DubstepperGT20 False True
 DukeLeto_ False False 2016.04.06
 dundundone False True
-E_Wander False True
+E_Wander True True
 eastbound4 False True
 Ectoplasm2 False True
 Eipa False True
@@ -228,12 +228,12 @@ ludwigvan__ True True
 lukas2020 False True
 lukefifteentwenty False True
 LydianAlchemist False True
-m4rc0polo False True
+m4rc0polo True True
 macked-out False False 2016.04.04
 Maculus True True
 madtownbro True True
 makers_recovery True True
-MakeYourself23 True True
+MakeYourself23 True False 2016.04.06
 Marshmalllowman False True
 marvelousmarv2022 False True
 Marvin91 False True
@@ -252,7 +252,7 @@ MiTacoSuTaco True True
 ModestMastodon True True
 MonkeyDSunny True True
 Morgwen84 True True
-MrGaben False True
+MrGaben True True
 Mrigg-Van-Hans False True
 mrmingle True True
 mrnoone56 False True
@@ -291,7 +291,7 @@ orgamamy True True
 Orpheus17 True True
 PajamminJohnson False True
 Pantim False True
-path_to_freedom True True
+path_to_freedom True False 2016.04.06
 peacefultiger False True
 PervyAccount False True
 Pfree1805 False False 2016.04.02
@@ -318,12 +318,12 @@ ReleaseRenew True True
 remybob78 False False 2016.04.05
 return_of_the_king False True
 Riegel25 False True
-rightthistime1 True True
+rightthistime1 True False 2016.04.06
 RingsofAkhaten True True
 ripkirby True True
 RobertFreddi False True
 RobzillaTheThrilla False True
-ronnie0115 False True
+ronnie0115 True True
 runningloop True True
 ryuke11 True True
 sageknight True True
@@ -345,7 +345,7 @@ shigolnam False True
 Shitty_Bollocks False True
 shortless False True
 shouldnotfap25 False True
-siddhartha_1922 True True
+siddhartha_1922 True False 2016.04.06
 simian09 True True
 sinfulregret True True
 sirrus41 False True
@@ -365,7 +365,7 @@ sooflhett96 False True
 SosukeAizen2 True True
 soundfx27 True True
 spaghetyo False True
-spin116 False True
+spin116 False False 2016.04.06
 spook_y True True
 sqfqs False True
 Squirrels_eat_bacon True True
@@ -377,7 +377,7 @@ Sundog64 False True
 sunshine_rec0rder False True
 suntzu01 True True
 sXe4Life True True
-tamenrasett False True
+tamenrasett True True
 Tebbin False True
 tempusers False True
 thatfatdood False True
