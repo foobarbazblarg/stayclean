@@ -1,11 +1,11 @@
--MMXVII- False True
-0vercoming False True
+-MMXVII- True True
+0vercoming False False 2016.04.10
 11Tsundere True True
 15DaysAweek False True
 2016_np True True
-2funk False True
+2funk True True
 4of4 False True
-50-cal False True
+50-cal True True
 5p00nman False False 2016.04.03
 _Gallifrey_ True True
 _lennart_ True True
@@ -18,9 +18,9 @@ adannytoremember True False 2016.04.02
 Airplane98 False True
 aj-laz False True
 ajsg14 True True
-Albahacus False True
+Albahacus False False 2016.04.07
 alchemist_33 True True
-alexianchen True True
+alexianchen True False 2016.04.09
 alisonburgerss False True
 ammo101 True True
 andi90 True True
@@ -60,11 +60,11 @@ buddylee4 False True
 BulbaBoss False True
 BunchieLama False True
 buzzfrombali True True
-CanYouNotRead True True
+CanYouNotRead True False 2016.04.08
 CardinalGuitar False True
-carlslim False True
-Caspar-_- False True
-catinsky True True
+carlslim True True
+Caspar-_- True True
+catinsky True False 2016.04.10
 ChaLa-Head False True
 changes1self True True
 chcltthnder False True
@@ -95,7 +95,7 @@ dalotse False True
 Dan_Falcortez False True
 Dandylol True True
 DanMusicMan False True
-Dar_Now False True
+Dar_Now True True
 darmir False True
 DaveJo127 False True
 dcm5291 True True
@@ -112,7 +112,7 @@ dundundone False True
 E_Wander True True
 eastbound4 False True
 Ectoplasm2 False True
-Eipa False True
+Eipa True True
 eire77 True True
 el__wray False True
 Elfbunny False True
@@ -140,14 +140,14 @@ fox_what False True
 franziskaner_thermos False True
 Free-B True True
 FreedomV2 False True
-freeofdistortions False True
+freeofdistortions False False 2016.04.10
 frueherschueler False True
 fuzzy-lojik True True
 gamedingo True True
 gangstercomputer False True
 gdude24 True True
 GeorgeCostanza2 False True
-glassCannon21 True True
+glassCannon21 True False 2016.04.07
 Glocjt True True
 GodBlessPonytails False True
 Gonzoism94 False True
@@ -173,13 +173,13 @@ HumpdeeDump False True
 ibequ True True
 Idio_Teque True True
 ihatep0rn5 False True
-imnotmario False True
+imnotmario True True
 ipornfree True True
 irgendwalrus True True
 Isitme893 False True
 it32412 True True
-iur5 True True
-iwant2fuck True True
+iur5 True False 2016.04.07
+iwant2fuck True False 2016.04.09
 IwontPMO False True
 j13thehunter False True
 jakiewan True False 2016.04.05
@@ -197,7 +197,7 @@ KarimPuff False True
 karlo471 False True
 kayaksmak False True
 Kehndy12 False True
-kelowH False True
+kelowH False False 2016.04.07
 kildragon92 True True
 kokirikokoro True True
 konyakubatake False True
@@ -214,7 +214,7 @@ levitucs False True
 Liamerzz True True
 LifeIsFreedom True True
 LifeIsGood46 False True
-limbofap False True
+limbofap True True
 Lionheart999 False True
 Littlewing83 True True
 Liviul True True
@@ -223,9 +223,9 @@ Lodbrok__ True True
 Lopokato124 True True
 LordofRice False True
 louSkraD False True
-LT39 False True
+LT39 True True
 ludwigvan__ True True
-lukas2020 False True
+lukas2020 True True
 lukefifteentwenty False True
 LydianAlchemist False True
 m4rc0polo True True
@@ -249,8 +249,8 @@ MightyMrMeseeks False True
 MikeFromSI False True
 Mister_Mojito False True
 MiTacoSuTaco True True
-ModestMastodon True True
-MonkeyDSunny True True
+ModestMastodon True False 2016.04.07
+MonkeyDSunny True False 2016.04.10
 Morgwen84 True True
 MrGaben True True
 Mrigg-Van-Hans False True
@@ -270,7 +270,7 @@ needofchange False True
 neunQ False True
 Neverstop7 False False 2016.04.03
 NewBeginnings7 False True
-Newman658 True True
+Newman658 True False 2016.04.08
 Ninjaba False True
 nirvanaswapper True True
 Nofap_TH1356 False True
@@ -279,18 +279,18 @@ nofapmofe23 False True
 nofapu False True
 None True True
 NoP12 True True
-NoRespite False True
+NoRespite True True
 NoTemptation True True
-NovusCaesarion False True
+NovusCaesarion False False 2016.04.08
 nowayever True True
 NudaeVetatur True True
-Odin_Allvis True True
+Odin_Allvis True False 2016.04.08
 omp_oN True True
 OniBasic True True
 orgamamy True True
 Orpheus17 True True
 PajamminJohnson False True
-Pantim False True
+Pantim True True
 path_to_freedom True False 2016.04.06
 peacefultiger False True
 PervyAccount False True
@@ -320,12 +320,12 @@ return_of_the_king False True
 Riegel25 False True
 rightthistime1 True False 2016.04.06
 RingsofAkhaten True True
-ripkirby True True
+ripkirby True False 2016.04.08
 RobertFreddi False True
 RobzillaTheThrilla False True
 ronnie0115 True True
 runningloop True True
-ryuke11 True True
+ryuke11 True False 2016.04.10
 sageknight True True
 sakuraba_is_cool True True
 Salimimy False True
@@ -338,7 +338,7 @@ scootsmgoots False True
 seatacandrew False True
 SecularScience False True
 Semper_Discentes False True
-Ser_Capelli False True
+Ser_Capelli True True
 Settingstraight True True
 shango130 False True
 shigolnam False True
@@ -347,17 +347,17 @@ shortless False True
 shouldnotfap25 False True
 siddhartha_1922 True False 2016.04.06
 simian09 True True
-sinfulregret True True
+sinfulregret True False 2016.04.10
 sirrus41 False True
 Skeetels False True
 Skidturn False True
 skogulfrus False True
-Slabdweller False True
+Slabdweller False False 2016.04.07
 slic_ric False True
 slimshadyss False True
 slknights False True
-Slockerfc True True
-Slyrix False True
+Slockerfc True False 2016.04.10
+Slyrix True True
 So1lborn False True
 solos90 True True
 Somtijds False False 2016.04.02
@@ -385,7 +385,7 @@ the_good_fighter False True
 The_Relaxman False True
 TheBlackKnight1989 False True
 TheBWF True True
-TheEdmontonMan False True
+TheEdmontonMan True True
 ThePillowEffect True True
 ThePunisher_ True True
 therebootist True True
