@@ -101,7 +101,7 @@ DaveJo127 False True
 dcm5291 True True
 Deathhoof812 True False 2016.04.05
 deca1987 False True
-DevilD0ge True True
+DevilD0ge True False 2016.04.12
 dolphucorn False True
 domse89 True True
 Dotanime True True
@@ -348,7 +348,7 @@ shouldnotfap25 False True
 siddhartha_1922 True False 2016.04.06
 simian09 True True
 sinfulregret True False 2016.04.10
-sirrus41 False True
+sirrus41 True True
 Skeetels False True
 Skidturn False True
 skogulfrus False True
@@ -386,7 +386,7 @@ The_Relaxman False True
 TheBlackKnight1989 False True
 TheBWF True True
 TheEdmontonMan True True
-ThePillowEffect True True
+ThePillowEffect True False 2016.04.12
 ThePunisher_ True True
 therebootist True True
 thesunscreenkid True True
