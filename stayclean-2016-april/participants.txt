@@ -2,7 +2,7 @@
 0vercoming False False 2016.04.10
 11Tsundere True True
 15DaysAweek False True
-2016_np True True
+2016_np True False 2016.04.11
 2funk True True
 4of4 False True
 50-cal True True
@@ -199,7 +199,7 @@ kayaksmak False True
 Kehndy12 False True
 kelowH False False 2016.04.07
 kildragon92 True True
-kokirikokoro True True
+kokirikokoro True False 2016.04.10
 konyakubatake False True
 kropecznik False True
 Kumiankka8 False True
@@ -209,7 +209,7 @@ lazy_smurf False True
 lazyfap True True
 lbds95 False True
 letswinthiswar False True
-lettinggoofitall True True
+lettinggoofitall True False 2016.04.11
 levitucs False True
 Liamerzz True True
 LifeIsFreedom True True
@@ -288,7 +288,7 @@ Odin_Allvis True False 2016.04.08
 omp_oN True True
 OniBasic True True
 orgamamy True True
-Orpheus17 True True
+Orpheus17 True False 2016.04.11
 PajamminJohnson False True
 Pantim True True
 path_to_freedom True False 2016.04.06
@@ -362,7 +362,7 @@ So1lborn False True
 solos90 True True
 Somtijds False False 2016.04.02
 sooflhett96 False True
-SosukeAizen2 True True
+SosukeAizen2 True False 2016.04.11
 soundfx27 True True
 spaghetyo False True
 spin116 False False 2016.04.06
@@ -412,7 +412,7 @@ Walk_the_nofap_way True True
 WarriorShit True True
 What_The_Fuck__Brain False True
 WhatDoIEvenPut False True
-wheresmydopamine False True
+wheresmydopamine True True
 wildwolf_spirit47 False True
 WilkiB False True
 willstone072 False True
