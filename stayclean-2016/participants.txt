@@ -294,7 +294,7 @@ RobertFreddi False False
 ronald_donaldson False False 2016.04.01
 ronnymcfelch True False 2016.01.15
 runningloop True False 2016.01.15
-RyanTJ False True
+RyanTJ True True
 RyPA False False
 saadahmed888 False False
 sageknight False False

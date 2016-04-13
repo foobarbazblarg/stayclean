@@ -29,10 +29,10 @@ ANKUSH2 False True
 AnObsessedRedditor True True
 anon9ine False True
 Antigone_ True True
-ApudDeum False True
+ApudDeum False False 2016.04.13
 Arcticor True True
 Arensky True True
-arstorr True True
+arstorr True False 2016.04.12
 Artemonski False True
 asha_nomore True True
 ashkashbagash False True
@@ -110,7 +110,7 @@ DubstepperGT20 False True
 DukeLeto_ False False 2016.04.06
 dundundone False True
 E_Wander True True
-eastbound4 False True
+eastbound4 False False 2016.04.12
 Ectoplasm2 False True
 Eipa True True
 eire77 True True
@@ -148,7 +148,7 @@ gangstercomputer False True
 gdude24 True True
 GeorgeCostanza2 False True
 glassCannon21 True False 2016.04.07
-Glocjt True True
+Glocjt True False 2016.04.13
 GodBlessPonytails False True
 Gonzoism94 False True
 goodbye_pmo True True
@@ -177,7 +177,7 @@ imnotmario True True
 ipornfree True True
 irgendwalrus True True
 Isitme893 False True
-it32412 True True
+it32412 True False 2016.04.13
 iur5 True False 2016.04.07
 iwant2fuck True False 2016.04.09
 IwontPMO False True
@@ -190,7 +190,7 @@ Journey1981 False True
 jspliff1 True True
 JSubers True True
 judgeofmydomain False True
-Juliohobbyhut False True
+Juliohobbyhut True True
 justhereforthenofap False True
 KaiserCort True False 2016.04.04
 KarimPuff False True
@@ -247,7 +247,7 @@ meinmyfreetime True False 2016.04.05
 MightyMorphnForskin False True
 MightyMrMeseeks False True
 MikeFromSI False True
-Mister_Mojito False True
+Mister_Mojito False False 2016.04.12
 MiTacoSuTaco True True
 ModestMastodon True False 2016.04.07
 MonkeyDSunny True False 2016.04.10
@@ -409,7 +409,7 @@ vinnieoseven True True
 Voreav True True
 wabloofaces True True
 Walk_the_nofap_way True True
-WarriorShit True True
+WarriorShit True False 2016.04.13
 What_The_Fuck__Brain False True
 WhatDoIEvenPut False True
 wheresmydopamine True True
