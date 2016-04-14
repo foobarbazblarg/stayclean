@@ -4,7 +4,7 @@
 15DaysAweek False True
 2016_np True False 2016.04.11
 2funk True True
-4of4 False True
+4of4 True True
 50-cal True True
 5p00nman False False 2016.04.03
 _Gallifrey_ True True
@@ -108,7 +108,7 @@ Dotanime True True
 drstclair True True
 DubstepperGT20 False True
 DukeLeto_ False False 2016.04.06
-dundundone False True
+dundundone True True
 E_Wander True True
 eastbound4 False False 2016.04.12
 Ectoplasm2 False True
@@ -196,7 +196,7 @@ KaiserCort True False 2016.04.04
 KarimPuff False True
 karlo471 False True
 kayaksmak False True
-Kehndy12 False True
+Kehndy12 False False 2016.04.13
 kelowH False False 2016.04.07
 kildragon92 True True
 kokirikokoro True False 2016.04.10
@@ -314,14 +314,14 @@ RavenTaco False True
 Raw_Chicken False True
 Razzaband True True
 RedStar19 False True
-ReleaseRenew True True
+ReleaseRenew True False 2016.04.13
 remybob78 False False 2016.04.05
 return_of_the_king False True
 Riegel25 False True
 rightthistime1 True False 2016.04.06
 RingsofAkhaten True True
 ripkirby True False 2016.04.08
-RobertFreddi False True
+RobertFreddi False False 2016.04.13
 RobzillaTheThrilla False True
 ronnie0115 True True
 runningloop True True
@@ -353,13 +353,13 @@ Skeetels False True
 Skidturn False True
 skogulfrus False True
 Slabdweller False False 2016.04.07
-slic_ric False True
+slic_ric False False 2016.04.13
 slimshadyss False True
 slknights False True
 Slockerfc True False 2016.04.10
 Slyrix True True
 So1lborn False True
-solos90 True True
+solos90 True False 2016.04.14
 Somtijds False False 2016.04.02
 sooflhett96 False True
 SosukeAizen2 True False 2016.04.11
@@ -430,4 +430,4 @@ Yogibear2016 True True
 ZenWolfe False True
 ZeroGrav1ty False True
 zjeh False True
-zvezdicee False True
+zvezdicee True True
