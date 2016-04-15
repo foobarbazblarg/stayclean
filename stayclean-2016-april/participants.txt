@@ -19,7 +19,7 @@ Airplane98 False True
 aj-laz False True
 ajsg14 True True
 Albahacus False False 2016.04.07
-alchemist_33 True True
+alchemist_33 True False 2016.04.15
 alexianchen True False 2016.04.09
 alisonburgerss False True
 ammo101 True True
@@ -263,7 +263,7 @@ mulqahdiiv False True
 Mursin False True
 mushie_yurm False True
 MushishiMaster True False 2016.04.05
-Myriad_Legion True True
+Myriad_Legion True False 2016.04.15
 natborchers False True
 NCC1701G True True
 needofchange False True
@@ -276,7 +276,7 @@ nirvanaswapper True True
 Nofap_TH1356 False True
 Nofaplov True True
 nofapmofe23 False True
-nofapu False True
+nofapu True True
 None True True
 NoP12 True True
 NoRespite True True
@@ -326,7 +326,7 @@ RobzillaTheThrilla False True
 ronnie0115 True True
 runningloop True False 2016.04.14
 ryuke11 True False 2016.04.10
-sageknight True True
+sageknight True False 2016.04.15
 sakuraba_is_cool True True
 Salimimy False True
 samon_500 True True
@@ -339,7 +339,7 @@ seatacandrew False True
 SecularScience False True
 Semper_Discentes False True
 Ser_Capelli True True
-Settingstraight True True
+Settingstraight True False 2016.04.15
 shango130 False True
 shigolnam False True
 Shitty_Bollocks False True

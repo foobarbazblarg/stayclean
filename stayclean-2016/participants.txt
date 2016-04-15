@@ -68,7 +68,7 @@ ChinoCap True True
 chiqui314 False False
 ChuckSchuldinerRules False False
 cikatomo True False 2016.01.02
-CleanSince2016 False True
+CleanSince2016 True False 2016.04.15
 coleman_7 False False
 cptkirk87 True False 2016.01.17
 crowingz False False
