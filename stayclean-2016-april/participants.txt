@@ -144,7 +144,7 @@ freeofdistortions False False 2016.04.10
 frueherschueler False True
 fuzzy-lojik True True
 gamedingo True True
-gangstercomputer False True
+gangstercomputer True True
 gdude24 True True
 GeorgeCostanza2 False True
 glassCannon21 True False 2016.04.07
@@ -324,7 +324,7 @@ ripkirby True False 2016.04.08
 RobertFreddi False False 2016.04.13
 RobzillaTheThrilla False True
 ronnie0115 True True
-runningloop True True
+runningloop True False 2016.04.14
 ryuke11 True False 2016.04.10
 sageknight True True
 sakuraba_is_cool True True
@@ -344,7 +344,7 @@ shango130 False True
 shigolnam False True
 Shitty_Bollocks False True
 shortless False True
-shouldnotfap25 False True
+shouldnotfap25 False False 2016.04.14
 siddhartha_1922 True False 2016.04.06
 simian09 True True
 sinfulregret True False 2016.04.10
@@ -357,7 +357,7 @@ slic_ric False False 2016.04.13
 slimshadyss False True
 slknights False True
 Slockerfc True False 2016.04.10
-Slyrix True True
+Slyrix True False 2016.04.14
 So1lborn False True
 solos90 True False 2016.04.14
 Somtijds False False 2016.04.02

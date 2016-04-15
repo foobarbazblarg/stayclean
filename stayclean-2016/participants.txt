@@ -26,7 +26,7 @@ Ambition_HQ False False
 Aminhas1996 False False
 andstufflikethat True True
 ArseBadgerer True False 2016.01.25
-Arzackk False True
+Arzackk True True
 ashkashbagash False False
 asianmutant True True
 atka False False
