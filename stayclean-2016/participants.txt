@@ -145,7 +145,7 @@ gunleader False True
 HanginAroundDowntown False False
 HellenaFox False False
 HeruPrime False False
-heyoh1 False True
+heyoh1 True True
 hotegg False False
 humble777 True True
 HypeSloth True False 2016.01.10
