@@ -8,7 +8,7 @@
 50-cal False True
 5p00nman False False 2016.04.03
 _Gallifrey_ True True
-_lennart_ False True
+_lennart_ True True
 a_binary_choice False False
 A_KILLER_DONG False False
 abolishpmo True False 2016.04.04
@@ -37,7 +37,7 @@ Artemonski False False
 asha_nomore True True
 ashkashbagash False False
 asianmutant True True
-Audax_viator False True
+Audax_viator True True
 b123ob False False
 bacobacon False True
 bahehs False True
@@ -74,13 +74,13 @@ clean_good_life False False
 cmonletsdance False False
 coffee_TID False False
 coldhandses False False
-Compass87 False True
+Compass87 True True
 Conquer_My_Self False False
 ConqueringTheSelf True True
 constantfwd False True
 ConureCourier False False
 coolbeanseroosky False True
-couldbejustwhatineed False True
+couldbejustwhatineed True True
 counter_intuition False False
 CounterReset14 False False
 CovertDiplomat False False
@@ -113,7 +113,7 @@ E_Wander True True
 eastbound4 False False 2016.04.12
 Ectoplasm2 False False
 Eipa True True
-eire77 False True
+eire77 True True
 el__wray False False
 Elfbunny False False
 Endless-Nine False False
@@ -135,14 +135,14 @@ fixamydicka False False
 flappity_doo_dah False True
 foobarbazblarg False True
 ForesterNL True True
-FourOneNiner False True
+FourOneNiner True True
 fox_what False False
 franziskaner_thermos False False
-Free-B False True
+Free-B True True
 FreedomV2 False False
 freeofdistortions False False 2016.04.10
 frueherschueler False False
-fuzzy-lojik False True
+fuzzy-lojik True True
 gamedingo False True
 gangstercomputer False False 2016.04.17
 gdude24 False True
@@ -163,19 +163,19 @@ hazjo False False
 HeartofOr False False
 HelpPlease1010 False True
 heynewguy False False
-hezekiah185 False True
+hezekiah185 True True
 hk9 False False
 holtech False False 2016.04.17
 hpooper2142 False False
 hugotroll False False
 humble777 False True
 HumpdeeDump False False
-ibequ True True
+ibequ True False 2016.04.19
 Idio_Teque False True
 ihatep0rn5 False False
 imnotmario False True
 ipornfree False True
-irgendwalrus False True
+irgendwalrus True True
 Isitme893 False False
 it32412 True False 2016.04.13
 iur5 True False 2016.04.07
@@ -278,12 +278,12 @@ Nofaplov False True
 nofapmofe23 False False
 nofapu False True
 None False True
-NoP12 False True
+NoP12 True True
 NoRespite False True
 NoTemptation False True
 NovusCaesarion False False 2016.04.08
 nowayever False False 2016.04.17
-NudaeVetatur False True
+NudaeVetatur True True
 Odin_Allvis True False 2016.04.08
 omp_oN False True
 OniBasic False True
@@ -363,21 +363,21 @@ solos90 True False 2016.04.14
 Somtijds False False 2016.04.02
 sooflhett96 False False
 SosukeAizen2 True False 2016.04.11
-soundfx27 False True
+soundfx27 True True
 spaghetyo False False
 spin116 False False 2016.04.06
 spook_y False True
 sqfqs False False
 Squirrels_eat_bacon True True
 StageDeath False True
-stickofbutter_man False True
+stickofbutter_man True True
 strider004 True False 2016.04.15
 Success_Account False False
 Sundog64 False False
 sunshine_rec0rder False False
 suntzu01 False True
 sXe4Life True True
-tamenrasett False True
+tamenrasett True True
 Tebbin False False
 tempusers False False
 thatfatdood False False
@@ -407,7 +407,7 @@ Twi147 False False
 Urgotobekidding False True
 vinnieoseven True True
 Voreav False True
-wabloofaces False True
+wabloofaces True True
 Walk_the_nofap_way False True
 WarriorShit True False 2016.04.13
 What_The_Fuck__Brain False False
@@ -417,7 +417,7 @@ wildwolf_spirit47 False False
 WilkiB False False
 willstone072 False False
 Wintershrike False False
-Wish6 False True
+Wish6 False False 2016.04.19
 woahacow True True
 WonderBoy92 False False
 woopherd False True

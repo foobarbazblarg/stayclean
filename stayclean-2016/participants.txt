@@ -112,7 +112,7 @@ Element-A True False 2016.01.07
 ender360v2 False False
 Engineering_Junkie False False
 EnziBenzi False False
-eristicmystic False True
+eristicmystic True True
 Eviane False False
 Evil_Entity False False
 fanology True False 2016.01.05
