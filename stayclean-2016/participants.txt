@@ -355,7 +355,7 @@ Throwaway01067 False False
 thrownawayforgoood False False
 thunderdeacon False False
 Tigurknee False False
-tim_dma False True
+tim_dma True True
 timeforthechallenge False False
 tlantan True True
 TMurray189 False False

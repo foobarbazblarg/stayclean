@@ -1,4 +1,4 @@
--MMXVII- False True
+-MMXVII- True True
 0vercoming False False 2016.04.10
 11Tsundere False True
 15DaysAweek False False
@@ -26,7 +26,7 @@ ammo101 False True
 andi90 True True
 andreuby False True
 ANKUSH2 False False
-AnObsessedRedditor False True
+AnObsessedRedditor True True
 anon9ine False False
 Antigone_ False True
 ApudDeum False False 2016.04.13
@@ -74,7 +74,7 @@ clean_good_life False False
 cmonletsdance False False
 coffee_TID False False
 coldhandses False False
-Compass87 True True
+Compass87 True False 2016.04.20
 Conquer_My_Self False False
 ConqueringTheSelf True True
 constantfwd False True
@@ -218,7 +218,7 @@ limbofap False True
 Lionheart999 False False
 Littlewing83 False True
 Liviul False True
-lock_that_door False True
+lock_that_door True True
 Lodbrok__ False True
 Lopokato124 False True
 LordofRice False False
@@ -401,7 +401,7 @@ TMurray189 False True
 tojil42 False False
 Tom_86 True True
 Toomxz False False
-tossedoffer False True
+tossedoffer True True
 Tripleaidid False True
 Twi147 False False
 Urgotobekidding False True
