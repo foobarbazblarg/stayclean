@@ -66,7 +66,7 @@ carlslim False True
 Caspar-_- False True
 catinsky True False 2016.04.10
 ChaLa-Head False False
-changes1self False True
+changes1self True True
 chcltthnder False False
 chiqui314 False False
 chrispete23 False False
@@ -133,7 +133,7 @@ FightForBetterFuture False False
 Finallyyyyy False False
 fixamydicka False False
 flappity_doo_dah False True
-foobarbazblarg False True
+foobarbazblarg True True
 ForesterNL True True
 FourOneNiner True True
 fox_what False False
@@ -225,7 +225,7 @@ LordofRice False False
 louSkraD False False
 LT39 False True
 ludwigvan__ False True
-lukas2020 False True
+lukas2020 True True
 lukefifteentwenty False False
 LydianAlchemist False False
 m4rc0polo False True
@@ -366,7 +366,7 @@ SosukeAizen2 True False 2016.04.11
 soundfx27 True True
 spaghetyo False False
 spin116 False False 2016.04.06
-spook_y False True
+spook_y False False 2016.04.21
 sqfqs False False
 Squirrels_eat_bacon True True
 StageDeath False True
@@ -425,7 +425,7 @@ wuzntlistening False False
 Wyald False True
 XcherokeeJ False True
 XTutankhamen False False
-Yellow_Baron False True
+Yellow_Baron True True
 Yogibear2016 False True
 ZenWolfe False False
 ZeroGrav1ty False False
