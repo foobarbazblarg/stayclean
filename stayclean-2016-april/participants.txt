@@ -105,7 +105,7 @@ DevilD0ge True False 2016.04.12
 dolphucorn False False
 domse89 False True
 Dotanime False True
-drstclair False True
+drstclair False False 2016.04.21
 DubstepperGT20 False False
 DukeLeto_ False False 2016.04.06
 dundundone False True
@@ -174,7 +174,7 @@ ibequ True False 2016.04.19
 Idio_Teque False True
 ihatep0rn5 False False
 imnotmario False True
-ipornfree False True
+ipornfree False False 2016.04.21
 irgendwalrus True True
 Isitme893 False False
 it32412 True False 2016.04.13
@@ -224,7 +224,7 @@ Lopokato124 False True
 LordofRice False False
 louSkraD False False
 LT39 False True
-ludwigvan__ False True
+ludwigvan__ True True
 lukas2020 True True
 lukefifteentwenty False False
 LydianAlchemist False False
