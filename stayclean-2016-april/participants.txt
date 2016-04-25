@@ -3,7 +3,7 @@
 11Tsundere False True
 15DaysAweek False False
 2016_np True False 2016.04.11
-2funk False True
+2funk True True
 4of4 False True
 50-cal False True
 5p00nman False False 2016.04.03
@@ -39,8 +39,8 @@ ashkashbagash False False
 asianmutant True True
 Audax_viator True True
 b123ob False False
-bacobacon False True
-bahehs False True
+bacobacon True True
+bahehs True True
 bberlinn False False
 bdayhusband False False
 Bearwoods False False
@@ -62,8 +62,8 @@ BunchieLama False False
 buzzfrombali False True
 CanYouNotRead True False 2016.04.08
 CardinalGuitar False False
-carlslim False True
-Caspar-_- False True
+carlslim True True
+Caspar-_- False False 2016.04.24
 catinsky True False 2016.04.10
 ChaLa-Head False False
 changes1self True True
@@ -93,7 +93,7 @@ CurvingDive False False
 cutdacrap False False
 dalotse False False
 Dan_Falcortez False False
-Dandylol True True
+Dandylol True False 2016.04.23
 DanMusicMan False False
 Dar_Now True True
 darmir False False
@@ -109,7 +109,7 @@ drstclair False False 2016.04.21
 DubstepperGT20 False False
 DukeLeto_ False False 2016.04.06
 dundundone False True
-E_Wander True True
+E_Wander True False 2016.04.23
 eastbound4 False False 2016.04.12
 Ectoplasm2 False False
 Eipa True True
@@ -168,7 +168,7 @@ hk9 False False
 holtech False False 2016.04.17
 hpooper2142 False False
 hugotroll False False
-humble777 False True
+humble777 True True
 HumpdeeDump False False
 ibequ True False 2016.04.19
 Idio_Teque False True
@@ -190,7 +190,7 @@ Journey1981 False False
 jspliff1 False True
 JSubers False True
 judgeofmydomain False False
-Juliohobbyhut False True
+Juliohobbyhut False False 2016.04.24
 justhereforthenofap False False
 KaiserCort True False 2016.04.04
 KarimPuff False False
@@ -228,7 +228,7 @@ ludwigvan__ True True
 lukas2020 True True
 lukefifteentwenty False False
 LydianAlchemist False False
-m4rc0polo False True
+m4rc0polo True True
 macked-out False False 2016.04.04
 Maculus False True
 madtownbro True False 2016.04.17
@@ -329,7 +329,7 @@ ryuke11 True False 2016.04.10
 sageknight True False 2016.04.15
 sakuraba_is_cool False True
 Salimimy False False
-samon_500 True True
+samon_500 True False 2016.04.24
 SampsonGetsMeLifted_ False False
 saskaciwanihk False False
 saulteen False True
@@ -390,7 +390,7 @@ ThePillowEffect True False 2016.04.12
 ThePunisher_ False True
 therebootist False True
 thesunscreenkid False True
-Thisisitnow123 False True
+Thisisitnow123 False False 2016.04.23
 Thisoneismyfavourite False False
 Thrawaaye False False
 throwanyaway False False 2016.04.05
@@ -399,7 +399,7 @@ TitanRecon300 False False 2016.04.03
 tlantan True True
 TMurray189 False True
 tojil42 False False
-Tom_86 True True
+Tom_86 True False 2016.04.22
 Toomxz False False
 tossedoffer True True
 Tripleaidid False True
