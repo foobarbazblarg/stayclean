@@ -145,7 +145,7 @@ frueherschueler False False
 fuzzy-lojik True True
 gamedingo False True
 gangstercomputer False False 2016.04.17
-gdude24 False True
+gdude24 False False 2016.04.25
 GeorgeCostanza2 False False
 glassCannon21 True False 2016.04.07
 Glocjt True False 2016.04.13
@@ -286,7 +286,7 @@ nowayever False False 2016.04.17
 NudaeVetatur True True
 Odin_Allvis True False 2016.04.08
 omp_oN False True
-OniBasic False True
+OniBasic True True
 orgamamy False True
 Orpheus17 True False 2016.04.11
 PajamminJohnson False False
