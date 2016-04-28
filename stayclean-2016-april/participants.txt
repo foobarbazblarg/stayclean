@@ -1,10 +1,10 @@
 -MMXVII- True True
 0vercoming False False 2016.04.10
-11Tsundere False True
+11Tsundere True True
 15DaysAweek False False
 2016_np True False 2016.04.11
 2funk True True
-4of4 False True
+4of4 True True
 50-cal False True
 5p00nman False False 2016.04.03
 _Gallifrey_ True True
@@ -103,12 +103,12 @@ Deathhoof812 True False 2016.04.05
 deca1987 False False
 DevilD0ge True False 2016.04.12
 dolphucorn False False
-domse89 False True
+domse89 True True
 Dotanime False True
 drstclair False False 2016.04.21
 DubstepperGT20 False False
 DukeLeto_ False False 2016.04.06
-dundundone False True
+dundundone True True
 E_Wander True False 2016.04.23
 eastbound4 False False 2016.04.12
 Ectoplasm2 False False
@@ -232,7 +232,7 @@ m4rc0polo True True
 macked-out False False 2016.04.04
 Maculus False True
 madtownbro True False 2016.04.17
-makers_recovery False True
+makers_recovery True True
 MakeYourself23 True False 2016.04.06
 Marshmalllowman False False
 marvelousmarv2022 False False
@@ -252,7 +252,7 @@ MiTacoSuTaco False True
 ModestMastodon True False 2016.04.07
 MonkeyDSunny True False 2016.04.10
 Morgwen84 False True
-MrGaben False True
+MrGaben True True
 Mrigg-Van-Hans False False
 mrmingle False True
 mrnoone56 False False
@@ -279,7 +279,7 @@ nofapmofe23 False False
 nofapu False True
 None False True
 NoP12 True True
-NoRespite False True
+NoRespite True True
 NoTemptation False True
 NovusCaesarion False False 2016.04.08
 nowayever False False 2016.04.17
@@ -377,7 +377,7 @@ Sundog64 False False
 sunshine_rec0rder False False
 suntzu01 False True
 sXe4Life True True
-tamenrasett True True
+tamenrasett True False 2016.04.27
 Tebbin False False
 tempusers False False
 thatfatdood False False
@@ -420,7 +420,7 @@ Wintershrike False False
 Wish6 False False 2016.04.19
 woahacow True True
 WonderBoy92 False False
-woopherd False True
+woopherd True True
 wuzntlistening False False
 Wyald False True
 XcherokeeJ False True
