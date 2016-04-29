@@ -1,11 +1,11 @@
 -MMXVII- True True
 0vercoming False False 2016.04.10
-11Tsundere True True
+11Tsundere True False 2016.04.29
 15DaysAweek False False
 2016_np True False 2016.04.11
 2funk True True
 4of4 True True
-50-cal False True
+50-cal True True
 5p00nman False False 2016.04.03
 _Gallifrey_ True True
 _lennart_ True True
@@ -224,7 +224,7 @@ Lopokato124 False True
 LordofRice False False
 louSkraD False False
 LT39 False True
-ludwigvan__ True True
+ludwigvan__ True False 2016.04.28
 lukas2020 True True
 lukefifteentwenty False False
 LydianAlchemist False False
@@ -338,7 +338,7 @@ scootsmgoots False False
 seatacandrew False False
 SecularScience False False
 Semper_Discentes False False
-Ser_Capelli False True
+Ser_Capelli True True
 Settingstraight True False 2016.04.15
 shango130 False False
 shigolnam False False

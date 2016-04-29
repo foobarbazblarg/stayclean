@@ -105,7 +105,7 @@ DrMarkyMark False False
 DrRocktopusMD False False
 dubbies_lament False False 2016.01.20
 DukeStamina True False 2016.01.27
-Egkrateia False True
+Egkrateia True True
 eightsixfourhundred False False
 elbastardo1 False False
 Element-A True False 2016.01.07
