@@ -5,7 +5,7 @@ import datetime
 import pyperclip
 
 # Edit Me!
-currentMonthTotalDays = 31
+currentMonthTotalDays = 30
 
 currentMonthIndex = datetime.date.today().month
 currentMonthPenultimateDayIndex = currentMonthTotalDays - 1

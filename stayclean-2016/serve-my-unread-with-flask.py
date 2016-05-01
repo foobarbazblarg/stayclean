@@ -25,6 +25,7 @@ sys.setdefaultencoding('utf8')
 
 # Edit me!
 activeCommentHashFiles = [ 'retiredcommenthashes.txt',
+                           '../stayclean-2016-may/retiredcommenthashes.txt',
                            '../stayclean-2016-april/retiredcommenthashes.txt',
                            '../stayclean-2016-march/retiredcommenthashes.txt',
                            '../stayclean-2016-february/retiredcommenthashes.txt' ]
