@@ -24,7 +24,7 @@ alexianchen True False 2016.02.19
 amadeo19 False True
 Ambition_HQ False False
 Aminhas1996 False False
-andstufflikethat False True
+andstufflikethat True True
 ArseBadgerer True False 2016.01.25
 Arzackk False True
 ashkashbagash False False
@@ -147,7 +147,7 @@ HellenaFox False False
 HeruPrime False False
 heyoh1 False True
 hotegg False False
-humble777 False True
+humble777 True True
 HypeSloth True False 2016.01.10
 I_Fucking_Hate_Porn False False
 icecremecatsandwich False False
@@ -357,7 +357,7 @@ thunderdeacon False False
 Tigurknee False False
 tim_dma False True
 timeforthechallenge False False
-tlantan False True
+tlantan True True
 TMurray189 False False
 TortillaHero False False
 tossedoffer False True
