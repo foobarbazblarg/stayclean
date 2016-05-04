@@ -8,7 +8,7 @@
 __murph__ True False 2016.02.27
 _Civil False False
 _ghiak False False
-_lennart_ False True
+_lennart_ True True
 A-Type False False 2016.01.05
 a_binary_choice False False
 abolishpmo False False 2016.01.03
@@ -37,7 +37,7 @@ awakenedurbanmonk False False
 aylamu False False 2016.04.07
 baconboyloiter False False
 Bass_Ventura88 False False
-bb058 False True
+bb058 True True
 bberlinn False False
 beatnutts False False
 Benddor False False
@@ -60,7 +60,7 @@ captain_discipline False False
 Captain_French False False
 catinsky False False 2016.04.10
 ced22 False False 2016.01.08
-ChaleBoy False True
+ChaleBoy True True
 changingpete False False
 chessnutz False False
 chetangangappa True False 2016.01.18
@@ -122,7 +122,7 @@ Fenix12345 False False
 Finalstraw14 False False
 findfour False False
 Flam3- False False
-foobarbazblarg False True
+foobarbazblarg True True
 ForesterNL False True
 forsience False False
 FourOneNiner False True
