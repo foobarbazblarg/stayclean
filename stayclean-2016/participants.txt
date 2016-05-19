@@ -112,7 +112,7 @@ Element-A True False 2016.01.07
 ender360v2 False False
 Engineering_Junkie False False
 EnziBenzi False False
-eristicmystic False True
+eristicmystic True True
 Eviane False False
 Evil_Entity False False
 fanology True False 2016.01.05
@@ -125,7 +125,7 @@ Flam3- False False
 foobarbazblarg True True
 ForesterNL True True
 forsience False False
-FourOneNiner False True
+FourOneNiner True True
 free45de False False
 Frozation False False
 frueherschueler False False
@@ -168,7 +168,7 @@ jabber011215 False False 2016.03.05
 JAK747 False False
 jakefilmpro False False
 jakiewan True False 2016.01.03
-jd158ug False True
+jd158ug True True
 jeffrykoopman False False
 Jelte-jv False False
 jimbob1231 False False
@@ -294,7 +294,7 @@ RobertFreddi False False
 ronald_donaldson False False 2016.04.01
 ronnymcfelch True False 2016.01.15
 runningloop True False 2016.01.15
-RyanTJ False True
+RyanTJ True True
 RyPA False False
 saadahmed888 False False
 sageknight False False
@@ -321,7 +321,7 @@ Smaxfitness True False 2016.01.24
 smokenfire7676 True False 2016.01.13
 snowbow False False 2016.02.19
 Soiltaker False False
-solongsomewhere False True
+solongsomewhere True True
 somanysquirrels False False
 somebody3895 False False
 spycow77 False False
@@ -392,7 +392,7 @@ WonderBoy92 False False
 workingrecovery True False 2016.01.08
 wrcahns False False
 XcherokeeJ False False
-YellowTango False True
+YellowTango False False 2016.05.15
 yes_darling True False 2016.01.15
 youngremy False False
 zvezdicee False True
