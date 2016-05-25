@@ -26,7 +26,7 @@ Ambition_HQ False False
 Aminhas1996 False False
 andstufflikethat True True
 ArseBadgerer True False 2016.01.25
-Arzackk False True
+Arzackk True True
 ashkashbagash False False
 asianmutant True True
 atka False False
@@ -64,7 +64,7 @@ ChaleBoy True True
 changingpete False False
 chessnutz False False
 chetangangappa True False 2016.01.18
-ChinoCap False True
+ChinoCap True True
 chiqui314 False False
 ChuckSchuldinerRules False False
 cikatomo True False 2016.01.02
@@ -145,7 +145,7 @@ gunleader False False
 HanginAroundDowntown False False
 HellenaFox False False
 HeruPrime False False
-heyoh1 False True
+heyoh1 True True
 hotegg False False
 humble777 True True
 HypeSloth True False 2016.01.10
@@ -360,7 +360,7 @@ timeforthechallenge False False
 tlantan True True
 TMurray189 False False
 TortillaHero False False
-tossedoffer False True
+tossedoffer True True
 Trappedinacorpse False False
 Treetrunk27 False False
 Triphouse False False
@@ -395,4 +395,4 @@ XcherokeeJ False False
 YellowTango False False 2016.05.15
 yes_darling True False 2016.01.15
 youngremy False False
-zvezdicee False True
+zvezdicee True True
