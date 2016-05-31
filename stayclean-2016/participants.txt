@@ -44,7 +44,7 @@ Benddor False False
 bergkampinthesheets False False
 BetterRedRobinThan False False
 Betterthanuatlife False False
-BinarySequence False True
+BinarySequence False False 2016.05.28
 BlaseBB False False 2016.02.01
 Blaze6181 False False
 BluePhonix96 False False
