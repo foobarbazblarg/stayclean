@@ -8,7 +8,7 @@
 __murph__ True False 2016.02.27
 _Civil False False
 _ghiak False False
-_lennart_ True True
+_lennart_ False True
 A-Type False False 2016.01.05
 a_binary_choice False False
 abolishpmo False False 2016.01.03
@@ -21,14 +21,14 @@ aHeroWith44Pens False False
 Al-Fayed True False 2016.01.08
 Albahacus True False 2016.03.23
 alexianchen True False 2016.02.19
-amadeo19 True True
+amadeo19 False True
 Ambition_HQ False False
 Aminhas1996 False False
-andstufflikethat True True
+andstufflikethat False True
 ArseBadgerer True False 2016.01.25
-Arzackk True True
+Arzackk False True
 ashkashbagash False False
-asianmutant True True
+asianmutant False True
 atka False False
 atlrockr False False
 Aussieguy8927 False False
@@ -37,7 +37,7 @@ awakenedurbanmonk False False
 aylamu False False 2016.04.07
 baconboyloiter False False
 Bass_Ventura88 False False
-bb058 True True
+bb058 False True
 bberlinn False False
 beatnutts False False
 Benddor False False
@@ -60,11 +60,11 @@ captain_discipline False False
 Captain_French False False
 catinsky False False 2016.04.10
 ced22 False False 2016.01.08
-ChaleBoy True True
+ChaleBoy False True
 changingpete False False
 chessnutz False False
 chetangangappa True False 2016.01.18
-ChinoCap True True
+ChinoCap False True
 chiqui314 False False
 ChuckSchuldinerRules False False
 cikatomo True False 2016.01.02
@@ -105,14 +105,14 @@ DrMarkyMark False False
 DrRocktopusMD False False
 dubbies_lament False False 2016.01.20
 DukeStamina True False 2016.01.27
-Egkrateia False True
+Egkrateia False False
 eightsixfourhundred False False
 elbastardo1 False False
 Element-A True False 2016.01.07
 ender360v2 False False
 Engineering_Junkie False False
 EnziBenzi False False
-eristicmystic True True
+eristicmystic False True
 Eviane False False
 Evil_Entity False False
 fanology True False 2016.01.05
@@ -122,10 +122,10 @@ Fenix12345 False False
 Finalstraw14 False False
 findfour False False
 Flam3- False False
-foobarbazblarg True True
-ForesterNL True True
+foobarbazblarg False True
+ForesterNL False True
 forsience False False
-FourOneNiner True True
+FourOneNiner False True
 free45de False False
 Frozation False False
 frueherschueler False False
@@ -145,9 +145,9 @@ gunleader False False
 HanginAroundDowntown False False
 HellenaFox False False
 HeruPrime False False
-heyoh1 True True
+heyoh1 False True
 hotegg False False
-humble777 True True
+humble777 False True
 HypeSloth True False 2016.01.10
 I_Fucking_Hate_Porn False False
 icecremecatsandwich False False
@@ -168,7 +168,7 @@ jabber011215 False False 2016.03.05
 JAK747 False False
 jakefilmpro False False
 jakiewan True False 2016.01.03
-jd158ug True True
+jd158ug False True
 jeffrykoopman False False
 Jelte-jv False False
 jimbob1231 False False
@@ -184,7 +184,7 @@ kelleyz14 False False
 kelowH True False 2016.01.28
 kenjataimuFeels False False
 kiramis False False
-KnopflerisGod False True
+KnopflerisGod False False
 koolvanz False False
 Korleonis False False
 KumquatRevenge False False
@@ -195,7 +195,7 @@ LAmilo90 True False 2016.01.20
 Lancecrackers False False
 LaxBear False False
 lekajones False False
-Leon1892 False True
+Leon1892 False False
 Leopr1 True False 2016.04.10
 leotrope True False 2016.01.15
 Leve_Vikingaanden False False
@@ -209,7 +209,7 @@ LordofRice False False
 lukas2020 False False 2016.05.04
 macked-out True False 2016.01.05
 MagneticAscetic False False 2016.03.01
-makers_recovery True True
+makers_recovery False True
 Makethefake False False
 marcro2571 False False
 Marvin91 False False
@@ -265,7 +265,7 @@ onfleek100 False False
 oobnate True False 2016.01.18
 Otikron False False
 PadTyrone False False
-Pastel_Pirate True True
+Pastel_Pirate False True
 patchbag False False
 patron_stMax False False
 PFNFaway22 False False
@@ -294,7 +294,7 @@ RobertFreddi False False
 ronald_donaldson False False 2016.04.01
 ronnymcfelch True False 2016.01.15
 runningloop True False 2016.01.15
-RyanTJ True True
+RyanTJ False True
 RyPA False False
 saadahmed888 False False
 sageknight False False
@@ -333,7 +333,7 @@ Sundria False False
 SunniestWarrior False False
 sunshine_rec0rder True False 2016.02.29
 swageduplikcailou False False
-sXe4Life True True
+sXe4Life False True
 Tazbio False False
 Thatguy32101 False False 2016.01.05
 theabeman False False
@@ -355,12 +355,12 @@ Throwaway01067 False False
 thrownawayforgoood False False
 thunderdeacon False False
 Tigurknee False False
-tim_dma False True
+tim_dma False False
 timeforthechallenge False False
-tlantan True True
+tlantan False True
 TMurray189 False False
 TortillaHero False False
-tossedoffer True True
+tossedoffer False True
 Trappedinacorpse False False
 Treetrunk27 False False
 Triphouse False False
@@ -395,4 +395,4 @@ XcherokeeJ False False
 YellowTango False False 2016.05.15
 yes_darling True False 2016.01.15
 youngremy False False
-zvezdicee True True
+zvezdicee False True
