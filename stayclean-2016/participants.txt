@@ -122,7 +122,7 @@ Fenix12345 False False
 Finalstraw14 False False
 findfour False False
 Flam3- False False
-foobarbazblarg False True
+foobarbazblarg True True
 ForesterNL False True
 forsience False False
 FourOneNiner True True
@@ -168,7 +168,7 @@ jabber011215 False False 2016.03.05
 JAK747 False False
 jakefilmpro False False
 jakiewan True False 2016.01.03
-jd158ug False True
+jd158ug True True
 jeffrykoopman False False
 Jelte-jv False False
 jimbob1231 False False
@@ -395,4 +395,4 @@ XcherokeeJ False False
 YellowTango False False 2016.05.15
 yes_darling True False 2016.01.15
 youngremy False False
-zvezdicee False True
+zvezdicee True True
