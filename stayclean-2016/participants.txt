@@ -123,7 +123,7 @@ Finalstraw14 False False
 findfour False False
 Flam3- False False
 foobarbazblarg True True
-ForesterNL False True
+ForesterNL True True
 forsience False False
 FourOneNiner True True
 free45de False False
@@ -360,7 +360,7 @@ timeforthechallenge False False
 tlantan True True
 TMurray189 False False
 TortillaHero False False
-tossedoffer False True
+tossedoffer True True
 Trappedinacorpse False False
 Treetrunk27 False False
 Triphouse False False
