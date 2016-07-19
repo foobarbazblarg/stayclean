@@ -37,7 +37,7 @@ awakenedurbanmonk False False
 aylamu False False 2016.04.07
 baconboyloiter False False
 Bass_Ventura88 False False
-bb058 False True
+bb058 False False
 bberlinn False False
 beatnutts False False
 Benddor False False
@@ -64,7 +64,7 @@ ChaleBoy True True
 changingpete False False
 chessnutz False False
 chetangangappa True False 2016.01.18
-ChinoCap True True
+ChinoCap False True
 chiqui314 False False
 ChuckSchuldinerRules False False
 cikatomo True False 2016.01.02
@@ -145,7 +145,7 @@ gunleader False False
 HanginAroundDowntown False False
 HellenaFox False False
 HeruPrime False False
-heyoh1 False True
+heyoh1 True True
 hotegg False False
 humble777 True True
 HypeSloth True False 2016.01.10
@@ -168,7 +168,7 @@ jabber011215 False False 2016.03.05
 JAK747 False False
 jakefilmpro False False
 jakiewan True False 2016.01.03
-jd158ug True True
+jd158ug True False 2016.07.14
 jeffrykoopman False False
 Jelte-jv False False
 jimbob1231 False False
