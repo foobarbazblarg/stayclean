@@ -26,9 +26,9 @@ Ambition_HQ False False
 Aminhas1996 False False
 andstufflikethat True True
 ArseBadgerer True False 2016.01.25
-Arzackk True True
+Arzackk False True
 ashkashbagash False False
-asianmutant True True
+asianmutant False True
 atka False False
 atlrockr False False
 Aussieguy8927 False False
@@ -60,11 +60,11 @@ captain_discipline False False
 Captain_French False False
 catinsky False False 2016.04.10
 ced22 False False 2016.01.08
-ChaleBoy True True
+ChaleBoy False True
 changingpete False False
 chessnutz False False
 chetangangappa True False 2016.01.18
-ChinoCap False True
+ChinoCap False False
 chiqui314 False False
 ChuckSchuldinerRules False False
 cikatomo True False 2016.01.02
@@ -123,9 +123,9 @@ Finalstraw14 False False
 findfour False False
 Flam3- False False
 foobarbazblarg True True
-ForesterNL True True
+ForesterNL False True
 forsience False False
-FourOneNiner True True
+FourOneNiner False True
 free45de False False
 Frozation False False
 frueherschueler False False
@@ -145,9 +145,9 @@ gunleader False False
 HanginAroundDowntown False False
 HellenaFox False False
 HeruPrime False False
-heyoh1 True True
+heyoh1 False True
 hotegg False False
-humble777 True True
+humble777 False True
 HypeSloth True False 2016.01.10
 I_Fucking_Hate_Porn False False
 icecremecatsandwich False False
@@ -209,7 +209,7 @@ LordofRice False False
 lukas2020 False False 2016.05.04
 macked-out True False 2016.01.05
 MagneticAscetic False False 2016.03.01
-makers_recovery True True
+makers_recovery False True
 Makethefake False False
 marcro2571 False False
 Marvin91 False False
@@ -265,7 +265,7 @@ onfleek100 False False
 oobnate True False 2016.01.18
 Otikron False False
 PadTyrone False False
-Pastel_Pirate True True
+Pastel_Pirate False True
 patchbag False False
 patron_stMax False False
 PFNFaway22 False False
@@ -321,7 +321,7 @@ Smaxfitness True False 2016.01.24
 smokenfire7676 True False 2016.01.13
 snowbow False False 2016.02.19
 Soiltaker False False
-solongsomewhere True True
+solongsomewhere False True
 somanysquirrels False False
 somebody3895 False False
 spycow77 False False
@@ -333,7 +333,7 @@ Sundria False False
 SunniestWarrior False False
 sunshine_rec0rder True False 2016.02.29
 swageduplikcailou False False
-sXe4Life True True
+sXe4Life False False 2016.08.04
 Tazbio False False
 Thatguy32101 False False 2016.01.05
 theabeman False False
