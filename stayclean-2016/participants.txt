@@ -28,7 +28,7 @@ andstufflikethat True True
 ArseBadgerer True False 2016.01.25
 Arzackk False True
 ashkashbagash False False
-asianmutant False True
+asianmutant True True
 atka False False
 atlrockr False False
 Aussieguy8927 False False
@@ -125,7 +125,7 @@ Flam3- False False
 foobarbazblarg True True
 ForesterNL False True
 forsience False False
-FourOneNiner False True
+FourOneNiner True True
 free45de False False
 Frozation False False
 frueherschueler False False
@@ -145,7 +145,7 @@ gunleader False False
 HanginAroundDowntown False False
 HellenaFox False False
 HeruPrime False False
-heyoh1 False True
+heyoh1 True True
 hotegg False False
 humble777 False True
 HypeSloth True False 2016.01.10
@@ -229,7 +229,7 @@ MonkeyDSunny True False 2016.01.28
 MooseMilk3 False False 2016.01.09
 mrLittleboy False False 2016.01.04
 mrnoone56 False False 2016.01.08
-MrTMNTR True True
+MrTMNTR True False 2016.08.11
 Mudhoney7 False False
 MushishiMaster True False 2016.04.05
 mxman False False
@@ -321,7 +321,7 @@ Smaxfitness True False 2016.01.24
 smokenfire7676 True False 2016.01.13
 snowbow False False 2016.02.19
 Soiltaker False False
-solongsomewhere False True
+solongsomewhere True True
 somanysquirrels False False
 somebody3895 False False
 spycow77 False False
