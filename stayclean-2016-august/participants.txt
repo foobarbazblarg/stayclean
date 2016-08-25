@@ -26,7 +26,7 @@ Anonymous884422 False False
 Anthony8455 True False 2016.08.09
 ApudDeum True False 2016.08.02
 archangel664 False False
-asianmutant False True
+asianmutant True True
 assisithere False False
 ATN5 True False 2016.08.09
 ayDonovan True True
@@ -40,7 +40,7 @@ BestRamadanYet False True
 bettereverysecond True True
 BettermentMan True True 2016.08.14
 bihari_baller False False
-BinarySequence False True
+BinarySequence True True
 blinkums False False
 blob_face False False
 Bloooodflooood False True
@@ -52,7 +52,7 @@ buffalooverflow False False
 Burner_42 False False
 c-lati False False
 CardinalGuitar False False
-carlslim False True
+carlslim True True
 Caspar-_- True False 2016.08.07
 cgakdr True True
 Chief32 False True
@@ -85,14 +85,14 @@ DefectiveStomach False False
 DMel_189 False False
 DMUKurtVonnegut False False
 dny777 True True
-doingMyBest84 False True
+doingMyBest84 False False 2016.08.23
 Donald_Fuck False False 2016.08.03
 Downrev True True
 DrTurnos False False 2016.08.11
 duckmesideways True True
 dunedain441 False False
 Egkrateia False False
-Eipa False True
+Eipa False False 2016.08.24
 Eitsky True False 2016.08.08
 Eladnippihcttocs False False
 elbastardo1 False True
@@ -104,14 +104,14 @@ Elytrin True True
 Etienne91 False True
 ExpectoAventus False True
 FakeFakeAlias False False
-fapemergency False True
+fapemergency True True
 fatherbrotherson1 False True
-ffffrrr False True
+ffffrrr True True
 Firecrafter209 False True
 FlamboyantlyStraight True False 2016.08.14
 flem809 False False
 FloridaNSUplz False False
-foobarbazblarg False True
+foobarbazblarg True True
 football_sucks False True
 ForAllah24 False False
 fortytude False True
@@ -181,8 +181,8 @@ ledkneeking False True
 leotrope False False
 lifegoeson40 False True
 lilwesman False True
-Limo_in_my_Hand False True
-lindyhopdreams False True
+Limo_in_my_Hand True True
+lindyhopdreams True True
 LinguineNoodle False False 2016.08.07
 lionheart_richard False False
 LoadingBeastMode False False
@@ -190,7 +190,7 @@ lock_that_door True False 2016.08.03
 Loges2798 False True
 lonewolfsteez True False 2016.08.03
 LordofRice False False
-lukas2020 False True
+lukas2020 False False 2016.08.22
 M-Jeyy True False 2016.08.15
 macked-out False False 2016.08.15
 MakeYourself_ False False
@@ -198,9 +198,9 @@ Makingchange12 False False 2016.08.09
 MasterOfHimself True False 2016.08.08
 Mefg2 False False
 meinmyfreetime False False
-MightyAlexander False True
+MightyAlexander True True
 MissAmericana False True
-mogerroor True True
+mogerroor True False 2016.08.21
 MonkeyDSunny True False 2016.08.10
 moving_forward786 False False
 MrFappuccino False False
@@ -233,13 +233,13 @@ orgonat False False
 orifimsupposedtobe False True
 pangan33 True False 2016.08.06
 Pantim False False
-pardaemma False True
-Partyboattactics False True
+pardaemma True True
+Partyboattactics False False 2016.08.22
 pbuck26 False True
 peter11692 False True
 pfreenow False False
 picardhasyourback False False
-pie_oh_my_ False False
+pie_oh_my_ True True
 Please_Her False True
 porks99 True False 2016.08.06
 pornfreedrj87 False False
@@ -252,7 +252,7 @@ raficki18 False False
 Rasmus16 True False 2016.08.04
 rebootreboot False False
 reddit_noob23 False False
-Relax_91 False True
+Relax_91 True True
 restcup False False
 Riggzz False False
 ripkirby False True
@@ -281,10 +281,10 @@ SkiddlyBum False False
 SkylordMCI False True
 Slabdweller False False 2016.08.10
 slashisjesus False False
-Slockerfc False True
+Slockerfc True True
 slushez False True
 Slyrix False False 2016.08.07
-smokenfire7676 True True
+smokenfire7676 True False 2016.08.19
 Somtijds False False 2016.08.12
 SosukeAizen2 False False
 specificoceans False False
@@ -298,18 +298,18 @@ Successful14 True False 2016.08.14
 sunilgc True False 2016.08.03
 sunshine_rec0rder True True
 superjumbojames False False
-Superluminerd False True
+Superluminerd True True
 Swamp_Thing92 False False
-sx_appeal False True
+sx_appeal True True
 sXe4Life False False 2016.08.04
 TadyZ False False
 Take_the_stars False False 2016.08.17
-TakeTwo53 False True
+TakeTwo53 True True
 Talliesttall False False
 TDKshorty False False
 Tesla4sure False False
 theabeman False False
-TheFridayKnight False True
+TheFridayKnight True True
 TheOneToRuleEmAll False True
 ThePillowEffect False False
 theseanwilson True False 2016.08.11
@@ -320,29 +320,29 @@ Thisoneismyfavourite False False
 thuck False True
 tia2016 True True
 tingaralatingadun False False
-tlantan False True
+tlantan True True
 TodayWillBeDifferent False True
-Tom_86 False True
+Tom_86 True True
 tomorroday False False
 TouchOfClass8 False False
 Tough_Gaius False False
 tr764 False False 2016.08.09
-Tripleaidid False True
+Tripleaidid False False 2016.08.21
 TrumpStumpsTheChumps False False
-trybeinguseful False True
+trybeinguseful True True
 turt-burglar False False
-typingmythoughts False True
+typingmythoughts False False 2016.08.22
 Ufgood False False
 UghFu False False
 UneNouvelleVie False False 2016.08.09
 usmellwutdarockcooks True False 2016.08.13
-uzermeme False True
+uzermeme True True
 Verdummnis True True
 virtuous_aspirations False False
 wangwung False True
 wanna_be_free_from_p False True
 War3591 False False
-WaywardCatholic False True
+WaywardCatholic True True
 WenisInVietnam False True
 wesyborg True False 2016.08.09
 What_The_Fuck__Brain False False 2016.08.01
