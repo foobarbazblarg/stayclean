@@ -48,7 +48,7 @@ Bluetip1 False False
 breakaway_p True False 2016.08.05
 Brivolbn7q False True
 Broodje_met_beleg False True
-buffalooverflow False False
+buffalooverflow True True
 Burner_42 False False
 c-lati False False
 CardinalGuitar False False
@@ -65,7 +65,7 @@ ConqueringTheSelf False True
 counter_intuition False True
 crazperm True True
 CuntFaggotNiggerJew False False
-CurvingDive False True
+CurvingDive True True
 d1smayed True False 2016.08.07
 D4eV False False
 DaComphutar_01 False False
@@ -89,7 +89,7 @@ doingMyBest84 False False 2016.08.23
 Donald_Fuck False False 2016.08.03
 Downrev True True
 DrTurnos False False 2016.08.11
-duckmesideways True True
+duckmesideways True False 2016.08.31
 dunedain441 False False
 Egkrateia False False
 Eipa False False 2016.08.24
@@ -130,7 +130,7 @@ goopyman01 False False
 gorilla1001 False True
 gutblau False True
 gwizmcpyro False True
-gwkuser False True
+gwkuser False False 2016.08.30
 habado47 True False 2016.08.07
 Halbow False False
 Handless20 False False
@@ -177,9 +177,9 @@ Ky-lay False False 2016.08.05
 laniidae False False
 Lankei True False 2016.08.04
 laskalaska False False
-ledkneeking False True
+ledkneeking True True
 leotrope False False
-lifegoeson40 False True
+lifegoeson40 False False 2016.08.31
 lilwesman False True
 Limo_in_my_Hand True True
 lindyhopdreams True True
@@ -199,7 +199,7 @@ MasterOfHimself True False 2016.08.08
 Mefg2 False False
 meinmyfreetime False False
 MightyAlexander True True
-MissAmericana False True
+MissAmericana True True
 mogerroor True False 2016.08.21
 MonkeyDSunny True False 2016.08.10
 moving_forward786 False False
@@ -314,7 +314,7 @@ TheOneToRuleEmAll False True
 ThePillowEffect False False
 theseanwilson True False 2016.08.11
 This_CharmingMan False False
-Thisisitnow123 False True
+Thisisitnow123 False False 2016.08.25
 thisistherealrobdeal True False 2016.08.15
 Thisoneismyfavourite False False
 thuck False True
@@ -329,7 +329,7 @@ Tough_Gaius False False
 tr764 False False 2016.08.09
 Tripleaidid False False 2016.08.21
 TrumpStumpsTheChumps False False
-trybeinguseful True True
+trybeinguseful True False 2016.08.25
 turt-burglar False False
 typingmythoughts False False 2016.08.22
 Ufgood False False
@@ -337,7 +337,7 @@ UghFu False False
 UneNouvelleVie False False 2016.08.09
 usmellwutdarockcooks True False 2016.08.13
 uzermeme True True
-Verdummnis True True
+Verdummnis True False 2016.08.29
 virtuous_aspirations False False
 wangwung False True
 wanna_be_free_from_p False True
@@ -347,7 +347,7 @@ WenisInVietnam False True
 wesyborg True False 2016.08.09
 What_The_Fuck__Brain False False 2016.08.01
 WinterHerb False False
-Wish6 True True
+Wish6 True False 2016.08.30
 woahacow True True
 WonderBoy92 False False
 woopherd True True
