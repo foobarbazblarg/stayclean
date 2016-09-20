@@ -24,9 +24,9 @@ alexianchen True False 2016.02.19
 amadeo19 True True
 Ambition_HQ False False
 Aminhas1996 False False
-andstufflikethat False True
+andstufflikethat True True
 ArseBadgerer True False 2016.01.25
-Arzackk False True
+Arzackk True True
 ashkashbagash False False
 asianmutant True True
 atka False False
@@ -122,8 +122,8 @@ Fenix12345 False False
 Finalstraw14 False False
 findfour False False
 Flam3- False False
-foobarbazblarg False True
-ForesterNL False True
+foobarbazblarg True True
+ForesterNL True True
 forsience False False
 FourOneNiner True True
 free45de False False
@@ -145,7 +145,7 @@ gunleader False False
 HanginAroundDowntown False False
 HellenaFox False False
 HeruPrime False False
-heyoh1 False True
+heyoh1 True True
 hotegg False False
 humble777 False False
 HypeSloth True False 2016.01.10
@@ -265,7 +265,7 @@ onfleek100 False False
 oobnate True False 2016.01.18
 Otikron False False
 PadTyrone False False
-Pastel_Pirate False True
+Pastel_Pirate True True
 patchbag False False
 patron_stMax False False
 PFNFaway22 False False
@@ -321,7 +321,7 @@ Smaxfitness True False 2016.01.24
 smokenfire7676 True False 2016.01.13
 snowbow False False 2016.02.19
 Soiltaker False False
-solongsomewhere False True
+solongsomewhere True True
 somanysquirrels False False
 somebody3895 False False
 spycow77 False False
@@ -357,10 +357,10 @@ thunderdeacon False False
 Tigurknee False False
 tim_dma False False
 timeforthechallenge False False
-tlantan False True
+tlantan True True
 TMurray189 False False
 TortillaHero False False
-tossedoffer False True
+tossedoffer True True
 Trappedinacorpse False False
 Treetrunk27 False False
 Triphouse False False
