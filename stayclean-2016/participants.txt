@@ -26,7 +26,7 @@ Ambition_HQ False False
 Aminhas1996 False False
 andstufflikethat True True
 ArseBadgerer True False 2016.01.25
-Arzackk False True
+Arzackk True True
 ashkashbagash False False
 asianmutant False True
 atka False False
@@ -147,7 +147,7 @@ HellenaFox False False
 HeruPrime False False
 heyoh1 True True
 hotegg False False
-humble777 True True
+humble777 True False 2016.11.21
 HypeSloth True False 2016.01.10
 I_Fucking_Hate_Porn False False
 icecremecatsandwich False False
