@@ -4,7 +4,7 @@ import re
 import pyperclip
 
 # Edit me!
-nextYearURL = ""
+nextYearURL = "https://www.reddit.com/r/pornfree/comments/5leg0q/stay_clean_2017_yearlong_challenge_this_thread/"
 
 year = 2016
 
