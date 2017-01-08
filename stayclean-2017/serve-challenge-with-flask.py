@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 import subprocess
+import datetime
 import praw
 import pyperclip
 from hashlib import sha1
@@ -85,6 +86,9 @@ def retiredCommentHashes():
 def moderatechallenge():
     global commentHashesAndComments
     global submission
+    currentDayOfMonthIndex = datetime.date.today().day
+    currentMonthIndex = datetime.date.today().month
+    lateCheckinGracePeriodIsInEffect = currentDayOfMonthIndex <= 14 and currentMonthIndex == 1
     commentHashesAndComments = {}
     stringio = StringIO()
     stringio.write('<html>\n<head>\n</head>\n\n')
@@ -138,10 +142,17 @@ def moderatechallenge():
             else:
                 stringio.write(' <small><font color="red">(not a member)</font></small>')
             stringio.write('<form action="takeaction.html" method="post" target="invisibleiframe">')
-            # stringio.write('<input type="submit" name="actiontotake" value="Checkin">')
-            stringio.write('<input type="submit" name="actiontotake" value="Checkin" style="color:white;background-color:green">')
-            stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin">')
-            # stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin" style="color:white;background-color:green">')
+
+            # stringio.write('<input type="submit" name="actiontotake" value="Checkin" style="color:white;background-color:green">')
+            # stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin">')
+
+            if lateCheckinGracePeriodIsInEffect:
+                stringio.write('<input type="submit" name="actiontotake" value="Checkin">')
+                stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin" style="color:white;background-color:green">')
+            else:
+                stringio.write('<input type="submit" name="actiontotake" value="Checkin" style="color:white;background-color:green">')
+                stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin">')
+
             stringio.write('<input type="submit" name="actiontotake" value="Relapse" style="color:white;background-color:red">')
             stringio.write('<input type="submit" name="actiontotake" value="Reinstate with automatic comment">')
             stringio.write('<input type="submit" name="actiontotake" value="Reply with sorry-too-late comment">')
