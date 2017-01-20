@@ -1,5 +1,5 @@
 -awaken- True True
--Down True True
+-Down True False 2017.01.16
 -FantasyAddict- False True
 -MMXVII- True True
 -Rock- True False 2017.01.06
@@ -21,7 +21,7 @@ Abraal01 False True
 Act_Like_It False True
 addictive_mind True True
 Addprofile True True
-admiraldjibouti False True
+admiraldjibouti True True
 ajsg14 False True
 Al-Fayed False True
 Albahacus True True
@@ -48,9 +48,9 @@ awesumit False True
 Axyl1987 True True
 Azizsz True True
 bailey2100 True True
-BassOnirism True True
+BassOnirism True False 2017.01.16
 Batman5991 True True
-batmike88 False True
+batmike88 True True
 bberlinn False True
 ben__ned False True
 better_ani True True
@@ -134,9 +134,9 @@ farcetasticunclepig True True
 farfromeverything True True
 farg0th True True
 ffffrrr True True
-fictionalreality08 True True
+fictionalreality08 True False 2017.01.18
 fightmesoftly True False 2017.01.06
-Fluke90 False True
+Fluke90 False False 2017.01.19
 foobarbazblarg True True
 foragee True True
 ForesterNL False True
@@ -225,7 +225,7 @@ jeremygl09 False True
 JohnCreed03 True True
 johnnyandthethrowawa False False 2017.01.11
 jonahb11 False True
-joshtu False True
+joshtu True True
 jrdanXX True True
 jspliff1 True True
 jwjnm True True
@@ -241,7 +241,7 @@ Kobell False True
 konyakubatake False True
 KugupugukU False True
 Kyle51 False True
-lackofpornin2017 False True
+lackofpornin2017 True True
 LadiesManPodrick False True
 Lamp_in_dark True True
 launchpad45 True True
@@ -255,7 +255,7 @@ lister93 True True
 LittleSoviet14 True True
 Liviul True True
 llRusty True False 2017.01.11
-Lopokato124 True True
+Lopokato124 True False 2017.01.18
 lordfear1 True False 2017.01.16
 LoudSue2 False True
 louis__theo False True
@@ -332,10 +332,10 @@ password16 True True
 pavilionaire False True
 paxeno False True
 Perochiar True True
-pezathan False True
+pezathan True True
 piratespongehat2 True True
 pizzafapper True True
-Plantonz True True
+Plantonz True False 2017.01.18
 PoorGooner False True
 popeful True True
 PornFreeGordon False True
@@ -352,7 +352,7 @@ Quiktypr False True
 quinne888 True True
 QuitPornGetLaid True True
 rammy32 True False 2017.01.12
-Raratus False True
+Raratus True True
 RecoveryNeeded False True
 Red_Hypergiant True True
 redseizmic True True
@@ -362,7 +362,7 @@ repdaking17 True False 2017.01.13
 Reptilector True True
 Reyaweks False True
 Riggzz True True
-righttogetright False True
+righttogetright True True
 Rmaob False True
 Rocket_Knight False True
 rollypolls False True
@@ -377,7 +377,7 @@ Seattle0007 True False 2017.01.07
 sebastian_nofap False True
 selfim True True
 Seren_Dipia True True
-sgd124 True True
+sgd124 True False 2017.01.17
 Shiftcabift True True
 shortless True True
 shouldnotfap25 True True
