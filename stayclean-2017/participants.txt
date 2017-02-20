@@ -12,7 +12,7 @@
 50-cal False False
 5ss5 False True
 90DaysHardmode False True
-__murph__ False True
+__murph__ True True
 __TATO True False 2017.01.31
 _Creepter_ True True
 _Zurkive_ False True
@@ -24,7 +24,7 @@ Addprofile False True
 admiraldjibouti True True
 ajsg14 False False
 Al-Fayed False False
-Albahacus False True
+Albahacus True True
 alchemist_33 True False 2017.01.29
 allAboutMentality False False
 AlphaSky False True
@@ -32,9 +32,9 @@ alromaru False True
 Andrejcc False True
 andymann0612 False True
 AnkitIndia True False 2017.01.22
-anonarwhal False True
+anonarwhal True True
 Anonymous884422 True True
-Anthonidas False True
+Anthonidas False False 2017.02.14
 ArcanusHominem True False 2017.01.06
 arcticJill False True
 asianmutant False True
@@ -50,7 +50,7 @@ Azizsz False True
 bailey2100 False True
 BassOnirism True False 2017.01.16
 Batman5991 True True
-batmike88 False True
+batmike88 True True
 bberlinn False False
 ben__ned False False
 better_ani False True
@@ -58,7 +58,7 @@ Betterthanuatlife False True
 bigj4708 False True
 bkedelen False False
 blargynargy True True
-Blaze6181 False True
+Blaze6181 True True
 Blazemaster505 False False
 blue_cinos True True
 bmking False False
@@ -87,7 +87,7 @@ Cleanaftr2016 True False 2017.01.12
 cmoneymcmahon False True
 coldvein False False 2017.01.07
 Compass87 False True
-conanthelib5050 False True
+conanthelib5050 True True
 ConqueringTheSelf True True
 CosmicDart False True
 Crewlove33 False False
@@ -96,7 +96,7 @@ d_meinhale99 False True
 da_monk_pimp False True
 Dadoadd True False 2017.01.27
 DanceRedditDance False False
-Dandylol False True
+Dandylol True True
 daniel_italy False False
 danmilligan False True
 DanMusicMan False False 2017.01.07
@@ -117,45 +117,45 @@ dontdoitbroski False True
 DONTFAPITSATRAP True False 2017.01.04
 dorsalrootganglion1 False True
 drlusso False True
-duckmesideways False True
+duckmesideways False False 2017.02.14
 Duval1333 False False 2017.02.01
 easyaddicted False False
 Edizok True True
 Edward-Ward False True
 Egkrateia True True
-Eipa False True
+Eipa True True
 eire77 True False 2017.01.23
 ElPujaguante False False
-engus9119 False True
+engus9119 True True
 error_message_401 False True
 fapfreedomfighter False False 2017.01.12
 fapperreppaf False True
 faprmstrong True False 2017.01.09
 Fapulous42 True True
 farcetasticunclepig False True
-farfromeverything False True
+farfromeverything False False 2017.02.15
 farg0th False False 2017.02.01
 ffffrrr False True
 fictionalreality08 True False 2017.01.18
 fightmesoftly True False 2017.01.06
 Fluke90 False False 2017.01.19
-foobarbazblarg False True
+foobarbazblarg True True
 foragee False True
-ForesterNL False True
+ForesterNL True True
 FourOneNiner True True
 fr_hairycake_lynam False True
 Fragalicious False True
 FrankelTrout False True
 Free-B False True
 FreeBeing123 False True
-freedom991 False True
+freedom991 True True
 Freedometc True False 2017.01.22
 Freethougt True True
 frueherschueler True True
 FRUIT_FETISH False True
 fullpower False True
 Futekiforever False False 2017.02.04
-fysmat False True
+fysmat False False 2017.02.15
 gangstercomputer False False 2017.01.14
 gar1160 False False 2017.01.01
 GaryKnife True True
@@ -220,13 +220,13 @@ Jam-Dont-Shake False False
 jappleseed12 False False
 jasonrasta False False 2017.01.08
 jd158ug True True
-JediN1nja False True
+JediN1nja True True
 JeffersonSales False False
 Jennilover True True
 jeremygl09 False False
 JohnCreed03 True True
 johnnyandthethrowawa False False 2017.01.11
-jonahb11 False True
+jonahb11 True True
 joshtu False True
 jrdanXX False True
 jspliff1 False True
@@ -240,14 +240,14 @@ klaafas False False
 Knowphap8 True True
 Koalasonfire False False
 Kobell False False
-konyakubatake False True
+konyakubatake False False 2017.02.10
 KugupugukU False False
 Kyle51 False False
-lackofpornin2017 False True
+lackofpornin2017 True True
 LadiesManPodrick False False
 Lamp_in_dark True True
 launchpad45 False True
-laxika False True
+laxika True True
 LeaveLuckToHeaven316 False True
 lel_012 False True
 leotrope True True
@@ -255,7 +255,7 @@ LetsPoooop False True
 like_its_nothing_yo False True
 lister93 False True
 LittleSoviet14 False True
-Liviul False True
+Liviul True True
 llRusty True False 2017.01.11
 Lopokato124 True False 2017.01.18
 lordfear1 True False 2017.01.16
@@ -268,7 +268,7 @@ m_aurelius86 False True
 mafiosogiacomo False False
 Magl False True
 marangco False False
-marcgarneau84 False True
+marcgarneau84 True True
 mardukc False True
 MarioVaughn False False
 massiveyacht True True
@@ -294,7 +294,7 @@ myCQI True False 2017.01.31
 MyPornFree2k17 True False 2017.01.15
 naesc_ False False
 nampal False True
-napkinom False True
+napkinom False False 2017.02.15
 natborchers False False
 nathanforestlee False False
 NCC1701G True True
@@ -308,7 +308,7 @@ newlife_87 False False 2017.01.14
 Newman658 True False 2017.01.06
 nickoo321 False False
 Njmja True False 2017.01.24
-No2P0rn False True
+No2P0rn True True
 nobrayn True False 2017.01.22
 NoDisappointment False True
 Nofap_TH1356 False False
@@ -316,7 +316,7 @@ NoFapAgain False False
 nofapffm True False 2017.02.04
 Nofapin2017 False True
 nomasporn True False 2017.01.28
-non_newtonian_jelly True True
+non_newtonian_jelly True False 2017.02.12
 Noodls False False
 NoPforeverNoMore False True
 nox_tv False True
@@ -324,7 +324,7 @@ nwhaught False False
 OK_01 True False 2017.01.14
 OneSixTwoer True False 2017.01.04
 open_then_close False True
-opiumani False True
+opiumani False False 2017.02.10
 Orange-King False True
 OrangeBiskit False True
 ovulator False False
@@ -336,13 +336,13 @@ paxeno False False
 Perochiar False True
 pezathan True True
 piratespongehat2 False True
-pizzafapper False True
+pizzafapper True False 2017.02.20
 Plantonz True False 2017.01.18
 PoorGooner False False
 popeful False True
 PornFreeGordon False False
 pornojunky False False
-PoroSerialKiller False True
+PoroSerialKiller True True
 post-fapper True True
 power999power False False
 PowerOuttage False True
@@ -356,7 +356,7 @@ QuitPornGetLaid False True
 rammy32 True False 2017.01.12
 Raratus False True
 RecoveryNeeded False False
-Red_Hypergiant False True
+Red_Hypergiant False False 2017.02.10
 redseizmic True True
 redsupapingu False False
 RemoveAndImprove False True
@@ -390,7 +390,7 @@ SilverWarrior9 False False
 sim31_ False False
 sinfulregret False False 2017.01.05
 Skee013 False True
-skinnahbox False True
+skinnahbox True True
 Slabdweller False False 2017.01.10
 slic_ric False True
 slightlyangrydodo True True
@@ -403,13 +403,13 @@ Somtijds False False
 Sparkyy17 False True
 spin116 False False 2017.01.03
 Spiritual_Scientist True True
-SpiritualSobriety False True
+SpiritualSobriety True True
 Splinter714 False True
 sportstime23 False False
 Spritastike False False
 spymole True True
 Squad_Juice False True
-Starhunter80 False True
+Starhunter80 True True
 Starship_Ogre False True
 startingover1234 False True
 Statictics False False
@@ -430,14 +430,14 @@ Tempus4 False True
 terneergeslagen False False 2017.01.27
 Th3V0ic3 False False
 ThatBowtie False True
-thatdavidwooderson True True
+thatdavidwooderson True False 2017.02.14
 thatfatdood False False
 ThatM3kid False False
 the_cool_ones_argon True True
 the_jonski False False
 the_meek_one False True
 TheDudeFactor False True
-TheFridayKnight False True
+TheFridayKnight True True
 thegreatestjourney True True
 TheJourney17 True False 2017.01.08
 Theman57 False True
@@ -445,7 +445,7 @@ themeinneedofhelp False True
 TheMindfulWarrior False False
 thenerj False True
 ThePillowEffect False False
-thescreampainting False True
+thescreampainting False False 2017.02.14
 thisguyhasanopinion False True
 Thisisitnow123 False False
 Thrawaaye False False
@@ -473,22 +473,22 @@ uncleogwambi False True
 unheard_unseen False False
 Unknown419 False False
 ValhallaShores False True
-Verbism False True
+Verbism True True
 verticaluzi False True
 Vindeeta False False 2017.01.03
-vinnievanhalen False True
+vinnievanhalen True True
 w10644793 False True
 WaaayToGo False True
 wandpolisher False False
 wanna_be_free_from_p False True
-WarriorShit True True
+WarriorShit True False 2017.02.19
 weibullguy False True
 WhamWom False True
 whatchagondofgt True False 2017.01.27
 wheresmydopamine False False
 whiggs77 False False
 WinterHerb False False
-Wish6 True True
+Wish6 True False 2017.02.13
 woahacow True True
 wobuxihuanbaichi False False
 wooden_stone False False
@@ -506,7 +506,7 @@ yelbesed False False
 YellowTango False False
 yohomeboi False False
 Yoshibro False True
-You-Betcha False True
+You-Betcha False False 2017.02.10
 yumyumhello False False
 yungpilot False False
 Zanzungu False True
