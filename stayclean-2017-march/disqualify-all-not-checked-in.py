@@ -1,9 +1,11 @@
-#!/usr/bin/env python
+#!/usr/bin/python
 from participantCollection import ParticipantCollection
 
 
 participants = ParticipantCollection()
 for participant in participants.participantsWhoAreStillIn():
-    participant.hasCheckedIn = False
+    if not participant.hasCheckedIn:
+        print "disqualifying " + participant.name
+        participant.isStillIn = False
 participants.save()
 
