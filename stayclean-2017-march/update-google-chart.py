@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# TODO: issues with new oauth2 stuff.  Keep using older version of Python for now.
+# #!/usr/bin/env python
 import json
 import gspread
 from oauth2client.client import SignedJwtAssertionCredentials

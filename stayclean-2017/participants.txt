@@ -14,14 +14,14 @@
 90DaysHardmode False False
 __murph__ False True
 __TATO True False 2017.01.31
-_Creepter_ False True
+_Creepter_ True True
 _Zurkive_ False False
 a_9977 False False
 Abraal01 False False
 Act_Like_It False False
 addictive_mind False False
 Addprofile False False
-admiraldjibouti False True
+admiraldjibouti True True
 ajsg14 False False
 Al-Fayed False False
 Albahacus True True
@@ -50,7 +50,7 @@ Azizsz False False
 bailey2100 False False
 BassOnirism True False 2017.01.16
 Batman5991 True True
-batmike88 False True
+batmike88 True True
 bberlinn False False
 ben__ned False False
 better_ani False False
@@ -107,7 +107,7 @@ db15234 False False
 DeadlyRaccoon False False
 deadnotsleeping99 False False
 Deathhoof812 False False 2017.01.10
-DeathlessPath True True
+DeathlessPath True False 2017.03.12
 deathslayer-pcmr- False False
 dibenzoylperoxide False False
 Dirnsak False False
@@ -120,10 +120,10 @@ drlusso False False
 duckmesideways False False 2017.02.14
 Duval1333 False False 2017.02.01
 easyaddicted False False
-Edizok False True
+Edizok False False 2017.03.13
 Edward-Ward False False
 Egkrateia False True
-Eipa False True
+Eipa True True
 eire77 True False 2017.01.23
 ElPujaguante False False
 engus9119 False True
@@ -176,7 +176,7 @@ Gonnarehab False False
 gorilla1002 False False
 Goutough False False
 green_tree_field False False
-Grimfelion False True
+Grimfelion True True
 gujjarbhai False False
 Haddaway False False
 handsoffbro False True
@@ -297,7 +297,7 @@ nampal False False
 napkinom False False 2017.02.15
 natborchers False False
 nathanforestlee False False
-NCC1701G False True
+NCC1701G True True
 needhelpayudame False False 2017.01.01
 NeoTheEagle False False
 never_set_a_limit False False
@@ -354,7 +354,7 @@ Quiktypr False False
 quinne888 True True
 QuitPornGetLaid False False
 rammy32 True False 2017.01.12
-Raratus False True
+Raratus False False 2017.03.10
 RecoveryNeeded False False
 Red_Hypergiant False False 2017.02.10
 redseizmic True True
@@ -390,7 +390,7 @@ SilverWarrior9 False False
 sim31_ False False
 sinfulregret False False 2017.01.05
 Skee013 False False
-skinnahbox False True
+skinnahbox True True
 Slabdweller False False 2017.01.10
 slic_ric False True
 slightlyangrydodo False True
@@ -458,13 +458,13 @@ tlantan False True
 tmkuk False False
 Tobi4U True False 2017.01.04
 tofapornottofap4 True True
-tossedoffer False True
+tossedoffer True True
 tr764 True False 2017.01.03
-transparent-life True True
+transparent-life True False 2017.03.13
 True_Silver False False
 Tsondre True True
 tugamedio True True
-twirlyduck True True
+twirlyduck True False 2017.03.08
 TywinnLannist3r False False
 Ufgood True False 2017.01.06
 umadethisforareason False False
@@ -476,7 +476,7 @@ ValhallaShores False False
 Verbism False True
 verticaluzi False False
 Vindeeta False False 2017.01.03
-vinnievanhalen False True
+vinnievanhalen True True
 w10644793 False False
 WaaayToGo False False
 wandpolisher False False

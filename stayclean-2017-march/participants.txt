@@ -7,7 +7,7 @@
 3wheelmotion True True
 48blanket False True
 4of4 True True
-515k4 True True
+515k4 True False 2017.03.08
 666jio666 False True
 __TATO False True
 _beastmode13_ True True
@@ -45,7 +45,7 @@ BearfootJack False True
 bedropoha False True
 Billiamj12 True True
 Blazemaster505 False True
-BloodyRayne True True
+BloodyRayne True False 2017.03.09
 blue_cinos True True
 Boruroko False True
 brandon_ball_z True True
@@ -54,11 +54,11 @@ brozaaa False True
 caliboyeightyeight True True
 cancer_giver False False 2017.03.03
 CarexCS True True
-Caspar-_- True True
+Caspar-_- True False 2017.03.12
 CastKontot False True
 chasle12 False True
 chebureKKodlet True True
-chumps321 True True
+chumps321 True False 2017.03.09
 clavabot True True
 CoA90 True True
 codedlives True True
@@ -73,7 +73,7 @@ DaQuickening True True
 DatAexile False True
 Davi1997 True True
 Deadpoolius False True
-DeathlessPath True True
+DeathlessPath True False 2017.03.12
 Dedchicken True True
 deepthoughts02 False True
 DoesUsernameCheckOut True True
@@ -125,7 +125,7 @@ ihaditundercontrol True True
 irgendwalrus True True
 italianking13 False True
 itsfontodue True True
-IWontFapForHerAndMe True True
+IWontFapForHerAndMe True False 2017.03.09
 jamesrecard False True
 JarudeSandstorm_12 False True
 jaybird74 False True
@@ -165,7 +165,7 @@ MaiKarooba True True
 make4wish False True
 maki9999 True True
 masteroftrying False True
-Meche24 True True
+Meche24 True False 2017.03.12
 medina9 False True
 Meerkatrat False False 2017.03.02
 metallika True True
@@ -203,11 +203,11 @@ NookJ False True
 OK_01 False True
 omh155 True True
 OneSixTwoer False False 2017.03.07
-ouch155 True True
+ouch155 True False 2017.03.07
 password16 True True
 pbar50 True True
 PBY8 True True
-pellucidliving True True
+pellucidliving True False 2017.03.12
 penthousedizzle False True
 petertmcqueeny False True
 pezathan True True
@@ -222,24 +222,24 @@ pornojunky False True
 pottysmith False True
 pphysicist False False 2017.03.04
 Preet2000 False True
-Primspeon True True
+Primspeon True False 2017.03.12
 pseudalu False True
 pseudo_flat False True
 Puritan_Sensibility False True
 rcoband False True
-RealMenBuild True True
-reaver355 True True
+RealMenBuild True False 2017.03.12
+reaver355 True False 2017.03.08
 Red1800 False True
 RedCheezit True False 2017.03.06
 RedDeadRevive False True
-redsss False True
+redsss False False 2017.03.12
 Rezett True True
-rightriangle False True
+rightriangle False False 2017.03.07
 rpxyz True True
 Running_Noodles True True
 RunningRupicapra True True
 sdj12345 True True
-shortless True True
+shortless True False 2017.03.13
 sig-205 True True
 sil3nt611 False True
 silentprogressive44 False True
@@ -248,14 +248,14 @@ sinfulregret True True
 skinnahbox True True
 Skwidz True True
 Slabdweller False True
-slic_ric True True
+slic_ric True False 2017.03.12
 slightlyangrydodo False True
 SlimGenius True True
 Slyrix False False 2017.03.05
 smith_machine False False 2017.03.06
 Some_random-username True True
 Somtijds False True
-SpiralingNacho False True
+SpiralingNacho False False 2017.03.13
 SpiritualSobriety False False 2017.03.02
 spymole False True
 Starhunter80 False True
@@ -265,20 +265,20 @@ StoneThought False True
 strider004 False True
 Success_Account True False 2017.03.03
 Successful14 False True
-sunny131 False True
+sunny131 False False 2017.03.10
 sweetnumb False True
 swolebraham3 True True
 TangledLeader True True
 Tensfw True True
 Tetra77 False True
-thatdavidwooderson False True
+thatdavidwooderson False False 2017.03.10
 thatfatdood True True
 The_Who_Flosses False True
 TheAdmiralGoatse False True
 thecackster True True
 TheEdmontonMan True True
 Theknightofthepron True True
-thescreampainting False True
+thescreampainting False False 2017.03.12
 TheTankArmstrong True False 2017.03.06
 thischarmingham False True
 ThorGodaThunda True True
@@ -288,15 +288,15 @@ Tobi4U True False 2017.03.04
 tofapornottofap4 True True
 Tohab51 False True
 toxic_ideology False True
-transparent-life True True
+transparent-life True False 2017.03.13
 TristanJeremiah False True
 tryingtogethrough False True
-trynnachange False True
+trynnachange False False 2017.03.07
 tugamedio True True
 TUGCSGOStriker True True
 Turns2Gold False True
 twelve12days False True
-Twitch-ing False True
+Twitch-ing False False 2017.03.09
 uncledutchman True True
 universe_atomically False True
 usmellwutdarockcooks True True
@@ -308,7 +308,7 @@ WhamWom True True
 Wish6 True True
 Woboy True True
 woopherd True True
-Wordsarescary True True
+Wordsarescary True False 2017.03.10
 wtf793 True True
 WuTang_Fan False True
 XcherokeeJ True True
@@ -316,7 +316,7 @@ XTutankhamen True True
 xX_IronicName_Xx True True
 YarnFarmer False True
 Yellow-Marquee True True
-YesReboot False True
+YesReboot False False 2017.03.08
 yungpilot True True
 Zach_Hurricane_9 False True
 zampms235 True False 2017.03.03
