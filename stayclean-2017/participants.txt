@@ -122,7 +122,7 @@ Duval1333 False False 2017.02.01
 easyaddicted False False
 Edizok False False 2017.03.13
 Edward-Ward False False
-Egkrateia False True
+Egkrateia True True
 Eipa True True
 eire77 True False 2017.01.23
 ElPujaguante False False
@@ -139,7 +139,7 @@ ffffrrr False False
 fictionalreality08 True False 2017.01.18
 fightmesoftly True False 2017.01.06
 Fluke90 False False 2017.01.19
-foobarbazblarg False True
+foobarbazblarg True True
 foragee False False
 ForesterNL False True
 FourOneNiner True True
@@ -148,7 +148,7 @@ Fragalicious False False
 FrankelTrout False False
 Free-B False False
 FreeBeing123 False False
-freedom991 False True
+freedom991 True True
 Freedometc True False 2017.01.22
 Freethougt True True
 frueherschueler True True
@@ -184,7 +184,7 @@ Hates24168 False False
 helk14 True False 2017.01.27
 hello-everyooone True True
 henrychinaski1 False False
-heyoh1 False True
+heyoh1 True True
 HippieHippo False False
 Hobbesia False True
 HoneyBadgerRed False False
@@ -437,7 +437,7 @@ the_cool_ones_argon False True
 the_jonski False False
 the_meek_one False False
 TheDudeFactor False False 2017.03.01
-TheFridayKnight False True
+TheFridayKnight True True
 thegreatestjourney True True
 TheJourney17 True False 2017.01.08
 Theman57 False True
@@ -489,7 +489,7 @@ wheresmydopamine False False
 whiggs77 False False
 WinterHerb False False
 Wish6 True False 2017.02.13
-woahacow False True
+woahacow True True
 wobuxihuanbaichi False False
 wooden_stone False False
 Woopage False False
@@ -503,7 +503,7 @@ xKiller_Koalax False False
 Xoaimango False False
 XTutankhamen True False 2017.01.15
 yelbesed False False
-YellowTango False True
+YellowTango True True
 yohomeboi False False
 Yoshibro False False
 You-Betcha False False 2017.02.10

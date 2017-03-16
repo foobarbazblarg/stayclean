@@ -118,13 +118,13 @@ hosselaar False True
 Hotpapi16 True True
 hudzo False True
 hulikal True True
-hwarzenegger True True
+hwarzenegger True False 2017.03.14
 ieatelephants True True
 iffaster1 True True
-ihaditundercontrol True True
+ihaditundercontrol True False 2017.03.14
 irgendwalrus True True
 italianking13 False True
-itsfontodue True True
+itsfontodue True False 2017.03.15
 IWontFapForHerAndMe True False 2017.03.09
 jamesrecard False True
 JarudeSandstorm_12 False True
@@ -215,7 +215,7 @@ pizzafapper True True
 Plague_pandemic True True
 pmolikujyhn True True
 poguitar True True
-porn_is_regret False True
+porn_is_regret False False 2017.03.14
 PornFreeAttempt1 True True
 pornfreefemale98 False True
 pornojunky False True
@@ -247,7 +247,7 @@ SilentSpaceMan True True
 sinfulregret True True
 skinnahbox True True
 Skwidz True True
-Slabdweller False True
+Slabdweller False False 2017.03.15
 slic_ric True False 2017.03.12
 slightlyangrydodo False True
 SlimGenius True True
