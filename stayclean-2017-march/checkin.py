@@ -2,7 +2,7 @@
 # TODO: issues with new oauth2 stuff.  Keep using older version of Python for now.
 # #!/usr/bin/env python
 
-# import sys
+import sys
 from participantCollection import ParticipantCollection
 
 
