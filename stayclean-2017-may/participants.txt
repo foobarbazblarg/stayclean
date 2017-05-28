@@ -1,4 +1,4 @@
--peace False True
+-peace True True
 19Kyle94 False True
 22rocketpowef False False
 23T25C True True
@@ -7,7 +7,7 @@
 4of4 True True
 9West9 False True
 __TATO False False
-_Saitama False True
+_Saitama True True
 _sirprincess_ False False
 _the_raven_ False False 2017.05.03
 a69ingaussie False False
@@ -20,7 +20,7 @@ aditya5v False False
 AgentEpic False False
 aharnak True False 2017.05.09
 aigamithite False False 2017.05.06
-Albahacus False True
+Albahacus True True
 alchemist_33 False False
 AllHailSeizure True True
 amadeo19 False True
@@ -49,7 +49,7 @@ bigeyed False True
 binstonwishop False False 2017.05.06
 Bloody_Rayne True False 2017.05.09
 blue_adept42 True True
-blue_cinos False True
+blue_cinos True True
 Bluelinelsuit False True
 bluelinensuit True False 2017.05.15
 BlueScream True False 2017.05.20
@@ -98,7 +98,7 @@ Edizok False True
 Egkrateia False True
 eire77 False False
 ElectroNugget False True
-ElGuapoChapo True True
+ElGuapoChapo True False 2017.05.25
 enovah False True
 Erius_Septim False False
 error_message_401 False False
@@ -112,7 +112,7 @@ fejov1 False False
 FindReality True True
 Fit-Bull90 False False
 Folbold False False
-foobarbazblarg False True
+foobarbazblarg True True
 Fr3akyM1nd False False
 Fridorius False True
 frueherschueler True True
@@ -138,7 +138,7 @@ hosselaar False True
 Hotpapi16 False False
 hpyfce False True
 i_Brake4DuARTe False False
-I_say_LOL_irl False True
+I_say_LOL_irl False False 2017.05.25
 iceblasta14 False False
 iffaster1 True True
 ihaditundercontrol True False 2017.05.05
@@ -149,7 +149,7 @@ ImDoingItGosh False False
 Indesguise True False 2017.05.06
 infinite-sadness False True
 irgendwalrus False True
-IrishMuscle False True
+IrishMuscle False False 2017.05.28
 ItsTenodera False False
 iwanttobebetter1029 False True
 jake010011 False False
@@ -310,7 +310,7 @@ Theknightofthepron True False 2017.05.11
 TheLoonyDuck False False
 TheoryStick False False
 TheReverendChilliDog False False
-thescreampainting False True
+thescreampainting True True
 tlantan True True
 tnaiaEG True True
 tofapornottofap4 True True
@@ -324,7 +324,7 @@ Tuulani False False 2017.05.03
 twodeepbreaths False False
 U83HgA64g5RqqzNb True True
 uneasywerewolf False True
-universe_atomically False True
+universe_atomically False False 2017.05.24
 Vellos9000 False False
 vibeleader False True
 viccie211 True True
@@ -335,7 +335,7 @@ Vycul False False 2017.05.17
 VynalFrontier False False
 warmastar True True
 WatFeelingsDoYouHave False False
-welltemperedjavelin False True
+welltemperedjavelin False False 2017.05.24
 Whareas False True
 wickod124 False True
 WilkiBD True False 2017.05.04
