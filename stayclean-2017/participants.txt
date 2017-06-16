@@ -33,7 +33,7 @@ Andrejcc False False
 andymann0612 False False
 AnkitIndia True False 2017.01.22
 anonarwhal True True
-Anonymous884422 False True
+Anonymous884422 False False
 Anthonidas False False 2017.02.14
 ArcanusHominem True False 2017.01.06
 arcticJill False False
@@ -45,12 +45,12 @@ avedub False False
 avidist False False
 AwakeningLion False False
 awesumit False False
-Axyl1987 False True
+Axyl1987 False False
 Azizsz False False
 bailey2100 False False
 BassOnirism True False 2017.01.16
 Batman5991 True True
-batmike88 False True
+batmike88 False False
 bberlinn False False
 ben__ned False False
 better_ani False False
@@ -58,7 +58,7 @@ Betterthanuatlife False False
 bigj4708 False False
 bkedelen False False
 blargynargy True False 2017.02.25
-Blaze6181 True True
+Blaze6181 False True
 Blazemaster505 False False
 blue_cinos True True
 bmking False False
@@ -69,7 +69,7 @@ brandon_ball_z False False 2017.04.02
 breakingfree81 True False 2017.01.16
 Brightfuturee True False 2017.01.06
 Brophylactic37 False False
-BuffaloBlizzard72 False True
+BuffaloBlizzard72 False False
 Bwyon False False
 Cackling_Eagle False False
 Califo3 True False 2017.01.13
@@ -87,8 +87,8 @@ Cleanaftr2016 True False 2017.01.12
 cmoneymcmahon False False
 coldvein False False 2017.01.07
 Compass87 False False
-conanthelib5050 False True
-ConqueringTheSelf False True
+conanthelib5050 False False
+ConqueringTheSelf False False
 CosmicDart False False
 Crewlove33 False False
 CrunchySteve False False
@@ -126,7 +126,7 @@ Egkrateia False False
 Eipa True True
 eire77 True False 2017.01.23
 ElPujaguante False False
-engus9119 False True
+engus9119 True True
 error_message_401 False False
 fapfreedomfighter False False 2017.01.12
 fapperreppaf False False
@@ -141,7 +141,7 @@ fightmesoftly True False 2017.01.06
 Fluke90 False False 2017.01.19
 foobarbazblarg True True
 foragee False False
-ForesterNL True True
+ForesterNL False True
 FourOneNiner True True
 fr_hairycake_lynam False False
 Fragalicious False False
@@ -170,7 +170,7 @@ GiveYourBest False False
 Glamourhammer False False
 GlazingFlakes False False
 Glocjt True False 2017.05.08
-GOBEYONDPLUSULTRA False True
+GOBEYONDPLUSULTRA False False
 GoldJacketLuke True False 2017.01.10
 Gonnarehab False False
 gorilla1002 False False
@@ -182,15 +182,15 @@ Haddaway False False
 handsoffbro False False
 Hates24168 False False
 helk14 True False 2017.01.27
-hello-everyooone True True
+hello-everyooone False True
 henrychinaski1 False False
-heyoh1 True True
+heyoh1 False True
 HippieHippo False False
 Hobbesia False False
 HoneyBadgerRed False False
 HoodieAllen2 False False
 hopsteiner420 False False
-hornyboolet False True
+hornyboolet False False
 hosselaar False True
 hullap False False
 humble777 False False
@@ -210,9 +210,9 @@ imverycoolok False False
 In6Praesenti False False 2017.01.06
 InsecureGuy11 False False
 inSepp False False
-irgendwalrus True True
+irgendwalrus False True
 iTAMEi True False 2017.01.10
-iwanttobebetter1029 True True
+iwanttobebetter1029 True False 2017.05.30
 IWontFapForHerAndMe True False 2017.01.08
 jabber011215 False False
 jaedawg False False
@@ -245,7 +245,7 @@ KugupugukU False False
 Kyle51 False False
 lackofpornin2017 False False
 LadiesManPodrick False False
-Lamp_in_dark True True
+Lamp_in_dark True False 2017.06.14
 launchpad45 False False
 laxika False False
 LeaveLuckToHeaven316 False False
@@ -330,7 +330,7 @@ OrangeBiskit False False
 ovulator False False
 pag_el False False
 panda57 False False
-password16 False True
+password16 False False
 pavilionaire False False
 paxeno False False
 Perochiar False False
@@ -363,7 +363,7 @@ RemoveAndImprove False False
 repdaking17 True False 2017.01.13
 Reptilector False False
 Reyaweks False False
-Riggzz False True
+Riggzz True True
 righttogetright False False
 Rmaob False False
 Rocket_Knight False False
@@ -402,7 +402,7 @@ somethingnew__ False False
 Somtijds False False
 Sparkyy17 False False
 spin116 False False 2017.01.03
-Spiritual_Scientist False True
+Spiritual_Scientist False False
 SpiritualSobriety False False
 Splinter714 False False
 sportstime23 False False
@@ -438,7 +438,7 @@ the_jonski False False
 the_meek_one False False
 TheDudeFactor False False 2017.03.01
 TheFridayKnight True False 2017.03.19
-thegreatestjourney False True
+thegreatestjourney False False
 TheJourney17 True False 2017.01.08
 Theman57 False False
 themeinneedofhelp False False 2017.03.24
