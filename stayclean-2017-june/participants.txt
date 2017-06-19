@@ -6,7 +6,7 @@
 23nd09 True False 2017.06.16
 2ndDoor False True
 3wheelmotion False False
-4of4 False True
+4of4 True True
 4rth4gon False True
 ___Clark_Kent___ False False
 __TATO False False
@@ -53,8 +53,8 @@ BiggieXD False True
 birki96 False True
 Blind_Man_John False False
 Bloody_Rayne False False 2017.06.05
-blue_adept42 False True
-blue_cinos False True
+blue_adept42 True True
+blue_cinos True True
 blueberrydude5 False True
 bluelinensuit False False
 BlueScream True False 2017.06.16
@@ -101,8 +101,8 @@ djfkgnsfdgjkbalsfd False False
 DogStuart False True
 Drand_Galax False False
 DrasticGoDown False False
-Dreamplan False True
-DurablePantalones False True
+Dreamplan False False 2017.06.18
+DurablePantalones True True
 Durgenheim False False
 ebn-el-kattab False True
 Edizok False False
@@ -190,7 +190,7 @@ MacT33 False True
 made4more False False
 MakeItBetter89 False True
 maki9999 False False
-markiisparkii False True
+markiisparkii True True
 martian_seedling True False 2017.06.11
 MartianStark False True
 masteroftrying False False
@@ -205,11 +205,11 @@ michiganson False False
 mims7099 False False
 MisterGuyMan23 False False
 misterphreeze False True
-MonkeyDSunny False True
+MonkeyDSunny True False 2017.06.18
 monsterjager False True
 morfritz False False
 Mr_Blis False False
-MrBetterMan False True
+MrBetterMan True True
 MrRobot777 False False 2017.06.05
 mymoonx True False 2017.06.03
 NakenTame False False
@@ -236,7 +236,7 @@ Obsidiannovamist False True
 odindescendant False False
 OK_01 False False 2017.06.08
 OlafOlafsen True False 2017.06.05
-OnceMoreIntoTheBeach False True
+OnceMoreIntoTheBeach True True
 OneSixTwoer False False 2017.06.11
 oni543nanog False True
 Osoch False True
@@ -285,7 +285,7 @@ SeventhSpecter False False
 sg_dm33 False True
 ShenKiStrike False True
 shortless False True
-Sidney5101 False True
+Sidney5101 True True
 Siegfar False True
 simnella False True
 sinfulregret False True
@@ -316,13 +316,13 @@ SundayMiharu False False
 SuperSaiyanGod5 True False 2017.06.04
 SWJN False True
 T3AB0Y False True
-tabascoKatz False True
+tabascoKatz True True
 tallcabinetman False False
 teenfalcon98 False False
 Th3V0ic3 False False 2017.06.05
 ThatTryHardAsian False False 2017.06.11
 The_Jamdalf False False
-TheEdmontonMan False True
+TheEdmontonMan True True
 TheEvilPancake False False
 TheFridayKnight False True
 THEINTERLOPER- False True
@@ -341,7 +341,7 @@ TitusAwakes False False
 tlantan True True
 tnaiaEG False True
 Tobi4U False False
-ToFapNoMorelsTheGoal False True
+ToFapNoMorelsTheGoal True True
 tofapornottofap4 False True
 tolue921 False False
 Tomoromo9 False False
@@ -356,7 +356,7 @@ universe_atomically False False
 unthoughtknown29 False False
 Vellos9000 False False
 venomdawg True False 2017.06.05
-viccie211 False True
+viccie211 True True
 vulgrrr False False
 whskyndlcrc True False 2017.06.11
 WilkiBD False False
