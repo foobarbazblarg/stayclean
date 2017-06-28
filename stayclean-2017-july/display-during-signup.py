@@ -11,7 +11,7 @@ import pyperclip
 # Edit Me!
 # Remember, this is during signup, so current month is not March, it's February.
 currentMonthTotalDays = 30
-currentMonthURL = "(june url goes here)"
+currentMonthURL = "https://www.reddit.com/r/pornfree/comments/6elye4/stay_clean_june_this_thread_updated_daily_check/"
 
 currentMonthIndex = datetime.date.today().month
 currentMonthPenultimateDayIndex = currentMonthTotalDays - 1

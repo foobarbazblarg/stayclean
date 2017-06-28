@@ -141,7 +141,7 @@ fightmesoftly True False 2017.01.06
 Fluke90 False False 2017.01.19
 foobarbazblarg True True
 foragee False False
-ForesterNL False True
+ForesterNL True True
 FourOneNiner True True
 fr_hairycake_lynam False False
 Fragalicious False False
@@ -210,7 +210,7 @@ imverycoolok False False
 In6Praesenti False False 2017.01.06
 InsecureGuy11 False False
 inSepp False False
-irgendwalrus False True
+irgendwalrus False False 2017.06.24
 iTAMEi True False 2017.01.10
 iwanttobebetter1029 True False 2017.05.30
 IWontFapForHerAndMe True False 2017.01.08
@@ -458,7 +458,7 @@ tlantan False False
 tmkuk False False
 Tobi4U True False 2017.01.04
 tofapornottofap4 True True
-tossedoffer False True
+tossedoffer False False 2017.06.21
 tr764 True False 2017.01.03
 transparent-life True False 2017.03.13
 True_Silver False False

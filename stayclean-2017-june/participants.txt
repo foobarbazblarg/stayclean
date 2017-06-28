@@ -1,4 +1,4 @@
--MMXVII- False True
+-MMXVII- True True
 -peace True True
 -Steppenwolf False False
 -Xaze False False
@@ -7,7 +7,7 @@
 2ndDoor False True
 3wheelmotion False False
 4of4 True True
-4rth4gon False True
+4rth4gon True True
 ___Clark_Kent___ False False
 __TATO False False
 _martin_ False False
@@ -25,23 +25,23 @@ ACfireandiceDC False False
 aditya5v False False
 aharnak True False 2017.06.04
 aigamithite False False
-Albahacus False True
+Albahacus True True
 alchemist_33 False False
 AllHailSeizure True True
 AlsatianFan910116 True True
 amadeo19 False False
 anonarwhal False True
-antidarkfapper False True
-ApexOfManhood False True
+antidarkfapper True True
+ApexOfManhood True True
 Arc1ine False False
-ascendantshark False True
+ascendantshark False False 2017.06.24
 assisithere False True
 ato93 False True
 B-M-T-G True True
-BackToTheBreath False True
+BackToTheBreath True True
 bassicallyboss False False
 BassOnirism True True
-Batman5991 False True
+Batman5991 True True
 bberlinn False False
 beantheduck False True
 BeardedRage223 False True
@@ -49,7 +49,7 @@ begintobeginagain False False
 beingmasculine False False
 Bergekatze False False 2017.06.06
 bertbamer False True
-BiggieXD False True
+BiggieXD True True
 birki96 False True
 Blind_Man_John False False
 Bloody_Rayne False False 2017.06.05
@@ -73,15 +73,15 @@ chasle12 False False
 Choosin2StopSploogin False False
 Churraso4 False False
 clavabot False False
-cointense False True
+cointense True True
 CompetentImmigrant False False
-cortado72 False True
+cortado72 True True
 CptTroyHandsome False False
 CrappyBoobJob True False 2017.06.14
 D4eV False False
 Dahirthenig False False
 dakidfromhaiti False False
-Dandylol False True
+Dandylol False False 2017.06.23
 darcj False False
 darkindie False False
 Darth_Picard False False
@@ -98,7 +98,7 @@ Deuszera False True
 Devvy12 False True
 dhavid2013 False True
 djfkgnsfdgjkbalsfd False False
-DogStuart False True
+DogStuart True True
 Drand_Galax False False
 DrasticGoDown False False
 Dreamplan False False 2017.06.18
@@ -107,7 +107,7 @@ Durgenheim False False
 ebn-el-kattab False True
 Edizok False False
 Egkrateia False True
-Eipa False True
+Eipa True True
 Elegia False False
 ElGuapoChapo False False
 embarrassedPMOaddict False True
@@ -119,27 +119,27 @@ fcandy False False
 Feloted False False
 FindReality False False 2017.06.16
 flossup False True
-foobarbazblarg False True
+foobarbazblarg True True
 FrayedLyric True False 2017.06.16
 FreeAt30 False True
 freefin True False 2017.06.03
-FrenchDogBlue False True
-frueherschueler False True
+FrenchDogBlue True True
+frueherschueler True True
 fuck_gawker True False 2017.06.12
-FuzzPedalOfDoom False True
+FuzzPedalOfDoom False False 2017.06.25
 Galaxysoul False False
 gangstercomputer False False 2017.06.06
 gitwalrus False False
 Glocjt False True
 gokukek False False 2017.06.05
 gytoo True False 2017.06.10
-h20addict False True
+h20addict True True
 happyforafreshstart False False
 happykidbilal False False
 haydenchampion True False 2017.06.05
 hect6r False False
 hipolymer321 False False
-Holmgeirr False True
+Holmgeirr False False 2017.06.25
 HopefilledHuman False False
 hosselaar False True
 how_now_brown_cow12 False False
@@ -169,12 +169,12 @@ Johnathan_twat False False
 JoKeR_101 False False
 Jonez0122804 True True
 joshtu False True
-jroemhild116 False True
+jroemhild116 True True
 JukeboxKid False True
 kbh9618 False False
 Keepem False True
 ketchupkid False False
-Keytones1 False True
+Keytones1 True True
 KimJongPoooon False True
 KokiriResident False True
 KonstantinosLisgaras False True
@@ -188,13 +188,13 @@ lukas2020 True False 2017.06.11
 Maake11 True False 2017.06.04
 MacT33 False True
 made4more False False
-MakeItBetter89 False True
+MakeItBetter89 True False 2017.06.23
 maki9999 False False
 markiisparkii True True
 martian_seedling True False 2017.06.11
 MartianStark False True
 masteroftrying False False
-McGoreth False True
+McGoreth True True
 memedealer22 False False
 metallika False True
 metalrope False False
@@ -219,10 +219,10 @@ neatureotter False True
 NeonDucks False False
 Nephistos False False 2017.06.14
 newlife_87 False False
-Newman658 False True
+Newman658 False False 2017.06.21
 newsboy_cap False False
 newtothefamily2018 False False
-nikmaxott False True
+nikmaxott True True
 ninjaassassinmonkey False False
 ninjaruler False False
 nishiisback False True
@@ -231,7 +231,7 @@ NoChickenWing89 False True
 NoFapAgain False True
 Nofapthrowaway252525 False False
 Nomore10358 False False
-nothinggood84 False True
+nothinggood84 True True
 Obsidiannovamist False True
 odindescendant False False
 OK_01 False False 2017.06.08
@@ -239,8 +239,8 @@ OlafOlafsen True False 2017.06.05
 OnceMoreIntoTheBeach True True
 OneSixTwoer False False 2017.06.11
 oni543nanog False True
-Osoch False True
-Otikron False True
+Osoch True True
+Otikron True True
 ottoman_legacy False True
 ouch155 False True
 ozymandias79 False False
@@ -284,31 +284,31 @@ SecularDuck True False 2017.06.02
 SeventhSpecter False False
 sg_dm33 False True
 ShenKiStrike False True
-shortless False True
+shortless False False 2017.06.21
 Sidney5101 True True
-Siegfar False True
-simnella False True
+Siegfar False False 2017.06.20
+simnella True True
 sinfulregret False True
 Sir0Donnis False True
 sixpiecechickenugget False False 2017.06.07
 Skadovsk False False 2017.06.16
-skyrimShepherd False True
+skyrimShepherd False False 2017.06.19
 Slabdweller False False 2017.06.11
 slic_ric False False
-slightlyangrydodo False True
+slightlyangrydodo True True
 slutanu95 False True
 Slyrix True False 2017.06.07
 smith_machine True False 2017.06.07
 SnobbishPuppet1 False True
 Snooze212 False False
-soldierof1 False True
-Sp8m False True
+soldierof1 True True
+Sp8m True True
 spins91 False False
 SpiralingNacho False False
 spymole False False
 Starhunter80 False False
 startingover1234 True False 2017.06.05
-StAugieofHippo False True
+StAugieofHippo True True
 staystoic False False
 StopDropMole True False 2017.06.12
 Successful14 False False
@@ -325,27 +325,27 @@ The_Jamdalf False False
 TheEdmontonMan True True
 TheEvilPancake False False
 TheFridayKnight False True
-THEINTERLOPER- False True
+THEINTERLOPER- False False 2017.06.24
 themk1 False False
-thescreampainting False True
+thescreampainting True True
 thestreetlife False True
 theunknowndouglas False True
 throw-away31 False False
 throw-me-away-pleese False False 2017.06.03
-throwaway_13_5 False True
+throwaway_13_5 True True
 Throwestawayaccount False False
 throwfapaway11 True False 2017.06.13
 thunder_hoof False False
 tinker_tom False False
 TitusAwakes False False
 tlantan True True
-tnaiaEG False True
+tnaiaEG True True
 Tobi4U False False
 ToFapNoMorelsTheGoal True True
-tofapornottofap4 False True
+tofapornottofap4 True True
 tolue921 False False
 Tomoromo9 False False
-transparent-life False True
+transparent-life True True
 TryingtobeBettr False True
 ttmae False False
 Tuber12 False False
@@ -361,7 +361,7 @@ vulgrrr False False
 whskyndlcrc True False 2017.06.11
 WilkiBD False False
 WorldOfPES False True
-XcherokeeJ False True
+XcherokeeJ True True
 xckabir False False
 xFabFab True False 2017.06.14
 XTutankhamen False True
