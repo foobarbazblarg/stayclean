@@ -32,7 +32,7 @@ alromaru False False
 Andrejcc False False
 andymann0612 False False
 AnkitIndia True False 2017.01.22
-anonarwhal True True
+anonarwhal False True
 Anonymous884422 False False
 Anthonidas False False 2017.02.14
 ArcanusHominem True False 2017.01.06
@@ -51,14 +51,14 @@ bailey2100 False False
 BassOnirism True False 2017.01.16
 Batman5991 True True
 batmike88 False False
-bberlinn False False
+bberlinn False True
 ben__ned False False
 better_ani False False
 Betterthanuatlife False False
 bigj4708 False False
 bkedelen False False
 blargynargy True False 2017.02.25
-Blaze6181 False True
+Blaze6181 True True
 Blazemaster505 False False
 blue_cinos True True
 bmking False False
@@ -81,7 +81,7 @@ Chicken_Hands True False 2017.01.24
 chiddyfield False False
 Chief32 True False 2017.04.09
 ChinmayT2 False False 2017.04.05
-Choosetobebetter False False
+Choosetobebetter True True
 clavabot True False 2017.02.23
 Cleanaftr2016 True False 2017.01.12
 cmoneymcmahon False False
@@ -126,7 +126,7 @@ Egkrateia False False
 Eipa True True
 eire77 True False 2017.01.23
 ElPujaguante False False
-engus9119 True True
+engus9119 False True
 error_message_401 False False
 fapfreedomfighter False False 2017.01.12
 fapperreppaf False False
@@ -182,7 +182,7 @@ Haddaway False False
 handsoffbro False False
 Hates24168 False False
 helk14 True False 2017.01.27
-hello-everyooone False True
+hello-everyooone False False
 henrychinaski1 False False
 heyoh1 True True
 HippieHippo False False
@@ -348,7 +348,7 @@ power999power False False
 PowerOuttage False False
 pre_ejaculation False False
 Preet2000 False False
-Prevailing True True
+Prevailing False True
 Proagon False False
 Quiktypr False False
 quinne888 True False 2017.04.14
@@ -363,7 +363,7 @@ RemoveAndImprove False False
 repdaking17 True False 2017.01.13
 Reptilector False False
 Reyaweks False False
-Riggzz True True
+Riggzz False True
 righttogetright False False
 Rmaob False False
 Rocket_Knight False False
@@ -409,7 +409,7 @@ sportstime23 False False
 Spritastike False False
 spymole False False
 Squad_Juice False False
-Starhunter80 False True
+Starhunter80 True True
 Starship_Ogre False False
 startingover1234 False False
 Statictics False False
@@ -457,7 +457,7 @@ TimeOffNow False False
 tlantan False False
 tmkuk False False
 Tobi4U True False 2017.01.04
-tofapornottofap4 True True
+tofapornottofap4 True False 2017.07.25
 tossedoffer False False 2017.06.21
 tr764 True False 2017.01.03
 transparent-life True False 2017.03.13
@@ -495,7 +495,7 @@ wooden_stone False False
 Woopage False False
 woopherd False False
 wooslers2 False False
-WSWSTDUDN True True
+WSWSTDUDN False True
 XcherokeeJ False False
 Xcpa9 False False 2017.01.07
 Xeroxeddolly False False
