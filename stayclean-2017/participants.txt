@@ -14,7 +14,7 @@
 90DaysHardmode False False
 __murph__ False False
 __TATO True False 2017.01.31
-_Creepter_ True True
+_Creepter_ True False 2017.09.30
 _Zurkive_ False False
 a_9977 False False
 Abraal01 False False
@@ -51,16 +51,16 @@ bailey2100 False False
 BassOnirism True False 2017.01.16
 Batman5991 True True
 batmike88 False False
-bberlinn False True
+bberlinn False False
 ben__ned False False
 better_ani False False
 Betterthanuatlife False False
 bigj4708 False False
 bkedelen False False
 blargynargy True False 2017.02.25
-Blaze6181 True True
+Blaze6181 False False
 Blazemaster505 False False
-blue_cinos True True
+blue_cinos True False 2017.09.17
 bmking False False
 BMoney316 False False
 BobFranky False False
@@ -126,7 +126,7 @@ Egkrateia False False
 Eipa True True
 eire77 True False 2017.01.23
 ElPujaguante False False
-engus9119 False True
+engus9119 False False
 error_message_401 False False
 fapfreedomfighter False False 2017.01.12
 fapperreppaf False False
@@ -139,7 +139,7 @@ ffffrrr False False
 fictionalreality08 True False 2017.01.18
 fightmesoftly True False 2017.01.06
 Fluke90 False False 2017.01.19
-foobarbazblarg True True
+foobarbazblarg False False 2017.10.04
 foragee False False
 ForesterNL True True
 FourOneNiner True True
@@ -184,21 +184,21 @@ Hates24168 False False
 helk14 True False 2017.01.27
 hello-everyooone False False
 henrychinaski1 False False
-heyoh1 True True
+heyoh1 False True
 HippieHippo False False
 Hobbesia False False
 HoneyBadgerRed False False
 HoodieAllen2 False False
 hopsteiner420 False False
 hornyboolet False False
-hosselaar False True
+hosselaar False False
 hullap False False
 humble777 False False
 i_Brake4DuARTe False False
 i_like_to_reddits False False
 ibrahimforgotalarms False False
 IDKninja True False 2017.01.05
-iffaster1 True True
+iffaster1 False False
 ILostMyDreams False False
 imhereagainwow False False
 ImmaRealBoy False False
@@ -308,7 +308,7 @@ newlife_87 False False 2017.01.14
 Newman658 True False 2017.01.06
 nickoo321 False False
 Njmja True False 2017.01.24
-No2P0rn True True
+No2P0rn False False
 nobrayn True False 2017.01.22
 NoDisappointment False False
 Nofap_TH1356 False False
@@ -348,7 +348,7 @@ power999power False False
 PowerOuttage False False
 pre_ejaculation False False
 Preet2000 False False
-Prevailing False True
+Prevailing False False
 Proagon False False
 Quiktypr False False
 quinne888 True False 2017.04.14
@@ -363,7 +363,7 @@ RemoveAndImprove False False
 repdaking17 True False 2017.01.13
 Reptilector False False
 Reyaweks False False
-Riggzz False True
+Riggzz False False
 righttogetright False False
 Rmaob False False
 Rocket_Knight False False
@@ -409,7 +409,7 @@ sportstime23 False False
 Spritastike False False
 spymole False False
 Squad_Juice False False
-Starhunter80 True True
+Starhunter80 False False 2017.08.18
 Starship_Ogre False False
 startingover1234 False False
 Statictics False False
@@ -476,7 +476,7 @@ ValhallaShores False False
 Verbism False False
 verticaluzi False False
 Vindeeta False False 2017.01.03
-vinnievanhalen True True
+vinnievanhalen True False 2017.08.16
 w10644793 False False
 WaaayToGo False False
 wandpolisher False False
@@ -495,7 +495,7 @@ wooden_stone False False
 Woopage False False
 woopherd False False
 wooslers2 False False
-WSWSTDUDN False True
+WSWSTDUDN False False
 XcherokeeJ False False
 Xcpa9 False False 2017.01.07
 Xeroxeddolly False False
