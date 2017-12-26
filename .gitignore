@@ -8,6 +8,7 @@ interesting-users.cfg
 **/update-google-chart.py.BACKUP
 **/google-spreadsheet-oauth-hello-world.py
 **/google-oauth-credentials.json
+**/praw.ini
 **/*.pyc
 praw/*
 push-to-github.sh

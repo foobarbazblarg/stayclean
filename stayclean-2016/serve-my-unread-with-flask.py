@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 import subprocess
 import time
@@ -17,6 +17,7 @@ import markdown
 import bleach
 # encoding=utf8
 import sys
+#import pprint
 from participantCollection import ParticipantCollection
 
 reload(sys)
@@ -36,6 +37,8 @@ activeCommentHashFiles = [ 'retiredcommenthashes.txt',
                            '../stayclean-2017-august/retiredcommenthashes.txt',
                            '../stayclean-2017-september/retiredcommenthashes.txt',
                            '../stayclean-2017-october/retiredcommenthashes.txt',
+                           '../stayclean-2017-november/retiredcommenthashes.txt',
+                           '../stayclean-2017-december/retiredcommenthashes.txt',
                            '../stayclean-2016-december/retiredcommenthashes.txt',
                            '../stayclean-2016-november/retiredcommenthashes.txt',
                            '../stayclean-2016-october/retiredcommenthashes.txt',
@@ -56,7 +59,8 @@ app.debug = True
 
 def loginOAuthAndReturnRedditSession():
     redditSession = praw.Reddit(user_agent='Test Script by /u/foobarbazblarg')
-    o = OAuth2Util.OAuth2Util(redditSession, print_log=True, configfile="../reddit-oauth-credentials.cfg")
+    # New version of praw does not require explicit use of the OAuth2Util object.  Presumably because reddit now REQUIRES oauth.
+    # o = OAuth2Util.OAuth2Util(redditSession, print_log=True, configfile="../reddit-oauth-credentials.cfg")
     # TODO:  Testing comment of refresh.  We authenticate fresh every time, so presumably no need to do o.refresh().
     # o.refresh(force=True)
     return redditSession
@@ -86,7 +90,7 @@ def unread():
     stringio.write('<html>\n<head>\n</head>\n\n')
 
     redditSession = loginOAuthAndReturnRedditSession()
-    unreadMessages = redditSession.get_unread(limit=None)
+    unreadMessages = redditSession.inbox.unread(limit=None)
     retiredHashes = retiredCommentHashes()
     i = 1
     stringio.write('<iframe name="invisibleiframe" style="display:none;"></iframe>\n')
@@ -95,12 +99,26 @@ def unread():
     stringio.write("</h3>\n\n")
     for unreadMessage in unreadMessages:
         i += 1
+
+        # Testing, 2017.12
+        # stringio.write(str(unreadMessage.fullname))
+        # stringio.write(" ")
+        # stringio.write(str(unreadMessage.author))
+        # stringio.write(" ")
+        # stringio.write(str(pprint.pformat(vars(unreadMessage))))
+        # stringio.write("<br>\n")
+        # continue
+        # Done with test code
+
         commentHash = sha1()
-        if unreadMessage.__class__ == praw.objects.Comment:
+        if unreadMessage.__class__ == praw.models.Comment:
             # This next line takes 2 seconds.  It must need to do an HTTPS transaction to get the permalink.
             # Not much we can do about that, I guess.
             # print int(round(time.time() * 1000))
-            commentHash.update(unreadMessage.permalink)
+
+            # permalink is no longer an attribute.  Not sure why that is, but fullname will work for our use, and is actually part of the canonical praw API, so should be more permanent.
+            # commentHash.update(unreadMessage.permalink)
+            commentHash.update(unreadMessage.fullname)
             # print int(round(time.time() * 1000))
         else:
             commentHash.update(str(unreadMessage.author))
@@ -114,7 +132,7 @@ def unread():
             stringio.write('<font color="blue"><b>')
             stringio.write(authorName)
             stringio.write('</b></font><br>')
-            if unreadMessage.__class__ == praw.objects.Comment:
+            if unreadMessage.__class__ == praw.models.Comment:
                 stringio.write('<small><font color="gray">' + bleach.clean(unreadMessage.submission.title) + '</font></small><br>')
             else:
                 stringio.write('<b>' + bleach.clean(unreadMessage.subject) + '</b><br>')

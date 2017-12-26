@@ -1,6 +1,4 @@
-#!/usr/bin/python
-# TODO: issues with new oauth2 stuff.  Keep using older version of Python for now.
-# #!/usr/bin/env python
+#!/usr/bin/env python
 
 import subprocess
 import praw
@@ -24,7 +22,7 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 
 # Edit me!
-signupPageSubmissionIds = [ '5k872q', '5kcz8u', '5kjrco', '5kqlpy', '5kx3l8', '5l2v5b', '5l8z63' ]
+signupPageSubmissionIds = [  ]
 flaskport = 8864
 
 app = Flask(__name__)
@@ -47,22 +45,27 @@ def loginAndReturnRedditSession():
 
 def loginOAuthAndReturnRedditSession():
     redditSession = praw.Reddit(user_agent='Test Script by /u/foobarbazblarg')
-    o = OAuth2Util.OAuth2Util(redditSession, print_log=True, configfile="../reddit-oauth-credentials.cfg")
-    o.refresh(force=True)
+    # New version of praw does not require explicit use of the OAuth2Util object.  Presumably because reddit now REQUIRES oauth.
+    # o = OAuth2Util.OAuth2Util(redditSession, print_log=True, configfile="../reddit-oauth-credentials.cfg")
+    # TODO:  Testing comment of refresh.  We authenticate fresh every time, so presumably no need to do o.refresh().
+    # o.refresh(force=True)
     return redditSession
 
 
 def getSubmissionsForRedditSession(redditSession):
-    submissions = [redditSession.get_submission(submission_id=submissionId) for submissionId in signupPageSubmissionIds]
+    # submissions = [redditSession.get_submission(submission_id=submissionId) for submissionId in signupPageSubmissionIds]
+    submissions = [redditSession.submission(id=submissionId) for submissionId in signupPageSubmissionIds]
     for submission in submissions:
-        submission.replace_more_comments(limit=None, threshold=0)
+        submission.comments.replace_more(limit=None)
+        # submission.replace_more_comments(limit=None, threshold=0)
     return submissions
 
 
 def getCommentsForSubmissions(submissions):
     comments = []
     for submission in submissions:
-        comments += praw.helpers.flatten_tree(submission.comments)
+        commentForest = submission.comments
+        comments += [comment for comment in commentForest.list() if comment.__class__ == praw.models.Comment]
     return comments
 
 
@@ -106,7 +109,7 @@ def moderatesignups():
         # print comment.score
         i += 1
         commentHash = sha1()
-        commentHash.update(comment.permalink)
+        commentHash.update(comment.fullname)
         commentHash.update(comment.body.encode('utf-8'))
         commentHash = commentHash.hexdigest()
         if commentHash not in retiredHashes:
@@ -133,7 +136,7 @@ def moderatesignups():
             stringio.write('<input type="submit" name="actiontotake" value="Skip comment and don\'t upvote">')
             stringio.write('<input type="hidden" name="username" value="' + b64encode(authorName) + '">')
             stringio.write('<input type="hidden" name="commenthash" value="' + commentHash + '">')
-            stringio.write('<input type="hidden" name="commentpermalink" value="' + comment.permalink + '">')
+            # stringio.write('<input type="hidden" name="commentpermalink" value="' + comment.permalink + '">')
             stringio.write('</form>')
             stringio.write(bleach.clean(markdown.markdown(comment.body.encode('utf-8')), tags=['p']))
             stringio.write("\n<br><br>\n\n")

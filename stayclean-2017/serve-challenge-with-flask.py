@@ -1,6 +1,4 @@
-#!/usr/bin/python
-# TODO: issues with new oauth2 stuff.  Keep using older version of Python for now.
-# #!/usr/bin/env python
+#!/usr/bin/env python
 
 import subprocess
 import datetime
@@ -29,7 +27,7 @@ sys.setdefaultencoding('utf8')
 # Edit me!
 # challengePageSubmissionId = '3yzugs'
 # challengePageSubmissionId = '5leg0q'
-challengePageSubmissionId = '6em14i'
+challengePageSubmissionId = '7h2wl7'
 flaskport = 8888
 readAllCommentsWhichCanBeSlower = False
 
@@ -57,21 +55,27 @@ def loginAndReturnRedditSession():
 
 def loginOAuthAndReturnRedditSession():
     redditSession = praw.Reddit(user_agent='Test Script by /u/foobarbazblarg')
-    o = OAuth2Util.OAuth2Util(redditSession, print_log=True, configfile="../reddit-oauth-credentials.cfg")
+    # New version of praw does not require explicit use of the OAuth2Util object.  Presumably because reddit now REQUIRES oauth.
+    # o = OAuth2Util.OAuth2Util(redditSession, print_log=True, configfile="../reddit-oauth-credentials.cfg")
     # TODO:  Testing comment of refresh.  We authenticate fresh every time, so presumably no need to do o.refresh().
     # o.refresh(force=True)
     return redditSession
 
 
 def getSubmissionForRedditSession(redditSession):
-    submission = redditSession.get_submission(submission_id=challengePageSubmissionId)
+    # submission = redditSession.get_submission(submission_id=challengePageSubmissionId)
+    submission = redditSession.submission(id=challengePageSubmissionId)
     if readAllCommentsWhichCanBeSlower:
-        submission.replace_more_comments(limit=None, threshold=0)
+        submission.comments.replace_more(limit=None)
+        # submission.replace_more_comments(limit=None, threshold=0)
     return submission
 
 
 def getCommentsForSubmission(submission):
-    return [comment for comment in praw.helpers.flatten_tree(submission.comments) if comment.__class__ == praw.objects.Comment]
+    # return [comment for comment in praw.helpers.flatten_tree(submission.comments) if comment.__class__ == praw.models.Comment]
+    commentForest = submission.comments
+    # commentForest.replace_more(limit=None, threshold=0)
+    return [comment for comment in commentForest.list() if comment.__class__ == praw.models.Comment]
 
 
 def retireCommentHash(commentHash):
@@ -117,7 +121,7 @@ def moderatechallenge():
         # print comment.score
         i += 1
         commentHash = sha1()
-        commentHash.update(comment.permalink)
+        commentHash.update(comment.fullname)
         commentHash.update(comment.body.encode('utf-8'))
         commentHash = commentHash.hexdigest()
         if commentHash not in retiredHashes:
@@ -163,7 +167,7 @@ def moderatechallenge():
             stringio.write('<input type="submit" name="actiontotake" value="Skip comment and don\'t upvote">')
             stringio.write('<input type="hidden" name="username" value="' + b64encode(authorName) + '">')
             stringio.write('<input type="hidden" name="commenthash" value="' + commentHash + '">')
-            stringio.write('<input type="hidden" name="commentpermalink" value="' + comment.permalink + '">')
+            # stringio.write('<input type="hidden" name="commentpermalink" value="' + comment.permalink + '">')
             stringio.write('</form>')
             stringio.write(bleach.clean(markdown.markdown(comment.body.encode('utf-8')), tags=['p']))
             stringio.write("\n<br><br>\n\n")
