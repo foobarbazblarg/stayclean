@@ -25,7 +25,7 @@ sys.setdefaultencoding('utf8')
 
 
 # Edit me!
-challengePageSubmissionId = '(edit)'
+challengePageSubmissionId = '7ndnzq'
 flaskport = 8999
 readAllCommentsWhichCanBeSlower = False
 

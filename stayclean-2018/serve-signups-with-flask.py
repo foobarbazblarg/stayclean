@@ -22,7 +22,7 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 
 # Edit me!
-signupPageSubmissionIds = [ '7lre0s', '7lycbv', '7m1hhd', '7m7kij' ]
+signupPageSubmissionIds = [ '7lre0s', '7lycbv', '7m1hhd', '7m7kij', '7meumj', '7mmypg', '7mtx8r', '7n1lz7', '7n8nl6' ]
 flaskport = 9000
 
 app = Flask(__name__)

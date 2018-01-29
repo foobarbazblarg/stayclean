@@ -32,7 +32,7 @@ alromaru False False
 Andrejcc False False
 andymann0612 False False
 AnkitIndia True False 2017.01.22
-anonarwhal False True
+anonarwhal True True
 Anonymous884422 False False
 Anthonidas False False 2017.02.14
 ArcanusHominem True False 2017.01.06
@@ -123,7 +123,7 @@ easyaddicted False False
 Edizok False False 2017.03.13
 Edward-Ward False False
 Egkrateia False False
-Eipa False True
+Eipa True True
 eire77 True False 2017.01.23
 ElPujaguante False False
 engus9119 False False
@@ -141,7 +141,7 @@ fightmesoftly True False 2017.01.06
 Fluke90 False False 2017.01.19
 foobarbazblarg False False 2017.10.04
 foragee False False
-ForesterNL False True
+ForesterNL True True
 FourOneNiner True True
 fr_hairycake_lynam False False
 Fragalicious False False

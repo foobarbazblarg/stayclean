@@ -1,129 +1,548 @@
--ankylos- False True
-06flash False True
-13580926 False True
-_beandog_ False True
-A_Simple_Guy False True
-Abdu0693 False True
-AlsatianFan910116 False True
-Andevin False True
+-ankylos- True True
+-awoke- False True
+06flash False False
+11Tsundere True False 2018.01.14
+1234g689 False False
+13580926 False False
+29746816 True True
+4ho False True
+4of4 True True
+6tris False False
+_beandog_ True True
+_beastmode13_ True True
+_lennart_ True True
+_SleepyOwl False True
+_Winter_Wind False False
+_xa0s False False 2018.01.15
+A_Count_Pant False True
+A_Simple_Guy False False
+abbluiz False False
+Abdu0693 False False
+Abdullah999 False True
+abelh100 True True
+ABlindPilot False False 2018.01.10
+AccountNumber5_ False False
+AceSandy False False
+adannytoremember False False
+addictivethrowaway False False 2018.01.06
+aelan False False
+Aiwon_ False False
+alchemist_33 False True
+AllHailSeizure True True
+AlsatianFan910116 True True
+am_kc False False
+amadeo19 True True
+Andevin True False 2018.01.13
+AngryBehindTheKeys True True
 anonun01 False True
-Asher0315 False True
-BackToTheBreath False True
-bcwest26 False True
+anonx93 False True
+anshul_srivas True False 2018.01.04
+antidarkfapper True True
+anttix1337 False True
+ArchGriffon False True
+ARenaissancePeriod False True
+ArielRuiz False True
+Asher0315 False False
+AtlanticThrone False True
+atlastic1 False False
+Atsukashi False False
+Axyl1987 False True
+BackToTheBreath True True
+BaileyWailey3452 False False
+baluga_ False True
+Banoonu True False 2018.01.24
+bcwest26 True False 2018.01.03
+Be-Your-Best-Self True False 2018.01.04
+beardman94 False False
+Beethoven2962 False False
+BendingBird True False 2018.01.16
+BenSharp1995 False True
+BentleyShiz False False
+bgxe False False
+Bill_Gacemus False True
+billn0face True False 2018.01.11
+BinarySequence False False 2018.01.21
 Blackwhitesimple False True
-Bloody_Rayne False True
-blue_cinos False True
-bobcatfish9 False True
-cantbelieveitsnotsex False True
-cherkie False True
-contravolta False True
-D_Bano False True
-deathinacandle False True
-DeathlessPath False True
-Diesel_C False True
-DoozerSpelar False True
-drewpilyconbon1990 False True
-DT_92762118 False True
-Duckieyupyupyup False True
-Electriclover2017 False True
-emeraldragon2555 False True
-error_message_401 False True
-FamilyFriendlyFabian False True
-FapIncarnate False True
-FloppyDickFingers False True
-Fonzyy510 False True
-foobarbazblarg False True
-ggggffffrrrruuu False True
-golfkid3 False True
-hasblondehair False True
-heathenstu False True
+Blank_Spacers False True
+blhei False False 2018.01.22
+blood_warri0r False False
+Bloody_Rayne True False 2018.01.11
+blue_cinos True False 2018.01.06
+bobcatfish9 True True
+boodd3 False False 2018.01.02
+BornR3STLESS False True
+brandes28 False False
+bushkape123 False False 2018.01.05
+Butterfetchingrobot False True
+Bwyon False False
+Caffeinde True True
+cantbelieveitsnotsex True True
+Capspar True False 2018.01.13
+Captain-Moroni False False
+CarPlayerTheHook False False
+Caspar-_- False False
+CasualViceSubscriber True True
+CatchyAmethyst False False 2018.01.04
+cckimg23 False False
+Champion_warrior False True
+ChemiMaster False False
+cherkie True True
+chillaxbro2 False False
+chillinbillin False False
+chrisduncan72 False False
+ClearlyRedacted True True
+cointense False False
+comeupoutdawawtuh False False
+Commander6420 False True
+commitreset True False 2018.01.13
+Connie2k17 True True
+contravolta True False 2018.01.22
+cortado72 True False
+cyclonezord False False
+D_Bano False False
+d_flagg True True
+danielr1981 True True
+DannyFandango True True
+darkindie False False
+darockcookswithspice True True
+david_seah False False
+dcfyj True True
+deathinacandle True True
+DeathlessPath True True
+deksels True False 2018.01.23
+Deraon True True
+devanyone False False
+dexistence19 True False 2018.01.03
+dicktouchins False False
+Diesel_C True True
+DocOrionHere False False
+doit4her17 True True
+dontwasteyourlifepls True False 2018.01.28
+DoozerSpelar False False
+Dorance True False 2018.01.28
+DorrajMachai True False 2018.01.15
+DotFlyBoy False True
+Dreamplan False False
+drewpilyconbon1990 False False
+drpe90 False False
+DT_92762118 False False
+du1603 False False
+Duckieyupyupyup False False
+dzvalentino False False
+econrun False False
+Effunde False False
+Electriclover2017 True True
+eltonjohnelway True False 2018.01.12
+emeraldragon2555 True False 2018.01.07
+Emerson-BC False False
+enricom116 False False
+eric_andre311 False False
+error_message_401 False False
+evanjoeoc False False
+EvilDrCrane False False
+ExplosiveHero False True
+Ez-Bagzy False False
+F_for_Maestro True True
+Fall7timesGetup8 False False
+FamilyFriendlyFabian False False
+FapIncarnate False False 2018.01.02
+FapnosaurusWrecks False False
+Fikre_25 False True
+fill38dob False True
+firestormdeathtrap False False
+FloppyDickFingers False False 2018.01.05
+foggedupglasses False False
+Fonzyy510 True False 2018.01.04
+foobarbazblarg True True
+Freedom_For_Me False False
+FriezaFrame True True
+fuck_gawker True False 2018.01.22
+FULL_CAPITALISM True False 2018.01.08
+FuzzPedalOfDoom False True
+gangstercomputer False False 2018.01.01
+gdude109 False True
+georgefrost310 True True
+getanewcouch False False
+ggggffffrrrruuu False False
+GHK47 True False 2018.01.23
+golfkid3 False False
+Gosta420 False False
+GottaGibboo False True
+GreyWolf2314 True False 2018.01.23
+guccimane519 False False
+guidanceSeeker False True
+GX224 False True
+hasblondehair False False
+hdhdhdjdjdhdhdujdhd False False
+heathenstu False False
+Hellblazerz1987 True False 2018.01.16
+hellothere10000 False False
+HiredPun False True
+HonyTawk17 False True
+Hopeforthefuture91 False True
+HopelessCase13 False True
 HopeNAC False True
-I-WILL-PREVAIL_ False True
-ImTryingThisOut False True
-Insanorama False True
-iThinkwerestupid False True
-JeffersonSales False True
-jericho96 False True
-jhuro17 False True
-joash3 False True
-johnrohnson False True
-Johnwickery False True
-jrdanXX False True
+hulikal True True
+I-WILL-PREVAIL_ True False 2018.01.15
+iffaster1 False False
+igetbuckets55 False False
+iktomi1992 False False 2018.01.10
+ilikebuttts False False
+iLikeCornMuffins False True
+IListenToJoji True False 2018.01.06
+imhereagainwow False False 2018.01.19
+ImTryingThisOut True False 2018.01.13
+Insanorama True True
+ippo1 False False
+IRaGeU True True
+irgendwalrus True True
+italoafofbread False False
+iThinkwerestupid False False 2018.01.25
+iwanttobebetter1029 False False
+iWolf_ False False 2018.01.14
+Izanial False False 2018.01.10
+JackusBrune False False
+Jacob_wallace False False 2018.01.17
+JAYC1979 False True
+jazaaaaaaa1 False False
+jb_hustler False False 2018.01.06
+jdogworld False False
+jdz0917 False True
+jefferlyons31 False False
+JeffersonSales True False 2018.01.16
+jericho96 False False
+jhuro17 False False
+JJzzMINTS True True
+joash3 True False 2018.01.22
+joeblowkokomo False True
+joeyjoey31 True True
+john456r False False
+johnrohnson True True
+Johnwickery False False
+Jordanjm False False
+jrdanXX False False
 jtsmooth1 False True
-Karambolo False True
-karchin99 False True
+JuanCenaTheSecond True True
+juststubbornoldme True True
+k_h_k False True
+kameshso01 False True
+kantianhero True True
+Karambolo False False
+karchin99 True True
+Katakuri14 True False 2018.01.08
 katenskau False True
+kayaksmak False False
+KazaKatana False True
+Keepem False False 2018.01.07
+keysomea False True
 KGD18 False True
-ksmigrod False True
-Lighthouse25 False True
-Liviul False True
-lock_that_door False True
-Lurchknochen False True
-m3b3zeem False True
-m4rkn False True
-Maake11 False True
+kickazz2013 False False
+killerwhalee False True
+Killimo False True
+Kizer_Suzie False False 2018.01.05
+kkirdude False False
+klibrey False False
+KnowledgePapi_1119 False True
+Kola-Ola True False 2018.01.20
+ksmigrod True True
+l0rdblackadder False True
+L30_ru1z5 False False
+L4shi False False
+LambtoLion False False
+LatvianDirk False False
+lefiler False False
+lennydesoto False True
+lesbianpreteen False False
+letdothisnow True False 2018.01.14
+Light_Gman False False
+Lighthouse25 True False 2018.01.08
+link-109 False False
+LittleSeneca False False
+Liviul True True
+lock_that_door True False 2018.01.05
+locke-lamoraq False False
+LohnJennon__ False False
+longislandslore False False
+Lord_Ringozinglyzong False False
+losada84 True True
+louisthekid True True
+loverturf False False
+LukeKeyO True True
+Lurchknochen True True
+m3b3zeem False False
+m4rkn True True
+Maake11 False False
+MaddenExpert False False
+Man-bear-jew False False 2018.01.20
 mandogpig False True
-marcgarneau84 False True
-Mechzx False True
-MightyAslan False True
-Mikaeld False True
+manicpride False False
+manvendrasingh1 True False 2018.01.08
+marcgarneau84 False False
+Marugi False False
+masteroftrying False False
+Matija_Behin False False
+Matthew19941 True True
+McGoreth False True
+Mechzx False False 2018.01.02
+meczorr False False
+MediocreBegonia True True
+Meerkatrat True True
+mefarino False False
+mgrarsalan False False
+michellc67 False False
+MidnightPapi False True
+MightyAslan True True
+Mikaeld False False
+miles9x False True
+mintconditioneggs False False
+MissAmericana False False
 MisterMagorium False True
-MonkeyDSunny False True
-needingthatsauce False True
-newlife_87 False True
-newmenewmer False True
-nikmaxott False True
-NoFapAgain False True
+mjsbikes False False
+MnMLRadu False True
+MonkeyDSunny False False 2018.01.03
+moonlightofficial False False
+MoonwalkothePenguins True True
+mrserious89 False False
+Mrtimtoom False False
+MrZero1990 False False
+musicisthesoul False True
+mybachhurts False True
+myCQI True True
+mynewlymadeaccount False True
+Nartuk01 False False
+NatGioWild False False
+NCC1701G True True
+Need_help666 False False
+needingthatsauce False False
+NeoBough True False 2018.01.28
+newday88 False False
+newlife_87 False False
+Newman658 False False
+newmenewmer False False 2018.01.06
+newsboy_cap True True
+nexuslab5 False True
+nfnoob12517 False True
+nfp2k18 False True
+nfthrowaway3 True True
+Nie200 True True
+Nikhillmalavalli False False
+nikmaxott True True
+Nj2Nm True False 2018.01.15
+NoFapAgain True True
+nofapisunderated False True
+nomorerationalizing False False 2018.01.10
+norrsam True True
+NovusCaesarion False False
+oarsch False False
 obada_alzayed False True
-Oghrim False True
-ontopthebox False True
-Opp0s False True
-oriyang False True
-PartierMinisterTorqu False True
-PJJ205 False True
-polx0 False True
-Porn-Free-Man False True
-PornfreeWanderer False True
-ProsecutorEdgeworth False True
-Pubsamare False True
-pure_opinion False True
-quantumfinf False True
-reasonableconspiracy False True
-rg3mfer False True
+Obliviuns False False
+ObservantSlug True True
+Oghrim False False
+ogv11 True True
+ohthisisthelasttime False False
+OK_01 False False 2018.01.17
+OneSixTwoer False False
+Onfire1551 True True
+OnlyFestive False False
+ontopthebox False False
+oobnate False False 2018.01.12
+Opp0s False False
+oraki23 False False
+oriyang False False
+pablo8744 True True
+Panjandrum86 False False
+Parataze False True
+ParrotfishAreDope False False
+PartierMinisterTorqu False False 2018.01.04
+Paticakes2 False False
+pbar50 False False
+pellucidliving False True
+peptheyep False False
+Percy_Nilegard False False
+PETALUL False False
+pho_meup False False
+pimpofsasquatchs False False
+Pineapplesmysafeword False True
+Pink__Matter False False
+PiNto_7 False False
+pizzafapper True True
+PJJ205 False False
+pkmn59 False True
+Platty_114 True True
+pleasant_days True True
+PM_ME_UR_SASSINESS False True
+PMme_your_success True False 2018.01.09
+pmolikujyhn False False
+pnwsacredmtn False False
+polx0 False False
+pooman789 True False 2018.01.06
+Porn-Free-Man True False 2018.01.06
+pornbitme False False 2018.01.23
+PornfreeWanderer False False
+powerless69 False False
+Primspeon True False 2018.01.10
+princu7 False False
+ProsecutorEdgeworth False False 2018.01.06
+Pubsamare True False 2018.01.28
+PuppiesAtTheDisco False False
+pure_opinion False False
+pyre10 False True
+quantumfinf True True
+R00tm0nk True True
+r1chard_93 True True
+Rapolus True True
+Rattl3me_throw-away False False
+RattlebrainedAertex True True
+rayman903 False False
+RC_8015 False False
+rdawg1234 False True
+ready2quit99 False False
+RealSeriousBusiness False False
+ReaperOfSouls_ False False
+reasonableconspiracy False False
+reaver355 False True
+redpillthrill1 True False 2018.01.10
+Reeves_ False True
+ReloadedLife True False 2018.01.04
+resoloot False False
+rg3mfer False False
+Rhunta False True
+rivenis False False
+Rljx89 False False
+RoddyRocks False True
+ROGERSMI87 False False
+Rond3rd False False
 Roqxwalker False True
-RuefulAssassin False True
-Savagearbiter False True
-scorpionbrazil False True
-seatint False True
-sedatedalchemist False True
-SengokuSir False True
-sentientcargoship False True
-shortyafter False True
-siddharthagautama015 False True
+RuefulAssassin True False 2018.01.03
+Runaway__Jim False False
+s0mexguy False False
+saltpornfree False False 2018.01.18
+sapper377 False False
+Savagearbiter False False
+sbren False True
+Schlegelmilk False False
+scholorboy False False
+sciencede True True
+scorpionbrazil False False
+Screamadelica91 False False
+seatint True False 2018.01.27
+SecondsParadise False True
+sedatedalchemist True False 2018.01.14
+SengokuSir False False
+sentientcargoship True True
+septash False True
+sewerdog True False 2018.01.09
+ShaunVM20 False False
+Shirato False True
+ShivvyT False True
+ShortClean False False
+shortyafter True True
+siddharthagautama015 False False
 sinnix89 False True
-Sir_tob False True
-Skadovsk False True
-SpectacularLimbs False True
-spencer1346 False True
-SquireAshyen False True
-StanIY False True
-staystoic False True
-steakobsen False True
-TehHax0rz False True
-ThatScarecrowGuy False True
-thecrimsonking21 False True
-thescreampainting False True
-Threnx33 False True
-tlantan False True
-tofapornottofap4 False True
-tony-yayo False True
+Sir_tob False False
+sixpiecechickenugget False True
+Skadovsk False False
+skumasio True True
+skyrimShepherd True True
+slamdunktiger86 False False
+SlapTheFap False False
+slic_ric False False
+slightlyangrydodo False True
+Somtijds False True
+SpectacularLimbs False False
+spencer1346 False False
+SpiritualSobriety False False 2018.01.18
+spymole False False
+SquireAshyen False False
+SquirtGunsAndRoses True True
+stand32 True False 2018.01.08
+StanIY False False
+statline False False
+stayhumbolt False False
+staystoic False False
+steakobsen True True
+stiggpwnz True True
+strawberrymasquerade True True
+strider004 False True
+Successful14 False False 2018.01.05
+SumDumBum1 False False
+sunshine_rec0rder True True
+SuperTrapper148 True True
+Swagblu True True
+tactical_stank True True
+TakeBackMyLife87 True True
+taxpayer181205 True False 2018.01.09
+TehHax0rz False False
+teiganx5 False True
+TentacleSenpai2 False False
+ThatScarecrowGuy False False
+Thaumiel- True True
+theblazesamurai False True
+thecrimsonking21 False False
+TheDevourerofSouls False False
+TheDopplerRadar False False
+TheEagle2016 False True
+TheLastCard True False 2018.01.06
+TheMadicle False True
+thescreampainting True True
+TheZodiacGamer True False 2018.01.03
+thing99 False False 2018.01.06
+this_sloth True False 2018.01.23
+Threnx33 False False
+thrillated False True
+ThrowAwayEddyMonsoon False False
+ThunderBlight72 False False
+tlantan True True
+tofapornottofap4 False False
+Tompkinz False True
+Tongaduder False False
+tony-yayo False False 2018.01.04
 torskiy False True
-UnconstrictedEmu False True
-ValarMaiar False True
-WeonPto False True
-wheres_my_keys False True
-woahacow False True
-wooden_stone False True
-x_sylar_x False True
-youllneverkniw False True
-youngSaucer False True
+Total-Retribution False False
+Trappedinacorpse False True
+Trevelyan357 False False
+tur2rr2rr True True
+turboEffervescent False False
+TurtleShield555 False False
+Tuulani False False
+Ufgood True False 2018.01.10
+UnconstrictedEmu False False
+universe_atomically True True
+unkown481 False False
+unusual_self False False
+ValarMaiar True False 2018.01.12
+viniciusps01 False True
+vinnievanhalen False True
+vodacce False True
+W1nd_Wanker True False 2018.01.07
+wakethewarrior7402 False False 2018.01.07
+walkeroconnor False False
+Warm_Harbor True True
+wasabiyojimbo False True
+Wedgei False False
+WeonPto False False
+wheres_my_keys False False
+whyometer False False 2018.01.10
+Wish6 False True
+Wittyninja420 False False
+woahacow True True
+wooden_stone False False
+WorldsOKestMarine False False
+worthwhilemoment False False 2018.01.11
+wozzer2000 False False
+wxdrew False True
+x_sylar_x False False
+XavierAbeloa True False 2018.01.13
+XcherokeeJ True True
+xentara2 False True
+xLostCause False False
+XTutankhamen True True
+yaun0791 False False
+YesReboot True True
+ynwacules False False
+youllneverkniw False False
+youngcm6039 False False
+youngSaucer False False
+zahidkhalfey False True
+ZapHasselhoff False True
+zzStickszz False False 2018.01.14

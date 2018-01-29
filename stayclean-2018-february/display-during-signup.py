@@ -1,16 +1,17 @@
 #!/usr/bin/python
 # TODO: issues with new oauth2 stuff.  Keep using older version of Python for now.
 # #!/usr/bin/env python
+
 from participantCollection import ParticipantCollection
 import string
 import re
 import datetime
 import pyperclip
 
-# EDIT ME!
-# Remember, this is during signup, so current month is not January, it's December.
+# Edit Me!
+# Remember, this is during signup, so current month is not March, it's February.
 currentMonthTotalDays = 31
-year = 2018
+currentMonthURL = "https://www.reddit.com/r/pornfree/comments/7ndnfs/stay_clean_january_this_thread_updated_daily/"
 
 currentMonthIndex = datetime.date.today().month
 currentMonthPenultimateDayIndex = currentMonthTotalDays - 1
@@ -23,7 +24,7 @@ currentDayOfMonthName = {1: 'first', 2: 'second', 3: 'third', 4: 'fourth', 5: 'f
 currentDayOfWeekName = {0: 'Monday', 1: 'Tuesday', 2: 'Wednesday', 3: 'Thursday', 4: 'Friday', 5: 'Saturday', 6: 'Sunday'}[datetime.date.today().weekday()]
 
 # TODO: testing
-# currentDayOfMonthIndex = 31
+# currentDayOfMonthIndex = 28
 
 participants = ParticipantCollection()
 initialNumber = participants.size()
@@ -46,23 +47,19 @@ def templateForTooEarly():
 
 def templateForFirstSignupDay():
     answer = ""
-    answer += "STAY CLEAN _YEAR_ FULL-YEAR CHALLENGE!  Sign up here!  (CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX)\n"
-    answer += "Our monthly Stay Clean challenges are quite popular; people seem to like them and benefit from them.  Of course we will continue those monthly challenges, but for the third year in a row, we will be hosting a FULL-YEAR challenge! The challenge will run for the entire year, and on December 31, _YEAR_, an elite group of victorious participants will have earned some serious bragging rights!\n"
+    answer += "STAY CLEAN UPPERCASE_MONTH!  Sign up here!  (CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX)\n"
+    answer += "Hey everybody, we had a great turnout for [Stay Clean CURRENT_MONTH_NAME](CURRENT_MONTH_URL) - let's see if we can knock it out of the park for NEXT_MONTH_NAME.  Have you been clean for the month of CURRENT_MONTH_NAME?  Great!  Join us here, and let's keep our streak going.  Did you slip in CURRENT_MONTH_NAME?  Then NEXT_MONTH_NAME is your month to shine, and we will gladly fight the good fight along with you.  Did you miss out on the CURRENT_MONTH_NAME challenge?  Well then here is your opportunity to join us.\n"
     answer += "\n"
-    answer += "If you're ready to step it up a notch, sign up for this year-long challenge by leaving a brief comment to this thread.  After midnight, NEXT_MONTH_NAME 1, the sign up window will close, and the challenge will begin.\n"
-    answer += "\n"
-    answer += "**Please note** that signing up here will NOT automatically sign you up for the Stay Clean January _YEAR_ monthly challenge, and you'll want to sign up for that too.  [To sign up for that, go here](https://www.reddit.com/r/pornfree/comments/7merw9/stay_clean_january_sign_up_here_december_27/)\n"
+    answer += "If you would like to be included in this challenge, please post a brief comment to this thread, and I will include you.  After midnight, NEXT_MONTH_NAME 1, the sign up window will close, and the challenge will begin."
     return answer
 
 
 def templateForMiddleSignupDays():
     answer = ""
-    answer += "STAY CLEAN _YEAR_ FULL-YEAR CHALLENGE!  Sign up here!  (CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX)\n"
-    answer += "Hey everybody, so far **INITIAL_NUMBER participants** have signed up for our Stay Clean _YEAR_ full-year challenge.  Think you're ready to go an entire year without porn?  I know that together, we can do it, so sign up today!\n"
+    answer += "STAY CLEAN UPPERCASE_MONTH!  Sign up here!  (CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX)\n"
+    answer += "Hey everybody, so far **INITIAL_NUMBER participants** have signed up.  Have you been clean for **[the month of CURRENT_MONTH_NAME](CURRENT_MONTH_URL)**?  Great!  Join us here, and let's keep our streak going.  Did you slip in CURRENT_MONTH_NAME?  Then NEXT_MONTH_NAME is your month to shine, and we will gladly fight the good fight along with you.  Did you miss out on the CURRENT_MONTH_NAME challenge?  Well then here is your opportunity to join us.\n"
     answer += "\n"
     answer += "If you would like to be included in this challenge, please post a brief comment to this thread (if you haven't already done so on an earlier signup thread), and I will include you.  After midnight, NEXT_MONTH_NAME 1, the sign up window will close, and the challenge will begin.\n"
-    answer += "\n"
-    answer += "**Please note** that signing up here will NOT automatically sign you up for the Stay Clean January _YEAR_ monthly challenge, and you'll want to sign up for that too.  [To sign up for that, go here](https://www.reddit.com/r/pornfree/comments/7merw9/stay_clean_january_sign_up_here_december_27/)\n"
     answer += "\n"
     answer += templateForParticipants()
     return answer
@@ -70,19 +67,15 @@ def templateForMiddleSignupDays():
 
 def templateForLastSignupDay():
     answer = ""
-    answer += "LAST CHANCE TO SIGN UP FOR STAY CLEAN _YEAR_ FULL-YEAR CHALLENGE!  Sign up here!\n"
-    answer += "The Stay Clean _YEAR_ full-year challenge **begins tomorrow**!  So far, we have **INITIAL_NUMBER participants** signed up.  To paraphrase John F. Kennedy:  \"We choose to quit porn, not because it is easy, but because it is hard\".  I know that together, we are up to this challenge, so sign up today!\n"
-    answer += "\n"
-    answer += "If you would like to be included in the challenge, please post a brief comment to this thread (if you haven't already done so on an earlier signup thread), and we will include you.  After midnight tonight, we will not be accepting any more participants.  I will create the official update post tomorrow.\n"
-    answer += "\n"
-    answer += "**Please note** that signing up here will NOT automatically sign you up for the Stay Clean January _YEAR_ monthly challenge, and you'll want to sign up for that too.  [To sign up for that, go here](https://www.reddit.com/r/pornfree/comments/7merw9/stay_clean_january_sign_up_here_december_27/)\n"
+    answer += "LAST CHANCE TO SIGN UP FOR STAY CLEAN UPPERCASE_MONTH!  Sign up here!\n"
+    answer += "The Stay Clean NEXT_MONTH_NAME challenge **begins tomorrow**!  So far, we have **INITIAL_NUMBER participants** signed up.  If you would like to be included in the challenge, please post a brief comment to this thread (if you haven't already done so on an earlier signup thread), and we will include you.  After midnight tonight, we will not be accepting any more participants.  I will create the official update post tomorrow.\n"
     answer += "\n"
     answer += templateForParticipants()
     return answer
 
 
 def templateToUse():
-    if (currentMonthIndex < 12) or (currentDayOfMonthIndex <= (currentMonthTotalDays - 7)):
+    if currentDayOfMonthIndex <= (currentMonthTotalDays - 7):
         return templateForTooEarly()
     elif currentDayOfMonthIndex == (currentMonthTotalDays - 6):
         return templateForFirstSignupDay()
@@ -99,13 +92,13 @@ def stringToPrint():
     answer = re.sub('CURRENT_MONTH_TOTAL_DAYS', str(currentMonthTotalDays), answer)
     answer = re.sub('CURRENT_MONTH_PENULTIMATE_DAY_INDEX', str(currentMonthPenultimateDayIndex), answer)
     answer = re.sub('CURRENT_MONTH_NAME', currentMonthName, answer)
+    answer = re.sub('CURRENT_MONTH_URL', currentMonthURL, answer)
     answer = re.sub('NEXT_MONTH_INDEX', str(nextMonthIndex), answer)
     answer = re.sub('NEXT_MONTH_NAME', nextMonthName, answer)
     answer = re.sub('CURRENT_DAY_OF_MONTH_INDEX', str(currentDayOfMonthIndex), answer)
     answer = re.sub('CURRENT_DAY_OF_MONTH_NAME', currentDayOfMonthName, answer)
     answer = re.sub('CURRENT_DAY_OF_WEEK_NAME', currentDayOfWeekName, answer)
     answer = re.sub('UPPERCASE_MONTH', uppercaseMonth, answer)
-    answer = re.sub('_YEAR_', str(year), answer)
     return answer
 
 

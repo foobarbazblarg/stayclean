@@ -25,10 +25,10 @@ sys.setdefaultencoding('utf8')
 
 
 # Edit Me!
-challengePageSubmissionId = '7ndnfs'
-flaskport = 8998
-thisMonthName = "January"
-nextMonthName = "February"
+challengePageSubmissionId = '(edit)'
+flaskport = 8996
+thisMonthName = "February"
+nextMonthName = "March"
 readAllCommentsWhichCanBeSlower = False
 
 sorryTooLateToSignUpReplyText = "Sorry, but the late signup grace period for " + thisMonthName + " is over, so you can't officially join this challenge.  But feel free to follow along anyway, and comment all you want.  And be sure to join us for the " + nextMonthName + " challenge.  Signup posts for " + nextMonthName + " will begin during the last week of " + thisMonthName + "."
