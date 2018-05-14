@@ -131,7 +131,7 @@ FlashF0x False True
 Fonzyy510 False True
 foobarbazblarg True True
 Fortitude_Resolve True True
-freefin False True
+freefin True True
 freefromaddiction172 False True
 freehub False True
 Furpy False True
@@ -184,7 +184,7 @@ jdogworld True False 2018.05.10
 JeffersonSales True False 2018.05.05
 jhco False True
 jive89 False True
-joeismyname1 True True
+joeismyname1 True False 2018.05.13
 johnrohnson True True
 jonman512 False True
 JuanCenaTheSecond False False 2018.05.11
@@ -249,7 +249,7 @@ Nexilo False True
 Nie200 True True
 nofapalot True True
 nofapmonster1 True True
-nopo443 False True
+nopo443 True True
 notearlhickey True True
 notenoughcharac True True
 NotTheRealPrince False True
@@ -395,7 +395,7 @@ ultrab1ue True True
 UncanniestDanny False True
 UnconstrictedEmu False True
 uniqueusernamex112 True True
-universe_atomically False True
+universe_atomically False False 2018.05.14
 unkown481 False True
 UnleashTheWolf True True
 upepo False True
