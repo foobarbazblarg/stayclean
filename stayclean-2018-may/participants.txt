@@ -31,7 +31,7 @@ ankurash False True
 Anonymous884422 True False 2018.05.08
 anubhav23 True False 2018.05.07
 Aramirez1996 False True
-ArcherServant True True
+ArcherServant True False 2018.05.15
 Archimbold False False 2018.05.02
 armchairjedi66 True True
 ash_leeeeel False True
@@ -76,7 +76,7 @@ cherkie True True
 chrizzz98 False True
 Claireah True True
 CleanAndSober100 False False 2018.05.07
-CoA90 True True
+CoA90 True False 2018.05.14
 Cobrastrike34 True True
 commongreenfrog False True
 ComoSwimmer False True
@@ -109,7 +109,7 @@ dzvalentino True True
 dzynerr True True
 earthenmeatbag False True
 EastCoastStonecutter True True
-Ednerrd False True
+Ednerrd True True
 ekilla777 False True
 Elchivato80 False True
 eldirka True True
@@ -227,7 +227,7 @@ MexicanWaterMoccasin True True
 michaeltf True True
 MightyAslan True True
 MisterMagorium False False 2018.05.10
-mizustyle False True
+mizustyle True True
 MonoInquisidoro False False 2018.05.02
 MoonwalkothePenguins False True
 Morpholin True True
@@ -245,7 +245,7 @@ nepstercg True True
 Neverquit2107 True True
 newnet07 True True
 newsboy_cap True False 2018.05.10
-Nexilo False True
+Nexilo False False 2018.05.14
 Nie200 True True
 nofapalot True True
 nofapmonster1 True True
@@ -259,7 +259,7 @@ OneSixTwoer True True
 OnlyRealWhenShared_ True True
 OpenStrategy0 True True
 OrangeJews42 False True
-Orksdabestanyway False True
+Orksdabestanyway True True
 Orsiun False True
 Overjay False False 2018.05.03
 paamithoved False True
@@ -269,7 +269,7 @@ Pandaanders True True
 Parataze True True
 PartierMinisterTorqu False False 2018.05.06
 pearljammy False True
-pellucidliving True True
+pellucidliving True False 2018.05.14
 Piebeeallin False True
 pizzafapper True True
 plasm False True
@@ -396,7 +396,7 @@ UncanniestDanny False True
 UnconstrictedEmu False True
 uniqueusernamex112 True True
 universe_atomically False False 2018.05.14
-unkown481 False True
+unkown481 False False 2018.05.14
 UnleashTheWolf True True
 upepo False True
 urbanburban False True
@@ -419,7 +419,7 @@ whateverbuddy True False 2018.05.10
 WhatInTarnationing False False 2018.05.01
 Whoomi93 True True
 Wing_The_King True False 2018.05.06
-wolfdominic True True
+wolfdominic True False 2018.05.16
 Wusslingurra True True
 XeliasAD True True
 XTutankhamen False True

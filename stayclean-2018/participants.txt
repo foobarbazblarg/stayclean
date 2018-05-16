@@ -193,10 +193,10 @@ darockcookswithspice True False 2018.02.19
 dausoi False True
 david_seah False False
 DayCounterK False False
-DcCaps False True
+DcCaps True True
 dcfyj True True
 Deaf719wow False False
-deathinacandle True True
+deathinacandle True False 2018.05.14
 DeathlessPath True True
 Deepndforest False True
 deepthoughts02 False False
