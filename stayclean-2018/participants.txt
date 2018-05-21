@@ -8,7 +8,7 @@
 2017_is_the_year False False
 201820182018 False True
 2018improvement False False
-29746816 False True
+29746816 True True
 3g0ras False False
 4ho False False
 5p00nman False False
@@ -190,7 +190,7 @@ DanMusicMan False False 2018.01.31
 DannyFandango False False
 danthefave True False 2018.03.25
 darockcookswithspice True False 2018.02.19
-dausoi False True
+dausoi True True
 david_seah False False
 DayCounterK False False
 DcCaps True True
@@ -764,7 +764,7 @@ Turion17 False False
 TurtleShield555 False False
 Tuulani False False
 tvjs2 True False 2018.01.06
-twinpinesmall115 False True
+twinpinesmall115 True True
 tyros False False
 u652e False False
 Ufgood True False 2018.01.10
