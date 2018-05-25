@@ -2,9 +2,9 @@
 -PmMeImLonely- True True
 1234g689 False False
 1blessedguy True True
-1o9qjyucv4vcc9lr80cy False True
+1o9qjyucv4vcc9lr80cy True True
 4ho False False
-4of4 False True
+4of4 True True
 76chubby True True
 84-03 False False
 _beandog_ False True
@@ -83,10 +83,10 @@ ComoSwimmer False False
 Competitive_Chicken True False 2018.05.07
 ComradeNapoleon_ False False 2018.05.03
 Connie2k17 False False
-contravolta True True
+contravolta True False 2018.05.24
 CptButtchin False False 2018.05.08
 crack_lover False False 2018.05.18
-cun2nn2n False True
+cun2nn2n True True
 curious_crusader False False
 CurvingDive True True
 dadjokes_bot False False
@@ -98,7 +98,7 @@ Diesel_C True True
 diljitasi False False
 disturbed_20 False True
 diverloangel4 False False
-doit4her17 False True
+doit4her17 True True
 DooYouWannaKnow False False
 Dorance True True
 DRUNKEN__M0NKEY True False 2018.05.06
@@ -109,7 +109,7 @@ dzvalentino False True
 dzynerr False True
 earthenmeatbag False False
 EastCoastStonecutter True True
-Ednerrd False True
+Ednerrd True True
 ekilla777 False False
 Elchivato80 False False
 eldirka False True
@@ -131,7 +131,7 @@ FlashF0x False False
 Fonzyy510 False False
 foobarbazblarg False True
 Fortitude_Resolve False True
-freefin False True
+freefin False False 2018.05.21
 freefromaddiction172 False False
 freehub False False
 Furpy False False
@@ -177,7 +177,7 @@ IWillBecauseIcan98 False False
 iWolf_ False False 2018.05.08
 janeives011 False True
 jaybird74 False False
-JAYC1979 False True
+JAYC1979 False False 2018.05.24
 JazzInMaPants False True
 jc474747 False False
 jdogworld True False 2018.05.10
@@ -195,7 +195,7 @@ Keeper_of_Groove True True
 khalidmamdou7 True False 2018.05.08
 Kingdom_will_come False True
 KnightRider117 False False
-konall012 False True
+konall012 True True
 kosenSC True False 2018.05.08
 Kurush559 False False
 kwood01 False False
@@ -211,7 +211,7 @@ LittleBigGrower False True
 lock_that_door True True
 lolstudent True True
 lucky_pupil True True
-lundquic True True
+lundquic True False 2018.05.24
 Lurchknochen False True
 m3alim True True
 Maake11 False False
@@ -265,7 +265,7 @@ Overjay False False 2018.05.03
 paamithoved False False
 PAKISTANIRAMBO False False
 pamu23 False False
-Pandaanders False True
+Pandaanders True True
 Parataze True True
 PartierMinisterTorqu False False 2018.05.06
 pearljammy False False
@@ -288,12 +288,12 @@ pubgandbaseball False False
 PUNiest True False 2018.05.06
 purushothamkvn False False
 quraiibr000 False False
-raavee7 False True
+raavee7 False False 2018.05.23
 raghiid False True
 Rajkother False False
 RattlebrainedAertex False False
 RealBigChief False False
-rebootingthrow False True
+rebootingthrow False False 2018.05.22
 redditer1710 False False 2018.05.05
 reddittuser425 True True
 redome51 False True
@@ -318,7 +318,7 @@ sdo6 False False
 seatint True False 2018.05.09
 sedatedalchemist False True
 Selcum False False
-Seratio False True
+Seratio True True
 SerpyDigPauce True True
 SGTFURY67 False False
 shadowgun190 False False
@@ -326,7 +326,7 @@ Shogil False False
 shortyafter False True
 Shutup_Baby_I_knowit True False 2018.05.08
 silvernikki False False
-Sir0Donnis False True
+Sir0Donnis False False 2018.05.22
 Skadovsk False False 2018.05.08
 Skaterdreww False False
 skinnahbox False False 2018.05.09
@@ -334,9 +334,9 @@ skumasio False True
 SlowMoNinja94 True False 2018.05.06
 Smallzfry False False
 sosexxx92 False True
-Space_Jamm89 False True
+Space_Jamm89 True True
 SpiralingNacho False False
-SpiritualSobriety True True
+SpiritualSobriety True False 2018.05.21
 squishily_romantic False False
 Star3ts False False
 starting-now False False
@@ -369,7 +369,7 @@ themk1 False False 2018.05.04
 TheNewMe27 False False
 therealmasen False False
 thescreampainting False True
-thing99 False True
+thing99 True True
 this_sloth False True
 Thoomas39 False False
 throwaway07191984 False False 2018.05.18
@@ -378,8 +378,8 @@ throwawayforbode False False 2018.05.12
 throwmeaway10203040 False True
 time2chage False False
 timtam011 True True
-tlantan False True
-ToughDescription False True
+tlantan True True
+ToughDescription False False 2018.05.21
 tr4nsformRN False False
 trevortackyl False False
 triggdu False True
@@ -391,7 +391,7 @@ tuscon646 True False 2018.05.08
 Tuulani False False
 type556R False True
 uiem5_bJRLM False False
-ultrab1ue False True
+ultrab1ue True True
 UncanniestDanny False False
 UnconstrictedEmu True False
 uniqueusernamex112 False True
@@ -424,9 +424,9 @@ Wusslingurra True True
 XeliasAD False True
 XTutankhamen False False
 y0josh False False
-YesReboot False True
+YesReboot True True
 Yogibhatt False True
-ZapHasselhoff False True
+ZapHasselhoff True True
 Zodmars False False
 zonaji False False 2018.05.05
 zuckduck False True

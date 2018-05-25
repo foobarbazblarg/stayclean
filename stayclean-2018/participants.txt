@@ -6,7 +6,7 @@
 1Takk2takk False False
 2009altima False False
 2017_is_the_year False False
-201820182018 False True
+201820182018 True True
 2018improvement False False
 29746816 True True
 3g0ras False False
@@ -57,8 +57,8 @@ AmbientAvacado False False
 AmbitiousLusus True False 2018.03.22
 amoretpax199 False False
 Andevin True False 2018.01.13
-AngryBehindTheKeys False True
-anonarwhal False True
+AngryBehindTheKeys True True
+anonarwhal True True
 anonun01 False False
 anonx93 False False
 anonycoffee False False
@@ -413,7 +413,7 @@ Leoisretarded False False
 Leusic False False
 Light_Gman False False
 Lighthouse25 True False 2018.01.08
-LinIsHere False True
+LinIsHere True True
 liquoriceBeard False False
 Liviul False False
 llRusty False False
@@ -481,7 +481,7 @@ mybachhurts False False
 MyCatCantBeBothered False False
 myCQI True False 2018.03.08
 n_unjum True False 2018.01.09
-Naaadams False True
+Naaadams True True
 Nachobel1 False False
 narcissisticnecrosis False False
 NCC1701G True True
@@ -596,7 +596,7 @@ R00tm0nk False False
 r1chard_93 False False
 raffozeta False False
 rahulshinde235 False False
-Rapolus False True
+Rapolus True True
 rascon_8 False False
 RattlebrainedAertex True False 2018.02.18
 RazeDave False False
@@ -770,7 +770,7 @@ u652e False False
 Ufgood True False 2018.01.10
 uncle_neb_ False False
 UnconstrictedEmu False False
-undeadcress False True
+undeadcress False False 2018.05.24
 underfunded_nucleon False False
 Unit145 False False
 universe_atomically True False 2018.04.14
