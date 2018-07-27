@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
 import subprocess
-import datetime
 import praw
+import datetime
 import pyperclip
 from hashlib import sha1
 from flask import Flask
@@ -24,13 +24,14 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 
 
-# Edit me!
-# challengePageSubmissionId = '7ndnzq'
-challengePageSubmissionId = '8vwbnm'
-flaskport = 8999
+# Edit Me!
+challengePageSubmissionId = '8ve7vp'
+flaskport = 8986
+thisMonthName = "July"
+nextMonthName = "August"
 readAllCommentsWhichCanBeSlower = False
 
-sorryTooLateToSignUpReplyText = "Sorry, but the late signup grace period is over, so you can't officially join this challenge.  But feel free to follow along anyway, and comment all you want."
+sorryTooLateToSignUpReplyText = "Sorry, but the late signup grace period for " + thisMonthName + " is over, so you can't officially join this challenge.  But feel free to follow along anyway, and comment all you want.  And be sure to join us for the " + nextMonthName + " challenge.  Signup posts for " + nextMonthName + " will begin during the last week of " + thisMonthName + "."
 reinstatedReplyText = "OK, I've reinstated you.  You should start showing up on the list again starting tomorrow."
 
 app = Flask(__name__)
@@ -90,11 +91,10 @@ def retiredCommentHashes():
 
 @app.route('/moderatechallenge.html')
 def moderatechallenge():
+    currentDayOfMonthIndex = datetime.date.today().day
+    lateCheckinGracePeriodIsInEffect = currentDayOfMonthIndex <= 3
     global commentHashesAndComments
     global submission
-    currentDayOfMonthIndex = datetime.date.today().day
-    currentMonthIndex = datetime.date.today().month
-    lateCheckinGracePeriodIsInEffect = currentDayOfMonthIndex <= 14 and currentMonthIndex == 1
     commentHashesAndComments = {}
     stringio = StringIO()
     stringio.write('<html>\n<head>\n</head>\n\n')
@@ -114,6 +114,9 @@ def moderatechallenge():
     stringio.write('<form action="copydisplaytoclipboard.html" method="post" target="invisibleiframe">')
     stringio.write('<input type="submit" name="actiontotake" value="Copy display.py stdout to clipboard">')
     stringio.write('<input type="submit" name="actiontotake" value="Automatically post display.py stdout">')
+    stringio.write('</form>')
+    stringio.write('<form action="updategooglechart.html" method="post" target="invisibleiframe">')
+    stringio.write('<input type="submit" value="update-google-chart.py">')
     stringio.write('</form>')
     for comment in flat_comments:
         # print comment.is_root
@@ -148,17 +151,12 @@ def moderatechallenge():
             else:
                 stringio.write(' <small><font color="red">(not a member)</font></small>')
             stringio.write('<form action="takeaction.html" method="post" target="invisibleiframe">')
-
-            # stringio.write('<input type="submit" name="actiontotake" value="Checkin" style="color:white;background-color:green">')
-            # stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin">')
-
             if lateCheckinGracePeriodIsInEffect:
                 stringio.write('<input type="submit" name="actiontotake" value="Checkin">')
                 stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin" style="color:white;background-color:green">')
             else:
                 stringio.write('<input type="submit" name="actiontotake" value="Checkin" style="color:white;background-color:green">')
                 stringio.write('<input type="submit" name="actiontotake" value="Signup and checkin">')
-
             stringio.write('<input type="submit" name="actiontotake" value="Relapse" style="color:white;background-color:red">')
             stringio.write('<input type="submit" name="actiontotake" value="Reinstate with automatic comment">')
             stringio.write('<input type="submit" name="actiontotake" value="Reply with sorry-too-late comment">')
@@ -230,6 +228,13 @@ def copydisplaytoclipboard():
         subprocess.call(['./display.py'])
         submissionText = pyperclip.paste()
         submission.edit(submissionText)
+    return Response("hello", mimetype='text/html')
+
+
+@app.route('/updategooglechart.html', methods=["POST"])
+def updategooglechart():
+    print "TODO: Copy display to clipboard"
+    subprocess.call(['./update-google-chart.py'])
     return Response("hello", mimetype='text/html')
 
 
