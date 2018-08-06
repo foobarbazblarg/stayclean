@@ -25,7 +25,7 @@ sys.setdefaultencoding('utf8')
 
 
 # Edit Me!
-challengePageSubmissionId = '(edit)'
+challengePageSubmissionId = '93o4s5'
 flaskport = 8984
 thisMonthName = "August"
 nextMonthName = "September"
