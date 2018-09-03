@@ -1,4 +1,4 @@
--ankylos- True True
+-ankylos- False True
 -awoke- False False
 123-581-1321 False False
 1234g689 False False
@@ -8,14 +8,14 @@
 2017_is_the_year False False
 201820182018 False True
 2018improvement False False
-29746816 False True
+29746816 True True
 3g0ras False False
 4ho False False
 5p00nman False False
 6tris False False
 8HcT False False
 _beandog_ False False
-_beastmode13_ True True
+_beastmode13_ False True
 _Invented_ False False
 _lennart_ False False
 _Saitama False False
@@ -58,7 +58,7 @@ AmbitiousLusus True False 2018.03.22
 amoretpax199 False False
 Andevin True False 2018.01.13
 AngryBehindTheKeys False False
-anonarwhal False False
+anonarwhal False True
 anonun01 False False
 anonx93 False False
 anonycoffee False False
@@ -66,7 +66,7 @@ anshul_srivas True False 2018.01.04
 AnthMaster7 True False 2018.01.19
 antidarkfapper False False
 antimatter_vt False False
-ApexOfManhood True True
+ApexOfManhood False True
 APN98 False False
 ArcherServant False False 2018.02.04
 ARenaissancePeriod False False
@@ -369,7 +369,7 @@ joeblowkokomo False False
 joeyjoey31 False False
 john456r False False
 johnlucier1978 False False
-johnrohnson True True
+johnrohnson False True
 Johnwickery False False
 Jonez0122804 False False
 jrdanXX False False
@@ -443,7 +443,7 @@ mandogpig False False
 mangywolf True False 2018.01.25
 manvendrasingh1 True False 2018.01.08
 Marugi False False
-Masteroid1 True True
+Masteroid1 False True
 mattattack3000 False False
 Matthew19941 True False 2018.03.22
 mattjnwny False False
@@ -457,7 +457,7 @@ MediocreBegonia False False
 Meerkatrat False False
 michellc67 False False
 MidnightPapi False False
-MightyAslan True True
+MightyAslan False True
 Mikaeld False False
 mikecm1987 False False
 miles9x False False
@@ -481,10 +481,10 @@ mybachhurts False False
 MyCatCantBeBothered False False
 myCQI True False 2018.03.08
 n_unjum True False 2018.01.09
-Naaadams False True
+Naaadams False False
 Nachobel1 False False
 narcissisticnecrosis False False
-NCC1701G True True
+NCC1701G False True
 ne6_slim False False
 Neddard_Starkk False False
 Need_help666 False False
@@ -506,7 +506,7 @@ nfnoob12517 False False
 nfp2k18 False False
 nfthrowaway3 False False
 Ngtaibas False False
-Nie200 True True
+Nie200 False True
 nightfurybeast False False
 nikmaxott False False
 nimpwimp False False
@@ -548,7 +548,7 @@ OscuroGG False False
 Osoch False False
 pablo8744 False False
 paolomilan False False
-Parataze True True
+Parataze False True
 ParrotfishAreDope False False
 PartierMinisterTorqu False False 2018.01.04
 paulvvh False False
@@ -666,7 +666,7 @@ sixpiecechickenugget False True
 Skadovsk True False 2018.01.24
 Skeleton1375 False False
 skinnahbox True False 2018.01.27
-skumasio False True
+skumasio True True
 skyrimShepherd False False
 slackadactyl False False
 slamdunktiger86 False False
@@ -698,7 +698,7 @@ struggletobebetter False False
 successD True False 2018.01.13
 Successful14 False False 2018.01.05
 supermonkeyguts False False
-SuperTrapper148 True True
+SuperTrapper148 False True
 Supportang False False
 Swagblu False False
 sXe4Life False False
