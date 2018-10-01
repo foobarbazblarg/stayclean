@@ -8,7 +8,7 @@
 2017_is_the_year False False
 201820182018 False True
 2018improvement False False
-29746816 True True
+29746816 False True
 3g0ras False False
 4ho False False
 5p00nman False False
@@ -48,7 +48,7 @@ Alex_Collins False False
 alexhwvey False False
 alfredQuack False False
 alingpantea False False
-AllHailSeizure True True
+AllHailSeizure False True
 alm1ghty92 True False 2018.01.07
 AlsatianFan910116 True False 2018.03.25
 am_kc False False
@@ -71,7 +71,7 @@ APN98 False False
 ArcherServant False False 2018.02.04
 ARenaissancePeriod False False
 ArielRuiz False False
-arrogoth True True
+arrogoth False True
 Asher0315 False False
 aspiringmaga False False
 Astronaut95 False False
@@ -148,7 +148,7 @@ Cathouge False False
 Cdash88 False False
 ChaleBoy False False
 Champion_warrior False False
-cherkie True True
+cherkie False True
 Chief32 False False
 chiefstink False False
 chillaxbro2 False False
@@ -252,7 +252,7 @@ Fikre_25 False False
 fill38dob False False
 FineappleFilms True False 2018.01.20
 firestormdeathtrap False False
-FirstMartian False False
+FirstMartian False True
 FloppyDickFingers False False
 foobarbazblarg True False 2018.02.28
 ForesterNL False False
@@ -396,7 +396,7 @@ Koaledo False False
 Kola-Ola True False 2018.01.20
 kpgfisty True False 2018.01.27
 Krisbryanteyes False False
-ksmigrod True True
+ksmigrod False True
 Laetus92 False False
 LambtoLion False True
 LaserV5 True False 2018.01.18
@@ -662,11 +662,11 @@ sikwidit808 False False
 simmons2point0 False False
 SimonPepperoni False False
 Sir_tob False False
-sixpiecechickenugget False True
+sixpiecechickenugget False False
 Skadovsk True False 2018.01.24
 Skeleton1375 False False
 skinnahbox True False 2018.01.27
-skumasio True True
+skumasio False True
 skyrimShepherd False False
 slackadactyl False False
 slamdunktiger86 False False
@@ -764,7 +764,7 @@ Turion17 False False
 TurtleShield555 False False
 Tuulani False False
 tvjs2 True False 2018.01.06
-twinpinesmall115 False True
+twinpinesmall115 False False
 tyros False False
 u652e False False
 Ufgood True False 2018.01.10
@@ -828,7 +828,7 @@ YesReboot True False 2018.02.16
 yololot False False
 youseffahmy False False
 zaggety False False
-ZapHasselhoff True True
+ZapHasselhoff False True
 Zokalwe False False
 zweiundsiebzig True False 2018.01.27
 zzStickszz False False
