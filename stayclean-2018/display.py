@@ -8,7 +8,7 @@ import time
 import pyperclip
 
 # EDIT ME!
-currentMonthTotalDays = 30
+currentMonthTotalDays = 31
 year = 2018
 
 currentMonthIndex = datetime.date.today().month
