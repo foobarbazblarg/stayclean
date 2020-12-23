@@ -12,7 +12,7 @@
 201820182018 True False
 2019- False False
 2019-free True False 2019.01.09
-2019_my_year False True
+2019_my_year True True
 2muchcaffeine False False
 37_7834 False False
 4NaYU9myqRBno9yf False False
@@ -431,7 +431,7 @@ JGHipp False False
 JillianBarbery False False
 JimmySaulGene True False 2019.01.21
 JirreH False False
-jmanxtreem False True
+jmanxtreem True True
 jmweneni True False 2019.01.30
 job_andersson False False
 JoeBidensToiletSeat False False 2019.02.09
@@ -528,7 +528,7 @@ Majorbolo False False
 Malannama False False 2019.03.07
 mandogpig True True
 manicdebttreble True False 2019.01.13
-ManOfSteelI False True
+ManOfSteelI True True
 Manoodle94 False False
 maplemotorsports False False
 MariusPetipa True True
@@ -624,7 +624,7 @@ oobnate True False 2019.01.12
 Oogway_Watts False False
 OpeningBitBet False False
 Orangecrushcity False False
-Oso_serwy False True
+Oso_serwy True True
 Oszkar93 False False 2019.01.07
 OTH4 False False
 Oublius False False
@@ -785,7 +785,7 @@ spy_noob False False
 spymole False False
 srznl False False
 starlancer21 False False
-steakobsen True True
+steakobsen True False 2019.12.24
 Steele_Shield True False 2019.01.05
 Sterracks False False
 stiggsz False False
