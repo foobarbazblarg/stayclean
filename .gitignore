@@ -2,7 +2,10 @@ reddit-oauth-credentials.cfg
 reddit-password-credentials.cfg
 problematic-users.cfg
 interesting-users.cfg
+.DS_Store
 **/.idea
+**/venv
+**/.DS_Store
 **/.vscode
 # **/update-google-chart.py
 **/update-google-chart.py.BACKUP

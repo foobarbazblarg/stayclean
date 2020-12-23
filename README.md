@@ -93,19 +93,21 @@ Let's go through an example.  For our example, we will manage the monthly challe
 - **On any day before January 25** - We need to prepare the stayclean subdirectory for February.
     - In a terminal, cd to the stayclean directory, and then use _cp -a stayclean-2016-january stayclean-2016-february_ to recursively copy january's directory to a new directory for february.
     - _cd stayclean-2016-february_
-    - Make a new participants.txt file by rm'ing the existing one and then executing _touch participants.txt_
-    - Make a new retiredcommenthashes.txt file by rm'ing the existing one and then executing _touch retiredcommenthashes.txt_
+    - Make new participants.txt and retiredcommenthashes.txt files by rm'ing the existing ones and then touching the filenames: 
+        - _rm participants.txt retiredcommenthashes.txt ; touch participants.txt retiredcommenthashes.txt_
     - Immediately sign yourself in by executing _./signup.py foobarbazblarg_
-    - Several of the python scripts have variables that need to be edited for the new month.  Do a text search for _"Edit Me"_, and edit the variables, which should hopefully be self-explanatory or commented.
-        - Please note that for the _challengePageSubmissionId_ variable in **serve-challenge-with-flask.py**, and the _nextMonthURL_ variable in **display-final-after-month-is-over.py**, you will not yet know the submission ID for the February challenge page.  Just leave it as the empty string or something for now - we will fill it in on Febrary 1.
-    - In preparation for the one-week signup window, start up in a terminal tab, the script that serves with Flask the signup webapp:  _cd ~/stayclean/stayclean-2016-february ; ./serve-signups-with-flask.py_
+    - The **editme.py** file has many settings that change from month to month.  Hopefully, those settings are self-explanatory.  Edit that file appropriately.
+        - Please note that for the _challengePageSubmissionId_ and _nextMonthURL_ variables, you will not yet know the submission ID for the February challenge page.  Just leave it as the empty string or something for now - we will fill it in on Febrary 1.
+    - In preparation for the one-week signup window, perform these steps in a terminal:
+        - Configure the pipenv:  _./install-pipenv-requirements.sh_
+        - start up in a terminal tab, the script that serves with Flask the signup webapp:  _cd ~/stayclean/stayclean-2016-february ; pipenv run ./serve-signups-with-flask.py_
 - **On the mornings of January 25-January 31** - In addition to managing the January challenge as usual, we post daily February challenge signup posts.
     - Follow the "January 4-15" directions as usual, to manage the January challenge.
-    - When you created and initialized the stayclean-2016-february directory (detailed above), you should have started the signup webapp by executing _cd ~/stayclean/stayclean-2016-february ; ./serve-signups-with-flask.py_.  If not, do that now, and leave it running.
+    - When you created and initialized the stayclean-2016-february directory (detailed above), you should have started the signup webapp by executing _cd ~/stayclean/stayclean-2016-february ; pipenv run ./serve-signups-with-flask.py_.  If not, do that now, and leave it running.
     - Bring up the signup webapp by opening _http://127.0.0.1:8890/moderatesignups.html_ in a web browser tab.  Process any signup requests that may have come in, by clicking the _Signup_ buttons.
     - Click the _Copy display-during-signup.py stdout to clipboard_ button.
     - On the subreddit's page, click _Submit a new text post_ to create a new signup post.  Paste in the text and title of the post, cut the first line (the title) and paste it into the Title field, and then hit submit.
-    - Copy the 6-digit submission id code (e.g. "3v059o") from the post's URL, and add it to the _signupPageSubmissionIds_ array at the top of the **serve-signups-with-flask.py** script.
+    - Copy the 6-digit submission id code (e.g. "3v059o") from the post's URL, and add it to the _signupPageSubmissionIds_ array at the top of the **editme.py** script.
 
 ### Questions?
 For more information, contact foobarbazblarg at gmail.  Keep fighting the good fight!
