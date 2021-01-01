@@ -1,7 +1,7 @@
 # Each day during signups, after you post a signup post, copy its 6-character ID to this array.
-signupPageSubmissionIds = []
+signupPageSubmissionIds = ['kjh767', 'kjz79q', 'kldiwd', 'klpxn4', 'kme32n', 'kn3ld3', 'knoahi']
 signupPageFlaskPort = 8925
-challengePageSubmissionId = '(edit)'
+challengePageSubmissionId = 'koa2w0'
 challengePageFlaskPort = 8924
 thisMonthName = "January"
 nextMonthName = "February"

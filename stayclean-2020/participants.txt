@@ -148,7 +148,7 @@ bleach_is_refreshing False False
 BloodFetish False False
 blue__meanies False False
 blueberrydude5 True False 2020.01.27
-BluesCardsGrizzJags False True
+BluesCardsGrizzJags False False
 BlueScream True False 2020.01.27
 boatboy1800 False False
 brainrekt False False 2020.06.02
@@ -382,7 +382,7 @@ formal_37 False False
 Forsaken-forest True True
 fosh901 False False
 FreedomIsFound21 False False
-FreedomLife23 False True
+FreedomLife23 True True
 french-throwaway21 False False
 FriendlyKale False False
 frobrobaggypants1 False False
@@ -533,7 +533,7 @@ jansvankmajor False False
 jaredhop False False
 jash1191 True False 2020.02.01
 Jaskier_the_bard False False
-Jasonbourneaxis False False
+Jasonbourneaxis True True
 Jatin111 True False 2020.05.29
 JaxMGK False False
 JazzInMaPants True True
@@ -619,7 +619,7 @@ larsoedsted True False 2020.01.05
 latias67 False False
 Laufwerk False False
 lceres6 False False
-le0n21 False True
+le0n21 True True
 Leaflessness72 False False
 LeB_Blood True False 2020.03.29
 left-for-bread False False
@@ -793,7 +793,7 @@ o00800o False False
 Objectiivee True False 2020.01.25
 observerofuniverse False False
 Occult_Calculator False False 2020.01.06
-october_the_2nd False True
+october_the_2nd False False
 OfficerPinklight False False
 ogv11 False False
 Ohh_i_get_it_now False False
@@ -848,7 +848,7 @@ PM_ME_PM_ME_NOT False False
 Pm_me_reality False False
 pmmahajan2019 True True
 pmolikujyhn False False
-polynomials False False
+polynomials True True
 poopey_doopey False False
 PopTheRealGod False False
 Porn_Is_XP_Waste False False
@@ -1078,7 +1078,7 @@ theolympicdream2020 False False
 thepeaceful_warrior False False
 thepersonshedeserves False False
 thesymphonicAp3 False False
-thewaterline False True
+thewaterline True True
 ThinkType True False 2020.02.19
 this-is-big-alt False False
 thisguyhasanopinion False False 2020.01.05
@@ -1164,7 +1164,7 @@ venkateshwar28 False False
 VenuThati False False
 VicDruid99 True False 2020.03.08
 vincentonreddit False False
-vinwin02 False True
+vinwin02 True True
 Viscount_Toboggan False False
 VisualPersona False False
 vittblirsvxrt False False

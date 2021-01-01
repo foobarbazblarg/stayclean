@@ -20,11 +20,9 @@ import importlib
 importlib.reload(sys)
 # sys.setdefaultencoding('utf8')
 
-# Edit Me!
-# Each day after you post a signup post, copy its 6-character ID to this array.
-# signupPageSubmissionIds = [ 'izjagg', 'j070rf', 'j0qocx', 'j1dkhp', 'j1ur27', 'j2lrhy' ]
-# flaskport = 8931
-
+# Edit me!
+signupPageSubmissionIds = editme.signupPageSubmissionIds
+flaskport = editme.signupPageFlaskPort
 
 app = Flask(__name__)
 app.debug = True
@@ -55,7 +53,7 @@ def loginOAuthAndReturnRedditSession():
 
 def getSubmissionsForRedditSession(redditSession):
     # submissions = [redditSession.get_submission(submission_id=submissionId) for submissionId in signupPageSubmissionIds]
-    submissions = [redditSession.submission(id=submissionId) for submissionId in editme.signupPageSubmissionIds]
+    submissions = [redditSession.submission(id=submissionId) for submissionId in signupPageSubmissionIds]
     for submission in submissions:
         submission.comments.replace_more(limit=None)
         # submission.replace_more_comments(limit=None, threshold=0)
@@ -139,7 +137,6 @@ def moderatesignups():
             stringio.write('<input type="hidden" name="commenthash" value="' + commentHash + '">')
             # stringio.write('<input type="hidden" name="commentpermalink" value="' + comment.permalink + '">')
             stringio.write('</form>')
-
             # stringio.write(bleach.clean(markdown.markdown(comment.body.encode('utf-8')), tags=['p']))
             stringio.write(bleach.clean(markdown.markdown(comment.body), tags=['p']))
             stringio.write("\n<br><br>\n\n")
@@ -197,5 +194,5 @@ def copydisplayduringsignuptoclipboard():
 
 
 if __name__ == '__main__':
-    app.run(host='127.0.0.1', port=editme.signupPageFlaskPort)
+    app.run(host='127.0.0.1', port=flaskport)
 

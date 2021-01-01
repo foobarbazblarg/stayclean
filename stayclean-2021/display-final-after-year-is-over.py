@@ -2,10 +2,11 @@
 from participantCollection import ParticipantCollection
 import re
 import pyperclip
+import editme
 
 # Edit me!
-nextYearURL = "https://www.reddit.com/r/pornfree/comments/koa8cv/stay_clean_2021_yearlong_challenge_this_thread/"
-year = 2020
+nextYearURL = editme.nextYearURL
+year = editme.currentYear
 
 
 participants = ParticipantCollection()

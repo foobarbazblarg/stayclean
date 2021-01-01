@@ -9,7 +9,7 @@ readAllCommentsWhichCanBeSlower = False
 currentMonthTotalDays = 31
 previousMonthTotalDays = 30
 previousMonthURL = "https://www.reddit.com/r/pornfree/comments/jm1xis/stay_clean_november_this_thread_updated_daily/"
-nextMonthURL = "(January 2021 url goes here)"
+nextMonthURL = "https://www.reddit.com/r/pornfree/comments/koa2w0/stay_clean_january_this_thread_updated_daily/"
 
 participantFileNames = ['../stayclean-2014-november/participants.txt',
                         '../stayclean-2014-december/participants.txt',

@@ -8,9 +8,9 @@ if __name__ == "__main__":
     participants = ParticipantCollection()
     for name in names:
         if participants.hasParticipantNamed(name):
-            print(f"{name} has already signed up.  Skipping.")
+            print(name + " has already signed up.  Skipping.")
         else:
             participants.addNewParticipantNamed(name)
-            print(f"just added {name}")
+            print("just added " + name)
     participants.save()
 

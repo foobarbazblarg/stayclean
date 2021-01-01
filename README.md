@@ -59,21 +59,26 @@ Once you start the two flask scripts in a month's directory, as described above,
 ### My workflow for managing the StayClean monthly challenges
 Let's go through an example.  For our example, we will manage the monthly challenge for January 2016.
 - **On the morning of January 1** - The first day of the month is by far the most complex day.  Every other day is simple, honest.  We have already been using (during the last week of December) the signup.py script and/or the http://127.0.0.1:8890/moderatesignups.html flask webapp to sign people up (see the _On the mornings of January 25-January 31_ section below for more on that).  I.e. there are already many lines in ~/stayclean/stayclean-2016-january/participants.txt.
+    - Process checkins and relapses on the December webapp one more time.
+    - Use the January signup webapp one more time.
+    - Unsticky and lock the December challenge page.
     - cd to the _~/stayclean/stayclean-2016-january_ directory.
     - In a terminal, execute the **display.py** script, which generates the first day's challenge page text, and copies it to the clipboard.
-    - Bring up a browser on the subreddit, and click "Submit a new text post" to create the challenge post.  Give the new post a title of "STAY CLEAN: JANUARY! This thread updated daily - Check in here!"  Paste the page text into the form and hit Submit.
+    - Bring up a browser on the subreddit, and click "Submit a new text post" to create the challenge post.  Give the new post a title of "STAY CLEAN JANUARY! This thread updated daily - Check in here!"  Paste the page text into the form and hit Submit.
     - Sticky the new post.
-    - Copy the 6-digit submission id code (e.g. "3v059o") from the post's URL, and paste it into the _challengePageSubmissionId_ portion at the top of the **serve-challenge-with-flask.py** script.
+    - Select _set as suggested sort_
+    - Copy the 6-digit submission id code (e.g. "3v059o") from the post's URL, and paste it into the _challengePageSubmissionId_ portion at the top of the **editme.py** script.
     - In a long-running browser tab, open the _http://127.0.0.1:8888/moderatechallenge.html_ flask webapp.  From now on, much of the heavy lifting of managing the monthly challenge can be done from this browser tab.
     - cd to the previous month's directory, e.g. _~/stayclean/stayclean-2015-december_
     - In a terminal, execute the **disqualify-all-not-checked-in.py** script.
-    - Edit the **display-final-after-month-is-over.py** script, and edit the _nextMonthURL_ value at the top of the script, pasting in the URL for the new January thread.
+    - Edit the **editme.py** script, and edit the _nextMonthURL_ value at the top of the script, pasting in the URL for the new January thread.
     - In a terminal, execute the **display-final-after-month-is-over.py** script, which generates and automatically copies to the clipboard the final text for the (now over) previous month's challenge page, e.g. December's challenge page.
     - Edit December's challenge page, and paste in the text.
-    - Un-sticky December's challenge page.
     - In a terminal, execute the **display-congratulations-after-month-is-over.py** script, which generates and automatically copies to the clipboard, text for the previous month's "congratulations to the victors..." post.
     - On the subreddit's page, click _Submit a new text post_ to create the congratulations post.  Paste in the text and title of the post, and hit submit.
-    - For each of the signup pages that we created during the last week of December, edit the pages, with text that indicates that signup is over.  Use those double-tildes to "cross out" much of the original text.
+    - For each of the signup pages that we created during the last week of December, do this:
+        - Lock the page
+        - Edit the page, with text that indicates that signup is over.  Use those double-tildes to "cross out" much of the original text.
 - **On the mornings of January 2-3** - These are the second and third days of our late-signup grace period.
     - Refresh the browser tab that is open to http://127.0.0.1:8888/moderatechallenge.html , and use the submit buttons to _Checkin_, _Signup and Checkin_, and _Relapse_ the users who have posted comments throughout the day.
     - You can do this as many times as you wish throughout the day.

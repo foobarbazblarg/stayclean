@@ -1,13 +1,19 @@
 #!/usr/bin/env python3
 from participantCollection import ParticipantCollection
 import re
+import datetime
 import pyperclip
 
-# Edit me!
-nextYearURL = "https://www.reddit.com/r/pornfree/comments/koa8cv/stay_clean_2021_yearlong_challenge_this_thread/"
-year = 2020
+year = 2016
 
+# If this directory is the directory for November, this script gets run on December 1,
+# and currentMonthIndex gets the index of November, i.e. 11.
+currentMonthIndex = datetime.date.today().month - 1
+if currentMonthIndex == 0:
+    currentMonthIndex = 12
 
+currentMonthName = {1: 'January', 2: 'February', 3: 'March', 4: 'April', 5: 'May', 6: 'June', 7: 'July', 8: 'August', 9: 'September', 10: 'October', 11: 'November', 12: 'December'}[currentMonthIndex]
+uppercaseMonth = currentMonthName.upper()
 participants = ParticipantCollection()
 numberStillIn = participants.sizeOfParticipantsWhoAreStillIn()
 initialNumber = participants.size()
@@ -23,11 +29,8 @@ def templateForParticipants() -> str:
 
 
 def templateToUse() -> str:
-    return f'''The Stay Clean _YEAR_ year-long challenge is now over.  Join us for **[the NEXT_YEAR challenge](NEXT_YEAR_URL)**.
-
-**NUMBER_STILL_IN** out of INITIAL_NUMBER participants made it all the way through the challenge. That's **PERCENT_STILL_IN%**.
-
-Congratulations to these participants, all of whom were victorious:
+    return f'''CONGRATULATIONS TO THE VICTORS OF THE STAY CLEAN _YEAR_ YEAR-LONG CHALLENGE!
+Hey everybody, take a second to post a congratulatory comment to the victors of the Stay Clean _YEAR_ year-long challenge, listed below. **NUMBER_STILL_IN** out of INITIAL_NUMBER original participants made it. that's **PERCENT_STILL_IN%**. Here are our **NUMBER_STILL_IN victors**:
 
 {templateForParticipants()}'''
 
@@ -37,9 +40,10 @@ def stringToPrint() -> str:
     answer = re.sub('NUMBER_STILL_IN', str(numberStillIn), answer)
     answer = re.sub('INITIAL_NUMBER', str(initialNumber), answer)
     answer = re.sub('PERCENT_STILL_IN', str(percentStillIn), answer)
-    answer = re.sub('NEXT_YEAR_URL', nextYearURL, answer)
+    answer = re.sub('CURRENT_MONTH_INDEX', str(currentMonthIndex), answer)
+    answer = re.sub('CURRENT_MONTH_NAME', currentMonthName, answer)
+    answer = re.sub('UPPERCASE_MONTH', uppercaseMonth, answer)
     answer = re.sub('_YEAR_', str(year), answer)
-    answer = re.sub('NEXT_YEAR', str(year + 1), answer)
     return answer
 
 
