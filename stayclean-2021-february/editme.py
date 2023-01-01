@@ -1,7 +1,7 @@
 # Each day during signups, after you post a signup post, copy its 6-character ID to this array.
-signupPageSubmissionIds = ['l4nam4']
+signupPageSubmissionIds = ['l4nam4', 'l5fggk', 'l64z97', 'l6tki8', 'l7svf8', 'l8n0um', 'l9cfwn']
 signupPageFlaskPort = 8923
-challengePageSubmissionId = '(edit)'
+challengePageSubmissionId = 'la327a'
 challengePageFlaskPort = 8922
 thisMonthName = "February"
 nextMonthName = "March"
@@ -9,7 +9,7 @@ readAllCommentsWhichCanBeSlower = False
 currentMonthTotalDays = 28
 previousMonthTotalDays = 31
 previousMonthURL = "https://www.reddit.com/r/pornfree/comments/koa2w0/stay_clean_january_this_thread_updated_daily/"
-nextMonthURL = "(March 2021 url goes here)"
+nextMonthURL = "https://www.reddit.com/r/pornfree/comments/lv95ws/stay_clean_march_this_thread_updated_daily_check/"
 
 participantFileNames = ['../stayclean-2014-november/participants.txt',
                         '../stayclean-2014-december/participants.txt',

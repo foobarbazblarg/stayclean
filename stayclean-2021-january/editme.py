@@ -5,11 +5,11 @@ challengePageSubmissionId = 'koa2w0'
 challengePageFlaskPort = 8924
 thisMonthName = "January"
 nextMonthName = "February"
-readAllCommentsWhichCanBeSlower = False
+readAllCommentsWhichCanBeSlower = True
 currentMonthTotalDays = 31
 previousMonthTotalDays = 31
 previousMonthURL = "https://www.reddit.com/r/pornfree/comments/k4luey/stay_clean_december_this_thread_updated_daily/"
-nextMonthURL = "(February 2021 url goes here)"
+nextMonthURL = "https://www.reddit.com/r/pornfree/comments/la327a/stay_clean_february_this_thread_updated_daily/"
 
 participantFileNames = ['../stayclean-2014-november/participants.txt',
                         '../stayclean-2014-december/participants.txt',

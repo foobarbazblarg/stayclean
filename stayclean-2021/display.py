@@ -222,7 +222,7 @@ def templateForUltimateMinus5toPenultimateDayOfMonth() -> str:
     print("=============================================================")
     return f'''**Daily news:**  This is CURRENT_DAY_OF_WEEK_NAME, CURRENT_MONTH_NAME CURRENT_DAY_OF_MONTH_INDEX, and today is **day CURRENT_DAY_OF_YEAR_INDEX** of the year-long Stay Clean YEAR challenge.  Keep fighting the good fight!
 
-**THE COUNTDOWN: Attention everyone!** You have " + str(currentMonthTotalDays - currentDayOfMonthIndex) + " days to make a checkin comment (if you haven't already done so in CURRENT_MONTH_NAME) to be counted as an active participant! **Otherwise your name will be REMOVED from the list** on CURRENT_MONTH_NAME CURRENT_MONTH_TOTAL_DAYS!!
+**THE COUNTDOWN: Attention everyone!** You have {str(currentMonthTotalDays - currentDayOfMonthIndex)} days to make a checkin comment (if you haven't already done so in CURRENT_MONTH_NAME) to be counted as an active participant! **Otherwise your name will be REMOVED from the list** on CURRENT_MONTH_NAME CURRENT_MONTH_TOTAL_DAYS!!
 
 Guidelines:
 

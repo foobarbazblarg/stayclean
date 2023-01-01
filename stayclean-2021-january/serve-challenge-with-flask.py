@@ -101,6 +101,7 @@ def moderatechallenge():
     redditSession = loginOAuthAndReturnRedditSession()
     submission = getSubmissionForRedditSession(redditSession)
     flat_comments = getCommentsForSubmission(submission)
+    # print(len(flat_comments))
     retiredHashes = retiredCommentHashes()
     i = 1
     stringio.write('<iframe name="invisibleiframe" style="display:none;"></iframe>\n')

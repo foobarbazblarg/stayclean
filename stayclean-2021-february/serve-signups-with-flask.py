@@ -17,6 +17,7 @@ import sys
 from participantCollection import ParticipantCollection
 import importlib
 
+
 importlib.reload(sys)
 # sys.setdefaultencoding('utf8')
 
@@ -148,7 +149,6 @@ def moderatesignups():
     pageString = stringio.getvalue()
     stringio.close()
     return Response(pageString, mimetype='text/html')
-
 
 @app.route('/takeaction.html', methods=["POST"])
 def takeaction():
