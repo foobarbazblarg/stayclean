@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyperclip = "*"
+markdown = "*"
+bleach = "*"
+flask = "*"
+praw = "*"
+praw-oauth2util = "*"
+flynt = "*"
+gspread = "*"
+oauth2client = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"

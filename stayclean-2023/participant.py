@@ -18,6 +18,7 @@ class Participant:
         # name hasCheckedIn isStillIn
         # e.g.:
         # foobarbazblarg True True
+        # print(lineString)
         words = lineString.split()
         self.name = words[0]
         self.hasCheckedIn = words[1] == 'True'

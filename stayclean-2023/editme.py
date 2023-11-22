@@ -1,5 +1,5 @@
 # Each day during signups, after you post a signup post, copy its 6-character ID to this array.
-signupPageSubmissionIds = [ 'zuzxhi', 'zvq0u9', 'zwmbo7', 'zxan51', 'zy5w42', 'zz1nu9', 'zzuzk9' ]
+signupPageSubmissionIds = [ 'zuzxhi', 'zvq0u9', 'zwmbo7', 'zxan51', 'zy5w42', 'zz1nu9', 'zzuzk9', '10q1867' ]
 signupPageFlaskPort = 8940
 # challengePageSubmissionId = 'koa8cv'
 # challengePageSubmissionId = 'rtkjak'
